@@ -1,4 +1,4 @@
-# About attack Trees 
+# About attack trees 
 
 There are DREAD, P.A.S.T.A., STRIDE and VAST methods. Using these makes us thing along structured lines, thinking
 all is covered when we have used it, and confident we are secure. We prefer attack trees because it allows us to 

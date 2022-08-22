@@ -1,4 +1,4 @@
-Green Team
+Threat models
 =========================================
 
 Bottom-up and top-down, with intent of creating human-readable threat modelling examples.

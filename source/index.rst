@@ -30,7 +30,7 @@ processes and humanoid activities and neglect throughout decades.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Contexts
+   :caption: Environments
 
    docs/contexts/*
 

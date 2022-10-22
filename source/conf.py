@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Threat models'
+project = 'Green Team'
 copyright = '2022, Ty Myrddin'
 author = 'Ty Myrddin'
 
@@ -65,7 +65,7 @@ html_theme_options = {
     'titles_only': True
 }
 
-html_title = "Threat models"
+html_title = "Green Team"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 

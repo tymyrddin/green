@@ -1,9 +1,6 @@
 Green Team
 =========================================
 
-.. image:: _static/images/Causality-Consciousness-Choice-and-Trivium.png
-  :alt: Having choices
-
 The green team focuses on the larger environment, both technical and human, on documenting what happens and
 understanding the unseen logic of the forest, bottom-up and top-down, with intent of creating human-readable
 threat modelling, for providing people with choices.

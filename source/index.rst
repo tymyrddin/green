@@ -1,13 +1,20 @@
 Green Team
 =========================================
 
-The green team focuses on the larger environment, both technical and human, on understanding the unseen logic of the
-forest, bottom-up and top-down, with intent of creating human-readable threat modelling examples, for
-providing people with choices.
+.. image:: _static/images/Causality-Consciousness-Choice-and-Trivium.png
+  :alt: Having choices
+
+The green team focuses on the larger environment, both technical and human, on documenting what happens and
+understanding the unseen logic of the forest, bottom-up and top-down, with intent of creating human-readable
+threat modelling, for providing people with choices.
+
+These are some writeups made on our journeys in a digital landscape formed by nature's own
+processes and humanoid activities and neglect throughout decades.
 
 .. toctree::
    :caption: Forest writeups
 
+   Laws of the forest <https://tymyrddin.github.io/>
    De-anonymisation threat model <https://tymyrddin.github.io/da-threat-model/>
    E2EE threat model <https://tymyrddin.github.io/e2ee-threat-model/>
    Search engine threat model <https://tymyrddin.github.io/se-threat-model/>

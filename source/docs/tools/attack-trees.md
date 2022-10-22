@@ -20,4 +20,4 @@ Commercial Tools like SecurITree, AttackTree+ and opensource tools like ADTool, 
 attack trees.
 
 And since this is just about drawing boxes, a drawing tool will do. Also, writing the tree is very common and 
-will suffice. See examples of that in our [attack trees](https://tymyrddin.github.io/attack-trees/).
+will suffice. 

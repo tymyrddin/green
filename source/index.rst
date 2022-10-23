@@ -12,11 +12,11 @@ processes and humanoid activities and neglect throughout decades.
    :caption: Forest writeups
 
    Laws of the forest <https://tymyrddin.github.io/>
-   De-anonymisation threat model <https://tymyrddin.github.io/da-threat-model/>
-   E2EE threat model <https://tymyrddin.github.io/e2ee-threat-model/>
-   Search engine threat model <https://tymyrddin.github.io/se-threat-model/>
-   Making an application threat model <https://tymyrddin.github.io/app-threat-model/>
-   CI/CD threat model <https://tymyrddin.github.io/cicd-threat-model/>
+   De-anonymisation threat model <https://tymyrddin.github.io/green-da/>
+   E2EE threat model <https://tymyrddin.github.io/green-e2ee/>
+   Search engine threat model <https://tymyrddin.github.io/green-se/>
+   Making an application threat model <https://tymyrddin.github.io/green-app/>
+   CI/CD threat model <https://tymyrddin.github.io/green-cicd/>
 
 .. toctree::
    :glob:

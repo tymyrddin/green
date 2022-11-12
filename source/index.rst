@@ -14,7 +14,6 @@ processes and humanoid activities and neglect throughout decades.
 
    Laws of the forest <https://tymyrddin.github.io/>
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
-   Threat frameworks <https://tymyrddin.github.io/green-frameworks/>
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
    De-anonymisation threat model <https://tymyrddin.github.io/green-da/>
    E2EE threat model <https://tymyrddin.github.io/green-e2ee/>

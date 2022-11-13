@@ -10,11 +10,19 @@ These are some writeups made on our journeys in a digital landscape formed by na
 processes and humanoid activities and neglect throughout decades.
 
 .. toctree::
-   :caption: Forest writeups
+   :caption: General
 
    Laws of the forest <https://tymyrddin.github.io/>
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
+
+.. toctree::
+   :caption: SOC Tier 1
+
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
+
+.. toctree::
+   :caption: Threat modelling
+
    De-anonymisation threat model <https://tymyrddin.github.io/green-da/>
    E2EE threat model <https://tymyrddin.github.io/green-e2ee/>
    Search engine threat model <https://tymyrddin.github.io/green-se/>

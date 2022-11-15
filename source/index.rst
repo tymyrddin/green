@@ -9,6 +9,9 @@ well-understood choices.
 These are some writeups made on our journeys in a digital landscape formed by nature's own
 processes and humanoid activities and neglect throughout decades.
 
+.. image:: _static/images/csoc-features.png
+  :alt: SOC
+
 ----
 
 .. toctree::
@@ -19,7 +22,7 @@ processes and humanoid activities and neglect throughout decades.
 ----
 
 .. toctree::
-   :caption: Human-readable threat modelling
+   :caption: Threat modelling
 
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
    De-anonymisation threat model <https://tymyrddin.github.io/green-da/>

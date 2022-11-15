@@ -9,28 +9,30 @@ well-understood choices.
 These are some writeups made on our journeys in a digital landscape formed by nature's own
 processes and humanoid activities and neglect throughout decades.
 
-.. toctree::
-   :caption: General
-
-   Laws of the forest <https://tymyrddin.github.io/>
-   Alphabet soup <https://tymyrddin.github.io/green-soup/>
+----
 
 .. toctree::
-   :caption: SOC Tier 1
+   :caption: SOC
 
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
 
-.. toctree::
-   :caption: Threat modelling
+----
 
+.. toctree::
+   :caption: Human-readable threat modelling
+
+   Alphabet soup <https://tymyrddin.github.io/green-soup/>
    De-anonymisation threat model <https://tymyrddin.github.io/green-da/>
    E2EE threat model <https://tymyrddin.github.io/green-e2ee/>
    Search engine threat model <https://tymyrddin.github.io/green-se/>
    Making an application threat model <https://tymyrddin.github.io/green-app/>
    CI/CD threat model <https://tymyrddin.github.io/green-cicd/>
 
+----
+
 .. toctree::
    :caption: Links
 
+   Laws of the forest <https://tymyrddin.github.io/>
    Red Team <https://tymyrddin.github.io/red/>
    Blue Team <https://tymyrddin.github.io/blue/>

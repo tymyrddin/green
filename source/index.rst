@@ -9,22 +9,25 @@ well-understood choices.
 These are some writeups made on our journeys in a digital landscape formed by nature's own
 processes and humanoid activities and neglect throughout decades.
 
-.. image:: _static/images/cia.png
-  :alt: SOC
-
 ----
 
-.. toctree::
-   :caption: SOC
+.. image:: _static/images/csoc-features.png
+  :alt: SOC features
 
+.. toctree::
+   :caption: Security operations
+
+   Alphabet soup <https://tymyrddin.github.io/green-soup/>
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
 
 ----
 
+.. image:: _static/images/cia.png
+  :alt: CIA
+
 .. toctree::
    :caption: Threat modelling
 
-   Alphabet soup <https://tymyrddin.github.io/green-soup/>
    De-anonymisation threat model <https://tymyrddin.github.io/green-da/>
    E2EE threat model <https://tymyrddin.github.io/green-e2ee/>
    Search engine threat model <https://tymyrddin.github.io/green-se/>

@@ -18,6 +18,7 @@ processes and humanoid activities and neglect throughout decades.
    :caption: Security operations
 
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
+   Threat landscapes <https://tymyrddin.github.io/green-collect/>
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
 
 ----

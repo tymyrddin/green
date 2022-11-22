@@ -6,8 +6,10 @@ understanding the unseen logic of the forest, bottom-up and top-down, with inten
 writeups for improving communication, lowering thresholds for participation, and providing people with
 well-understood choices.
 
-These are some writeups made on our journeys in a digital landscape formed by nature's own
-processes and humanoid activities and neglect throughout decades.
+The threat landscape for people in the public and private sector has changed enormously over the past decade. Physical
+threats have decreased while digital security threats have increased. Meanwhile the vulnerabilities of organisations
+have grown due to BYOD policies for communications, distributed teams, and public cloud-based applications being used
+in normal workflows.
 
 ----
 
@@ -18,8 +20,8 @@ processes and humanoid activities and neglect throughout decades.
    :caption: Security operations
 
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
-   Threat landscapes <https://tymyrddin.github.io/green-collect/>
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
+   Deception technology <https://tymyrddin.github.io/green-collect/>
 
 ----
 

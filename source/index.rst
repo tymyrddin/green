@@ -1,5 +1,5 @@
-.. image:: _static/images/csoc-features.png
-  :alt: SOC features
+.. image:: _static/images/cia.png
+  :alt: CIA
 
 Green Team
 =========================================
@@ -44,5 +44,5 @@ in normal workflows.
 
 ----
 
-.. image:: _static/images/cia.png
-  :alt: CIA
+.. image:: _static/images/csoc-features.png
+  :alt: SOC features

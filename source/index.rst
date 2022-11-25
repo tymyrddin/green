@@ -1,3 +1,6 @@
+.. image:: _static/images/csoc-features.png
+  :alt: SOC features
+
 Green Team
 =========================================
 
@@ -13,21 +16,13 @@ in normal workflows.
 
 ----
 
-.. image:: _static/images/csoc-features.png
-  :alt: SOC features
-
 .. toctree::
-   :caption: Security operations
+   :caption: Communication
 
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
    Security principles <https://tymyrddin.github.io/green-basis/>
-   Threat intelligence <https://tymyrddin.github.io/green-intel/>
-   Deception technology <https://tymyrddin.github.io/green-collect/>
 
 ----
-
-.. image:: _static/images/cia.png
-  :alt: CIA
 
 .. toctree::
    :caption: Threat modelling
@@ -46,3 +41,8 @@ in normal workflows.
    Laws of the forest <https://tymyrddin.github.io/>
    Red Team <https://tymyrddin.github.io/red/>
    Blue Team <https://tymyrddin.github.io/blue/>
+
+----
+
+.. image:: _static/images/cia.png
+  :alt: CIA

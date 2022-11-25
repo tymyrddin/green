@@ -20,6 +20,7 @@ in normal workflows.
    :caption: Security operations
 
    Alphabet soup <https://tymyrddin.github.io/green-soup/>
+   Security principles <https://tymyrddin.github.io/green-basis/>
    Threat intelligence <https://tymyrddin.github.io/green-intel/>
    Deception technology <https://tymyrddin.github.io/green-collect/>
 

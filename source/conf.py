@@ -31,7 +31,7 @@ release = '0.1'
 # ones.
 extensions = [
     'myst_parser',
-    'sphinx_markdown_tables'
+    'sphinx_markdown_tables',
 ]
 
 source_suffix = ['.rst', '.md']
@@ -67,7 +67,6 @@ html_theme_options = {
 html_title = "Green Team"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
-
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

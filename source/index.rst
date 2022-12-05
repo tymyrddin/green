@@ -38,7 +38,7 @@ in normal workflows.
 .. toctree::
    :caption: Interesting sessions
 
-   Green Team: A curated collection of sessions on youtube. <https://www.youtube.com/playlist?list=PLcV569XvaQtSrXdGfQnhCLMeTERDA71q2>
+   Green Team: A curated collection of sessions on youtube <https://www.youtube.com/playlist?list=PLcV569XvaQtSrXdGfQnhCLMeTERDA71q2>
 
 ----
 

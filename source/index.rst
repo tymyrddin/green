@@ -35,6 +35,9 @@ in normal workflows.
 
 ----
 
+.. toctree::
+   :caption: Interesting sessions
+
 .. |GT| image:: _static/images/greenteam-youtube.png
 
 |GT|

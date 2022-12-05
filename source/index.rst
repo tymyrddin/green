@@ -38,11 +38,7 @@ in normal workflows.
 .. toctree::
    :caption: Interesting sessions
 
-.. |GT| image:: _static/images/greenteam-youtube.png
-
-|GT|
-
-  `The larger environment, both technical and human: A curated collection of sessions on youtube. <https://www.youtube.com/playlist?list=PLcV569XvaQtSrXdGfQnhCLMeTERDA71q2>`_
+   Green Team: A curated collection of sessions on youtube. <https://www.youtube.com/playlist?list=PLcV569XvaQtSrXdGfQnhCLMeTERDA71q2>
 
 ----
 

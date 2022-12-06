@@ -38,7 +38,7 @@ in normal workflows.
 .. toctree::
    :caption: Links
 
-   Green Team: A curated collection of sessions on youtube <https://www.youtube.com/playlist?list=PLcV569XvaQtSrXdGfQnhCLMeTERDA71q2>
+   Curated collections of sessions on youtube <https://www.youtube.com/@ninabarzh/playlists>
    Laws of the forest <https://tymyrddin.github.io/>
    Red Team <https://tymyrddin.github.io/red/>
    Blue Team <https://tymyrddin.github.io/blue/>

@@ -19,19 +19,19 @@ in normal workflows.
 .. toctree::
    :caption: Communication
 
-   Alphabet soup <https://tymyrddin.github.io/green-soup/>
-   Security principles <https://tymyrddin.github.io/green-basis/>
+   Alphabet soup <https://green.tymyrddin.dev/projects/soup>
+   Security principles <https://green.tymyrddin.dev/projects/basis/>
 
 ----
 
 .. toctree::
    :caption: Threat modelling
 
-   De-anonymisation threat model <https://tymyrddin.github.io/green-da/>
-   E2EE threat model <https://tymyrddin.github.io/green-e2ee/>
-   Search engine threat model <https://tymyrddin.github.io/green-se/>
-   Making an application threat model <https://tymyrddin.github.io/green-app/>
-   CI/CD threat model <https://tymyrddin.github.io/green-cicd/>
+   De-anonymisation threat model <https://green.tymyrddin.dev/projects/da/>
+   E2EE threat model <https://green.tymyrddin.dev/projects/e2ee/>
+   Search engine threat model <https://green.tymyrddin.dev/projects/se/>
+   Making an application threat model <https://green.tymyrddin.dev/projects/app/>
+   CI/CD threat model <https://green.tymyrddin.dev/projects/cicd/>
 
 ----
 
@@ -39,6 +39,6 @@ in normal workflows.
    :caption: Links
 
    Curated collections of sessions on youtube <https://www.youtube.com/@ninabarzh/playlists>
-   Laws of the forest <https://tymyrddin.github.io/>
-   Red Team <https://tymyrddin.github.io/red/>
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Laws of the forest <https://green.tymyrddin.dev/>
+   Red Team <https://red.tymyrddin.dev/>
+   Blue Team <https://blue.tymyrddin.dev/>

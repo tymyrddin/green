@@ -39,6 +39,6 @@ in normal workflows.
    :caption: Links
 
    Curated collections of sessions on youtube <https://www.youtube.com/@ninabarzh/playlists>
-   Laws of the forest <https://green.tymyrddin.dev/>
+   Laws of the forest <https://purple.tymyrddin.dev/>
    Red Team <https://red.tymyrddin.dev/>
    Blue Team <https://blue.tymyrddin.dev/>

@@ -25,7 +25,7 @@ in normal workflows.
    :caption: Threat modelling
 
    De-anonymisation threat model <https://green.tymyrddin.dev/projects/da/>
-   E2EE threat model <https://green.tymyrddin.dev/projects/e2ee/>
+   E2EE messaging threat model <https://green.tymyrddin.dev/projects/e2ee/>
    Search engine threat model <https://green.tymyrddin.dev/projects/se/>
    Making an application threat model <https://green.tymyrddin.dev/projects/app/>
    CI/CD threat model <https://green.tymyrddin.dev/projects/cicd/>

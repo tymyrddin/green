@@ -1,6 +1,3 @@
-.. image:: _static/images/csoc-features.png
-  :alt: SOC features
-
 Green Team
 =========================================
 
@@ -32,13 +29,3 @@ in normal workflows.
    Search engine threat model <https://green.tymyrddin.dev/projects/se/>
    Making an application threat model <https://green.tymyrddin.dev/projects/app/>
    CI/CD threat model <https://green.tymyrddin.dev/projects/cicd/>
-
-----
-
-.. toctree::
-   :caption: Links
-
-   Laws of the forest <https://purple.tymyrddin.dev/>
-   Red Team <https://red.tymyrddin.dev/>
-   Blue Team <https://blue.tymyrddin.dev/>
-   Good Omens <https://www.youtube.com/@ninabarzh/playlists>

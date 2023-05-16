@@ -7,25 +7,12 @@ writeups for improving communication, lowering thresholds for participation, and
 well-understood choices.
 
 The threat landscape for people in the public and private sector has changed enormously over the past decade. Physical
-threats have decreased while digital security threats have increased. Meanwhile the vulnerabilities of organisations
-have grown due to BYOD policies for communications, distributed teams, and public cloud-based applications being used
-in normal workflows.
+threats have decreased while digital security threats have increased.
 
 ----
 
 .. toctree::
    :caption: Communication
 
-   Alphabet soup <https://green.tymyrddin.dev/projects/soup>
-   Security principles <https://green.tymyrddin.dev/projects/basis/>
+   Alphabet soup <https://soup.tymyrddin.dev/>
 
-----
-
-.. toctree::
-   :caption: Threat modelling
-
-   De-anonymisation threat model <https://green.tymyrddin.dev/projects/da/>
-   E2EE messaging threat model <https://green.tymyrddin.dev/projects/e2ee/>
-   Search engine threat model <https://green.tymyrddin.dev/projects/se/>
-   Making an application threat model <https://green.tymyrddin.dev/projects/app/>
-   CI/CD threat model <https://green.tymyrddin.dev/projects/cicd/>

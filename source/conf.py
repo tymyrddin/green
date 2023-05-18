@@ -32,6 +32,8 @@ release = '0.1'
 extensions = [
     'myst_parser',
     'sphinx_markdown_tables',
+    'sphinx.ext.intersphinx',
+    'sphinx_copybutton',
 ]
 
 source_suffix = ['.rst', '.md']
@@ -85,3 +87,9 @@ html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 html_show_copyright = False
+
+myst_enable_extensions = [
+    "amsmath",
+    "dollarmath",
+    "tasklist",
+]

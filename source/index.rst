@@ -7,14 +7,11 @@ The threat landscape for people in the public and private sector has changed eno
 
 ----
 
-Threats to privacy
------------------------------
-
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: De-anonymisation
+   :caption: De-anonymisation threat model
 
    docs/deanonymisation/README.md
    docs/deanonymisation/adversaries.md
@@ -24,3 +21,13 @@ Threats to privacy
    docs/deanonymisation/assistive.md
    docs/deanonymisation/threats.md
    docs/deanonymisation/impacts.md
+
+----
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: The Unmentionables
+
+   docs/unmentionables/internet.md

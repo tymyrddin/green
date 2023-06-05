@@ -18,4 +18,4 @@ This talk by [Daniel Cuthbert](https://www.blackhat.com/latestintel/06252020-fas
 
 ----
 
-Thank you both for mentioning the unmentionables. I wish to argue that it is a systematic problem, not a conglomeration or loose confederation of separate disciplines and individual choices. If that is true, merely improving the parts of a system will not improve the whole. Every problem is part of "The Mess", and the "Big Security Mess" includes all the messes that besiege globalising complex societies.
+Thank you both for mentioning the unmentionables. I wish to argue that it is a systematic problem, not a conglomeration or loose confederation of separate disciplines and individual choices. If that is true, merely improving the parts of a system will not improve the whole. Every problem is part of "The Mess", and the "Big Security Mess" includes all the messes that besiege globalising complex capital, and the incentives it instills.

@@ -1,4 +1,4 @@
-Green Teaming
+Green Team
 =========================================
 
 A systems approach is not often considered. Tunnel visions (on profit) rule.

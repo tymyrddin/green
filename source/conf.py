@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Green Team'
+project = 'Understandables'
 copyright = '2022, Ty Myrddin'
 author = 'Ty Myrddin'
 
@@ -67,7 +67,7 @@ html_theme_options = {
     'titles_only': True
 }
 
-html_title = "Green Team"
+html_title = "Understandables"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 

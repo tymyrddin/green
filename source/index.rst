@@ -1,9 +1,14 @@
-Green Team
+Green Teaming
 =========================================
 
-The green team focuses on the larger environment, both technical and human, on documenting what happens and understanding the unseen logic of the forest, bottom-up and top-down, with intent of creating human-readable writeups for improving communication, lowering thresholds for participation, and providing people with well-understood choices.
+A systems approach is not often considered. Tunnel visions (on profit) rule.
 
-The threat landscape for people in the public and private sector has changed enormously over the past decade. Physical threats have decreased while digital security threats have increased.
+   "He'd been wrong, there was a light at the end of the tunnel, and it was a flamethrower."
+   --Terry Pratchett
+
+The green team focuses on the larger environment, both technical and human, on documenting what is happening and understanding the unseen logic of the forest, causes and effects, bottom-up and top-down, with intent of creating human-readable information for improving communication, lowering thresholds for participation, and providing people with well-understood choices.
+
+The threat landscape for people in the public and private sector has changed enormously over the past decade. Physical threats have decreased (some), while digital security threats have increased, and can be a prelude to a physical attack.
 
 ----
 

@@ -1,6 +1,6 @@
 # The Great Offshore
 
-Making fireworks go off in the privacy of the reader's brain:
+_Making fireworks go off in the privacy of the reader's brain_
 
 * [ALGOFFSHORE](https://rybn.org/thegreatoffshore/index.php?ln=en&r=2.ALGOFFSHORES) is a series of algorithmic flowcharts that documents various strategies of offshoring and tax optimization.
 * [The Sea is Glowing](https://rybn.org/thegreatoffshore/theseaisglowing/) pays attention to the most singular and uncanny incarnations of the offshore phenomenon : Art freeports, Luxembourg space mining futuristic projects, Malta's golden passports programs, seasteading experimental projects and Flags of convenience and the End of Life Flags.

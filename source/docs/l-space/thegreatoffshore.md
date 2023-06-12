@@ -10,8 +10,8 @@ _Making fireworks go off in the privacy of the reader's brain_
 
 Learning. Using the library. Opening articles and books. Reading. More.
 
-- [ ] [loopholeforall (2021)](https://paolocirio.net/press/interviews/interview_2020-l4a.php), Paolo Cirio, Interview to be published in april 2021 in "THE GREAT OFFSHORE", a collection of text on offshore, edited by RYBN.ORG.
-- [ ] [State to Stateless Machines: A Trajectory (2019)](https://aksioma.org/james-bridle-state-to-stateless-machines-a-trajectory), James Bridle, 2019
+- [ ] [loopholeforall](https://paolocirio.net/press/interviews/interview_2020-l4a.php), Paolo Cirio, Interview to be published in april 2021 in "THE GREAT OFFSHORE", a collection of text on offshore, edited by RYBN.ORG.
+- [ ] [State to Stateless Machines: A Trajectory](https://aksioma.org/james-bridle-state-to-stateless-machines-a-trajectory), James Bridle, 2019
 - [ ] [Offshore Finance: How Capital Rules the World](https://www.researchgate.net/publication/330713868_Offshore_Finance_How_Capital_Rules_the_World), Reijer Hendrikse and Rodrigo Fernandez, KU Leuven, 2019
 - [ ] [Outside of Borders](https://www.academia.edu/38661325/OUTSIDE_OF_BORDERS), Rachel O'Dwyer, 2019
 - [ ] [A Utopia for Money: A visit to the secretive art warehouse at the Singapore airport](https://publicseminar.org/2017/04/a-utopia-for-money/), Max Haiven, 2017

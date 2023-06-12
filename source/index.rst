@@ -38,3 +38,4 @@ The threat landscape for people in the public and private sector has changed eno
    docs/l-space/defendableinternet.md
    docs/l-space/thegreatoffshore.md
    docs/l-space/armstradelitigationmonitor.md
+   docs/l-space/pervasivesurveillance.md

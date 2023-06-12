@@ -33,6 +33,7 @@ The threat landscape for people in the public and private sector has changed eno
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: The Unmentionables
+   :caption: L-Space
 
-   docs/unmentionables/internet.md
+   docs/l-space/defendableinternet.md
+   docs/l-space/thegreatoffshore.md

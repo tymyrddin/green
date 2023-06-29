@@ -39,3 +39,38 @@ The threat landscape for people in the public and private sector has changed eno
    docs/l-space/thegreatoffshore.md
    docs/l-space/armstradelitigationmonitor.md
    docs/l-space/pervasivesurveillance.md
+
+----
+
+The Big Mess
+---------------------------
+
+.. card-carousel:: 3
+
+    .. card:: Centering Society in Big Tech reform
+        :link: https://projects.itforchange.net/state-of-big-tech/centering-society-in-big-tech-reform/
+
+        .. image:: _static/images/bookcovers/centering.png
+
+        Richard Hill
+
+    .. card:: Silicon Valley’s Digital Defence industry
+        :link: https://www.tni.org/en/article/militarising-big-tech
+
+        .. image:: _static/images/bookcovers/military.png
+
+        Roberto J. González
+
+    .. card:: Digital capitalism is a mine not a cloud
+        :link: https://www.tni.org/en/article/digital-capitalism-is-a-mine-not-a-cloud
+
+        .. image:: _static/images/bookcovers/mining.png
+
+        Maximilian Jung
+
+    .. card:: What Artificial Intelligence is hiding
+        :link: https://www.tni.org/en/article/what-artificial-intelligence-is-hiding
+
+        .. image:: _static/images/bookcovers/ai-hiding.png
+
+        Karina Pedace, Tomás Balmaceda, Tobías J. Schleider

@@ -139,8 +139,3 @@ Pruning shears include:
 
 From the perspective of users, the GDPR can also be seen as an arrogation, a law tool for the normalisation of appropriation of their data.
 
-## Resources
-
-* [2018 reform of EU data protection rules](https://ec.europa.eu/info/), European Commission
-* [EU DPA Enforcement Guidance Post-Schrems](https://www.insideprivacy.com/international/european-union/eu-dpa-enforcement-guidance-post-schrems/), Mark Young and Kristof Van Quathem on February 18, 2016
-

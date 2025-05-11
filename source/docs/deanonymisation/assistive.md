@@ -33,11 +33,3 @@ So, while assistive technologies are often hailed as productivity boosters, they
 powerful tools for intrusion and exploitation. And in the wrong hands, they’re not so much assistants as they 
 are agents of destruction.
 
-## Resources
-
-* [Content Analysis](https://writing.colostate.edu/guides/guide.cfm?guideid=61), Writing@CSU | The Writing Studio
-* [Understanding the qualitative and quantitative methods in the context of content analysis](http://www.isast.org/proceedingsQQML2009/PAPERS_PDF/Devi-Understanding_the_Qualitative_and_Quantatitive_Methods_PAPER-QQML2009.pdf), Naorem Binita Devi, 2009
-* [Link Prediction by De-anonymization: How We Won the Kaggle Social Network Challenge](https://arxiv.org/abs/1102.4374), Arvind Narayanan, Elaine Shi, Benjamin Rubinstein, 2011
-* [Detecting spammers on social networks](https://www.sciencedirect.com/science/article/pii/S0925231215002106), Xianghan Zheng, Zhipeng Zeng, Zheyi Chen, Yuanlong Yua, Chunming Rong, 2015
-
-

@@ -56,13 +56,3 @@ who likes yak cheese, votes Green, and lives in a postcode with six other humans
 
 These attacks thrive on uniqueness. The more unusual your data, the easier it is to spot you — especially when 
 someone’s already got a handful of matching facts from somewhere else.
-
-## Resources
-
-* [To Join or Not to Join: The Illusion of Privacy in Social Networks with Mixed Public and Private User Profiles](https://users.soe.ucsc.edu/~getoor/Papers/zheleva-www09.pdf), Elena Zheleva and Lise Getoor, 2009
-* [A Practical Attack to De-Anonymize Social Network Users](https://sites.cs.ucsb.edu/~chris/research/doc/oakland10_sonda.pdf), Gilbert Wondracek, Thorsten Holz, Engin Kirda, Christopher Kruegel, 2010
-* [De-anonymizing Users Across Heterogeneous Social Computing Platforms](http://vision.soic.indiana.edu/papers/deanonymize2013icwsm.pdf), Mohammed Korayem, David Crandall, 2013
-* [Trail Re-Identification:Learning Who You Are From Where You Have Been](https://dataprivacylab.org/dataprivacy/projects/trails/paper3.pdf), Bradley Malin et al., 2013
-* [Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization](https://www.ieee-security.org/TC/SP2013/papers/4977a080.pdf), Alex Biryukov, Ivan Pustogarov, Ralf-Philipp Weinmann, 2013
-* [De-anonymizing Social Networks with Random Forest Classifier](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8051053), Jiangtao Ma, Yaqiong Qiao, Guangwu Hu, Yongzhong Huang, 2017
-

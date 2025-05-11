@@ -52,6 +52,3 @@ Now we get into the really nefarious stuff. Data exfiltration is the classic “
 
 Exfiltration is where attackers extract data from your securely anonymised set, usually under the radar, and move it somewhere else. The goal is simple: they’ve got your data, and you’re none the wiser until it’s been sold to some shady buyer on the black market.
 
-## Resources
-
-* [Daily Swigger: Inference attacks: How much information can machine learning models leak?](https://portswigger.net/daily-swig/inference-attacks-how-much-information-can-machine-learning-models-leak)

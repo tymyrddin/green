@@ -10,7 +10,7 @@ cookies.
 Private Advertising Technologies such as Apple’s Private Click Measurement and Meta’s Meta Advantage use on-device 
 processing to limit data sharing but retain profiling capabilities.
 
-## User protections:
+## Protections
 
 * [Disable Topics API in Chrome or switch to privacy-focused browsers](../pii/chrome.md).
 * [Use uBlock Origin and/or Privacy Badger to block tracking scripts](../pii/blocks.md).

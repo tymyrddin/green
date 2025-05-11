@@ -1,4 +1,4 @@
-# How to Protect Your Email Privacy: A Complete Guide
+# How to protect your email privacy
 
 Emails often contain hidden tracking tools and metadata that reveal more than you might expect—including whether you 
 opened a message, your location, and even your device details. Here’s how to keep your email activity private.
@@ -65,7 +65,6 @@ When in doubt, contact the company directly instead of clicking links.
 For highly confidential messages:
 
 * ProtonMail & Tutanota have built-in encryption.
-
 * PGP (Pretty Good Privacy) – Advanced users can manually encrypt emails with tools like GPG Suite.
 
 By following these steps, you’ll significantly reduce how much of your email activity is monitored, sold, or 

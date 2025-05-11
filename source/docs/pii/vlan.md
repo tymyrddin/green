@@ -1,4 +1,4 @@
-# Block IoT Internet access with VLANs (Guest Network Method)
+# Block IoT internet access with VLANs (Guest network method)
 
 Works on most home routers—ASUS, TP-Link, Netgear, etc.
 

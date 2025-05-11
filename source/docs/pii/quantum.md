@@ -1,4 +1,4 @@
-# Quantum-Resistant Encryption: Why Your Secrets Need Future-Proofing Today
+# Quantum-resistant encryption: Why your secrets need future-proofing today
 
 The bad news: Quantum computers are coming, and they’ll shred today’s encryption like wet tissue paper. The good news: 
 Privacy apps like Signal and ProtonMail are already deploying post-quantum cryptography (PQC) to keep your data safe. 
@@ -63,7 +63,7 @@ Other early adopters
 * Old devices may not support it. Check your app versions.
 * VPNs/SSL will need upgrades too. Most web traffic is still vulnerable.
 
-Encrypt like the future depends on it (because it does)
+Encrypt like the future depends on it (because it does).
 
 Quantum computing won’t just break crypto—it’ll rewrite privacy, finance, and cybersecurity. By using PQXDH and 
 quantum PGP now, you’re locking the vault before the thieves get the tools.

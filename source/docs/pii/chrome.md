@@ -1,4 +1,4 @@
-# How to Stop Chrome from Tracking Your Interests (Disable Topics API)
+# How to stop Chrome from tracking your interests (Disable Topics API)
 
 Google’s Topics API is a feature in Chrome that tracks your browsing habits to show "relevant" ads. Instead of 
 tracking you across websites with cookies, it assigns you interest categories (like "Fitness" or "Travel") based on 
@@ -55,6 +55,6 @@ Best Alternatives to Chrome:
 Even if you stick with Chrome, improve privacy by:
 
 * Going to `chrome://settings/cookies` → Block third-party cookies
-* Installing Privacy Badger (blocks hidden trackers)
-* Using a VPN to hide your IP address
+* [Installing Privacy Badger (blocks hidden trackers)](blocks.md)
+* [Using a VPN to hide your IP address](vpn.md)
 

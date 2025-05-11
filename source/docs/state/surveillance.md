@@ -41,5 +41,5 @@ happen to be dangerous and profitable? Oh dear. Better check under the compost h
 
 ## Protections
 
-* [Wear IR-blocking glasses or face masks to confuse cameras](../pii/bigbrother.md).
-* [Use cash for transit/tolls or anonymous travel cards](../pii/payment.md).
+* [Wear IR-blocking glasses or face masks to confuse cameras](../pii/bigbrother.md)
+* [Use cash for transit/tolls or anonymous travel cards](../pii/payment.md)

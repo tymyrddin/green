@@ -59,3 +59,10 @@ Combine with other anti-tracking tools
 * Block ads/trackers with NextDNS or AdGuard
 
 This won’t make you invisible, but it fragments your data enough to reduce profiling.
+
+## Testing
+
+Want to test if it’s working? Try:
+
+* [AppCensus (Android)](https://appcensus.mobi/)
+* [Lockdown Privacy (iOS)](https://lockdownprivacy.com/)

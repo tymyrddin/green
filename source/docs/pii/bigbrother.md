@@ -67,3 +67,8 @@ If you’d rather not drop money on anti-tracking gear:
 
 Facial recognition thrives on predictability. The more you randomise your appearance, the harder you are to track. 
 So go forth and confuse the machines.
+
+## Testing
+
+Want to test your disguise? Try HowManyTimesWasITracked.com (sorry, fake, but it should exist).
+

@@ -76,7 +76,7 @@ This breaks some sites but blocks nearly all tracking.
 
 ## What these tools do not block
 
-* Browser fingerprinting (use Firefox with resistFingerprinting enabled)
+* Browser fingerprinting (use Firefox with `resistFingerprinting` enabled)
 * VPN/IP tracking (use a trusted VPN like ProtonVPN or Mullvad)
 * First-party tracking (e.g., Amazon watching what you click)
 
@@ -86,3 +86,8 @@ This breaks some sites but blocks nearly all tracking.
 * For advanced users: uBlock (hard mode) + Firefox Containers + NextDNS
 
 These tools won’t make you 100% anonymous, but they’ll stop most tracking and speed up your browsing.
+
+## Testing
+
+* [Cover Your Tracks (EFF)](https://coveryourtracks.eff.org/)
+* [WhoTracks.Me](https://whotracks.me/)

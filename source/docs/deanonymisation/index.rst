@@ -1,19 +1,21 @@
 The garden layout: Threat model
 ===================================
 
-Using attacker-based threat modelling with a quite non-trivial adversary, namely an entire ecosystem of players and 
-an often forgotten target, the individual citizen.
+In a greenhouse, everything is visible — even what you'd rather keep in the compost bin. This model isn't about
+locking every door or fearing every shadow. It's about understanding who might be poking around the potting shed,
+what they're after, and how they might get it.
 
-De-anonymisation is a strategy in data mining in which anonymous data is cross-referenced with other sources of data 
-to re-identify the anonymous data source, often used by those that do not have users' best interest in mind. 
-De-anonymisation ***also*** works to further help improve anonymisation techniques and reduce privacy breach by 
-probing the potential drawbacks of anonymisation techniques.
+We take an attacker’s-eye view of the terrain — the assets ripe for the picking, the paths through the undergrowth,
+the tools in the intruder's kit, and the consequences when the soil turns sour.
+
+Think of it less like a firewall and more like a garden fence with good signage, strong posts, and fewer places
+for things to burrow in unnoticed.
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: De-anonymisation threat model
+   :caption: Because when your data is the fertiliser, you’d better know who’s doing the planting.
 
    adversaries.md
    assets.md

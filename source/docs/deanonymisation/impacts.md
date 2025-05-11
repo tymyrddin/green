@@ -1,80 +1,147 @@
 # Impacts
 
+Even the most carefully tended greenhouse can be ruined if someone tampers with the soil, overfeeds the aphids, or simply barges in and starts tagging your petunias. The impacts of privacy breaches and data misuse aren’t just theoretical — they’re personal, structural, and often quietly devastating.
+
+Here’s what can go wrong when the data compost heap is turned over too eagerly:
+
 ## ↑ Data
 
-One of the most often mentioned issues with personal information mined from an individual's consumption behaviour for purposes of recommending products and/or services to that individual, is that it can cause pain and embarrassment to individuals, and it can deliver noise.
+Data is the new fertiliser, and everyone wants more of it. Companies scrape, hoard, and analyse as much as they can, convinced that quantity equals quality. But adding more data to a bad model is like pouring Miracle-Gro on knotweed — the problem just grows faster.
 
-* What if you are permanently in a wheelchair and out of curiosity or for buying a family member or friend a gift, checked products online that someone in a wheelchair cannot use, and then get offered similar products on your screen for days?
-* What if you are a teenage girl visiting a website that sells baby products, and the application of the company sends promotional baby products to your home address?
+Yes, recommending the right shoe size is handy. But context is everything.
+Imagine you’re permanently in a wheelchair and, out of curiosity or kindness, browse a product you’d never use yourself. That brief detour now blooms into an advertising campaign across your digital life, pushing products you can’t use.
+Or you're a teenage girl, and your browsing of a baby product site triggers unsolicited catalogues sent to your home. A little click, a lot of consequence.
 
-In short, companies seem to think that if more information is disclosed and used, sales of products will automatically increase. Data gathered in large pools of information, is increasingly a focus of technology competition.
+Big data can feel less like insight and more like invasive species, clogging the ecosystem. The root of the issue? Many assume that more data equals better data. It doesn’t.
 
-Instead, better approaches on how to interpret data, models, and understanding the limitations of both in order to produce better output are required. Data without sound approaches becomes noise. Better Data != ↑ Data
+* Sometimes less is more: clean your data, prune the outliers, sample wisely.
+* Add different features, not just more of the same weeds.
+* Models with high bias don’t benefit from more training data — they need complexity.
+* Models with high variance? They’re overgrown. Cut features. Add control.
+* Complex models can become so entangled they can’t scale — the digital equivalent of a vine strangling its own trellis.
 
-* Better data does not mean more data, sometimes it means less (data cleansing, outlier removal, stratified sampling).
-* Content-based features (or different features in general) might be able to improve accuracy in many cases, but not always.
-* High bias situations (a model that is too simple to explain the data) will not benefit from more training examples, but might indeed benefit from more features.
-* High variance situations (a model that is too complicated for the amount of data, the training error is much lower than the test error) leads to model over-fitting, and can be addressed by reducing the number of features, and by increasing the number of data points.
-* Complex algorithms can limit the ability of scaling up to larger number of features.
+In short: if your analytics garden is full of noise, don’t keep turning up the volume. Learn to listen better.
 
 ## ↑ Bias and discrimination
 
-Human agency and oversight: AI systems are to enable equitable societies by supporting human agency and fundamental rights, and not decrease, limit or misguide human autonomy.
+AI was meant to be the rational gardener — pruning with precision, impartial and tireless. Instead, we built topiary nightmares that reflect our own worst habits.
 
-The models used are opaque, using them with real data is officially regulated in Europe (but public authorities and civil society struggle to apply its rules in concrete ways), and the results of the models are mostly incontestable, even when they introduce and reinforce bias and discrimination at every level (selection, confirmation, etc):
+Bias isn’t just a side effect — it’s often built in. The systems are opaque, the data’s messy, and the consequences are real:
 
-* A chatbot that became racist. Tay made it to the [MIT Technology Review’s list of 2016’s biggest technology failures](https://www.technologyreview.com/2016/12/27/106828/the-biggest-technology-failures-of-2016-3/).
-* HR resume/candidate screening applications that discriminate based on some characteristic (age, gender, religion, etc).  If a marginalised person does not get a job because an employer receives a report that contains by the employer unwanted characteristics, he/she will not get the opportunity to gain respectability and independence. Instead, the vicious spiral continues.
-* If a poor student cannot get a loan because a lending model deems him or her too risky (by virtue of where he/she lives), he/she is then cut off from the kind of education that could pull him/her out of poverty, and another vicious spiral continues.
-* If DNA analysis companies start selling anonymised data to insurance companies they will be able to include it into their risk analysis. There will be a lot of biases, a lot of mistakes. On average nothing will change but there will be biased shifts in premiums in subgroups.
+* Tay, Microsoft’s chatbot, famously turned racist in less than 24 hours after being exposed to the internet. Like a greenhouse fungus, it thrived on what it was fed.
+* HR algorithms that downgrade CVs from women, minorities, or older applicants because their profiles don’t fit the mould — as if hiring decisions were a matter of preferred soil pH.
+* Loan models that exclude students from poor areas because their postcodes are “risky”. No loan, no education, no way out — a vicious composting cycle.
+* DNA test companies handing anonymised health data to insurers. The averages may stay the same, but the premiums certainly don’t — especially for subgroups already under strain.
 
-In short, if your data belongs to a subgroup even if you do not share every characteristic of that subgroup you might be negatively impacted. Models favour the lucky and punish the underdogs. The dark side of Big Data. Yet recommending that humans should be involved in the decision-making processes also has to take into account that it is people that have the most bias. They create algorithms that are biased.
+* Models reward the lucky, punish the rest, and rarely apologise. Worse, the solution often presented is to “add a human in the loop”. But humans are where the biases came from. They just taught the machine to be more efficient about it.
 
-Avoiding bias is hard. Techniques and checks to identify it is not so hard to make and critical thinking to rectify it is not that hard to learn either. But as with security in the past decades, it seems not a main concern of digital business-as-usual because it doesn't make money.
+Avoiding bias isn’t easy, but it’s not rocket science either:
+
+* We have the techniques.
+* We have the tests.
+
+What we lack apparently, is the incentive. Bias, like poor security in the past, isn’t profitable to fix — so we don’t. At least not yet.
 
 ## ↓ Competition
 
-Datasets seem to be incredibly valuable to companies:
+Data has become the prized orchid of the tech world — valuable, delicate, and aggressively protected.
 
-* Microsoft purchased LinkedIn for $26.2 billion last year. LinkedIn has about 467 million members (and their profiles and connections).
-* IBM has acquired Truven Health (data on the cost and treatment of more than 200 million patients) for $2.6 billion and $2 billion for the digital assets of the Weather Company.
-* Google offers businesses a new software service to improve job finding and recruiting. Its data includes more than 17 million online job postings and the public profiles and résumés of more than 200 million people.
+* Microsoft bought LinkedIn for $26.2 billion.
+* IBM acquired Truven Health for $2 billion — buying records for over 200 million patients.
+* Google scooped up résumés and job data from over 200 million people to fine-tune its employment tools.
 
-Increasingly, data collection, analysis and distribution creates and shapes markets. If the big internet companies attract more users and advertisers, and gather more and more data, a powerful "network effect" may prevent users and advertisers from moving away from a dominant digital platform, like Google in search or Facebook in consumer social networks. As a result, people might be afforded less privacy than they would choose in a more competitive market.
+This isn’t just capitalism in bloom — it’s an arms race. The more data you have, the more you can learn, the more 
+you dominate. It’s the network effect, where the biggest platforms pull in more users, more advertisers, and more 
+data — until moving elsewhere feels impossible.
 
-## ↑ Surveillance and tracking 
+The result? A landscape where privacy is a luxury, not a standard — because you’re not really the customer. You’re 
+the crop.
 
-Every citizen on this planet is subject to some sort of tracking/surveillance. This includes information that does not, by itself, identify individuals, but sits in various databases (datasets) until data scientists use it for some purpose. The proximate reasons for the culture of surveillance are clear:
+## ↑ Surveillance and tracking
 
-* Storage is cheap enough that we can keep everything.
-* Computers are fast enough to examine this information, both in real time and retrospectively.
-* Our daily activities are mediated with software that can easily be configured to record and report everything it sees upstream.
-* But to fix surveillance, we have to address the underlying reasons that it exists. These are no mystery either.
-  * State surveillance is driven by fear.
-  * And corporate surveillance is driven by financial gain (which is also driven by fear).
+Once upon a time, surveillance was about trench coats and binoculars. Now it’s about cookies, clickstreams, and 
+whether your smart toaster knows you skipped breakfast.
 
-Data can be explicit or implicit. Explicit data consists of data users provide explicitly such as ratings and comments on products. Users have a choice whether to provide it or not. Implicit data does not need any extra action from the user. Examples of implicit data are order history/return history, cart events, page views, click through, and search logs. This data set is created for every user visiting an e-commerce/online business. Behavioural data is easy to collect because it can be extracted from a log of user activities and/or bought from data brokers.
+We are all being tracked. Always. Some examples are explicit — you click “Accept Cookies” and move on. Others are 
+implicit — no action needed, just existing in digital space is enough:
 
-Tracking is categorised into first-party and third-party tracking. The user is the second-party. In first-party tracking, the tracking is performed by the site or application with which the user is directly interacting. In third-party tracking, the tracking is performed by a third party that tracks the user's activity over time and across different devices and (digital or analogue) locations.
+* Implicit data includes your order history, page views, search terms — all logged and repurposed.
+* First-party tracking is done by the site you’re on. Amazon uses it to suggest products based on what you (and others like you) have browsed.
+* Third-party tracking follows you across sites, devices, even locations. That Like button? It reports home, even if you don’t click it.
 
-* Facebook tracks across sites via its Like button; each time a user visits a site that contains a Facebook Like button, Facebook collects this information, even if the user does not click on the button.
-* In the first-party context, behavioural tracking and profiling is used to recommend products that are likely to be of interest to users. Amazon recommends products to online users based on individuals’ past behaviours (personalised recommendation), on past behaviours of similar users (social recommendation) and on searched items (item recommendation).
-* With the rise of mobile phones, mobile applications track users' locations and movement. Location information enables many useful services such as receiving driving directions and knowing where your kids are. And this information is also collected by marketers to improve profiling. This poses a threat to location privacy, as illustrated by iPhone and Android controversies.
-* Increasingly, consumer devices are capable of being connected online. Smart entertainment systems can monitor what users watch, smart meters can hand over information that can be used to discover what you watch, when you do your laundry and how much, what time you leave and come home, and more such behaviours.
-* Somatic surveillance is the increasingly invasive technological monitoring of and intervention into body functions. Within this type of tracking regime, bodies are recast as nodes on vast information networks, enabling corporeal control through remote network commands, automated responses, or self-management practices. Insurance companies are very, very interested.
+With mobile phones, it gets worse:
+
+* Your location is constantly tracked. For directions, sure — but also for marketing.
+* Smart devices watch your habits: what you watch, when you sleep, how often you boil your kettle.
+* Somatic surveillance tracks your body — heart rates, sleep cycles, even fertility. Insurance companies are taking notes, rest assured.
+
+Surveillance exists because it’s cheap and easy — and because fear pays:
+
+* Governments surveil to control.
+* Corporations surveil to profit.
+* Both say it’s for your safety.
+
+But when every aspect of your life can be monitored, logged, and monetised, privacy isn’t just under threat — it’s being composted.
 
 ## ↑ Regulation
 
-The GDPR only addresses privacy concerns related to data processing by the private sector and not by individual EU member states. With the internet being a global network (driven by established interests), laws regarding for example, digital fingerprinting by law enforcement and intelligence agencies, may develop completely differently from one country to another regardless of raised concerns at the EU level as to the compatibility of such activities with human rights standards.
+Laws exist. Sort of. But the weeds grow faster than the hedges.
 
-Social media shift the boundaries of what counts as private and public space, creating anxieties about the very visible and seemingly permanent nature of social media activity. Given the long history of disproportionate surveillance among marginalised people and activists by law enforcement through practices such as profiling, infiltration and other covert policing tactics, the question is what is new and different about social media that may risk aggravating these inequalities. With not enough understandable information about how monitoring tools are used by the police, we cannot effectively assess the risks of discriminatory practices and targeting of minorities.
+The GDPR tries to impose order in the private sector, but it doesn’t stop EU states doing their own thing. Law enforcement and intelligence agencies may follow entirely different tracks — and the garden gate doesn’t close neatly across borders.
 
-Social media can produce evidence in some cases, but data mining fails to capture the complexity of human relationships, and can sometimes distort the interpretations. It is important to make sure that social media data is not misused or misinterpreted in the pursuit of justice.
+Social media adds another complication:
 
-Both Evanna Hu ([Responsible Data Concerns with Open Source Intelligence, Evanna Hu, November 2016](https://responsibledata.io/2016/11/14/responsible-data-open-source-intelligence/)) and Millie Graham Wood ([Social media intelligence, the wayward child of open source intelligence, Millie Graham Wood, December 2016](https://responsibledata.io/2016/12/12/social-media-intelligence-the-wayward-child-of-open-source-intelligence/)) made a case by stating that social media do not easily fit into either the category of public or private and argue that it is instead a pseudo-private space, where there is an expectation of privacy from the state. Millie Graham Wood, Legal Officer at Privacy International, proposes making a distinction between Open Source Intelligence (OSINT) and Social Media Intelligence (SOCMINT).
+* It blurs the line between public and private. Is your tweet public? What about your location data?
+* There’s a long history of disproportionate surveillance on marginalised communities — profiling, infiltration, covert tactics.
+* Social media content is sometimes used as evidence, but nuance is lost. Your snarky comment may not survive data mining intact.
 
-***OSINT*** is intelligence collected from publicly available sources, including the internet, newspapers, radio, television, government reports and professional and academic literature. ***SOCMINT*** can be defined as "the analytical exploitation of information available on social media networks".
+Legal scholars have started distinguishing OSINT (open source intelligence) from SOCMINT (social media intelligence), 
+the latter being murkier and more prone to misuse.
 
-Data is increasingly a focus of technology competition ([Big data: Bringing competition policy to the digital era, OECD, November 2016](https://www.oecd.org/daf/competition/big-data-bringing-competition-policy-to-the-digital-era.htm)). And academics and some policy-makers, especially in Europe, are considering whether big internet companies like Google and Facebook might use their data resources as a barrier to new entrants and innovation. Who controls what data could be the next worldwide regulatory focus because monopolies could threaten privacy.
+As companies entrench their position with proprietary datasets, competition policy is starting to notice. [Who 
+controls the data controls the future](../state/quantum.md) — and the regulators are finally waking up.
 
-The [EU’s ePrivacy regulation](https://iapp.org/resources/topics/eu-eprivacy-regulation/) extends the GDPR, focusing specifically on cookies and other tracking technologies. It’s set to go into effect as early as 2023 and promises to be even more stringent than the GDPR regarding protecting internet user privacy.
+Meanwhile, the EU’s ePrivacy regulation is promising tighter control of cookies and trackers — possibly 
+more stringent than GDPR. Time will tell whether it’s a new hedge… or just another decorative trellis.
+
+## ↑ Datafication of the self
+
+Personal worth becomes a metric: engagement rate, credit score, productivity level, likes, followers, sleep cycles. 
+You’re no longer a person — you’re a performance indicator.
+
+This creates stress, alienation, and a strange new kind of inequality — algorithmic precarity. If your data profile 
+doesn’t match what the system thinks is “successful,” your options quietly shrink.
+
+It's not just surveillance — it's data feudalism.
+
+## ↑ Loss of context and consent
+
+Data, once collected, is decontextualised and repurposed in ways the user never agreed to.
+
+You gave your postcode for delivery. Now it’s used to decide your insurance premium.
+You liked a tweet on a joke about depression. Now an algorithm thinks you're vulnerable.
+You uploaded a face to an app. Now it’s training someone else’s facial recognition system.
+
+Consent is not just “I clicked agree.” Real consent is informed, specific, and revocable. The current system pretends 
+at consent but delivers functional coercion.
+
+## ↑ Global inequity
+
+Most regulations like GDPR are regional. Meanwhile, many developing countries lack the infrastructure, legal 
+frameworks, or economic leverage to push back against major data-hungry platforms.
+
+Result? The digital colonialism dynamic. Rich countries export surveillance tools, extract data, and impose their 
+standards. Poorer regions become both test beds and resource mines, with little say in what happens.
+
+## ↓ Accountability black holes
+
+When something goes wrong (e.g. a wrongful arrest, job rejection, or loan denial due to automated profiling), it is 
+hard to trace:
+
+* Was it the model?
+* Was it the data?
+* Was it the person who trained it?
+* Or the person who used the output?
+
+These systems create accountability gaps, where no one is clearly at fault — and the harmed person has no clear path 
+to recourse.

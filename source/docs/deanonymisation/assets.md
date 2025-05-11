@@ -1,44 +1,59 @@
 # Assets
 
+Welcome to the greenhouse’s hidden treasures — the juicy, leafy data crops adversaries are after. Whether tucked 
+safely behind fences or left out for the taking, every plant (read: dataset) tells a story. Here’s what’s growing:
+
 ## Data releases
 
-Assuming three main contexts of data release, in which each presents a different relationship, therefore a different level of trust between the data provider and data recipient, and a different level of control and risk.
+Think of data as different levels of greenhouse tours. Sometimes it’s just the head gardener poking about with 
+good intentions. Other times, the gates are flung open and tourists can trample through at will. 
+Here are the flavours:
 
-Internal secondary research is about data re-use. For example, clinical trial sponsors store and maintain vast amounts of data collected during clinical studies. The cumulative information may be invaluable for identifying patterns which are not the focus of the original trials. Sponsors are required to obtain consent for such use of patients' data, which they may claim is not possible or entirely impractical (due to the enormous amounts of “data subjects”). The alternative is to anonymise the data such that it is no longer considered personal information. In this scenario access to data is controlled by mechanisms much like those used in primary analysis. While the requirement to de-identify the data needs to be observed, the risk of re-identification attempts is considered minimal.
+### Internal secondary research
 
-External secondary research is about sharing data with external researchers, under strict contracts, through secure means will supposedly ensure that the process is safe and the risks involved very low. The anonymisation process will have already considered the probability of de-anonymisation attempts – rogue employee, data breach, etc. - and taken it into account in finding and applying adequate level of anonymisation. Introducing contractual controls and limitations on how the data is accessed, used and disposed of, is thought to significantly limit the motivation of the data recipient to attempt de-anonymisation and illicit use of data.
+This is the "we’re just looking around the shed" kind. Internal teams reuse data they already had permission for, 
+usually with some vague notion of anonymisation. The risk of sneaky intruders is low — in theory — since access is 
+tightly controlled. But let’s not pretend an overconfident intern couldn’t leave the door ajar.
 
-When data is released to the public domain, there is no control over how it will be used and an adversary wanting to access the data can do so with little effort. The data industry is confronted with finding it hard to assess motivations of adversaries and the level of knowledge and tools they may possess and use and that may land its data guardians in protective states of mind that may lead to significant loss of data usability. The industry therefore finds it crucial to identify plausible adversaries relevant to a context and contents of the data release which they think may result in less de-anonymisation and greater data utility retention. 
+### External secondary research
+
+Here, outsiders are allowed into the garden, but only after signing a blood pact (or a data-sharing agreement). 
+With anonymisation, contracts, and a few watchdogs, it feels secure. That is, until someone gets clever with 
+auxiliary information and finds a way to pick the lock. Trust, but verify — and then lock the compost bin.
+
+### Public release
+
+Ah, the wild meadow — data tossed out into the open, ripe for the picking. Anyone with a basket and bad intentions 
+can gather what they like. It’s impossible to know who’s harvesting or what tools they’ve brought. Here, assumptions 
+about motivation and technical skill don’t just backfire — they explode like overripe fruit. And yet, we’re told 
+it’s all worth it for “data utility.”
 
 ## Auxiliary information
 
-Auxiliary information is the information gained as background knowledge by the adversary. It is any data that might be combined with other data(sets) to give meaningful information. It is usually gathered from real world information (but not always, this too has expanded):
+You might think your data is safe, anonymised and stripped of names. But adversaries are tenacious compost sniffers, and they'll dig through the mulch to find what they need.
 
-* with the usual information gathering techniques for example from work environments, such as personal information of/from colleagues, from dumpster diving, and from any public information, such as a voter list, petition sites, forum comments, or reviews in websites, to name but a few.
-* from neighbourhood data collected in open data sets.
-* from another dataset that was either bought at a black market or gained from a merger or buying up a small data company.
-* and in some cases even from the target dataset.
+* They collect crumbs — bits of info from petitions, forums, even your colleague’s old Facebook review of a garden centre.
+* They buy up old maps — open datasets, neighbourhood stats, and that quaint survey from 2009.
+* They inherit leftovers — mergers, acquisitions, and shady black market data swaps.
+* And sometimes they find hints inside the target dataset itself, like a cryptic note left in a flowerpot.
+
+In short, they’ll mix and match with whatever’s lying about to figure out what’s really growing in your greenhouse.
 
 ## Target dataset
 
-The target dataset is a set of anonymous data (also known as de-identified data).
+This is the main crop: the big, green bush labelled “anonymised” but still suspiciously personal.
 
-The most common methods for de-identification (anonymisation) are by removing personal identifiable information (PII) such as ID and phone numbers, and using sophisticated anonymisation schemes such as k-anonymity, l-diversity, and t-closeness. The new kid on the block is differential privacy.
+Sure, the names and phone numbers are gone, replaced with jargon like k-anonymity and l-diversity. There's even a 
+new kid on the compost heap — differential privacy. But the reality? The greenhouse might look tidy, but with enough 
+auxiliary info and determination, it’s not that hard to trace the roots.
 
-Personal data, also known as personal information, personally identifying information (PII), or sensitive personal information (SPI), is any information relating to an identifiable person. Personally identifying information is a legal concept, not a technical concept, and is not used in the same way in all jurisdictions. Plus that with current re-identification attacks, the absence of PII data does not mean that the remaining data does not identify individuals.
+### k-Anonymity & friends
 
-### k-anonymity
-
-A dataset provides k-anonymity protection if the information for each individual in the dataset cannot be distinguished from at least k − 1 individuals whose information also appears in the dataset.
-
-k-anonymity and its variants can protect the privacy of structural data to some extent, but are susceptible to structure-based de-anonymisation attacks due to the limitations of the schemes (they are syntactic properties based) and the rich amount of auxiliary information available to adversaries.
+Sounds clever, right? Basically, it tries to make each plant look like several others so you can’t tell which is which. 
+Trouble is, if someone already knows where the roses are planted, this disguise won’t stop them.
 
 ### Differential privacy
 
-With static anonymisation, an analyst must decide ahead of time which fields contain sensitive data, and then either remove or alter these fields before running the analysis, which reduces the quality of the data set. Plus, the analyst must also consider any auxiliary information a potential hacker might have that could lead to re-identification of the sensitive fields. With dynamic anonymisation, also called interactive anonymisation, data is anonymised on a query-by-query basis, without destroying the quality of the data set.
-
-In differential privacy a query should not reveal whether any one person is present in a dataset or what their data are. Imagine two otherwise identical datasets, one with an individual's information in it, and one without it. The probability that a query will produce a given result is nearly the same whether conducted on the first or second dataset. If an individual's data does not affect the outcome of a query, then it might be okay to give this information because it is unlikely that the information would be tied back to the individual. And, if an analysis on a dataset finds a correlation between two characteristics, then interpretation of and assigning significance to the correlation, might have an effect on an individual with that characteristic, regardless of whether the individual's dataset was included in the study.
-
-In short, differential privacy supposedly offers the benefits of data research without sacrificing privacy and supports “Legitimate Interest” processing by overcoming shortcomings of “static” data protection techniques that do not adequately protect data subjects against unauthorised re-identification when data is combined from multiple sources or used for various purposes.
-
-Jane Bambauer, Krishnamurty Muralidhar, and Rathindra Sarathy have shown that by itself differential privacy will usually produce either wrong research results or useless privacy protections. Differential privacy was developed to protect the privacy of interactive data release. It cannot defend against structural data de-anonymisation attacks which can breach the privacy of non-interactive data releases.
+A smarter idea, in theory. It adds a bit of noise — think scarecrows in the wrong places — so no one can be sure 
+which individual sprouted which trait. But the results can end up being either too vague to use or too leaky to 
+be safe. Still, it’s the poster child for privacy these days — just don’t stare too hard at the cracks.

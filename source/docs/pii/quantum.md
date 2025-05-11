@@ -12,7 +12,7 @@ they are powerful enough:
 
 * Every intercepted Signal message could be retroactively decrypted.
 * Old PGP-encrypted emails might as well be postcards.
-* Government agencies are already harvesting data to crack later ("Store Now, Decrypt Later" attacks).
+* [Government agencies are already harvesting data to crack later](../state/surveillance) ("Store Now, Decrypt Later" attacks).
 
 When Will It Happen?
 

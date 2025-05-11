@@ -1,6 +1,7 @@
 # Quantum-resistant encryption: Why your secrets need future-proofing today
 
-The bad news: Quantum computers are coming, and they’ll shred today’s encryption like wet tissue paper. The good news: 
+The bad news: Quantum computers are coming, and 
+[they’ll shred today’s encryption like wet tissue paper](../state/quantum.md). The good news: 
 Privacy apps like Signal and ProtonMail are already deploying post-quantum cryptography (PQC) to keep your data safe. 
 Here’s why it matters—and how to use it.
 

@@ -1,4 +1,4 @@
-# VPNs for Privacy Protection
+# VPNs for privacy protection
 
 A Virtual Private Network (VPN) is one of the most effective tools for safeguarding your online privacy. It encrypts your internet traffic, hides your IP address, and helps you bypass censorship—but not all VPNs are equal.
 

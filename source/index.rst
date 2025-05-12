@@ -16,13 +16,3 @@ landscapers, and algorithmic weeds all want to catalog, clone, or crush your fra
    docs/pii/index
    docs/l-space/index
 
-----
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Other teams
-
-   Red team <https://red.tymyrddin.dev>
-   Blue team <https://blue.tymyrddin.dev>

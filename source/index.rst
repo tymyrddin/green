@@ -11,8 +11,8 @@ landscapers, and algorithmic weeds all want to catalog, clone, or crush your fra
    :caption: Here’s how to tend your greenhouse.
 
    docs/deanonymisation/index
-   docs/code/index
    docs/state/index
    docs/pii/index
+   docs/code/index
    docs/l-space/index
 

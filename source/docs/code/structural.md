@@ -1,8 +1,8 @@
 # Structural attack
 
 A Python demonstration of a structural attack, where an attacker exploits the inherent structure of a system 
-(like social networks or organizational hierarchies) to infer sensitive information. This example focuses on 
-deanonymizing users in a corporate communication network by analyzing email metadata patterns:
+(like social networks or organisational hierarchies) to infer sensitive information. This example focuses on 
+deanonymising users in a corporate communication network by analysing email metadata patterns:
 
 ```python
 import networkx as nx

@@ -1,6 +1,6 @@
 # Inference attack
 
-a Python demonstration of an inference attack, where an attacker uses seemingly harmless data to deduce sensitive 
+A Python demonstration of an inference attack, where an attacker uses seemingly harmless data to deduce sensitive 
 information about individuals. This example focuses on inferring political affiliation from public app usage patterns:
 
 ```python

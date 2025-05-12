@@ -1,7 +1,7 @@
 # Linkage attack
 
-a simulated linkage attack demonstration in Python, designed for educational purposes to show how disparate datasets 
-can be combined to deanonymize users. This code illustrates the core mechanics without using real personal data.
+A simulated linkage attack demonstration in Python, designed for educational purposes to show how disparate datasets 
+can be combined to deanonymise users. This code illustrates the core mechanics without using real personal data.
 
 ```python
 import pandas as pd

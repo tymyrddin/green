@@ -6,7 +6,7 @@ Analyse email headers for origin tracing:
 import email
 from email.header import decode_header
 
-def analyze_email(path):
+def analysee_email(path):
     with open(path, 'r') as f:
         msg = email.message_from_file(f)
     

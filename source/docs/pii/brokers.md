@@ -30,7 +30,7 @@ formal request like this:
 ```text
 Subject: Data Erasure Request Under Article 17 GDPR  
 Dear [Company Name],  
-I request immediate deletion of all my personal data under Article 17 of the GDPR. This includes any profiles, records, or associated information held by your organization.  
+I request immediate deletion of all my personal data under Article 17 of the GDPR. This includes any profiles, records, or associated information held by your organisation.  
 Please confirm once this action is completed.  
 Sincerely,  
 [Your Name] 

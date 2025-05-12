@@ -13,7 +13,7 @@ from collections import defaultdict
 
 # --- Generate Synthetic Corporate Email Data ---
 def generate_org_communications(num_employees=50, num_emails=500):
-    """Create synthetic email metadata with organizational structure."""
+    """Create synthetic email metadata with organisational structure."""
     fake = Faker()
     
     # Generate org hierarchy (CEO -> VPs -> Managers -> Staff)
@@ -149,7 +149,7 @@ if __name__ == "__main__":
 Synthetic Data Generation:
 
 * Creates a realistic corporate structure with roles (CEO, VP, Manager, Staff)
-* Simulates email patterns where communication follows organizational lines
+* Simulates email patterns where communication follows organisational lines
 * Departments naturally cluster in communication patterns
 
 Attack Methodology:

@@ -40,7 +40,7 @@ def get_sentiment(text):
 
 df['sentiment'] = df['post'].apply(get_sentiment)
 
-# 2. Behavior Profiling using KMeans Clustering based on TF-IDF vectors
+# 2. Behaviour Profiling using KMeans Clustering based on TF-IDF vectors
 vectorizer = TfidfVectorizer(stop_words='english')
 X = vectorizer.fit_transform(df['post'])
 
@@ -50,7 +50,7 @@ kmeans = KMeans(n_clusters=3, random_state=0).fit(X)
 # Add cluster labels to DataFrame
 df['cluster'] = kmeans.labels_
 
-# 3. Analyzing Profiles
+# 3. Analysing Profiles
 # You can group posts by cluster and check out the sentiment distribution for each group
 profile = df.groupby('cluster').agg(
     num_posts=('post', 'count'),
@@ -73,7 +73,7 @@ The `TextBlob` library is used to compute the sentiment of each post. Sentiment 
 represents negative sentiment, `0` represents neutral, and `1` represents positive sentiment. This helps understand 
 the emotional tone of the user's posts.
 
-Behavior profiling (Clustering):
+Behaviour profiling (Clustering):
 
 The `TfidfVectorizer` is used to convert the text data into numerical vectors (term frequency-inverse document 
 frequency). This vectorises the posts and removes stop words (commonly used words like "the", "is", "and").

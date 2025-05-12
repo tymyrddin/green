@@ -60,7 +60,7 @@ Other early adopters
 
 ## The fine print
 
-* Not all PQC is battle-tested yet. Some algorithms might have flaws (NIST is still finalizing standards).
+* Not all PQC is battle-tested yet. Some algorithms might have flaws (NIST is still finalising standards).
 * Old devices may not support it. Check your app versions.
 * VPNs/SSL will need upgrades too. Most web traffic is still vulnerable.
 

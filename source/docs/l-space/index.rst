@@ -1,4 +1,4 @@
-For the guerrilla gardeners
+For guerrilla gardeners
 ============================================
 
 .. toctree::

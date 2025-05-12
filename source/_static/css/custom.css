@@ -163,80 +163,75 @@ body {
 }
 
 /* ============================================= */
-/*               SEARCH COMPONENT                */
+/*         UNIVERSAL DARK CODE BLOCK STYLING     */
 /* ============================================= */
-.md-search__input {
-  background-color: rgba(255, 255, 255, 0.1);
-  color: white;
+
+/* Target ALL pre-formatted blocks regardless of class */
+pre,
+pre[class*="language-"],
+pre[class*="text"],
+pre.text,
+div.highlight pre {
+  background-color: #2d2d2d !important;
+  color: #f0f0f0 !important;
+  border-radius: 6px;
+  padding: 1.2em;
+  margin: 1.5em 0;
+  overflow-x: auto;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.8em;
+  line-height: 1.5;
+  border-left: 4px solid #6f42c1 !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+
+  /* Critical formatting preservation */
+  white-space: pre !important;
+  tab-size: 4 !important;
+  word-break: normal !important;
 }
 
-/* ============================================= */
-/*             IMPROVED CODE STYLING             */
-/* ============================================= */
-code {
-  background-color: #f5f5f7;
-  color: #c92c6d;
+/* Target ALL code elements inside pre blocks */
+pre code,
+pre[class*="language-"] code,
+pre[class*="text"] code,
+pre.text code,
+div.highlight pre code {
+  background: transparent !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  white-space: pre !important;
+}
+
+/* Plain text blocks specific styling */
+pre.text,
+pre[class*="text"] {
+  color: #e8e8e8 !important; /* Slightly brighter for plain text */
+  font-family: inherit;
+}
+
+/* Inline code (single backticks) */
+:not(pre) > code {
+  background-color: #3a3a3a !important;
+  color: #f0f0f0 !important;
   padding: 0.2em 0.4em;
   border-radius: 3px;
   font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-  font-size: 0.9em;
-  border: 1px solid #e1e1e8;
+  font-size: 0.8em;
+  border: 1px solid #444 !important;
   white-space: normal;
-  word-wrap: normal;
-  overflow-wrap: anywhere;
 }
 
-pre {
-  background-color: #f5f5f7;
-  border-radius: 6px;
-  padding: 1em;
-  overflow-x: auto;
-  white-space: pre;
-  word-wrap: normal;
-  overflow-wrap: normal;
-  border-left: 4px solid #6f42c1;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  margin: 1.5em 0;
-}
-
-pre code {
-  background-color: transparent;
-  color: #333;
-  white-space: inherit;
-  display: block;
-  word-break: keep-all;
-  overflow-wrap: break-word;
-}
-
+/* Mobile responsiveness */
 @media (max-width: 768px) {
   pre {
-    border-radius: 0;
+    border-radius: 0 !important;
     margin-left: -1rem;
     margin-right: -1rem;
-    padding: 0.75rem;
-    white-space: pre-wrap;
+    padding: 1rem !important;
   }
-}
-
-.highlight {
-  .c, .c1, .cm, .cs, .sd { color: #5e6a75; }
-  .k { color: #d63384; }
-  .n { color: #005cc5; }
-  .s { color: #032f62; }
-  .mi { color: #e36209; }
-  .nv { color: #d35400; }
-  .p { color: #333; }
-}
-
-.highlight .ch,
-.highlight .sh {
-  color: #5e6a75 !important;
-}
-
-.linenos {
-  color: #999;
-  padding-right: 1em;
-  user-select: none;
 }
 
 /* ============================================= */

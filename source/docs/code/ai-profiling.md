@@ -89,7 +89,7 @@ users.
 
 ## Output
 
-```text
+```
 User Profiles (Based on Clusters):
    cluster  num_posts  avg_sentiment
 0        0          2       0.675000

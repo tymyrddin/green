@@ -9,12 +9,13 @@ For the curious botanist: How they uproot your hidden orchids
    :includehidden:
    :caption: Simplistic code snippets showing how some attacks work
 
+   email.md
    metadata.md
    browser.md
-   email.md
+   cross.md
+   ai-profiling.md
    inference.md
    linkage.md
    structural.md
-   ai-profiling.md
    ml-deanon.md
 

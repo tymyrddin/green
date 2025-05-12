@@ -52,7 +52,7 @@ html_theme_options = {
     ],
 }
 
-html_title = "Green Team"
+html_title = "Green team"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 html_static_path = ['_static']

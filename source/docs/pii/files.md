@@ -1,6 +1,6 @@
 # Removing metadata from files
 
-## The Problem with Windows' built-in metadata removal
+## The problem with Windows' built-in metadata removal
 
 The "Remove Properties and Personal Information" feature in Windows has significant limitations that make it inadequate for proper privacy protection:
 

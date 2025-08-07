@@ -24,6 +24,10 @@ myst_enable_extensions = [
     "dollarmath",
     "tasklist",
     "colon_fence",
+    "html_admonition",
+    "html_image",
+    "attrs_block",
+    "attrs_inline",
 ]
 
 # myst_all_links_external = False  # Required for TOC resolution

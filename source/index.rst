@@ -6,7 +6,7 @@ landscapers, and algorithmic weeds all want to catalog, clone, or crush your fra
 
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
    :caption: Here’s how to tend your greenhouse.
 
@@ -15,4 +15,5 @@ landscapers, and algorithmic weeds all want to catalog, clone, or crush your fra
    docs/pii/index
    docs/code/index
    docs/l-space/index
+   docs/services/index
 

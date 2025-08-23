@@ -11,6 +11,13 @@ copyright = '2025, TyMyrddin'
 author = 'TyMyrddin'
 release = '0.1'
 
+# -- Options for sphinx-immaterial -------------------------------------------
+sphinx_immaterial_external_resource_cache_dir = os.path.join(
+    os.path.dirname(__file__),
+    "_static",
+    "immaterial_cache",
+)
+
 # -- General configuration ---------------------------------------------------
 extensions = [
     'myst_parser',
@@ -53,6 +60,9 @@ html_theme_options = {
     "features": [
         "navigation.top",
         "content.tabs.link",
+    ],
+    "plugins": [
+        "material/search",  # enable search
     ],
 }
 

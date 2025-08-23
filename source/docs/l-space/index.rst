@@ -7,7 +7,5 @@ For guerrilla gardeners
    :includehidden:
    :caption: L-Space
 
-   defendableinternet.md
-   thegreatoffshore.md
-   armstradelitigationmonitor.md
-   pervasivesurveillance.md
+   games.md
+   routines.md

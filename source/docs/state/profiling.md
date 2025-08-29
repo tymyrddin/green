@@ -4,7 +4,7 @@
 
 Once upon a time, advertisers had to guess who you were based on your choice of newspaper or biscuit. Now, thanks to AI and more data than sense, they know more about you than your gran — and unlike your gran, they’re monetising it.
 
-Modern data harvesters — think advertisers, brokers, and bored machine learning interns — don’t just collect the obvious stuff like what you search for or click. They correlate. That means stitching together your online habits (scrolling, shopping, streaming, doom-clicking) with your offline life (credit card swipes, location data, gym check-ins, what you had for lunch, when you last cried in a Tesco).
+Modern data harvesters — think advertisers, brokers, and bored machine learning interns — don’t just collect the obvious stuff like what you search for or click. They correlate. That means stitching together your online habits (scrolling, shopping, streaming, doom-clicking) with your offline life (credit card swipes, location data, gym check-ins, what you had for lunch, when you last cried on a Swiss Scenic Train).
 
 Out of this tangled hedge of data, they build “super-profiles”: unnervingly detailed portraits of your preferences, vulnerabilities, routines, and maybe your blood pressure too. All without you ever typing a word.
 

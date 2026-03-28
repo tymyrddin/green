@@ -127,7 +127,7 @@ regulatory and legislative level has reshaped data protection law before. That w
 ## Playbooks
 
 * [Use encrypted messaging](../playbooks/messaging.md)
-* [Enable device encryption](../playbooks/device-encryption.md)
+* [Enable device encryption](../runbooks/device-encryption.md)
 * [Protect your email privacy](../playbooks/email.md)
 * [Minimise long-term data storage](../playbooks/minimise.md)
 * [Keep anonymous data separate from your identity](../playbooks/identity.md)
@@ -142,7 +142,7 @@ regulatory and legislative level has reshaped data protection law before. That w
 ## Runbooks
 
 * [Respond to a suspected data breach](../runbooks/breach-response.md)
-* [Suspected device compromise](../runbooks/device-compromise.md)
+* [Suspected device compromise](../playbooks/device-compromise.md)
 * [Doxxing response](../runbooks/doxxing-response.md)
 * [Responding to a legal demand for data](../runbooks/legal-demand.md)
 * [Vendor breach response](../runbooks/vendor-breach.md)

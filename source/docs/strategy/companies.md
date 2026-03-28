@@ -106,7 +106,7 @@ is made, not after the breach.
 * [Keep anonymous data separate from your identity](../playbooks/identity.md)
 * [Use a VPN](../playbooks/vpn.md)
 * [Understand quantum-resistant encryption](../playbooks/quantum.md)
-* [Run a periodic access review](../playbooks/access-review.md)
+* [Run a periodic access review](../runbooks/access-review.md)
 * [Audit what data you hold](../playbooks/data-audit.md)
 * [Assess third-party vendor security](../playbooks/vendor-assessment.md)
 

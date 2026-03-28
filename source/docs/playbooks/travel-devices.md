@@ -42,7 +42,7 @@ passphrase has stronger legal protection than biometric unlock. An officer can o
 face or take your finger; compelling you to disclose a passphrase has a higher legal bar in
 many (not all) jurisdictions. Know the rules for where you are travelling.
 
-Enable full-disk encryption if it is not already on. See [device encryption](../playbooks/device-encryption.md).
+Enable full-disk encryption if it is not already on. See [device encryption](../runbooks/device-encryption.md).
 
 Set the device to lock immediately on sleep. Remove any persistent login tokens from browsers.
 

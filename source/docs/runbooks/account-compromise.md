@@ -45,7 +45,7 @@ Remove anything you did not add.
 ## Enable or verify 2FA
 
 If the account did not have two-factor authentication enabled, add it now. See the
-[authenticators playbook](../playbooks/authenticators.md). If it did have 2FA but the
+[authenticators runbook](../runbooks/authenticators.md). If it did have 2FA but the
 account was still compromised, check which recovery methods exist and whether the attacker
 may have used one of them (SIM swap, recovery email access).
 

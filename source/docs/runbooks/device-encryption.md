@@ -65,4 +65,4 @@ will appear.
 Biometric unlock (fingerprint, face) is convenient and generally secure. At border crossings
 or in situations where you may be compelled to unlock your device, a PIN or passphrase provides
 more legal protection in many jurisdictions. Know your jurisdiction's rules before you travel.
-The [travel devices playbook](travel-devices.md) covers this in more detail.
+The [travel devices playbook](../playbooks/travel-devices.md) covers this in more detail.

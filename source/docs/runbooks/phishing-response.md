@@ -49,7 +49,7 @@ deliver malware or browser exploits.
 If you clicked a link and were taken to a page that asked you to download something, or if
 the page behaved strangely (unexpected popups, page appearing blank, browser crashing),
 treat the device as potentially compromised and follow the
-[device compromise runbook](device-compromise.md).
+[device compromise playbook](../playbooks/device-compromise.md).
 
 If you only entered credentials on a convincing but inert fake page, the device itself
 is likely clean. Confirm by running a reputable malware scan.

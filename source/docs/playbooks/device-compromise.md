@@ -57,7 +57,7 @@ the compromise.
 Change passwords for every account that was accessible on the device. Revoke tokens.
 Check account settings for backdoors added during the compromise period (recovery addresses,
 connected apps, forwarding rules) as described in the
-[account compromise runbook](account-compromise.md).
+[account compromise runbook](../runbooks/account-compromise.md).
 
 Set up new security practices from the start: full-disk encryption, a clean password manager
 installation, 2FA on all accounts.

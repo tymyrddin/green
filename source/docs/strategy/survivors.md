@@ -72,19 +72,22 @@ This is not a failure of the process. It is the nature of the problem. Each step
 * [Detect stalkerware using PiRogue and Wazuh](../playbooks/pirogue-wazuh.md)
 * [Monitor device traffic with a spare Android phone](../playbooks/pcapdroid.md)
 * [Detect stalkerware using DNS monitoring](../playbooks/dns-detection.md)
-* [Set up a password manager](../playbooks/passwords.md)
-* [Enable two-factor authentication](../playbooks/authenticators.md)
+* [Set up a password manager](../runbooks/passwords.md)
+* [Enable two-factor authentication](../runbooks/authenticators.md)
 * [Use encrypted messaging](../playbooks/messaging.md)
-* [Enable device encryption](../playbooks/device-encryption.md)
+* [Enable device encryption](../runbooks/device-encryption.md)
 * [Keep anonymous data separate from your identity](../playbooks/identity.md)
 * [Remove yourself from data broker sites](../playbooks/brokers.md)
-* [Strip metadata from photos](../playbooks/photos.md)
+* [Strip metadata from photos](../runbooks/photos.md)
 * [Prepare a device for a situation where it may be seized or searched](../playbooks/travel-devices.md)
+
+## Playbooks
+
+* [Digital safety steps when leaving](../playbooks/leaving-safely.md)
+* [Suspected device compromise](../playbooks/device-compromise.md)
 
 ## Runbooks
 
-* [Digital safety steps when leaving](../runbooks/leaving-safely.md)
 * [Account compromise response](../runbooks/account-compromise.md)
-* [Suspected device compromise](../runbooks/device-compromise.md)
 * [Doxxing response](../runbooks/doxxing-response.md)
 * [After device seizure](../runbooks/device-seizure.md)

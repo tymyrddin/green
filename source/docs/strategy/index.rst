@@ -9,7 +9,6 @@ differ enough that a single set of recommendations would be dishonest.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: By audience:
 
    citizens
    ngos

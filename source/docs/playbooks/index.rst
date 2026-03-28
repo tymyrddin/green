@@ -11,10 +11,7 @@ answers the question "We need to achieve something. How do we do it?"
    :includehidden:
 
    routines
-   passwords
-   authenticators
    messaging
-   device-encryption
    identity
    brokers
    minimise
@@ -22,22 +19,18 @@ answers the question "We need to achieve something. How do we do it?"
    vpn
    blocks
    chrome
-   adids
    vlan
    payment
-   photos
    files
-   exiftool
    bigbrother
    quantum
-   gdpr-deletion
    travel-devices
-   access-review
    data-audit
    vendor-assessment
-   research-participant-data
    audit-shared-accounts
    stalkerware-check
    pirogue-wazuh
    pcapdroid
    dns-detection
+   device-compromise
+   leaving-safely

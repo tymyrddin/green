@@ -1,7 +1,7 @@
 # How (and why) to reset your advertising ID regularly
 
-Your smartphone’s advertising ID is a unique tracker assigned to your device that allows companies to build a 
-profile of your app usage, interests, and behaviour, even if you don’t log in anywhere. Here’s how to reset it on 
+Your smartphone's advertising ID is a unique tracker assigned to your device that allows companies to build a
+profile of your app usage, interests, and behaviour, even if you don't log in anywhere. Here's how to reset it on
 Android and iOS to disrupt tracking.
 
 ## What is an advertising ID?
@@ -11,13 +11,13 @@ An advertising ID lets apps and ad networks link your activity across different 
 * Android: Called the "Google Advertising ID" (GAID)
 * iOS: Called the "Identifier for Advertisers" (IDFA)
 
-Example: If you search for "hiking boots" in Chrome, Instagram might show you boot ads later, even if you weren’t logged in.
+Example: If you search for "hiking boots" in Chrome, Instagram might show you boot ads later, even if you weren't logged in.
 
 ## Why reset it weekly?
 
 * Breaks tracking chains – Resetting creates a new random ID, making it harder to build a long-term profile.
-* Limits personalized ads – You’ll still see ads, but they’ll be less targeted.
-* Works even if you don’t opt out – Some apps ignore "Opt out of ads personalization" but still use the ID for analytics.
+* Limits personalized ads – You'll still see ads, but they'll be less targeted.
+* Works even if you don't opt out – Some apps ignore "Opt out of ads personalization" but still use the ID for analytics.
 
 ## How to reset on Android
 
@@ -35,9 +35,9 @@ Note: Some Android skins (Samsung, Xiaomi, etc.) bury this setting. Try searchin
 
 ## Limitations to know
 
-* Doesn’t stop all tracking – Fingerprinting, IP logging, and first-party data (e.g., Google/Facebook logged-in tracking) still work.
+* Doesn't stop all tracking – Fingerprinting, IP logging, and first-party data (e.g., Google/Facebook logged-in tracking) still work.
 * Some apps bypass it – Especially if you use the same Google/Apple account everywhere.
-* Resets aren’t instant – It can take hours for ad networks to update.
+* Resets aren't instant – It can take hours for ad networks to update.
 
 ## Further options for stronger privacy
 
@@ -48,7 +48,7 @@ Note: Some Android skins (Samsung, Xiaomi, etc.) bury this setting. Try searchin
 ## Automate it
 
 * Android: Use Tasker or MacroDroid to reset the ID weekly.
-* iOS: Shortcuts app can’t reset the IDFA, but you can set a reminder.
+* iOS: Shortcuts app can't reset the IDFA, but you can set a reminder.
 
 Combine with other anti-tracking tools
 
@@ -58,11 +58,11 @@ Combine with other anti-tracking tools
 * Use Firefox Focus for private browsing
 * Block ads/trackers with NextDNS or AdGuard
 
-This won’t make you invisible, but it fragments your data enough to reduce profiling.
+This won't make you invisible, but it fragments your data enough to reduce profiling.
 
 ## Testing
 
-Want to test if it’s working? Try:
+Want to test if it's working? Try:
 
 * [AppCensus (Android)](https://appcensus.mobi/)
 * [Lockdown Privacy (iOS)](https://lockdownprivacy.com/)

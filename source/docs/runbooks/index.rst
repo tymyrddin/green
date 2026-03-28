@@ -11,8 +11,18 @@ Each runbook answers the question "Something is broken. How do I fix it?"
    :includehidden:
    :caption: Runbooks:
 
+   passwords
+   authenticators
+   device-encryption
+   vlan
+   photos
+   adids
+   exiftool
+   gdpr-deletion
+   access-review
+   research-participant-data
+   disable-chrome-topics
    account-compromise
-   device-compromise
    phishing-response
    doxxing-response
    breach-response
@@ -21,4 +31,3 @@ Each runbook answers the question "Something is broken. How do I fix it?"
    legal-demand
    data-subject-request
    reclaim-email
-   leaving-safely

@@ -130,7 +130,7 @@ The individual-level actions here are limited, but not zero. The rights that reg
 creates are only useful if they are exercised.
 
 * [Remove yourself from data broker sites](../playbooks/brokers.md)
-* [Submit a GDPR deletion request](../playbooks/gdpr-deletion.md)
+* [Submit a GDPR deletion request](../runbooks/gdpr-deletion.md)
 
 ## Runbooks
 

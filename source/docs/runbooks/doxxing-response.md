@@ -38,7 +38,7 @@ without consent.
 Under GDPR, platforms operating in the EU are required to have a process for handling
 requests to remove personal data. If a standard abuse report is not actioned promptly,
 escalate with a formal GDPR removal request. Use the same process described in the
-[GDPR deletion playbook](../playbooks/gdpr-deletion.md), directed at the platform hosting
+[GDPR deletion runbook](../runbooks/gdpr-deletion.md), directed at the platform hosting
 the content.
 
 Document all reports: the date submitted, the reference number if provided, and the outcome.

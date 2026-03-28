@@ -27,7 +27,7 @@ Suitable for people who want something that works without configuration.
 3. Install the browser extension for your primary browser.
 4. Install the mobile app on your phone.
 5. Enable two-factor authentication on the Bitwarden account itself before you start adding
-   passwords. See the [authenticators playbook](authenticators.md) for how.
+   passwords. See the [authenticators runbook](authenticators.md) for how.
 
 ## Migrate existing passwords
 

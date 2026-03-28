@@ -116,11 +116,11 @@ lever that does not depend on individual institutions to act first.
 * [Protect your email privacy](../playbooks/email.md)
 * [Keep anonymous data separate from your identity](../playbooks/identity.md)
 * [Understand quantum-resistant encryption](../playbooks/quantum.md)
-* [Handle research participant data](../playbooks/research-participant-data.md)
+* [Handle research participant data](../runbooks/research-participant-data.md)
 * [Audit what data you hold](../playbooks/data-audit.md)
 * [Prepare devices for high-risk travel](../playbooks/travel-devices.md)
 * [Assess third-party vendor security](../playbooks/vendor-assessment.md)
-* [Run a periodic access review](../playbooks/access-review.md)
+* [Run a periodic access review](../runbooks/access-review.md)
 
 ## Runbooks
 

@@ -14,7 +14,7 @@ This new email address is your staging account. Use it for all the steps below. 
 
 ## Secure the existing email account
 
-From the safe device, log into your primary email account and work through the [reclaim your primary email](reclaim-email.md) runbook. In brief:
+From the safe device, log into your primary email account and work through the [reclaim your primary email](../runbooks/reclaim-email.md) runbook. In brief:
 
 Check and remove any forwarding rules, connected apps, and delegated access. Change the password. Enable two-factor authentication using an authenticator app on the safe device. Change the recovery phone number and backup email address to options the other person does not have access to. Sign out all other active sessions.
 
@@ -22,7 +22,7 @@ Timing: this step is visible. The other person will lose whatever email access t
 
 ## Understand what is currently shared
 
-Before removing access, know what you are removing. Work through the [audit shared accounts](../playbooks/audit-shared-accounts.md) playbook from the safe device to map the current picture: family sharing plans, location sharing, streaming accounts, smart home access, cloud storage. Note what exists and what your plan is for each, but do not remove everything at once until you have considered the timing of each.
+Before removing access, know what you are removing. Work through the [audit shared accounts](audit-shared-accounts.md) playbook from the safe device to map the current picture: family sharing plans, location sharing, streaming accounts, smart home access, cloud storage. Note what exists and what your plan is for each, but do not remove everything at once until you have considered the timing of each.
 
 ## Secure accounts in order of sensitivity
 
@@ -48,11 +48,11 @@ If you suspect Bluetooth trackers have been placed in your belongings or vehicle
 
 Once the most critical access is secured, continue at a sustainable pace:
 
-Remove your information from data broker sites: see the [remove yourself from data broker sites](../playbooks/brokers.md) playbook. Data brokers may hold your current address and phone number, which the other person can purchase.
+Remove your information from data broker sites: see the [remove yourself from data broker sites](brokers.md) playbook. Data brokers may hold your current address and phone number, which the other person can purchase.
 
-Set up encrypted messaging: see the [use encrypted messaging](../playbooks/messaging.md) playbook. Switch your close contacts to a channel the other person is not on.
+Set up encrypted messaging: see the [use encrypted messaging](messaging.md) playbook. Switch your close contacts to a channel the other person is not on.
 
-Check devices for stalkerware: see the [check a device for stalkerware](../playbooks/stalkerware-check.md) playbook. If you need the devices to remain usable as evidence, take advice from a specialist before running scans or resetting.
+Check devices for stalkerware: see the [check a device for stalkerware](stalkerware-check.md) playbook. If you need the devices to remain usable as evidence, take advice from a specialist before running scans or resetting.
 
 Preserve evidence: document what has happened. Screenshots with timestamps, records of contacts and communications, any evidence of surveillance or harassment. Use the safe device for this. Do not delete anything that may be relevant to legal proceedings, even if it is distressing.
 

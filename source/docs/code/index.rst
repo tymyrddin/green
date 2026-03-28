@@ -1,13 +1,12 @@
-For the curious botanist: How they uproot your hidden orchids
+For the curious botanist
 ================================================================
 
-*** EDUCATIONAL PURPOSES ONLY***
+Pseudocode snippets showing how some attacks work:
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Simplistic code snippets showing how some attacks work
 
    email.md
    metadata.md

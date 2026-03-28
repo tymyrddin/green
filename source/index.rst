@@ -11,11 +11,12 @@ landscapers, and algorithmic weeds all want to catalog, clone, or crush your fra
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Here’s how to tend your greenhouse.
 
-   docs/deanonymisation/index
-   docs/state/index
-   docs/pii/index
+   docs/threat-models/index
+   docs/strategy/index
+   docs/playbooks/index
+   docs/runbooks/index
+   docs/games/index
    docs/code/index
    docs/l-space/index
 

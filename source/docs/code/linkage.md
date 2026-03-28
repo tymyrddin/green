@@ -1,111 +1,45 @@
 # Linkage attack
 
-A simulated linkage attack demonstration in Python, designed for educational purposes to show how disparate datasets 
-can be combined to deanonymise users. This code illustrates the core mechanics without using real personal data.
+Anonymisation removes names. It does not remove distinctiveness. A person who appears in two different datasets, one with their name stripped and one without, can often be re-identified by the combination of other attributes that are present in both: the city they live in, their age range, the time of day they tend to post, the topics they discuss. The linkage attack matches these quasi-identifiers across datasets to re-identify individuals who believed themselves protected.
 
-```python
-import pandas as pd
-from faker import Faker  # For generating synthetic data
-import hashlib
+## How it works
 
-# Initialize Faker for realistic fake data
-fake = Faker()
+The attack requires two datasets with overlapping attributes. Neither dataset need contain an explicit identifier. The quasi-identifiers do the work of matching.
 
-# --- Generate Synthetic Datasets ---
-def generate_dataset(num_entries=100):
-    """Create two datasets with overlapping attributes for linkage demonstration."""
-    # Dataset 1: "Anonymous" forum posts with metadata
-    forum_data = []
-    for _ in range(num_entries):
-        user_id = hashlib.sha256(fake.uuid4().encode()).hexdigest()[:8]  # Pseudonymized ID
-        forum_data.append({
-            "user_hash": user_id,
-            "post_time": fake.date_time_this_month(),
-            "topic": fake.random_element(elements=("politics", "gardening", "tech")),
-            "location": fake.city(),
-            "age_range": fake.random_element(elements=("20-30", "30-40", "40-50"))
-        })
+```
+dataset_A: anonymised forum posts
+    user_hash | post_timestamp | topic | city | age_range
 
-    # Dataset 2: "Public records" with similar attributes
-    public_data = []
-    for _ in range(num_entries):
-        public_data.append({
-            "full_name": fake.name(),
-            "residence": fake.city(),
-            "age_range": fake.random_element(elements=("20-30", "30-40", "40-50")),
-            "voter_id": fake.uuid4()[:6],
-            "occupation": fake.job()
-        })
+dataset_B: public records (voter rolls, company directories, etc.)
+    full_name | city | age_range | occupation | other_attributes
 
-    return pd.DataFrame(forum_data), pd.DataFrame(public_data)
+# Attack:
+for each user in dataset_A:
+    candidate_matches = find records in dataset_B where:
+        city matches dataset_A.city
+        AND age_range matches dataset_A.age_range
 
-# --- Linkage Attack Simulation ---
-def linkage_attack(forum_df, public_df):
-    """Demonstrate how overlapping attributes can reveal identities."""
-    # Step 1: Find common cities and age ranges
-    common_locations = set(forum_df["location"]).intersection(set(public_df["residence"]))
-    potential_matches = []
-
-    # Step 2: Cross-reference attributes
-    for loc in common_locations:
-        forum_users = forum_df[forum_df["location"] == loc]
-        public_records = public_df[public_df["residence"] == loc]
-
-        for _, forum_row in forum_users.iterrows():
-            matches = public_records[
-                (public_records["age_range"] == forum_row["age_range"])
-            ]
-            if not matches.empty:
-                potential_matches.append({
-                    "forum_hash": forum_row["user_hash"],
-                    "public_name": matches.iloc[0]["full_name"],
-                    "location": loc,
-                    "age_range": forum_row["age_range"],
-                    "confidence": "High" if len(matches) == 1 else "Medium"
-                })
-
-    return pd.DataFrame(potential_matches)
-
-# --- Run Simulation ---
-if __name__ == "__main__":
-    # Generate and link datasets
-    forum_df, public_df = generate_dataset()
-    matches = linkage_attack(forum_df, public_df)
-
-    print("\n--- Linkage Attack Results ---")
-    print(f"Matched {len(matches)} pseudonymous users to public records:")
-    print(matches.head(3))
-
-    # Export for analysis (optional)
-    forum_df.to_csv("forum_data.csv", index=False)
-    public_df.to_csv("public_data.csv", index=False)
-    matches.to_csv("linkage_results.csv", index=False)
+    if exactly one candidate_match:
+        confidence = "high"
+        inferred_identity = candidate_match.full_name
+    if multiple candidates:
+        confidence = "medium"
+        apply additional attributes to narrow further:
+            posting_time vs. work_schedule
+            topic_preferences
+            writing_style
 ```
 
-## Key components explained:
+Each additional quasi-identifier reduces the number of candidates. City and age range alone may leave dozens of possibilities. Add posting time patterns and the field narrows. Add topic preferences and it narrows further. The combination of individually unremarkable attributes converges on a specific person.
 
-Synthetic Data Generation:
+## What this reveals
 
-* Uses Faker to create realistic but fake datasets:
-  * Forum posts with pseudonymized IDs, timestamps, and metadata
-  * Public records with names, locations, and demographics
+Latanya Sweeney's landmark research, published in 2000, demonstrated that 87% of Americans could be uniquely identified from only three attributes: zip code, date of birth, and sex. None of those is a name. All of them appear routinely in "anonymised" health records, research datasets, and government data releases.
 
-Linkage Logic:
+The implications are significant for any organisation that releases aggregated or anonymised datasets. Releasing a medical dataset with names removed, ages and postcodes intact, alongside a voter roll that contains ages and postcodes, creates the conditions for re-identification without either dataset being inherently sensitive. The risk is not in the individual datasets but in their combination.
 
-* Joins datasets on overlapping attributes (location + age_range)
-* Assigns confidence scores based on uniqueness of matches
+This is also the mechanism behind many data broker profiles: no single source contains a complete picture, but combining purchases, location history, browsing data, and public records creates one that is effectively comprehensive.
 
-Privacy Implications:
+## Defences
 
-* Shows how even "anonymized" data can be re-identified
-* Highlights risks of publishing datasets with overlapping attributes
-
-## Ethical note
-
-This code is for educational use only. Always obtain proper consent and anonymise data properly in real-world scenarios.
-
-## Enhancements that can be added
-
-* Temporal analysis: Link users based on posting times vs. work schedules
-* Behavioural patterns: Correlate writing style or topic preferences
-* Differential privacy: Add noise to see how it disrupts linkage
+Differential privacy adds calibrated noise to aggregate statistics in a dataset, making it possible to publish useful results while providing mathematical guarantees against re-identification. Data minimisation, collecting and publishing only the attributes genuinely necessary for the stated purpose, reduces the surface available for linkage. Generalising attributes before release, publishing age ranges rather than ages, city rather than postcode, reduces quasi-identifier precision. The appropriate level of generalisation depends on the size of the population and the number of other available datasets, which makes this a calculation rather than a policy.

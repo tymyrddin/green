@@ -1,114 +1,40 @@
 # AI-powered behavioural profiling
 
-Creating AI-powered behavioural profiling based on social media information involves extracting user data, processing 
-it with machine learning models, and profiling user behaviour. The following example assumes working with text data 
-(e.g., posts or tweets), and uses sentiment analysis and clustering to create behavioural profiles based on social 
-media posts. This is a simplified example to demonstrate the concept.
+The content of what someone posts is only one layer. The patterns beneath it are legible to a machine learning model trained to read them: the times of posting, the topics that recur, the emotional register sustained across a period of time, the vocabulary, the rhythm. A behavioural profiling system reads posts as data rather than as text. It does not try to understand what someone means. It measures what they produce, statistically, and assigns them a category.
 
-In a real-world scenario, access to APIs (such as Twitter API, Facebook Graph API, or Instagram API) is needed to 
-collect data from users' social media profiles. For this demo a mock dataset of social media posts and some basic AI 
-techniques are used to analyse sentiment and cluster behaviour.
+## How it works
 
-```python
-import pandas as pd
-from textblob import TextBlob
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans
-import nltk
-
-# Sample social media posts
-data = {
-    'username': ['user1', 'user2', 'user3', 'user1', 'user2', 'user3'],
-    'post': [
-        'I love hiking in the mountains!',
-        'So tired of the endless work. When is this going to end?',
-        'Exploring new places is always exciting.',
-        'Feeling so down today, everything is going wrong.',
-        'Had a great weekend with friends. Life is good!',
-        'I hate when people are rude. It ruins my day.'
-    ]
-}
-
-# Create a DataFrame
-df = pd.DataFrame(data)
-
-# 1. Sentiment Analysis using TextBlob
-def get_sentiment(text):
-    blob = TextBlob(text)
-    # Polarity is a value between -1 (negative) to 1 (positive)
-    return blob.sentiment.polarity
-
-df['sentiment'] = df['post'].apply(get_sentiment)
-
-# 2. Behaviour Profiling using KMeans Clustering based on TF-IDF vectors
-vectorizer = TfidfVectorizer(stop_words='english')
-X = vectorizer.fit_transform(df['post'])
-
-# Apply KMeans clustering (3 clusters for simplicity)
-kmeans = KMeans(n_clusters=3, random_state=0).fit(X)
-
-# Add cluster labels to DataFrame
-df['cluster'] = kmeans.labels_
-
-# 3. Analysing Profiles
-# You can group posts by cluster and check out the sentiment distribution for each group
-profile = df.groupby('cluster').agg(
-    num_posts=('post', 'count'),
-    avg_sentiment=('sentiment', 'mean')
-).reset_index()
-
-print("User Profiles (Based on Clusters):")
-print(profile)
-
-# 4. Display Sentiment and Post Details
-print("\nPost Details with Sentiment and Cluster:")
-print(df[['username', 'post', 'sentiment', 'cluster']])
-```
-
-## Explanation
-
-Sentiment analysis:
-
-The `TextBlob` library is used to compute the sentiment of each post. Sentiment polarity is a float value where `-1` 
-represents negative sentiment, `0` represents neutral, and `1` represents positive sentiment. This helps understand 
-the emotional tone of the user's posts.
-
-Behaviour profiling (Clustering):
-
-The `TfidfVectorizer` is used to convert the text data into numerical vectors (term frequency-inverse document 
-frequency). This vectorises the posts and removes stop words (commonly used words like "the", "is", "and").
-
-`KMeans` clustering is applied to group the posts into clusters based on the content. Each cluster represents a 
-behavioural profile, e.g., positive, negative, or neutral themes.
-
-User profile creation:
-
-After applying `KMeans`, each post is associated with a cluster and the average sentiment for each cluster is 
-calculated. This gives a basic profile of different types of behaviour, such as "positive", "neutral", or "negative" 
-users.
-
-## Output
+The process has two stages. The first assigns a sentiment value to each post: a numerical score reflecting how positive or negative the content is. The second converts the words into vectors and groups similar vectors into clusters, each cluster representing a behavioural pattern.
 
 ```
-User Profiles (Based on Clusters):
-   cluster  num_posts  avg_sentiment
-0        0          2       0.675000
-1        1          2      -0.425000
-2        2          2      -0.150000
+# Stage 1: Sentiment scoring
+for each post in user_history:
+    sentiment_score = analyse(post.text)
+    # result is a float: -1.0 (negative) to +1.0 (positive)
+    store(user_id, post_timestamp, sentiment_score)
 
-Post Details with Sentiment and Cluster:
-  username          post                                    sentiment              cluster
-0    user1          I love hiking in the mountains!    0.500000        0
-1    user2          So tired of the endless work. When is this going to end?    -0.500000        1
-2    user3          Exploring new places is always exciting.    0.500000        0
-3    user1          Feeling so down today, everything is going wrong.    -0.600000        1
-4    user2          Had a great weekend with friends. Life is good!    0.600000        0
-5    user3          I hate when people are rude. It ruins my day.    -0.500000        1
+# Stage 2: Topic and behaviour clustering
+for each post:
+    feature_vector = TF_IDF_transform(post.text)
+    # converts text to a numerical representation of topic/word patterns
 
+run K_means_clustering on all feature_vectors
+assign each post to a cluster
+
+# Build user profile:
+dominant_cluster = most frequent cluster for this user
+average_sentiment = mean of sentiment scores over time
+topic_map = most prominent terms across this user's feature_vectors
 ```
 
-### Profiling results
+A user who posts frequently about work frustration, weekend socialising, and outdoor activities will generate a profile with a characteristic shape: negative sentiment spikes mid-week, positive spikes on weekends, topics clustering around professional stress and leisure. Mapped across millions of users, these profiles sort people into categories.
 
-* Cluster 0 has positive sentiments (e.g., love for hiking, excitement about exploring new places).
-* Cluster 1 has negative sentiments (e.g., frustration with work, feeling down).
-* Cluster 2 could represent a neutral profile (although in this case, it has fewer posts and thus is harder to analyse).
+## What this reveals
+
+The profile is not a psychological assessment in the clinical sense. It is a statistical approximation that is useful for commercial and political targeting at scale. An advertiser with a profile labelled "high stress, physically active, 30-40 age range" can target that person specifically. A political operation with a profile labelled "politically disengaged, economic anxiety, suburban" can target them with tailored messaging.
+
+The person did not consent to being categorised. In many cases the posts were public. In others the data was purchased from data brokers, obtained through leaked datasets, or collected through embedded tracking on sites the person visited. The Cambridge Analytica affair demonstrated this pattern at scale: Facebook likes served as the input, personality profiles as the output, and targeted political advertising as the use. Accuracy was imperfect. Accuracy did not need to be perfect.
+
+## Defences
+
+Behavioural profiling at this level operates on aggregate patterns over time. Reducing the volume and consistency of publicly available data limits profile quality. Using separate accounts for different contexts prevents the aggregation of behaviour from multiple areas of life into a single profile. Being aware that public posts are training data for systems the poster never sees is a useful frame for deciding what to share and where.

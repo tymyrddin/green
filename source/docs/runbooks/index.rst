@@ -1,5 +1,5 @@
-Runbooks: when something goes wrong
-=====================================
+Runbooks: step-by-step procedures
+===================================
 
 Reactive procedures for specific incidents: something has happened, or is happening,
 and you need to know the sequence of steps to contain it, assess the damage, and recover.

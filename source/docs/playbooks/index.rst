@@ -1,5 +1,5 @@
-Playbooks: what you could do
-================================
+Playbooks: when judgement is required
+======================================
 
 Proactive guides for achieving a goal: reducing your exposure, protecting your data,
 building secure habits, and running the procedures that keep things clean. Each playbook

@@ -9,7 +9,7 @@ landscapers, and algorithmic weeds all want to catalog, clone, or crush your fra
 
 .. toctree::
    :glob:
-   :maxdepth: 1
+   :maxdepth: 2
    :includehidden:
 
    docs/threat-models/index

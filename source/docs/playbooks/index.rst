@@ -19,7 +19,6 @@ answers the question "We need to achieve something. How do we do it?"
    vpn
    blocks
    chrome
-   vlan
    payment
    files
    bigbrother

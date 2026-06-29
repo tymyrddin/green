@@ -10,5 +10,6 @@ objectives, techniques, and impacts for a defined scope.
    :includehidden:
 
    deanonymisation/index
+   infrastructure-aggregation/index
    poweron/index
    surveillance/index

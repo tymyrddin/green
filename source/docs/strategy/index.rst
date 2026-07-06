@@ -1,9 +1,11 @@
 Defensive strategies
 ====================
 
-These pages offer possible responses to the threats described in the models elsewhere in this greenhouse.
-They are organised by who is doing the defending, because the constraints, resources, and adversaries
-differ enough that a single set of recommendations would be dishonest.
+.. image:: /_static/images/defensive-strategies.png
+
+Some possible responses to the threats described in the models elsewhere in this greenhouse. Organised by who is doing
+the defending, because the constraints, resources, and adversaries differ enough that a single set of recommendations
+would be dishonest.
 
 .. toctree::
    :glob:

@@ -1,6 +1,6 @@
 # Audit and revoke shared account access
 
-Relationships accumulate shared digital access over time. Family sharing plans, shared streaming logins, cloud storage with shared folders, smart home applications, location sharing features: most of this was set up in good faith and is not visible as a single list anywhere. This playbook works through it systematically.
+Relationships accumulate shared digital access over time. Family sharing plans, shared streaming logins, cloud storage with shared folders, smart home applications, location sharing features: most of this was set up in good faith and is not visible as a single list anywhere.
 
 Do this from a device and network you trust. Removing shared access may be visible to the other person: notifications can alert them when they are removed from a family plan or when a shared location stops updating. Time this according to your overall safety plan, not in isolation.
 

@@ -46,7 +46,7 @@ For sensitive actions, such as removing admin access from an active user, confir
 
 ## Document
 
-Record what was reviewed, what was found, and what was done, with a date. This creates accountability for the decisions and a baseline for the next review, so the environment can be tracked as it improves or degrades.
+Record what was reviewed, what was found, and what was done, with a date. This creates accountability for the decisions and a baseline for the next review.
 
 Keep this documentation somewhere reachable during an incident, not only in a system that the people who need it may be locked out of.
 

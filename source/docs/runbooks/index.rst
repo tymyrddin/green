@@ -1,9 +1,7 @@
 Runbooks: step-by-step procedures
 ===================================
 
-Reactive procedures for specific incidents: something has happened, or is happening,
-and what is needed is the sequence of steps to contain it, assess the damage, and recover.
-Each runbook answers the question "Something is broken. How do I fix it?"
+A runbook carries a single procedure that runs the same way every time.
 
 .. toctree::
    :glob:

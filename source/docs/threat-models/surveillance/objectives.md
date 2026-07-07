@@ -2,7 +2,7 @@
 
 Nation-state surveillance does not have a single objective. The same infrastructure
 serves different purposes for different agencies, in different political contexts, and
-at different moments. Understanding the objectives is important because the objective
+at different moments. The objective
 determines who is targeted, what counts as success, and what collateral effects are
 considered acceptable.
 

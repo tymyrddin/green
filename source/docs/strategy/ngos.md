@@ -2,89 +2,32 @@
 
 ![NGO's](/_static/images/ngos.png)
 
-An organisation that contests power inherits the adversaries of the powerful. For civil society, human rights,
-environmental advocacy, political reform, the threat landscape is not general commercial exposure with the volume
-turned up. The adversaries are different in kind: state intelligence services, law enforcement with function-creep
-tendencies, private investigators retained by opponents, and in some jurisdictions criminal actors working at the
-instruction of state or corporate interests.
+An organisation that contests power inherits the adversaries of the powerful. The assets at risk are not
+only organisational data; they are the people in the network, the individuals who shared information, sought
+support, or took part in activities that could expose them to retaliation. A breach that exposes a beneficiary
+list is not a data governance failure. It is a harm to real people who trusted the organisation with their
+safety.
 
-The assets at risk are not only organisational data. They include the people in your network: the
-individuals who shared information, sought support, or participated in activities that could expose
-them to retaliation. A breach that exposes a beneficiary list is not a data governance failure. It is
-a harm to real people who trusted the organisation with their safety.
+The organisation is also the route to them. An adversary who cannot reach an activist directly may reach them
+through the organisations they deal with, often not through a technical exploit but through a staff member who
+opens a convincing message appearing to come from a partner, a funder, or a journalist. Capacity is
+constrained as well: most civil society organisations run on budgets that do not stretch to a security team,
+so guidance written for a well-resourced company does not transfer. That is not a gap to apologise for. It is
+a constraint to design around.
 
-## What makes the threat model different
+## From concern to action
 
-The [deanonymisation](../threat-models/deanonymisation/index.rst) and [surveillance](../threat-models/surveillance/index.rst)
-threat models describe how data can be used to re-identify and
-profile people. For civil society organisations, the attack surface includes those models plus
-several others.
-
-Organisations are targeted precisely because of their work. An adversary that cannot directly
-observe an activist's communications may attempt to reach them through the organisations they
-interact with. Donor records, beneficiary databases, internal strategy documents, and staff
-communications are all potentially useful to adversaries with enough patience and access.
-
-The legitimate appearance of the organisation can be used against it. A targeted NGO is not
-necessarily compromised through a technical exploit. It may be compromised through a staff member
-who receives a convincing phishing email appearing to come from a partner organisation, a funder,
-or a journalist requesting comment.
-
-Capacity is constrained. Most civil society organisations operate on budgets that do not allow
-for dedicated security teams. The guidance that applies to a well-resourced technology company is
-not automatically transferable. This is not a gap to apologise for. It is a constraint to design
-around.
-
-## Structural defences
-
-### Compartmentalisation
-
-Not everyone needs access to everything. Beneficiary data, donor data, internal strategy
-discussions, and operational security information each have different sensitivity levels and
-different consequences if exposed. Access should be structured to match need, not convenience.
-
-The practical implementation of this is often resisted on grounds of friction or culture. The
-friction is real. The alternative, a single breach that exposes everything because nothing was
-segmented, is worse. Compartmentalisation does not require sophisticated tooling. It requires
-deliberate decisions about who can see what, and follow-through in how systems are configured.
-
-### Secure communications
-
-Establish a baseline for internal communications: what is used for what, and why. Staff who are
-uncertain which tool is appropriate for sensitive conversations will make inconsistent choices.
-A policy that is explicit, brief, and actually followed is more useful than a comprehensive
-framework that is ignored under time pressure.
-
-For sensitive external communications, encrypted channels should be the default rather than the
-exception. The person reaching out with a sensitive disclosure or request should not have to ask
-for secure contact. It should be visible and easy.
-
-For travel to high-risk jurisdictions, anticipate that devices may be subject to inspection or
-seizure. Travel with clean devices where possible. Know in advance what you would do if a device
-were confiscated.
-
-### Beneficiary data
-
-If you hold data about people who could face harm from its exposure, you have a protection
-obligation that extends beyond regulatory compliance.
-
-Minimise what you collect. The data you do not hold cannot be taken. If you do not need a
-beneficiary's full name for the purpose at hand, do not record it. If you do not need location
-data, do not collect it. If you need it temporarily, delete it when the need passes.
-
-Where data must be held, encrypt it, restrict access to it, and plan for what happens if the
-organisation is compelled by legal process to disclose it or is the subject of a breach.
-
-### Incident response
-
-Know what you will do before it happens. An organisation that discovers a breach during a crisis
-and has to invent a response from scratch will make worse decisions than one that has thought
-through the scenario in advance.
-
-An incident response plan does not need to be long. It needs to answer: who decides what to do,
-who communicates with whom, when do you tell affected people, and who can you call for help.
-Digital Defenders Partnership, Access Now's Digital Security Helpline, and Front Line Defenders
-all provide support to civil society organisations facing active threats.
+| Concern                                                                                | What can help                                                                                                                                                                                                                                 |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A beneficiary or donor list becoming a harm to the people who trusted the organisation | [Minimise what is collected](../playbooks/minimise.md), [keep names separate from the data](../playbooks/identity.md), [audit what is held](../playbooks/data-audit.md)                                                                       |
+| Internal or external communications read by an adversary                               | [Encrypted messaging](../playbooks/messaging.md), [email privacy](../playbooks/email.md), [device encryption](../runbooks/device-encryption.md)                                                                                               |
+| Devices searched or seized crossing into a hostile jurisdiction                        | [Prepare devices for travel](../playbooks/travel-devices.md), [what to do after a seizure](../runbooks/device-seizure.md)                                                                                                                     |
+| A staff device suspected of being monitored                                            | [PiRogue and Wazuh](../playbooks/pirogue-wazuh.md), [a spare Android as a traffic monitor](../playbooks/pcapdroid.md), [DNS-level detection](../playbooks/dns-detection.md), [suspected device compromise](../playbooks/device-compromise.md) |
+| A supplier or platform the organisation depends on becoming the way in                 | [Assess a vendor's security](../playbooks/vendor-assessment.md), [respond to a vendor breach](../runbooks/vendor-breach.md)                                                                                                                   |
+| A legal or state demand for the data held                                              | [Responding to a legal demand](../runbooks/legal-demand.md)                                                                                                                                                                                   |
+| A breach exposing what the organisation holds                                          | [Respond to a suspected breach](../runbooks/breach-response.md)                                                                                                                                                                               |
+| A staff member or someone in the network doxxed                                        | [Doxxing response](../runbooks/doxxing-response.md)                                                                                                                                                                                           |
+| Data encrypted now, read once the cryptography breaks                                  | [Quantum-resistant encryption](../playbooks/quantum.md)                                                                                                                                                                                       |
 
 ## Culture under pressure
 
@@ -120,32 +63,9 @@ contained.
 Solidarity between organisations matters here. Shared threat intelligence, shared incident
 response resources, and mutual support when an organisation is under attack are not just
 nice-to-haves. They are structural defences against adversaries who benefit from civil society
-operating in isolation.
+operating in isolation. Digital Defenders Partnership, Access Now's Digital Security Helpline,
+and Front Line Defenders all support organisations facing active threats.
 
 The power asymmetry between the organisations described in the surveillance threat model and
 most NGOs is real. Accepting that asymmetry as fixed is not required. Collective action at
 regulatory and legislative level has reshaped data protection law before. That work continues.
-
-## Playbooks
-
-* [Use encrypted messaging](../playbooks/messaging.md)
-* [Enable device encryption](../runbooks/device-encryption.md)
-* [Protect your email privacy](../playbooks/email.md)
-* [Minimise long-term data storage](../playbooks/minimise.md)
-* [Keep anonymous data separate from your identity](../playbooks/identity.md)
-* [Understand quantum-resistant encryption](../playbooks/quantum.md)
-* [Prepare devices for high-risk travel](../playbooks/travel-devices.md)
-* [Audit what data you hold](../playbooks/data-audit.md)
-* [Assess third-party vendor security](../playbooks/vendor-assessment.md)
-* [Detect stalkerware using PiRogue and Wazuh](../playbooks/pirogue-wazuh.md)
-* [Monitor device traffic with a spare Android phone](../playbooks/pcapdroid.md)
-* [Detect stalkerware using DNS monitoring](../playbooks/dns-detection.md)
-
-## Runbooks
-
-* [Respond to a suspected data breach](../runbooks/breach-response.md)
-* [Suspected device compromise](../playbooks/device-compromise.md)
-* [Doxxing response](../runbooks/doxxing-response.md)
-* [Responding to a legal demand for data](../runbooks/legal-demand.md)
-* [Vendor breach response](../runbooks/vendor-breach.md)
-* [After device seizure](../runbooks/device-seizure.md)

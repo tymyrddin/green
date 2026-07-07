@@ -5,7 +5,7 @@ from the inside.
 
 ## Legal vectors
 
-The most important attack surface in this model is not technical. It is legal. The
+The most important attack surface is not technical. It is legal. The
 existence of legal access mechanisms means that the question is not "how do they get
 in" but "under what conditions is the door already open."
 

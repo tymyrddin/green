@@ -1,6 +1,6 @@
 # Enable two-factor authentication
 
-A password on its own is one gate. Two-factor authentication (2FA) adds a second, so that knowing the password is no longer enough to get in. Even a password leaked in a breach is not enough on its own: an attacker without the second factor cannot log in.
+A password on its own is one gate. Two-factor authentication (2FA) adds a second, so that knowing the password is no longer enough to get in.
 
 SMS-based 2FA is better than nothing, but it is the weakest form available, vulnerable to SIM-swapping, where an attacker persuades a mobile carrier to move the number to a device they control. An authenticator app is preferable wherever possible.
 

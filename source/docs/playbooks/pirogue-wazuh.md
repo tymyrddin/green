@@ -1,6 +1,6 @@
 # Detect stalkerware using PiRogue and Wazuh
 
-This playbook describes setting up a low-cost network monitoring station that can detect patterns consistent with stalkerware and spyware on a suspect device. It uses two open-source tools: the PiRogue Tool Suite on a Raspberry Pi, which creates an instrumented WiFi access point and analyses all traffic passing through it, and Wazuh on an old PC, which collects, stores, and correlates the alerts PiRogue produces over time.
+A low-cost network monitoring station can detect patterns consistent with stalkerware and spyware on a suspect device. It uses two open-source tools: the PiRogue Tool Suite on a Raspberry Pi, which creates an instrumented WiFi access point and analyses all traffic passing through it, and Wazuh on an old PC, which collects, stores, and correlates the alerts PiRogue produces over time.
 
 This setup is intended for support workers, technically capable individuals helping a survivor check a device, or small organisations that handle sensitive device assessments. It requires some comfort with Linux and a willingness to follow documentation carefully. It is not a point-and-click solution.
 

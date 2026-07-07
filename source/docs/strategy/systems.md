@@ -6,11 +6,10 @@ Threat models are reductive by design. They name assets, adversaries, objectives
 order to make the problem tractable. The cost is that they do not capture effects that are diffuse,
 slow-moving, emergent, or that operate across multiple layers simultaneously.
 
-This page is an attempt to name some of those effects. It does not offer mitigations for all of
-them. Some are structural conditions, not problems that can be solved by any actor at an individual
-or organisational level. Naming them matters because ignoring them produces a map of the problem
-that is too small, and decisions made on too small a map tend to optimise locally while the larger
-system continues to degrade.
+Some of those effects can be named, though not all come with mitigations. Some are structural
+conditions, not problems that can be solved by any actor at an individual or organisational level.
+Ignoring them produces a map of the problem that is too small, and decisions made on too small a map
+tend to optimise locally while the larger system continues to degrade.
 
 ## The chilling effect as a systemic output
 
@@ -129,8 +128,7 @@ regulatory model is producing this outcome consistently.
 
 There is a quieter version of this failure that sits with the analyst rather than the model:
 counsel that keeps validating the decision already taken, so that analysis becomes cover instead
-of advice. That is its own craft, and it is treated separately in the
-[thirteenth chair](https://purple.tymyrddin.dev/docs/thirteen/).
+of advice. That is its own [craft](https://purple.tymyrddin.dev/docs/thirteen/).
 
 ## The question of who benefits
 

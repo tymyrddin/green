@@ -4,7 +4,7 @@ Welcome to the great digital trade-off: cat videos in one direction, data in the
 
 Marketers bid more for a person's attention than anyone would ever pay for the content being consumed, and the system knows it. The result is a public surrounded by cookies nobody asked for, tracked by pixels nobody can see, and apparently fine with it because the website loaded half a second faster. The garden is not gated. It is wide open, and every visit is taken as agreement to that.
 
-## What consent is supposed to mean
+## Meaningful consent
 
 Meaningful consent has three properties. It is informed: the person knows what they are agreeing to, in plain language, before agreeing to anything. It is specific: they have consented to this use of their data, not to a vague intention to use it for "service improvement and related purposes." And it is revocable: they can withdraw it, and something actually changes when they do.
 

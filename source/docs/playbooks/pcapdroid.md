@@ -1,6 +1,6 @@
 # Monitor device traffic with a spare Android phone
 
-This playbook describes using a spare Android phone as a WiFi hotspot and running PCAPdroid on it to capture and analyse all traffic from a suspect device. It requires no specialised hardware beyond a second Android phone, and no modifications to the device being checked.
+A spare Android phone running PCAPdroid as a WiFi hotspot can capture and analyse all traffic from a suspect device. It requires no specialised hardware beyond a second Android phone, and no modifications to the device being checked.
 
 The phone acting as the monitor runs PCAPdroid. The suspect device connects to the hotspot that phone creates, and PCAPdroid captures all the traffic passing through it. You can then inspect that traffic, or export it for analysis elsewhere.
 
@@ -20,7 +20,7 @@ On the spare Android phone, go to Settings, then Network and internet, then Hots
 
 Install PCAPdroid on the spare phone from the Play Store or F-Droid. Open it. On the main screen, set the capture mode to Root or, if the phone is not rooted, VPN mode. VPN mode does not require root and works for most purposes, though it captures the spare phone's own traffic rather than traffic from connected devices.
 
-For capturing traffic from connected devices on an unrooted phone, you need a different approach: PCAPdroid can capture traffic that passes through it only when it acts as a VPN on the same device. To capture a connected device's traffic without root, see the note below on traffic mirroring.
+For capturing traffic from connected devices on an unrooted phone, you need a different approach: PCAPdroid can capture traffic that passes through it only when it acts as a VPN on the same device.
 
 On a rooted spare phone, PCAPdroid can run in traffic capture mode that intercepts all packets on the hotspot interface. This gives you a full view of everything the suspect device sends and receives.
 

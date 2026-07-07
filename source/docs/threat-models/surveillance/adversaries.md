@@ -2,10 +2,8 @@
 
 The adversaries in this model are not the hooded figures of popular imagination. Most
 of them have offices, legal mandates, oversight committees of varying rigour, and
-annual budgets that appear in parliamentary documents. That is what makes this threat
-model structurally different from the others in this series: the entities doing the
-harvesting are, in many cases, the same entities responsible for the legal framework
-that permits it.
+annual budgets that appear in parliamentary documents. The entities doing the harvesting
+are, in many cases, the same entities responsible for the legal framework that permits it.
 
 ## Domestic intelligence agencies
 
@@ -38,7 +36,7 @@ Adversarial foreign agencies (Russian SVR/FSB, Chinese MSS, Iranian MOIS, and ot
 conduct surveillance and espionage operations against EU citizens, civil society,
 companies, and government institutions through a range of technical and human means.
 Much of the most capable technical tooling, however, belongs to no single state. It is
-bought, and it is covered separately below.
+bought.
 
 The foreign agency adversary is the one with the fewest domestic legal constraints
 and the most varied technical capability.
@@ -60,11 +58,11 @@ government that will pay.
 
 Law enforcement agencies are distinct from intelligence agencies in most EU jurisdictions
 and operate under stricter legal frameworks with clearer judicial oversight requirements.
-However, they are relevant to this model for two reasons.
+However, they are relevant for two reasons.
 
 First, data collected by intelligence agencies can be and in some cases is passed to
 law enforcement for use in prosecutions, often through the mechanism of parallel
-construction (described in the attacks section). The legal threshold for collection
+construction. The legal threshold for collection
 and the legal threshold for use in prosecution are handled separately.
 
 Second, law enforcement agencies have expanded their own data collection capabilities,
@@ -95,7 +93,7 @@ targeting specific individuals for intelligence purposes. They are conducting su
 in the sense of systematically collecting, processing, and selling information about
 human behaviour at scale.
 
-Their relevance to this model is that they supply the state. Government agencies purchase
+They supply the state. Government agencies purchase
 data from brokers. Intelligence agencies can access platform data through legal instruments
 or informal cooperation. The commercial layer extends state visibility into domains that
 would otherwise require intrusive technical operations and legal authorisation, and it

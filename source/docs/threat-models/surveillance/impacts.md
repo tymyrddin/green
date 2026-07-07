@@ -1,9 +1,9 @@
 # Impacts
 
 Surveillance does not need to act to be effective. The awareness of its possibility
-changes behaviour. The awareness of its certainty changes more. The impacts here are
-layered because the consequences of the same surveillance infrastructure are materially
-different depending on who a person is and what they do.
+changes behaviour. The awareness of its certainty changes more. The consequences of the
+same surveillance infrastructure are materially different depending on who a person is
+and what they do.
 
 ## Individuals
 
@@ -55,7 +55,7 @@ internal communications may be accessed constrains what can be discussed and how
 Reputational and funding attacks: intelligence about internal disagreements, financial
 pressures, or sensitive cases can be used to generate public-facing attacks, trigger
 regulatory investigations, or pressure donors. This is the functional equivalent of
-the disinformation operations described in the deanonymisation model, with state
+the disinformation operations in the deanonymisation model, with state
 resources behind it.
 
 ## Companies

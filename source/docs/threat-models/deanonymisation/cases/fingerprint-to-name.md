@@ -4,7 +4,7 @@ Browser fingerprinting identifies a device with no cookie, no login and no conse
 technical traits. For years the open question was whether anyone actually used it to track people, and whether it could
 be joined to a real identity. Both are now answered.
 
-## What the research shows
+## The research
 
 A browser fingerprint is built from a device's configuration: its GPU and how it renders graphics, its fonts, screen
 resolution, audio hardware, timezone and language. The combination is distinctive enough that foundational research

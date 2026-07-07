@@ -4,7 +4,7 @@ Even the most carefully tended greenhouse can be ruined if someone tampers with 
 simply barges in and starts tagging the petunias. The impacts of privacy breaches and data misuse are not just
 theoretical. They are personal, structural, and often quietly devastating.
 
-Here is what can go wrong when the data compost heap is turned over too eagerly. Sections marked ↑ describe risks that
+Sections marked ↑ describe risks that
 are growing; those marked ↓ describe things being eroded.
 
 ## ↑ Data
@@ -26,7 +26,7 @@ weeds. Models with high bias do not benefit from more training data; they need c
 are overgrown and want fewer features and more control. And complex models can become so entangled they cannot scale,
 the digital equivalent of a vine strangling its own trellis.
 
-In short: an analytics garden full of noise is not improved by turning up the volume. The skill is in listening better.
+In short: an analytics garden full of noise is not improved by turning up the volume.
 
 ## ↑ Bias and discrimination
 
@@ -81,8 +81,7 @@ Smart devices watch habits: what is watched, when someone sleeps, how often the 
 tracks the body itself, heart rate, sleep cycles, even fertility, and insurance companies are taking notes.
 
 Surveillance exists because it is cheap and easy, and because fear pays. Governments surveil to control; corporations
-surveil to profit; both say it is for everyone's safety. Where the state is the one watching,
-the [surveillance model](../surveillance/index.rst) sets out how that works and what permits it.
+surveil to profit; both say it is for everyone's safety. Where the state is the one watching, the ground shifts to the [surveillance model](../surveillance/index.rst).
 
 When every aspect of a life can be monitored, logged, and monetised, privacy is not just under threat. It is being
 composted.
@@ -97,8 +96,7 @@ metadata or cross-referenced with other data sources.
 LLMs trained on scraped web data have been shown to memorise fragments of their training corpora, including personally
 identifiable information, and can sometimes be induced to reproduce them. The model itself becomes a data leak,
 independent of what security controls surround the original training data. And the same models turned outward infer
-identity from ordinary writing, as the [techniques](techniques.md) page and
-the [LLM-inference case](cases/llm-inference.md) describe.
+identity from ordinary writing ([techniques](techniques.md), [LLM-inference case](cases/llm-inference.md)).
 
 See also: [AI profiling techniques](../../code/ai-profiling.md).
 
@@ -108,8 +106,7 @@ Laws exist. Sort of. But the weeds grow faster than the hedges.
 
 The GDPR tries to impose order in the private sector, but it does not prevent EU member states from running their own
 programmes. Law enforcement and intelligence agencies operate under different frameworks entirely, and the garden gate
-does not close neatly across borders. That national-security gap is the subject of
-the [surveillance model's legal landscape](../surveillance/landscape/the-gdpr-hole.md).
+does not close neatly across borders, a [national-security gap](../surveillance/landscape/the-gdpr-hole.md) the GDPR leaves open.
 
 Jurisdictional arbitrage is a related problem: companies and adversaries route data processing through whichever legal
 framework offers the least resistance, making regulation that applies clearly in one country effectively optional in
@@ -130,7 +127,7 @@ balance of power is even partially contested. The ePrivacy regulation promised t
 possibly more stringent than the GDPR; after eight years of deadlock, the Commission withdrew the proposal in 2025. Not
 a new hedge after all, just a decorative trellis that never left the catalogue.
 
-The direction of travel turned in late 2025. The Commission's Digital Omnibus, presented as simplification, would narrow the definition of personal data, open a legitimate-interest route to training AI on people's content, and loosen the consent required to read data from a device; the [surveillance model's deregulation turn](../surveillance/landscape/the-deregulation-turn.md) sets it out in full. For a page about protections being eroded, that is the clearest sign yet that the erosion is being written into law rather than merely tolerated.
+The direction of travel turned in late 2025. The Commission's Digital Omnibus, presented as simplification, would narrow the definition of personal data, open a legitimate-interest route to training AI on people's content, and loosen the consent required to read data from a device (the [deregulation turn](../surveillance/landscape/the-deregulation-turn.md) in full). That is the clearest sign yet that the erosion is being written into law rather than merely tolerated.
 
 As companies entrench their position with proprietary datasets, competition policy is starting to notice. Who controls
 the data controls the future, and the regulators are finally waking up.
@@ -153,7 +150,7 @@ A postcode given for delivery is now used to set an insurance premium. A liked t
 someone as vulnerable to an algorithm. A face uploaded to an app now trains someone else's facial recognition system.
 
 Consent is not just "I clicked agree." Real consent is informed, specific, and revocable. The current system pretends at
-consent but delivers functional coercion, as the [consent](consent.md) page sets out.
+consent but delivers functional [coercion](consent.md).
 
 ## ↑ Global inequity
 

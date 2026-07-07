@@ -46,4 +46,4 @@ Construction status and procedural updates expose timing. The system is not yet 
 
 Combined with public datasets for energy grids, transport, and communications, the Herwijnen file feeds something larger: a map of interdependencies between critical systems, of shared infrastructure nodes, of the support structures that several national capabilities draw from at once. The unit of analysis stops being one asset and becomes a network.
 
-For the structural argument and where this fits into policy, see [the strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/).
+The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the structural argument and where this fits into policy.

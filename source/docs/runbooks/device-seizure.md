@@ -2,7 +2,7 @@
 
 Trigger: your device has been seized, confiscated, or taken out of your control by
 authorities, at a border, or in any other circumstance where you could not prevent or
-control access to it. This runbook covers what to do after the fact.
+control access to it.
 
 If you are preparing for a trip where seizure is possible, see the
 [travel devices playbook](../playbooks/travel-devices.md) first.

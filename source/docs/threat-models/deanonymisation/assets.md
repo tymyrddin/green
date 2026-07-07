@@ -1,14 +1,13 @@
 # Assets
 
 Welcome to the greenhouse's hidden treasures: the juicy, leafy data crops adversaries are after.
-Whether tucked safely behind fences or left out for the taking, every dataset tells a story. Here
-is what is growing, and what makes each variety so appealing.
+Whether tucked safely behind fences or left out for the taking, every dataset tells a story.
 
 ## Data releases
 
 Data comes with different levels of greenhouse access. Sometimes it is just the head gardener
 poking about with good intentions. Other times, the gates are flung open and tourists can trample
-through at will. Here are the flavours:
+through at will.
 
 ### Internal secondary research
 
@@ -50,8 +49,7 @@ in the greenhouse.
 
 The main crop: the big, labelled "anonymised" but still suspiciously personal collection of records.
 The names and phone numbers are gone, replaced with techniques like k-anonymity. But with enough
-auxiliary information and determination, the roots are traceable. See [mitigations](mitigations.md)
-for what those techniques can and cannot do.
+auxiliary information and determination, the roots are traceable, whatever the [mitigations](mitigations.md) promise.
 
 ## Biometric data
 
@@ -119,8 +117,8 @@ Artificially generated records designed to mimic a real dataset without containi
 individuals. Increasingly used in healthcare and finance as a privacy-preserving alternative to
 sharing raw data.
 
-Synthetic data deserves its own entry here because it is an asset that carries concealed risk.
+Synthetic data is an asset that carries concealed risk.
 It is not automatically safe: generative models trained on small or unusual populations may
 reproduce identifying patterns; membership inference attacks can sometimes establish whether a
 particular individual's data contributed to the training process. "It is synthetic" is not a
-guarantee of safety. It is a starting point for a more careful conversation.
+guarantee of safety.

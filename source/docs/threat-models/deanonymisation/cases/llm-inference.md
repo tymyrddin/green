@@ -2,7 +2,7 @@
 
 The newest re-identification engine is the large language model, and it needs no leaked dataset to work. It reads ordinary writing and infers the author.
 
-## What the research shows
+## The research
 
 In 2023 researchers at ETH Zurich (Robin Staab, Mark Vero, Mislav Balunović and Martin Vechev) showed that current large language models can infer personal attributes, location, income, sex, age and more, from ordinary online text, at [up to 85% accuracy for the top guess and 95% within the top three](https://arxiv.org/abs/2310.07298), working from Reddit comments that carried no explicit personal detail. They did it at a fraction of the cost and time a human profiler would need. The paper, "Beyond Memorization: Violating Privacy via Inference with Large Language Models" (ICLR 2024), also tested the obvious defences and found them wanting: text-anonymisation tools and model alignment did not reliably stop the inference.
 

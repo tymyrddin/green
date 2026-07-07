@@ -3,7 +3,7 @@
 Genetic genealogy is re-identification through family. A person who never took a DNA test, and never consented to
 anything, can be identified because a cousin did.
 
-## How it works
+## The method
 
 Investigative genetic genealogy uploads a DNA profile, from a crime scene or in principle from anywhere, to a consumer
 genealogy database such as GEDmatch or FamilyTreeDNA,
@@ -19,7 +19,6 @@ giving law enforcement access to profiles whose owners had not agreed to it.
 ## Why it counts
 
 This is re-identification with a property the others do not have: it identifies people through their relatives, so
-consent by the individual is beside the point. It is the sharpest instance of the [consent problem](../consent.md) this
-model describes, one person's decision to test exposes a whole family tree, and it hands
+consent by the individual is beside the point. It is the sharpest instance of the [consent problem](../consent.md), one person's decision to test exposes a whole family tree, and it hands
 a [law-enforcement adversary](../adversaries.md) an identification method that needs no warrant against the target, only
 a distant cousin who once mailed off a saliva sample.

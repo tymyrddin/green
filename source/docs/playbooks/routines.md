@@ -2,11 +2,11 @@
 
 A greenhouse does not run itself. It needs regular, unhurried attention: a check here, a tidy there, the occasional deeper look at something that has been quietly not quite right for a while. None of it is difficult on its own. What makes the difference is whether it happens at all, and whether it becomes a habit rather than a reaction to something going wrong.
 
-The routines here follow the same logic. Each is small enough to complete in a single sitting. None requires specialist knowledge to begin. What they require is returning to them, which is easier when they feel like part of the rhythm of the place rather than items on a checklist. That is the spirit in which they are offered.
+Keeping a home private follows the same logic. Each routine is small enough to complete in a single sitting. None requires specialist knowledge to begin. What they require is returning to them, which is easier when they feel like part of the rhythm of the place rather than items on a checklist.
 
 ## Mapping the garden
 
-Once a month, take stock of every device, app and account in use. This need not be elaborate: a page in a notebook, a column in a spreadsheet, the back of an envelope. The point is to make the shape of the digital garden visible, because it is almost certainly larger and more varied than anyone carries in their head at any given moment. There will be accounts opened years ago and not thought about since. There will be apps that still hold permission to a location or a contact list for reasons that are no longer clear. There will be devices long out of use but never secured or cleared properly. Noting them down is the first step. Once the overgrowth is visible, it can be pruned.
+Once a month, take stock of every device, app and account in use. This need not be elaborate: a page in a notebook, a column in a spreadsheet, the back of an envelope. The point is to make the shape of the digital garden visible, because it is almost certainly larger and more varied than anyone carries in their head at any given moment. There will be accounts opened years ago and not thought about since. There will be apps that still hold permission to a location or a contact list for reasons that are no longer clear. There will be devices long out of use but never secured or cleared properly. Once the overgrowth is visible, it can be pruned.
 
 ## Weeding out weak stems
 
@@ -14,7 +14,7 @@ Passwords are the most frequently needed part of the garden and, in most househo
 
 ## Tidying the greenhouse
 
-Once a month, clear out the accumulation. Delete files no longer needed. Remove apps no longer used, particularly ones that retain permissions to location, contacts or microphone. Clear browser cookies and cache, or at least review which cookies are being carried from sites no longer visited. The digital equivalent of clutter is not inert: it is a set of channels that remain open, permissions that remain active, and data that sits available to whoever can reach it. A periodic tidy-up reduces the surface considerably, and it tends to produce the clarifying effect that a physical tidy-up produces: a clearer sense of what is actually there and what one is actually responsible for.
+Once a month, clear out the accumulation. Delete files no longer needed. Remove apps no longer used, particularly ones that retain permissions to location, contacts or microphone. Clear browser cookies and cache, or at least review which cookies are being carried from sites no longer visited. The digital equivalent of clutter is not inert: it is a set of channels that remain open, permissions that remain active, and data that sits available to whoever can reach it. A periodic tidy-up reduces the surface considerably.
 
 ## Checking the fences and gates
 
@@ -22,7 +22,7 @@ A home network is the boundary between the devices inside it and everything outs
 
 ## Installing shutters
 
-End-to-end encrypted messaging is not difficult to adopt and makes a genuine difference to what is visible to anyone positioned between two correspondents. Choosing one or two apps that provide it by default, and using them for personal correspondence, costs very little once decided. The more useful habit to build alongside it is verification: where an encrypted messaging app offers a way to confirm that the person on the other end is who they appear to be rather than someone in the middle, that verification is worth doing with regular contacts. It is also worth understanding that metadata, who spoke to whom, when, and how often, is often not protected even when message content is. Being aware of that distinction, and choosing accordingly, is the more nuanced part of this routine.
+End-to-end encrypted messaging is not difficult to adopt and makes a genuine difference to what is visible to anyone positioned between two correspondents. Choosing one or two apps that provide it by default, and using them for personal correspondence, costs very little once decided. The more useful habit to build alongside it is verification: where an encrypted messaging app offers a way to confirm that the person on the other end is who they appear to be rather than someone in the middle, that verification is worth doing with regular contacts. It is also worth understanding that metadata, who spoke to whom, when, and how often, is often not protected even when message content is.
 
 ## Trimming hidden leaves
 
@@ -36,8 +36,8 @@ Privacy settings across social media, apps and devices shift when platforms upda
 
 A plan is only a plan until it is tried. Once a quarter, run a small household exercise: choose a scenario, perhaps that a device has been lost, or that an account has been accessed by someone else, and work through what would actually happen. Which accounts share a password with the one that was compromised? Which devices are connected to the same network and warrant checking? Who needs to be notified? How are the credentials changed, and in what order?
 
-The exercise will almost certainly surface things the plan assumed were handled and were not: a device that takes longer to isolate than expected, an account whose recovery process requires access to a second account that is also now suspect, a contact list nobody realised was stored on the compromised device. Those discoveries are the point. Finding them in a practice run costs nothing. Finding them in an actual incident costs considerably more. Running the exercise with children, once they are old enough to take part, gives the household a shared vocabulary for these situations and removes the panic that comes from meeting a problem for the very first time when it is real.
+The exercise will almost certainly surface things the plan assumed were handled and were not: a device that takes longer to isolate than expected, an account whose recovery process requires access to a second account that is also now suspect, a contact list nobody realised was stored on the compromised device. Finding them in a practice run costs nothing. Finding them in an actual incident costs considerably more. Running the exercise with children, once they are old enough to take part, gives the household a shared vocabulary for these situations and removes the panic that comes from meeting a problem for the very first time when it is real.
 
 ## The garden journal
 
-Keeping a brief record after each of these routines is not additional work. It is the practice that turns the routines into understanding rather than procedure. A few sentences are enough: what was found, what surprised, what question now stands that did not before. Over time, the journal shows what has changed in the garden from one season to the next, which is considerably more useful than any single snapshot. It also makes the routines easier to maintain, because returning to a record of previous visits makes the next visit feel continuous rather than isolated. The habit is the same one that makes the games more valuable after the game than during it: experience converts into understanding when attention is paid to what it produced.
+A brief record can follow each of these routines. A few sentences are enough: what was found, what surprised, what question now stands that did not before. Over time, the journal shows what has changed in the garden from one season to the next, which is considerably more useful than any single snapshot. It also makes the routines easier to maintain, because returning to a record of previous visits makes the next visit feel continuous rather than isolated.

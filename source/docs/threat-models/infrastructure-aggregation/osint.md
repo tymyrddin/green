@@ -1,8 +1,8 @@
 #  Open Source Intelligence (OSINT)
 
-The point of this exercise is not intrusion. It is to map the dependencies an adversary could infer from records that were never sensitive in isolation. Permits, tenders, job ads, planning portals; each published for legitimate reasons, each routine. Combined, they can describe a site's quiet supports in surprising detail.
+The aim is not intrusion, but mapping the dependencies an adversary could infer from records that were never sensitive in isolation. Permits, tenders, job ads, planning portals; each published for legitimate reasons, each routine. Combined, they can describe a site's quiet supports in surprising detail.
 
-The examples below are in Dutch (context).
+The examples are Dutch, for context.
 
 ## A working process
 
@@ -18,7 +18,7 @@ A narrow, repeatable loop tends to work better than a broad sweep. Pick the smal
 4. Identify third-party dependencies. Tenderned awards for *onderhoud hoogspanning* or similar at the location, contractor LinkedIn tags ("worked at site X doing generator testing"), service-provider case studies.
 5. Build a dependency graph. A spreadsheet is enough: asset, service, provider, public source, observable weakness (e.g., "permit shows pipeline runs under public road, no evident redundancy").
 6. Run the adversarial reframe. If the goal were to interrupt this site's primary function for 48 hours, which single points does the public record already expose?
-7. Note what was never visible without aggregation. The structural finding tends to be the dependency chain, not any single document. This step is the one most often skipped, and the one that connects the work to the administrative attack surface as a whole.
+7. Note what was never visible without aggregation. The structural finding tends to be the dependency chain, not any single document. This step is the one most often skipped.
 
 ## Breadcrumb categories
 
@@ -67,4 +67,4 @@ Useful categories when scanning:
 - Google Maps and Street View, fence lines, camera positions, manhole covers, utility markers.
 - Company websites, where local technical service providers occasionally note "MoD contracts" alongside site photos.
 
-For a worked example using a small subset of these sources, see [Radarstation Herwijnen](herwijnen.md).
+[Radarstation Herwijnen](herwijnen.md) is one worked example, using a small subset of these sources.

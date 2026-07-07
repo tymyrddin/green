@@ -14,6 +14,6 @@ Scroll to "Ad privacy" (or search for it) and disable all three options:
 
 Google may still collect some data, but this reduces how much is used for ads.
 
-## Why it is not enough
+## What remains tracked
 
 Even with these off, Chrome still tracks the IP address, keeps browser fingerprinting active, and shares data with Google for "analytics". For stronger privacy, consider [switching to a privacy-focused browser](../playbooks/chrome.md).

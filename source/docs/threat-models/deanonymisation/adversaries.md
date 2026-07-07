@@ -1,6 +1,6 @@
 # Adversaries
 
-Every well-tended garden has uninvited guests. Some chew at the edges, some uproot the hard work entirely, and others simply trample through with a clipboard and bad intentions. In the digital greenery of a life, these are the people rooting around the personal data in it, intentionally or not. Knowing them helps in deciding when to prune, when to compost, and when to build a very large wall.
+Every well-tended garden has uninvited guests. Some chew at the edges, some uproot the hard work entirely, and others simply trample through with a clipboard and bad intentions. In the digital greenery of a life, these are the people rooting around the personal data in it, intentionally or not.
 
 ## Data scientists
 
@@ -20,7 +20,7 @@ A photograph turned into a name. Firms such as Clearview AI and PimEyes scrape b
 
 ## Automated inference agents
 
-The newest adversary is not a person at all. Large language models, given public text and a web browser, infer where someone lives and what they do and then search for them, deanonymising at a scale and cost no human profiler could match. The [LLM-inference case](cases/llm-inference.md) shows the capability at work.
+The newest adversary is not a person at all. Large language models, given public text and a web browser, infer where someone lives and what they do and then search for them, deanonymising at a scale and cost no human profiler could match ([LLM-inference case](cases/llm-inference.md)).
 
 ## Black markets
 
@@ -46,11 +46,11 @@ Lawful, but not always proportionate. Data access in the name of safety is a sli
 
 A different species from domestic law enforcement: better resourced, operating under different legal frameworks, and not always subject to the same oversight structures. National signals intelligence agencies can compel cooperation from platforms, conduct bulk data collection under national security justifications, and operate across jurisdictions in ways that local law enforcement cannot.
 
-The capabilities gap between a national intelligence agency and any individual's privacy controls is considerable. Mitigations that work against opportunistic adversaries may be insufficient here. The [surveillance model](../surveillance/index.rst) covers this adversary in depth.
+The capabilities gap between a national intelligence agency and any individual's privacy controls is considerable. Mitigations that work against opportunistic adversaries may be insufficient here. This adversary is the [surveillance model](../surveillance/index.rst)'s territory.
 
 ## Stalkers and domestic abusers
 
-Location data, device access, account monitoring and social graph analysis are all used by people seeking to track, control or harm individuals they know personally. This adversary has direct access to the target's devices, accounts, and physical environment in ways that remote adversaries do not, which changes the threat profile significantly. The [poweron model](../poweron/index.rst) is the dedicated treatment of this intimate-range adversary.
+Location data, device access, account monitoring and social graph analysis are all used by people seeking to track, control or harm individuals they know personally. This adversary has direct access to the target's devices, accounts, and physical environment in ways that remote adversaries do not, which changes the threat profile significantly. This intimate-range adversary is the [poweron model](../poweron/index.rst)'s subject.
 
 ## Private investigators
 

@@ -51,4 +51,4 @@ For infrastructure classified as vital to national security, the levers most dir
 * separation of operational descriptors (exact diameter, routing) from planning-level transparency where the risk is systemic rather than local
 * cross-domain reconstructability assessment of multi-agency geospatial datasets before publication
 
-For the broader structural argument and policy frame, see [the strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/).
+The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the broader structural argument and policy frame.

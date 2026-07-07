@@ -1,10 +1,10 @@
 # Respond to a suspected data breach
 
-A breach response invented during the crisis will be slower, more inconsistent, and more likely to make things worse than one planned in advance. This runbook outlines the core sequence. It is worth reading, and adapting to a given organisation, before it is needed.
+A breach response invented during the crisis will be slower, more inconsistent, and more likely to make things worse than one planned in advance.
 
 ## Trigger conditions
 
-This runbook applies when there is reason to believe that:
+When there is reason to believe that:
 - An account has been compromised (unexpected login, unfamiliar activity, an uninitiated password reset).
 - Held data has been accessed, exfiltrated, or exposed without authorisation.
 - An operated system has been compromised (ransomware, unexpected outbound traffic, a security-tool alert).

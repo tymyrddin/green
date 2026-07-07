@@ -1,8 +1,8 @@
 # Resetting the advertising ID
 
-A smartphone's advertising ID is a unique tracker assigned to the device. It lets companies build a profile of app usage, interests and behaviour without anyone logging in anywhere. Resetting it regularly disrupts that profile. Here is how, on Android and iOS.
+A smartphone's advertising ID is a unique tracker assigned to the device. It lets companies build a profile of app usage, interests and behaviour without anyone logging in anywhere. Resetting it regularly disrupts that profile.
 
-## What it is
+## The advertising ID
 
 An advertising ID lets apps and ad networks link activity across services to target ads.
 
@@ -11,7 +11,7 @@ An advertising ID lets apps and ad networks link activity across services to tar
 
 A search for "hiking boots" in one app can surface boot ads in another later, with no login involved, because both saw the same ID.
 
-## Why reset it
+## The gain from a reset
 
 * Resetting mints a new random ID, which breaks the chain that builds a long-term profile.
 * Ads still appear, but with less targeting.

@@ -5,8 +5,7 @@ the helpers: the tools and platforms that are meant to make things easier and, i
 make deanonymisation faster, cheaper, and more scalable. These technologies are not inherently
 adversarial. They are simply very good at finding patterns, and finding patterns is most of the work.
 
-What follows is a survey of the toolkit adversaries actually use, drawn from research literature
-and documented real-world cases.
+These are drawn from research literature and documented real-world cases.
 
 ## Graph analysis
 
@@ -96,5 +95,4 @@ what is possible with the above tools.
   million people.
 
 These cases are not historical curiosities. They are the proof of concept that shapes current
-adversary practice, and they are worked up in full, with primary sources and their modern successors,
-in the [cases](cases/index.rst).
+adversary practice, worked up in full in the [cases](cases/index.rst).

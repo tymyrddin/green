@@ -13,4 +13,4 @@ A few habits help:
 * Treat the cloud as shared. A file in a cloud account can be assumed to sit in someone else's data lake too, and deleted files often persist longer than expected.
 * Watch auto-sync. Devices replicate data everywhere by default; turning sync off for sensitive folders keeps private material from quietly copying itself onto half a dozen weaker endpoints.
 
-Digital composting, in short: not everything needs to live forever in the inbox.
+Digital composting: not everything needs to live forever in the inbox.

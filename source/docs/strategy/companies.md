@@ -6,63 +6,26 @@ The most durable failure in corporate security is the belief that the organisati
 to be targeted. "We are not interesting enough" is a comfort, not an assessment. It is the mental
 equivalent of leaving the greenhouse unlocked because the orchids inside are not famous.
 
-The threat landscape facing companies combines all three models in this site: commercial data
-extraction (which applies to their customer and employee data), nation-state surveillance (which
-applies to their intellectual property, supply chains, and strategic plans), and in some contexts,
-targeted abuse through individuals within the organisation.
+The assets of a company are not only its systems. They are the mental representations that drive
+decisions about what is worth protecting, who the adversaries are, and what would count as a
+sufficient response. Most breaches begin not with a sophisticated exploit but with a gap between
+that model and the actual environment.
 
-The assets of a company are not only its systems. They are the mental representations
-that drive decisions about what is worth protecting, who the adversaries are, how serious the risk
-is, and what would constitute a sufficient response. Most breaches begin not with a sophisticated
-exploit but with a gap between the security model and the actual environment.
+## From concern to action
 
-## Where the model meets reality
+| Concern                                                                    | What can help                                                                                                                                                               |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Customer or employee data kept longer than the use that justified it       | [Minimise what is collected](../playbooks/minimise.md), [separate identifiers from the records](../playbooks/identity.md), [audit what is held](../playbooks/data-audit.md) |
+| Permission sprawl widening the blast radius when an account is compromised | [Run a periodic access review](../runbooks/access-review.md)                                                                                                                |
+| A supplier or platform dependency becoming the way in                      | [Assess a vendor's security](../playbooks/vendor-assessment.md), [respond to a vendor breach](../runbooks/vendor-breach.md)                                                 |
+| A staff member clicking a convincing phishing message                      | [Phishing click response](../runbooks/phishing-response.md)                                                                                                                 |
+| An employee account taken over                                             | [Account compromise response](../runbooks/account-compromise.md)                                                                                                            |
+| A breach of what the company holds                                         | [Respond to a suspected breach](../runbooks/breach-response.md)                                                                                                             |
+| A legal demand, or a data-subject request under GDPR                       | [Responding to a legal demand](../runbooks/legal-demand.md), [handling a data-subject request](../runbooks/data-subject-request.md)                                         |
+| Work data exposed on untrusted networks                                    | [Use a VPN](../playbooks/vpn.md)                                                                                                                                            |
+| Data encrypted now, read once the cryptography breaks                      | [Quantum-resistant encryption](../playbooks/quantum.md)                                                                                                                     |
 
-### Data you hold and why
-
-Every piece of data your organisation retains is a liability as well as an asset. Data collected
-for one purpose will be used for others, either by your organisation or by whoever acquires it
-through breach, legal process, or purchase.
-
-Applying data minimisation at collection is harder than applying it retrospectively, but both
-are possible and both reduce exposure. If you do not need detailed behavioural data on your
-customers to provide your service, do not collect it. If you collected it under a prior model
-of your business that no longer applies, delete it. The regulatory obligation under GDPR is
-to collect only what is necessary and to retain it only as long as necessary. The security
-obligation is the same, with a sharper edge.
-
-### Access controls and the cost of broad permissions
-
-The default direction in most organisations is toward accumulating access. Permissions are
-granted and rarely reviewed. Accounts are not deprovisioned promptly when employees leave.
-Service accounts accumulate privileges over time. Role boundaries blur under operational
-pressure.
-
-Each of these patterns is rational in the short term and produces accumulated risk. The
-review of who has access to what is unglamorous work. It is also one of the most effective
-things an organisation can do to reduce its blast radius when an account is compromised.
-
-Access review should be treated as infrastructure maintenance, not a compliance exercise.
-Infrastructure that is not maintained degrades. Access environments that are not reviewed
-expand, and expansion is not neutral.
-
-### Supply chain and vendor dependencies
-
-A breach that enters through a vendor or service provider is not less damaging because you
-did not introduce it directly. Third-party access is part of your attack surface, and the
-security posture of the services you depend on affects your posture whether you assess it
-or not.
-
-The surveillance threat model identifies infrastructure dependency as a structural vulnerability:
-organisations that have made themselves dependent on platforms they do not control have, in
-effect, delegated a security decision to a party with different interests. That applies at
-every scale, from small companies dependent on a single SaaS provider to large organisations
-whose cloud architecture sits entirely in a foreign jurisdiction.
-
-Vendor assessment is not a guarantee. It is a practice. Done regularly, it surfaces changes
-in the supply chain before they become surprises.
-
-## What prevents good security from being done
+## Obstacles to good security
 
 Organisations most often lose security arguments not because the rational case is weak but
 because the conditions do not support change. A development team that has learned through
@@ -101,22 +64,3 @@ made by people with no accountability for the downstream consequences.
 Clarifying ownership is not a cultural fix. It is a structural one. Who is accountable for
 the security consequences of a product decision needs to be answered before the decision
 is made, not after the breach.
-
-## Playbooks
-
-* [Minimise long-term data storage](../playbooks/minimise.md)
-* [Keep anonymous data separate from your identity](../playbooks/identity.md)
-* [Use a VPN](../playbooks/vpn.md)
-* [Understand quantum-resistant encryption](../playbooks/quantum.md)
-* [Run a periodic access review](../runbooks/access-review.md)
-* [Audit what data you hold](../playbooks/data-audit.md)
-* [Assess third-party vendor security](../playbooks/vendor-assessment.md)
-
-## Runbooks
-
-* [Respond to a suspected data breach](../runbooks/breach-response.md)
-* [Vendor breach response](../runbooks/vendor-breach.md)
-* [Responding to a legal demand for data](../runbooks/legal-demand.md)
-* [Data subject request response](../runbooks/data-subject-request.md)
-* [Phishing click response](../runbooks/phishing-response.md)
-* [Account compromise response](../runbooks/account-compromise.md)

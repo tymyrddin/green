@@ -70,5 +70,4 @@ Contractual controls, tiered access, query auditing, and data use agreements are
 load-bearing. They do not make the news, which is roughly how a security mitigation is meant
 to behave.
 
-For operational guidance on minimising data exposure, see the [minimise long-term storage](../../playbooks/minimise.md)
-playbook.
+[Minimising long-term storage](../../playbooks/minimise.md) limits exposure before any of these techniques apply.

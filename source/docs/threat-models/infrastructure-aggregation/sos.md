@@ -2,7 +2,7 @@
 
 ## Possible architecture
 
-The system's goal is to automatically identify potential 'choke points' in critical infrastructure. It reuses my earlier three-phase concept but replaces placeholder APIs with actual Dutch government services.
+The system's goal is to automatically identify potential 'choke points' in critical infrastructure, using actual Dutch government services in place of placeholder APIs.
 
 The architecture comprises four layers:
 

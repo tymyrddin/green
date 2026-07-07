@@ -6,7 +6,7 @@ Three sentences in the public notice carry more than they appear to. They name t
 
 ## Data sources
 
-The notice is published on the OpenProcurements aggregator: [Raamovereenkomst Onderhoud Installaties Netwerkruimtes Defensie](https://nl.openprocurements.com/tender/2022-raamovereenkomst-onderhoud-installaties-netwerkruimtes-defensie/). Three excerpts do the work.
+The notice is published on the OpenProcurements aggregator: [Raamovereenkomst Onderhoud Installaties Netwerkruimtes Defensie](https://nl.openprocurements.com/tender/2022-raamovereenkomst-onderhoud-installaties-netwerkruimtes-defensie/).
 
 The scope describes "inspecting, certifying and maintaining installations in secured network rooms at Defence locations" (*"inspecteren, keuren en onderhouden van installaties in beveiligde netwerkruimtes op Defensielocaties"*).
 
@@ -34,4 +34,4 @@ Naming the MIVD's Industrial Security unit identifies the body that validates co
 
 Procurement data on its own makes it possible to map which companies maintain access to sensitive environments, infer which systems depend on external maintenance cycles, and identify where operational continuity rests on third-party availability. The frame stops being "contract" and becomes "dependency relationship between state systems and private actors".
 
-For the structural argument and where this fits into policy, see [the strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/).
+The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the structural argument and where this fits into policy.

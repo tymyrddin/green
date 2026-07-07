@@ -27,7 +27,7 @@ in any dataset using just fifteen demographic attributes, including age, sex and
 
 ## Why it counts
 
-Re-identification is the technique the whole model rests on, and it is not exotic. It follows from a plain fact about
+Re-identification is not exotic. It follows from a plain fact about
 people: the combination of a few ordinary attributes is unique. That is the same logic
 the [infrastructure-aggregation model](../../infrastructure-aggregation/index.rst) applies to buildings and cables, the
 combination is the finding, turned on people. It is why the [mitigations](../mitigations.md) that rely on stripping

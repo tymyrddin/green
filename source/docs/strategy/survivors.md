@@ -8,7 +8,7 @@ of. The threat is intimate, which changes almost everything about how to respond
 
 If any part of this applies to your situation, you are not overreacting.
 The [poweron threat model](../threat-models/poweron/index.rst) describes in detail how technology-facilitated abuse
-works and what the patterns look like. This page is about what to do with that understanding.
+works and what the patterns look like. The steps here are what to do with that understanding.
 
 Before anything else: specialist support organisations have advisors who understand this situation and can help you
 sequence your response safely. The digital steps here do not replace that. They sit alongside it.
@@ -141,9 +141,6 @@ other person's reach. Doing it in the right order, with support, is more importa
 * [Remove yourself from data broker sites](../playbooks/brokers.md)
 * [Strip metadata from photos](../runbooks/photos.md)
 * [Prepare a device for a situation where it may be seized or searched](../playbooks/travel-devices.md)
-
-## Playbooks
-
 * [Digital safety steps when leaving](../playbooks/leaving-safely.md)
 * [Suspected device compromise](../playbooks/device-compromise.md)
 

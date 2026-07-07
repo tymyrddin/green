@@ -1,8 +1,7 @@
 # Techniques
 
 Every greenhouse has pests, and in this one the attackers come equipped. These are the methods adversaries
-actually use to move from "I wonder who that is" to "I know exactly who that is": the vectors they follow,
-the tools they wield, and the structural tricks they exploit when technical ones fall short.
+actually use to move from "I wonder who that is" to "I know exactly who that is".
 
 ## Re-identification
 
@@ -63,8 +62,7 @@ Sparsity-based techniques exploit the fact that rare behaviours are inherently i
 only person in a dataset to have attended a particular event, lived in a small village, and carried an unusual
 medical history can be pinned by those three facts alone. A 2013 study by de Montjoye and colleagues found that
 just four approximate location points uniquely identify 95% of individuals in a mobile dataset, and a 2019
-generalisation put re-identification at 99.98% from fifteen attributes; the
-[cases](cases/anonymous-is-a-myth.md) collect the evidence. Anonymisation that works for common profiles
+generalisation put re-identification at 99.98% from fifteen attributes ([cases](cases/anonymous-is-a-myth.md)). Anonymisation that works for common profiles
 tends to fall apart at the edges.
 
 ## Data linkage
@@ -79,7 +77,7 @@ See also: [linkage techniques in code](../../code/linkage.md).
 
 ## Familial search
 
-Some identification runs through relatives. Forensic genetic genealogy uploads a DNA profile to a consumer ancestry database, finds cousins by shared DNA, and triangulates back to a single person, reaching people who never tested at all. Because a modest database matches a third cousin or closer for a large share of a population, the technique identifies through the family tree rather than the individual, which is what makes it hard to consent one's way out of. The [genetic-genealogy case](cases/genetic-genealogy.md) works through it.
+Some identification runs through relatives. Forensic genetic genealogy uploads a DNA profile to a consumer ancestry database, finds cousins by shared DNA, and triangulates back to a single person, reaching people who never tested at all. Because a modest database matches a third cousin or closer for a large share of a population, the technique identifies through the family tree rather than the individual, which is what makes it hard to consent one's way out of ([genetic-genealogy case](cases/genetic-genealogy.md)).
 
 ## Membership inference
 
@@ -121,7 +119,7 @@ See also: [AI profiling techniques](../../code/ai-profiling.md).
 
 The sharpest recent development is inference rather than extraction. A large language model does not need a target's data in its training set to expose them; it reads what they write. Given ordinary text, current models infer location, income, age and sex with high accuracy, and given a browser they will search the open web and propose a name. This subsumes classical stylometry, authorship attribution that once needed a candidate shortlist and specialist tooling, and does it at scale from a standing start.
 
-It also defeats the assumption behind most text-based privacy advice: removing names and obvious identifiers no longer helps once the reader reasons from the incidental. The [LLM-inference case](cases/llm-inference.md) sets out the evidence.
+It also defeats the assumption behind most text-based privacy advice: removing names and obvious identifiers no longer helps once the reader reasons from the incidental ([LLM-inference case](cases/llm-inference.md)).
 
 ## Data poisoning
 

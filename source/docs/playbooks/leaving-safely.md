@@ -2,7 +2,7 @@
 
 Trigger: you are preparing to leave, or have recently left, a relationship involving technology-facilitated abuse, and you need to reduce the digital access the other person currently has.
 
-This runbook covers digital steps only. Physical safety and legal considerations are beyond its scope and need to be addressed alongside it, not after. Contact a specialist support organisation before or while working through these steps. In the UK: Refuge (refuge.org.uk), Women's Aid (womensaid.org.uk), and the National Domestic Abuse Helpline (0808 2000 247). They have advisors who understand the technology and can help you sequence this safely.
+Physical safety and legal considerations need to be addressed alongside these digital steps, not after. Contact a specialist support organisation before or while working through these steps. In the UK: Refuge (refuge.org.uk), Women's Aid (womensaid.org.uk), and the National Domestic Abuse Helpline (0808 2000 247). They have advisors who understand the technology and can help you sequence this safely.
 
 ## Before anything else: get a safe device
 

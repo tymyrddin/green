@@ -2,7 +2,7 @@
 
 Large quantum computers do not exist yet, but the timeline is short enough to plan around. When they arrive, they will break the public-key cryptography (RSA, ECC) that protects most traffic today. Several privacy tools have already moved to post-quantum cryptography (PQC), so the useful actions mostly come down to using them.
 
-## Why it is worth attention now
+## Store now, decrypt later
 
 Today's public-key schemes rest on maths problems a capable quantum computer could solve quickly. Once that threshold is reached:
 
@@ -12,7 +12,7 @@ Today's public-key schemes rest on maths problems a capable quantum computer cou
 
 NIST's estimates put large-scale quantum computers roughly five to fifteen years out. The collection of encrypted data for future decryption is happening now, which is why forward secrecy against that future is worth having today.
 
-## How it works
+## The mechanism
 
 PQC replaces the vulnerable maths with problems that stay hard for quantum computers, mainly:
 
@@ -38,7 +38,7 @@ Others: Apple's iMessage PQ3 and Tuta's hybrid encryption are further recent ado
 gpg --quick-gen-key "Name" future-default
 ```
 
-* Treat any non-PQC data as potentially readable in the 2040s, and prioritise accordingly rather than panicking.
+* Treat any non-PQC data as potentially readable in the 2040s.
 
 ## Caveats
 

@@ -6,8 +6,8 @@ legal authority to inspect devices, compel passwords, and in some cases detain d
 forensic imaging. This is not hypothetical: it has happened to journalists, researchers,
 NGO staff, and lawyers travelling with sensitive materials.
 
-The approach here is not to assume the worst at every border. It is to decide in advance
-what your acceptable risk level is and prepare accordingly.
+Rather than assuming the worst at every border, decide in advance what an acceptable risk
+level is and prepare accordingly.
 
 ## Assess the trip
 
@@ -60,7 +60,7 @@ separately rather than in a password manager that, once unlocked, reveals everyt
 Change passwords for sensitive accounts before you leave if you have reason to believe the
 trip is particularly high risk. Change them again when you return.
 
-## At the border: what to expect and what to do
+## At the border
 
 You will be asked to unlock your device. In most jurisdictions you are legally required to
 comply. Refusing may result in device confiscation, entry denial, or in some jurisdictions,

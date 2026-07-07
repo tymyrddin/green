@@ -6,7 +6,7 @@ Do not comply without legal review. Do not delete anything. Do not tell anyone a
 
 ## Get legal counsel before responding
 
-This is not optional. The scope of what has to be disclosed, the legal validity of the demand, the jurisdiction it originates from, and whether a non-disclosure order applies are all questions for a solicitor or equivalent legal adviser.
+The scope of what has to be disclosed, the legal validity of the demand, the jurisdiction it originates from, and whether a non-disclosure order applies are all questions for a solicitor or equivalent legal adviser.
 
 In-house legal counsel is the first call. Failing that, engage external counsel immediately. The compliance timeframe is often tight but rarely so short that legal advice cannot come first.
 

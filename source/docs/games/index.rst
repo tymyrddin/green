@@ -9,7 +9,7 @@ picked up with whatever you have to hand and adapted as you go. Think of them as
 described, but the most interesting growth tends to happen when you start adjusting the conditions to suit the garden
 you actually have.
 
-The games fall into three groups. No need to play them in order, and no need to understand anything about the
+No need to play them in order, and no need to understand anything about the
 internet before you start. Wherever you begin, bring a willingness to be surprised by how the game turns out.
 
 .. toctree::

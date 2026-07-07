@@ -2,145 +2,79 @@
 
 ![Civil](/_static/images/nations-and-states.png)
 
-The surveillance threat model makes a structural observation: the EU has the strongest data
-protection framework in the world and simultaneously contains member states that operate bulk
-collection programmes, use commercial data brokers to bypass legal thresholds, and participate
-in intelligence-sharing alliances that route around domestic constraints. These are not
-contradictions. They are the system working as designed.
+The EU holds the strongest data-protection framework in the world and, at the same time, contains member
+states that run bulk collection programmes, buy from commercial data brokers to clear thresholds they could
+not clear directly, and sit in intelligence-sharing alliances that route around whatever their own law
+forbids. These are not contradictions. They are the system working as designed. The state is the one
+adversary a person cannot opt out of, and its most capable arm, the intelligence services, works precisely
+where the protections stop.
 
-Policy at national and EU level is where the underlying incentive structures are set. The
-patterns described across all three threat models, commercial data extraction, deanonymisation
-at scale, surveillance of civil society, persist not because the technical means to address
-them do not exist but because the political conditions have not consistently aligned to require
-their application.
+Generalisation is especially coarse here: member states vary widely in their legal cultures, their judicial
+oversight of intelligence activity, and their appetite for digital sovereignty. The shape of the problem is
+common to them; the severity is not.
 
-This page is less a checklist and more a diagnosis. The generalisations here are particularly
-coarse: EU member states vary dramatically in their legal cultures, their judicial oversight
-of intelligence activity, and their political appetite for digital sovereignty. Treat what
-follows as a framework for asking better questions rather than a set of answers.
+## The hole where the services live
 
-## What the policy models actually do
+The national-security exemption in the GDPR is not a loophole to be closed. It is a deliberate design
+decision, the one the [surveillance model's legal landscape](../threat-models/surveillance/landscape/the-gdpr-hole.md)
+turns on: the EU excluded national-security activity from the regulation's scope, deferring to member-state
+sovereignty in the single area where harmonisation was politically impossible. The result is a regime whose
+centre is cut out exactly where the most capable actors operate. A person's data is guarded against
+commercial misuse by one set of rules and against state surveillance by a patchwork of national law, treaty,
+and whatever quality of judicial oversight a given member state happens to run. A strategy that assumes the
+framework protects against the services has misread the map.
 
-### The GDPR exemption as policy choice
+## The state as aggregator
 
-The national security exemption in GDPR Article 2(2)(a) is not a loophole. It is a deliberate
-design decision. The EU chose to exclude national security activities from the regulation's
-scope, deferring to member state sovereignty in an area where harmonisation was politically
-impossible.
+Interception is the old picture. The newer one is procurement and assembly. Agencies buy location and
+behavioural data from the broker market because a purchase does not trip the safeguards a warrant would, and
+the [Databroker Files](../threat-models/surveillance/cases/databroker-files.md) showed that this reaches even
+EU and NATO officials rather than staying a theoretical risk.
 
-The consequence is that the strongest data protection framework in the world has a hole at
-its centre precisely where the most capable adversaries operate. A citizen's data is protected
-from commercial misuse by one set of rules and from state surveillance by a patchwork of
-national law, treaty obligations, and the varying quality of judicial oversight in different
-member states.
+Buying is only half of it. The [infrastructure-aggregation model](../threat-models/infrastructure-aggregation/index.rst)
+is the other half: routine, individually harmless public records, tenders, planning applications, network
+registries, staff directories, combine into a picture no single disclosure intended. At state scale that
+logic cuts both ways. It is how an intelligence service assembles a target from open sources, and it is how a
+foreign one maps a nation's critical infrastructure without touching a single protected system. The
+combination is the finding, and no data-protection right reaches a finding that was never held in any one
+record. Sovereignty, at this point, is less about where a server sits than about who is patient enough to
+read what a state routinely publishes about itself.
 
-Policy development in this space requires honesty about what the exemption actually produces.
-The intelligence oversight mechanisms that exist in many member states are not equivalent to
-the protections GDPR provides. Some have meaningful judicial oversight. Many do not. The
-variation is not acknowledged in the architecture of the regulation.
+## Routing around the limits
 
-### Infrastructure dependency as sovereignty question
+Where domestic law bars a service from collecting on its own citizens, an ally under no such constraint can
+collect and hand the result back. The intelligence-sharing groupings the surveillance model describes under
+[built-in collection](../threat-models/surveillance/landscape/built-in-collection.md) turn a legal limit into
+an administrative inconvenience. A strategy pitched at national law alone tends to miss the transnational
+shape of the thing it means to govern.
 
-The surveillance threat model identifies infrastructure dependency as a structural vulnerability:
-the majority of EU internet traffic, cloud storage, and platform services passes through or
-is processed by systems under US jurisdiction. This means it is subject to US legal process
-regardless of where the data originates or where the data subject lives.
+## The ratchet
 
-This is a policy failure that has been visible for more than a decade. The repeated
-invalidation of EU-US data transfer agreements, Safe Harbor in 2015, Privacy Shield in
-2020, reflects an underlying incompatibility between EU data protection standards and US
-surveillance law that legal mechanisms have not resolved.
+Surveillance powers expand after events and rarely contract afterwards. A crisis produces pressure to act,
+and "act" is read as more collection and more access far more readily than as more oversight or less
+exposure. Expansion can be presented as decisive; oversight reform is slow, technical, and yields nothing a
+news cycle can show. The cost of bulk collection is diffuse, statistical, and distant from anyone's direct
+experience until a specific incident makes it concrete, which is why political action gathers around named
+harms and seldom around the standing condition. Civil society organisations, journalists and researchers who
+make the diffuse harm concrete and named are doing the work that creates the conditions for reform.
+Supporting that capacity is not adjacent to the strategy. It is the strategy.
 
-Digital sovereignty is not an abstract concept. It is a question of whether the legal
-protections that EU law provides for EU citizens can actually be enforced when the
-infrastructure underpinning digital life is controlled by entities outside EU jurisdiction.
-Building infrastructure capacity within the EU that is actually usable at competitive scale
-is a multi-decade project that requires sustained political commitment and investment.
+## Where the leverage is
 
-### Data broker regulation as the missing piece
+Honesty first: at the level of the intelligence services, individual action is close to zero, and pretending
+otherwise would be a kind of theatre. Leverage sits with regulation and oversight, and it is real but
+unevenly used. EU regulatory capacity has changed the behaviour of global platforms because non-compliance
+risks a slice of worldwide revenue; the same pressure, applied consistently to the broker market and to
+purpose limitation, could shrink the commercial layer the services buy from. Intelligence oversight itself
+remains underdeveloped relative to the transnational collection it is meant to govern: oversight between
+national mechanisms does not cover what flows through the sharing arrangements, and a European body with
+genuine access to cross-border programmes would be a structural improvement rather than a procedural one.
+None of this dismantles security capacity. It builds governance that matches the capacity already there, and
+that has historically moved slowly, incompletely, and sometimes backwards.
 
-The commercial data layer is, as the surveillance threat model describes, the largest largely
-unregulated backdoor into the privacy protections the EU has built. GDPR applies to data
-brokers, but enforcement of the consent and purpose limitation requirements for the broker
-market has been inconsistent, under-resourced, and slow.
-
-Law enforcement and intelligence agencies in multiple member states have acquired data
-commercially precisely because commercial purchase does not trigger the legal safeguards
-that formal legal process would require. This is not a theoretical scenario. It is documented
-practice.
-
-Closing this gap requires specific regulatory attention to the data broker market: what data
-can be collected, for what purposes, under what consent conditions, and under what circumstances
-it can be transferred to law enforcement or intelligence agencies. The current framework
-technically covers this but the implementation has not kept pace with the market.
-
-The broker market is not the only disclosure surface that current policy underestimates. The
-[open-records aggregation study](../threat-models/infrastructure-aggregation/index.rst) works through a
-parallel case, where routine public records combine into infrastructure exposure that no single
-publication intended, and it carries a concrete recommendation for reviewing disclosures by what they
-aggregate into rather than what each one says on its own.
-
-## The political weight of security narratives
-
-Surveillance powers expand in response to events and rarely contract afterwards. The dynamics
-of security policymaking are consistent: a crisis produces political pressure to act, and "act"
-is more easily interpreted as expanding collection and access than as improving oversight or
-reducing exposure.
-
-At policy scale, the same principle that applies to any system holds: identify what the system
-is currently rewarding. The political incentive structure around surveillance powers rewards
-expansion because expansion can be presented as decisive action, while oversight reform is
-slower, more technically complex, and produces no visible deliverable for a news cycle.
-
-The asymmetry between those who bear the cost of surveillance and those who hold surveillance
-power is the core of the policy problem. Populations subject to bulk collection rarely
-experience the direct harm of that collection until a specific incident makes it concrete.
-The harm is diffuse, statistical, and distant from individual experience. Political action is
-easier to mobilise around concrete, named harms than diffuse, statistical ones.
-
-Civil society organisations, journalists, and researchers who make surveillance harms concrete
-and named are performing an essential function in creating the political conditions for reform.
-Supporting their capacity to do this is not separate from policy work. It is a precondition.
-
-## Where leverage actually exists
-
-EU regulatory capacity is the most significant source of leverage over the commercial data
-ecosystem globally. The GDPR has changed data handling practices by major platforms worldwide
-not because they love EU citizens but because non-compliance risks fines calculated as a
-percentage of global revenue. This leverage is real and has not been fully used.
-
-Consistent, well-resourced enforcement of GDPR obligations on data brokers, consent
-frameworks, and purpose limitation would meaningfully change the commercial surveillance
-landscape. The regulatory framework to do this exists. The enforcement capacity and political
-will to sustain it have been variable.
-
-The Data Act, the AI Act, and the ePrivacy regulation represent successive attempts to
-extend the regulatory perimeter. The outcome of each will depend on the specificity of
-implementation, the adequacy of enforcement funding, and whether member states treat
-compliance as a floor or as a ceiling to be engineered around under national security
-carve-outs.
-
-Intelligence oversight mechanisms at EU level are underdeveloped relative to the
-transnational nature of the surveillance they need to govern. Bilateral oversight between
-member states' national mechanisms does not adequately cover flows through intelligence-sharing
-arrangements. A European Parliamentary oversight body with genuine access to information about
-cross-border collection programmes is a structural reform that would require significant
-political negotiation and would represent a real improvement on the current architecture.
-
-The goal is not to dismantle security capacity. It is to build governance that matches
-the capacity that exists. That is a political task, and it is one where sustained pressure
-from civil society, research institutions, and committed member states has historically
-moved things in the right direction, slowly and incompletely, and sometimes moved them back.
-
-## Playbooks
-
-The individual-level actions here are limited, but not zero. The rights that regulation
-creates are only useful if they are exercised.
-
-* [Remove yourself from data broker sites](../playbooks/brokers.md)
-* [Submit a GDPR deletion request](../runbooks/gdpr-deletion.md)
-
-## Runbooks
-
-* [Responding to a legal demand for data](../runbooks/legal-demand.md)
-* [Data subject request response](../runbooks/data-subject-request.md)
+Individual action is limited rather than absent, and the rights regulation creates are only useful exercised:
+[removing a profile from broker sites](../playbooks/brokers.md) and [submitting a GDPR deletion
+request](../runbooks/gdpr-deletion.md) shrink the commercial half of the picture. For an organisation on the
+receiving end of a state demand, [responding to a legal demand](../runbooks/legal-demand.md) and [handling a
+data-subject request](../runbooks/data-subject-request.md) are the procedures worth having ready before they
+are needed.

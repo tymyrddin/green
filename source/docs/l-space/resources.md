@@ -1,8 +1,6 @@
 # The L-space shelf
 
-L-space connects all libraries. The shelves here are a selection of places worth returning to: organisations doing sustained work on digital rights and privacy, guides that are actively maintained, journalists and researchers who track the things that this site writes about. The list is short by design. A long list of links is a different thing from a useful shelf.
-
-A note for anyone maintaining these pages: the sources in the investigative and research sections are also the most reliable for checking that the writing here reflects current conditions rather than conditions that obtained a year or two ago. The field moves quickly, and the pages in this repository need occasional review.
+L-space connects all libraries. The shelves here are a selection of places worth returning to: organisations doing sustained work on digital rights and privacy, guides that are actively maintained, journalists and researchers who track the things that this site writes about.
 
 
 ## Digital rights and policy

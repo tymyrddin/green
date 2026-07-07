@@ -1,6 +1,6 @@
 # Foiling facial recognition
 
-Cameras that recognise faces have become ambient, from the supermarket entrance to a neighbour's video doorbell. None of the countermeasures below make a face unrecognisable in every setting. They raise the cost of automated identification, which is a different and more achievable goal.
+Cameras that recognise faces have become ambient, from the supermarket entrance to a neighbour's video doorbell. None of these countermeasures make a face unrecognisable in every setting. They raise the cost of automated identification.
 
 ## A face is a data source
 
@@ -32,7 +32,7 @@ For a smaller budget:
 
 * Gait recognition is untouched by anything worn on the face.
 * Some systems adapt, so a fixed method degrades over time; varying it helps.
-* Visible countermeasures can attract human attention even as they defeat the camera, a trade-off worth weighing before relying on them.
+* Visible countermeasures can attract human attention even as they defeat the camera.
 
 ## Fuller measures
 
@@ -42,4 +42,4 @@ For a higher threat model:
 * Voice-altering tools address voice recognition, which is now a parallel channel.
 * Fabric with metallic lining blocks some overhead imaging.
 
-Facial recognition depends on consistent, predictable input. Varying appearance across time and place is what degrades it. No single item does the work alone.
+Facial recognition depends on consistent, predictable input. Varying appearance across time and place is what degrades it.

@@ -2,8 +2,7 @@
 
 Nation-state surveillance is not a conspiracy. It is a legal regime with documented
 practitioners, published standards, and court judgments that confirm it happens and
-argue about its limits rather than its existence. Before mapping the threat, it is
-worth stripping out what is myth and what is merely uncomfortable.
+argue about its limits rather than its existence.
 
 ## What the GDPR does not cover
 
@@ -45,7 +44,7 @@ share what they have collected. Since "foreign" collection in practice captures 
 amounts of data about citizens of other partner states, the practical effect is that
 each agency's domestic legal constraints on surveilling its own citizens can be
 navigated by receiving data about those citizens from a partner who collected it
-under different rules. This is a structural feature, not an accident.
+under different rules.
 
 The Snowden disclosures of 2013 documented this at scale. GCHQ collected data on EU citizens
 from undersea cable access points and shared it with NSA. The NSA monitored the German
@@ -64,12 +63,12 @@ the same commercial data exposing the movements of officials inside the EU's own
 This is not interception. It is procurement. And it is largely unregulated in the
 national security context precisely because GDPR does not apply there.
 
-## What this model is not
+## The system working as built
 
-This is not a model of illegal behaviour by rogue actors. Most of what it describes
+This is not illegal behaviour by rogue actors. Most of what it describes
 is either legal, contested only at the margins, or structured to be difficult to
 challenge. The system was designed to permit observation. It optimises for visibility
 under plausible deniability.
 
-This is not a model of a malfunction. It is a model of the system working as built,
+This is not a malfunction. It is the system working as built,
 under conditions of political stress that reveal what it was always capable of.

@@ -1,8 +1,6 @@
 # Handle research participant data
 
-Research participant data carries a protection obligation that is both ethical and legal. The people who provided it consented to a specific use in a specific context. Using it differently, sharing it carelessly, or retaining it beyond the agreed period is not a minor administrative lapse. It is a breach of the relationship that made the research possible.
-
-This runbook covers the handling lifecycle: collection, storage, sharing, and deletion.
+Research participant data carries a protection obligation that is both ethical and legal. The people who provided it consented to a specific use in a specific context. Using it differently, sharing it carelessly, or retaining it beyond the agreed period breaks the relationship that made the research possible.
 
 ## Before collection
 
@@ -54,7 +52,7 @@ Before sharing beyond the institution, check:
 - Is a data sharing agreement in place?
 - Which jurisdiction will process the data? If outside the EU, is there a legal transfer mechanism?
 
-Identifiable participant data is best not sent to a collaborator whose institutional cloud storage sits under US jurisdiction without first reviewing the legal transfer position. This is not hypothetical; it is a routine gap in cross-border collaboration.
+Identifiable participant data is best not sent to a collaborator whose institutional cloud storage sits under US jurisdiction without first reviewing the legal transfer position. It is a routine gap in cross-border collaboration.
 
 ### Publication
 

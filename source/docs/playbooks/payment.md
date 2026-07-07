@@ -2,7 +2,7 @@
 
 Purchases made with ordinary debit or credit cards, or with mobile payments, let companies record exactly what was bought, where and when. Over time that builds a detailed spending profile, used for advertising and credit scoring, and sometimes sold on. A few methods make that profile harder to assemble.
 
-## Why cash still does the work
+## Paying in cash
 
 Physical banknotes remain the most private way to pay, because a cash payment:
 

@@ -1,6 +1,6 @@
 # Detect stalkerware using DNS monitoring
 
-This playbook describes using DNS-level monitoring to identify connections consistent with stalkerware and spyware. When a device runs stalkerware, the software must contact its servers to deliver the data it collects. Before it can contact those servers, it must look up their addresses in the domain name system. That lookup is visible to whoever controls the DNS resolver the device is using.
+DNS-level monitoring can identify connections consistent with stalkerware and spyware. When a device runs stalkerware, the software must contact its servers to deliver the data it collects. Before it can contact those servers, it must look up their addresses in the domain name system. That lookup is visible to whoever controls the DNS resolver the device is using.
 
 This approach requires neither specialised hardware beyond a computer or a router, nor any modification to the device being checked. It is less detailed than full traffic capture but substantially easier to set up and run continuously.
 

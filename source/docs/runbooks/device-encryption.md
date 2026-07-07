@@ -2,7 +2,7 @@
 
 An unencrypted device is a lost device that becomes a complete data breach. Full-disk encryption means that without the correct passphrase or PIN, the data on the device is unreadable, even to someone who removes the storage and reads it directly.
 
-Modern operating systems handle this transparently. It runs unnoticed. The one visible effect is entering a PIN or passphrase when the device starts up, which is exactly when that protection is wanted.
+Modern operating systems handle this transparently. It runs unnoticed. The one visible effect is entering a PIN or passphrase when the device starts up.
 
 ## MacOS (FileVault)
 
@@ -37,6 +37,6 @@ iOS: iPhones are encrypted whenever a passcode is set. The encryption is hardwar
 
 Android: most modern Android devices encrypt by default once a screen lock is set. To verify, Settings, Security, Encryption (the path varies by manufacturer). An "Encrypted" status means it is done; otherwise, enabling a screen lock first makes the encryption option appear.
 
-## A note on biometrics at borders
+## Biometrics at borders
 
 Biometric unlock (fingerprint, face) is convenient and generally secure. At border crossings, or anywhere unlocking may be compelled, a PIN or passphrase carries more legal protection in many jurisdictions. The rules are worth knowing before travelling. The [travel devices playbook](../playbooks/travel-devices.md) covers this in more detail.

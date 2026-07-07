@@ -10,7 +10,7 @@ Before disclosing anything, confirm the request comes from the person it claims 
 
 Proportionate means verification commensurate with the sensitivity of the data. For a low-risk request, confirming the registered email address is usually enough. For sensitive or high-volume data, a copy of identity documentation may be warranted.
 
-Verification is not a delay tactic. Where it is simple, complete it quickly.
+Where it is simple, complete it quickly.
 
 ## Identify what data is held
 

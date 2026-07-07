@@ -1,9 +1,8 @@
 Playbooks: when judgement is required
 ======================================
 
-Proactive guides for achieving a goal: reducing exposure, protecting data,
-building secure habits, and running the procedures that keep things clean. Each playbook
-answers the question "We need to achieve something. How do we do it?"
+A playbook handles a class of situations that can unfold more than one way. It carries decision
+points and branches.
 
 .. toctree::
    :glob:

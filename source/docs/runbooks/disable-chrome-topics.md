@@ -1,27 +1,19 @@
-# Disable Chrome's Topics API
+# Disabling Chrome's Topics API
 
-Google's Topics API is a feature in Chrome that tracks your browsing habits to show "relevant" ads. Instead of
-tracking you across websites with cookies, it assigns you interest categories (like "Fitness" or "Travel") based on
-what you visit.
+Chrome's Topics API tracks browsing habits to show "relevant" ads. Rather than following a user across sites with cookies, it assigns interest categories (such as "Fitness" or "Travel") based on the sites visited.
 
-## Turn off Topics in Chrome
+## Turn Topics off
 
-Open Chrome and type in the address bar `chrome://settings/privacy`
+Open Chrome and enter `chrome://settings/privacy` in the address bar.
 
-Scroll down to "Ad privacy" (or search for it) and disable all three options:
+Scroll to "Ad privacy" (or search for it) and disable all three options:
 
-* "Ad Topics" (stops interest-based tracking)
-* "Site-suggested ads" (blocks sites from recommending ads)
-* "Ad measurement" (prevents tracking ad clicks)
+* Ad Topics, which stops interest-based categorisation
+* Site-suggested ads, which blocks sites from recommending ads
+* Ad measurement, which prevents tracking of ad clicks
 
-Note: Google may still collect some data, but this reduces how much is used for ads.
+Google may still collect some data, but this reduces how much is used for ads.
 
-## Why disabling Topics API is not enough
+## Why it is not enough
 
-Even with these settings off, Chrome still:
-
-* Tracks your IP address
-* Keeps browser fingerprinting active
-* Shares data with Google for "analytics"
-
-For stronger privacy, consider [switching to a privacy-focused browser](../playbooks/chrome.md).
+Even with these off, Chrome still tracks the IP address, keeps browser fingerprinting active, and shares data with Google for "analytics". For stronger privacy, consider [switching to a privacy-focused browser](../playbooks/chrome.md).

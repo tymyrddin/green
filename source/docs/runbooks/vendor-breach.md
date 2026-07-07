@@ -1,63 +1,41 @@
 # Vendor breach response
 
-Trigger: a vendor or service provider has notified you that they experienced a security
-incident that may have affected data you shared with them. Or you became aware of a
-vendor breach through public reporting before you received a direct notification.
+Trigger: a vendor or service provider has given notice of a security incident that may have affected data shared with them. Or a vendor breach surfaces through public reporting before any direct notification arrives.
 
-The vendor's breach is, in part, your breach. Any personal data they held on your behalf
-is data you are responsible for under GDPR. The fact that someone else lost it does not
-reduce your obligations.
+The vendor's breach is, in part, the organisation's breach. Any personal data they held on its behalf remains its responsibility under GDPR. Someone else losing it does not reduce that obligation.
 
 ## Verify the notification
 
-Before acting on a breach notification, confirm it is genuine. Phishing emails impersonating
-breach notifications from trusted vendors are a known vector. Contact the vendor through a
-channel you already have on record (not through the email you just received) to confirm
-the incident is real.
+Before acting on a breach notification, confirm it is genuine. Phishing that impersonates breach notices from trusted vendors is a known vector. Contact the vendor through a channel already on record, not through the email just received, to confirm the incident is real.
 
 ## Assess what data was affected
 
-The vendor's notification may be vague about scope. Press for specifics:
+The notification may be vague about scope. Press for specifics:
 - What categories of data were involved?
 - What time period does the breach cover?
-- Were the records encrypted? If so, with what?
+- Were the records encrypted, and if so, with what?
 - How many individuals' data is estimated to be affected?
 - Has the breach been contained, or is it ongoing?
 
-Your own data processing agreement with the vendor should specify their notification
-obligations and the timeframe for providing detail. If they are not meeting those
-obligations, document that.
+The data processing agreement with the vendor sets out their notification obligations and the timeframe for detail. Where they fall short of those, document it.
 
-## Determine your own notification obligations
+## Determine notification obligations
 
-GDPR requires you to notify your supervisory authority within 72 hours of becoming aware
-of a personal data breach that poses a risk to individuals. The clock may have already
-started from the moment you became aware, not from when the vendor notified you. Check
-the timing carefully.
+GDPR requires notification to the supervisory authority within 72 hours of becoming aware of a personal data breach that poses a risk to individuals. The clock may already have started at the moment of awareness, not at the vendor's notification. Check the timing carefully.
 
-If the breach is likely to result in a high risk to individuals (for example, special
-category data was involved, or the data could enable identity fraud or physical harm),
-you must also notify the affected individuals directly.
+Where the breach is likely to result in a high risk to individuals (special category data, or data enabling identity fraud or physical harm), the affected individuals must be notified directly too.
 
-Engage legal counsel to confirm your specific obligations in your jurisdiction. If you
-have a data protection officer, they should be involved immediately.
+Legal counsel can confirm the specific obligations in a given jurisdiction. Any data protection officer needs involving immediately.
 
 ## Review the vendor relationship
 
-A vendor breach is a signal to review the relationship:
-- Was the data minimised? Did the vendor hold more than was necessary?
-- Was the data properly protected under the processing agreement?
+A vendor breach is a prompt to review the relationship:
+- Was the data minimised, or did the vendor hold more than necessary?
+- Was it properly protected under the processing agreement?
 - Did they meet their contractual notification timeline?
 
-Consider whether to continue the relationship, and if so, what additional requirements
-to impose at contract renewal. See the [vendor assessment playbook](../playbooks/vendor-assessment.md).
-
-Temporarily revoke or reduce the vendor's access to your systems while the incident is
-being investigated if this can be done without critically disrupting operations.
+Weigh whether to continue the relationship and, if so, what to add at contract renewal (see the [vendor assessment playbook](../playbooks/vendor-assessment.md)). Where it can be done without critically disrupting operations, temporarily revoke or reduce the vendor's access while the incident is investigated.
 
 ## Document and follow through
 
-Record: when you received notification, what you were told, what you determined your
-obligations were, what you disclosed to your supervisory authority, and what you communicated
-to affected individuals. Update your [data audit](../playbooks/data-audit.md) to reflect
-what has changed about this vendor relationship.
+Record when the notification arrived, what it said, what obligations followed, what was disclosed to the supervisory authority, and what was communicated to affected individuals. Update the [data audit](../playbooks/data-audit.md) to reflect what has changed about the vendor relationship.

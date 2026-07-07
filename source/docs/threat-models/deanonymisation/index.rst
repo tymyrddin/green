@@ -1,27 +1,33 @@
-The garden layout: Threat model
-===================================
+Naming the anonymous: a deanonymisation threat model
+=====================================================
 
-In a greenhouse, everything is visible -- even what you'd rather keep in the compost bin. This model isn't about
-locking every door or fearing every shadow. It's about understanding who might be poking around the potting shed,
-what they're after, and how they might get it.
+In a greenhouse, everything is visible, even the things pushed to the back of the compost bin.
+This model is not about locking every door or fearing every shadow. It is about who might be
+poking around the potting shed, what they are after, and how they get it.
 
-We take an attacker's-eye view of the terrain -- the assets ripe for the picking, the paths through the undergrowth,
-the tools in the intruder's kit, and the consequences when the soil turns sour.
+It takes an attacker's-eye view of the terrain: the assets ripe for the picking, the paths through
+the undergrowth, the tools in the intruder's kit, and the consequences when the soil turns sour.
 
-Think of it less like a firewall and more like a garden fence with good signage, strong posts, and fewer places
-for things to burrow in unnoticed.
+Where the :doc:`surveillance model <../surveillance/index>` is about who watches and how the
+collection is built, this one is the layer above it: the techniques that turn collected, published,
+or "anonymous" data back into a specific person. Surveillance gathers; deanonymisation names. It is
+the same move the :doc:`infrastructure-aggregation model <../infrastructure-aggregation/index>` makes
+on buildings and cables, the combination is the finding, applied to people instead. And when the
+adversary is not a state or a broker but someone who already knows the target, the
+:doc:`poweron model <../poweron/index>` is the intimate-range version of the same techniques.
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Because when your data is the fertiliser, you'd better know who's doing the planting.
+   :caption: When the data is the fertiliser, it is worth knowing who is doing the planting.
 
    assets.md
    adversaries.md
    objectives.md
    techniques.md
    assistive.md
+   cases/index
    mitigations.md
    impacts.md
    consent.md

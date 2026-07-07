@@ -1,74 +1,45 @@
-# How to foil facial recognition like a Sci-Fi rebel (because big brother is watching)
+# Foiling facial recognition
 
-Tired of being tracked by every camera from the local Tesco to your creepy neighbor’s Ring doorbell? Good news: 
-You can turn your face into an AI-confusing enigma with some surprisingly simple (and stylish) anti-surveillance 
-tech.
+Cameras that recognise faces have become ambient, from the supermarket entrance to a neighbour's video doorbell. None of the countermeasures below make a face unrecognisable in every setting. They raise the cost of automated identification, which is a different and more achievable goal.
 
-## The problem: Your face is a data goldmine
+## A face is a data source
 
-Facial recognition systems are everywhere:
+Facial recognition runs in more places than most people register:
 
-* Stores track how long you stare at the overpriced organic avocados.
-* Public cameras log your route to work (for "security," obviously).
-* Social media auto-tags you in your cousin’s questionable BBQ photos.
+* Retail analytics measure dwell time and repeat visits.
+* Public and transport cameras log routes, timestamped.
+* Social platforms auto-tag uploaded photos, often without asking.
 
-And no, just avoiding Facebook won’t save you, AI can now ID you from side profiles, hoodies, or even your gait.
+Avoiding one platform does little on its own. Current systems identify people from side profiles, partial occlusion, and in some cases gait, so a single measure rarely closes the gap.
 
-## The solution: Become a glitch in the matrix
+## Infrared-blocking glasses
 
-### Option 1: IR-Blocking Glasses (For the Cyberpunk Aesthetic)
+These resemble ordinary glasses but reflect infrared, which many camera systems rely on to locate and scan a face. Prescription versions exist, Reflectacles and IRpair among them. The effect is to wash out the eye region for the camera while staying unremarkable to a human observer. Overhead night-vision systems work on the same principle and can be disrupted the same way, with less predictable results.
 
-These look like regular glasses but reflect infrared light, which most facial recognition systems use to scan faces.
+## Anti-surveillance clothing and masks
 
-Top Picks:
+Masks and printed patterns can break the facial contours a detector looks for. Dazzle-style patterns disrupt contour detection; metallic threading interferes with thermal imaging. Combined with a hood and sunglasses, the aim is to deny the detector a clean front-facing capture rather than to disappear entirely.
 
-* Reflectacles – Sleek, comes in prescription. Perfect for looking like a Blade Runner extra.
-* IRpair – Budget-friendly and surprisingly hipster.
+## Lower-cost alternatives
 
-How They Work:
+For a smaller budget:
 
-* Confuse cameras by blinding them with light (subtly).
-* Make your eyes appear blacked out or distorted to AI.
+* Stick-on infrared LEDs flare the sensor with light the eye ignores.
+* UV-reactive face paint reads as distortion to some cameras while looking subtle in daylight.
+* A generic mask reduces capture quality, though it can draw attention of its own in some settings.
 
-Bonus: Also works against creepy night-vision drones (probably).
+## Limits
 
-### Option 2: Anti-surveillance face masks (For the post-apocalyptic chic)
+* Gait recognition is untouched by anything worn on the face.
+* Some systems adapt, so a fixed method degrades over time; varying it helps.
+* Visible countermeasures can attract human attention even as they defeat the camera, a trade-off worth weighing before relying on them.
 
-Since COVID normalised masks, why not upgrade to privacy-enhanced ones?
+## Fuller measures
 
-Features to Look For:
+For a higher threat model:
 
-* Patterns that break facial contours (dazzle camouflage, like a high-tech zebra).
-* Metallic threading to mess with thermal imaging.
+* A thermal blanket masks body heat from infrared tracking.
+* Voice-altering tools address voice recognition, which is now a parallel channel.
+* Fabric with metallic lining blocks some overhead imaging.
 
-Pair with a hoodie and sunglasses for maximum "I’m definitely not a person" energy.
-
-## DIY alternatives (For the budget-conscious anarchist)
-
-If you’d rather not drop money on anti-tracking gear:
-
-* Stick-on LED patches (confuses cameras with light flares).
-* Face paint in UV-reactive colours (invisible to you, blinding to AI).
-* Just wear a Guy Fawkes mask (though this may attract other kinds of attention).
-
-## Limitations (because nothing’s perfect)
-
-* Doesn’t stop gait recognition (walk like you’ve got a limp, maybe?).
-* Some AI adapts (so rotate your methods like a spy).
-* Security guards may side-eye you (but that’s their problem).
-
-## Extra paranoid? Go full stealth mode
-
-* Thermal blankets (foil body-heat tracking).
-* Voice changers (because voice recognition is a thing now).
-* Carry an umbrella lined with metallic fabric (blocks overhead drones).
-
-## Fight back with chaos
-
-Facial recognition thrives on predictability. The more you randomise your appearance, the harder you are to track. 
-So go forth and confuse the machines.
-
-## Testing
-
-Want to test your disguise? Try HowManyTimesWasITracked.com (sorry, fake, but it should exist).
-
+Facial recognition depends on consistent, predictable input. Varying appearance across time and place is what degrades it. No single item does the work alone.

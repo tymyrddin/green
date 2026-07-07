@@ -3,9 +3,22 @@ Defensive strategies
 
 .. image:: /_static/images/defensive-strategies.png
 
-Some possible responses to the threats described in the models elsewhere in this greenhouse. Organised by who is doing
-the defending, because the constraints, resources, and adversaries differ enough that a single set of recommendations
-would be dishonest.
+Before this section prescribes anything, it reads the problem. Defence at every level, whether the defender is a
+citizen, an NGO, a company, a research institution or a state, sits downstream of the same structural conditions:
+what the surrounding system rewards, who benefits from leaving it as it is, and why technically sound counsel keeps
+losing to the status quo. Name those first, or the advice that follows is only motion.
+
+The pages are still organised by who is doing the defending, because the constraints, resources, and adversaries
+differ enough that a single set of recommendations would be dishonest. But the through-line is diagnosis rather than
+checklist. The two pages that carry most of the weight, :doc:`nations and policy <nations>` on the EU's
+data-protection framework and the national-security hole at its centre, and :doc:`systems effects <systems>` on
+leverage points, incentives and the homeostatic trap, come last because they are where the actor-by-actor view
+finally joins up.
+
+For the concrete evidence that a single document is rarely the unit that matters, see the open-records
+:doc:`aggregation study <../threat-models/infrastructure-aggregation/index>`. For the older question of how analysis
+itself stays honest or quietly turns into cover, see the `thirteenth chair
+<https://purple.tymyrddin.dev/docs/thirteen/>`_.
 
 .. toctree::
    :glob:

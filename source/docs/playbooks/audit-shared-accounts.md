@@ -28,7 +28,7 @@ If your photos are backing up to a shared cloud account, the other person may be
 
 ## Location sharing
 
-Go through each of the following and check whether location sharing is active and visible to anyone who should not have it.
+Go through each of the following and check whether location sharing is active and visible to anyone who has no business seeing it.
 
 Google Maps: Settings, Location sharing. Apple Maps / Find My: the People tab shows who can see your location and who you are sharing with. Life360, if installed: check who is in your circles. Snapchat, WhatsApp, and other messaging apps: these have their own location sharing features, sometimes set to share continuously.
 

@@ -2,7 +2,7 @@
 
 The most sensitive information a person holds is often not directly available to an adversary. But it can be inferred from information that is. An inference attack trains a machine learning model on a labelled dataset and uses it to predict private attributes from observable ones. The target person provides no sensitive information directly. The model infers it from the trail they leave without thinking.
 
-## How it works
+## Mechanism
 
 The clearest example is political affiliation inferred from smartphone app installations. The list of apps installed on a device is visible to the operating system and, through analytics SDKs embedded in those apps, to many third-party services. Certain apps correlate statistically with certain political leanings. A model trained on a dataset that contains both app lists and known political affiliations can then make predictions about people whose affiliation is unknown.
 
@@ -31,7 +31,7 @@ feature_importance = model.explain()
 
 The feature importance output tells an analyst which apps are most predictive, and in which direction. This is itself actionable: it reveals which data to collect in future.
 
-## What this reveals
+## Exposure
 
 The model does not need to be perfectly accurate to be commercially or politically significant. At 75-80% accuracy across a population of millions, the inferences produce actionable targeting data. A person in that population installed the apps they found useful. They did not provide their political views.
 

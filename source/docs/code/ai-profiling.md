@@ -2,7 +2,7 @@
 
 The content of what someone posts is only one layer. The patterns beneath it are legible to a machine learning model trained to read them: the times of posting, the topics that recur, the emotional register sustained across a period of time, the vocabulary, the rhythm. A behavioural profiling system reads posts as data rather than as text. It does not try to understand what someone means. It measures what they produce, statistically, and assigns them a category.
 
-## How it works
+## Mechanism
 
 The process has two stages. The first assigns a sentiment value to each post: a numerical score reflecting how positive or negative the content is. The second converts the words into vectors and groups similar vectors into clusters, each cluster representing a behavioural pattern.
 
@@ -29,7 +29,7 @@ topic_map = most prominent terms across this user's feature_vectors
 
 A user who posts frequently about work frustration, weekend socialising, and outdoor activities will generate a profile with a characteristic shape: negative sentiment spikes mid-week, positive spikes on weekends, topics clustering around professional stress and leisure. Mapped across millions of users, these profiles sort people into categories.
 
-## What this reveals
+## Exposure
 
 The profile is not a psychological assessment in the clinical sense. It is a statistical approximation that is useful for commercial and political targeting at scale. An advertiser with a profile labelled "high stress, physically active, 30-40 age range" can target that person specifically. A political operation with a profile labelled "politically disengaged, economic anxiety, suburban" can target them with tailored messaging.
 

@@ -1,33 +1,18 @@
-# Switch to a privacy-focused browser
+# Switching to a privacy-focused browser
 
-## Best alternatives to Chrome
+## Alternatives to Chrome
 
-Best Alternatives to Chrome:
+Firefox, with privacy settings: blocks trackers by default, supports extensions such as uBlock Origin, and has a Strict tracking-protection mode in settings.
 
-Firefox + Privacy settings
+Brave: ships with an ad and tracker blocker, can route private tabs through Tor, and offers an optional scheme that pays in cryptocurrency for viewing privacy-respecting ads.
 
-* Blocks trackers by default
-* Supports extensions like uBlock Origin (best ad blocker)
-* Enable "Strict" tracking protection in settings
+Tor Browser: the most private of the three, routing traffic through several relays and resisting fingerprinting by design. It is slower, which suits sensitive browsing rather than everyday use.
 
-Brave
+## Hardening the browser
 
-* Built-in ad & tracker blocker
-* Uses Tor in Private Tabs for extra anonymity
-* Pays you in crypto (optional) for viewing privacy-respecting ads
+Chrome can be tightened without switching, though it starts from a weaker position:
 
-Tor browser
-
-* The most private option (routes traffic through multiple servers)
-* Blocks fingerprinting completely
-* Slower, but ideal for sensitive browsing
-
-## Lock down your browser (extra protection)
-
-Even if you stick with Chrome, improve privacy by:
-
-* Going to `chrome://settings/cookies` → Block third-party cookies
-* [Disabling Chrome's Topics API](../runbooks/disable-chrome-topics.md)
-* [Installing Privacy Badger (blocks hidden trackers)](blocks.md)
-* [Using a VPN to hide your IP address](vpn.md)
-
+* Block third-party cookies at `chrome://settings/cookies`
+* [Disable Chrome's Topics API](../runbooks/disable-chrome-topics.md)
+* [Install Privacy Badger to block hidden trackers](blocks.md)
+* [Use a VPN to hide the IP address](vpn.md)

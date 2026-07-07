@@ -17,13 +17,15 @@ from them.
 
 Your primary email address is the master key. Almost every other account can be reset via
 your inbox. If someone has access to your email, they can work their way through your
-other accounts one reset at a time.
+other accounts one reset at a time. Securing it first is the single highest-value step, and the
+[reclaim your primary email](../../runbooks/reclaim-email.md) runbook walks through it in an order
+designed not to tip off someone who is watching.
 
 Your phone number is nearly as important. It is used for two-factor authentication, SMS
 verification codes, and account recovery across most major services. Control of your number,
 through a shared account or a SIM swap, means interception of those codes.
 
-Government-issued identity (passport, driving licence, national insurance number) matters
+Government-issued identity (passport, driving licence, national insurance number) carries weight
 because it underpins account recovery processes at banks, telecoms providers, and official
 services where higher-trust verification is required.
 
@@ -89,7 +91,7 @@ You are not at fault for having a digital life. The problem is not the technolog
 it is used against you.
 
 Understanding what is at risk is not meant to be overwhelming. It is meant to give you a
-starting point: what matters most, where to look first, and what to prioritise when the whole
+starting point: what is most important, where to look first, and what to prioritise when the whole
 picture feels too large to take in at once.
 
 Identity first. Then access. Then everything else.

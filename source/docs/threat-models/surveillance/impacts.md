@@ -3,7 +3,7 @@
 Surveillance does not need to act to be effective. The awareness of its possibility
 changes behaviour. The awareness of its certainty changes more. The impacts here are
 layered because the consequences of the same surveillance infrastructure are materially
-different depending on who you are and what you do.
+different depending on who a person is and what they do.
 
 ## Individuals
 
@@ -25,7 +25,7 @@ produce false positives. Individuals who match a pattern associated with a risk 
 may be flagged for further investigation, included on watchlists, subjected to enhanced
 scrutiny at borders, or denied services, without ever having done anything that would
 justify any of this. The algorithm does not know the difference; it knows correlations.
-Challenging a misclassification requires knowing you are on a list, which is rarely
+Challenging a misclassification requires knowing one is on a list, which is rarely
 disclosed.
 
 Loss of anonymity in public life: movement through public space, attendance at

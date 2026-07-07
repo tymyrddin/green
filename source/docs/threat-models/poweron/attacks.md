@@ -83,7 +83,9 @@ requires brief physical access to install and is designed to be invisible once r
 
 Commercial stalkerware is marketed as parental control or employee monitoring software, but
 the products are built for surveillance of adults in domestic settings. DIY equivalents using
-automation apps or abused "family safety" products achieve similar results.
+automation apps or abused "family safety" products achieve similar results. It is not, though,
+beyond finding: [checking a device for stalkerware](../../playbooks/stalkerware-check.md) sets out
+how to look safely.
 
 ## Location tracking in practice
 
@@ -91,7 +93,10 @@ Beyond phone GPS, location can be tracked through Bluetooth trackers hidden in b
 or clothing; shared account features like Apple Find My or Google Location Sharing; geotags
 on photos; calendar entries synced across accounts; ride-hailing history; and fitness app
 routes. The danger is not only being watched but being anticipated. Showing up where you
-did not announce you were going is not a coincidence when your movements are visible.
+did not announce you were going is not a coincidence when your movements are visible. For the
+Bluetooth-tracker part of this, recent iPhones and Android phones now
+[raise an alert](https://www.theregister.com/2024/05/14/android_apple_devices_anti_stalking/) when an
+unfamiliar tag has been travelling with you.
 
 ## AI-generated content in practice
 
@@ -101,7 +106,9 @@ Video synthesis is more technically demanding but available. This content is use
 harassment, blackmail, reputational damage, and false evidence in legal contexts.
 
 Even where the content is eventually identified as fabricated, the harm often precedes
-that identification by a significant margin.
+that identification by a significant margin. Where the content is a non-consensual intimate image,
+[StopNCII](https://stopncii.org/) can have a known image blocked across participating platforms
+before it spreads.
 
 ## Financial manipulation in practice
 

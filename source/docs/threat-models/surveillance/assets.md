@@ -9,18 +9,18 @@ changes depending on which adversary is doing the looking and what they need it 
 
 At the individual level, the assets are the raw materials of a person's digital life,
 but the value placed on them here is different from how a data broker sees them.
-Intelligence agencies are not primarily interested in selling you things.
+Intelligence agencies are not in the business of selling anyone things.
 
-Identity signals: your name, national identity number, passport details, address
-history, and the identifiers that attach you to accounts, devices, and services.
+Identity signals: a name, national identity number, passport details, address
+history, and the identifiers that attach a person to accounts, devices, and services.
 These are the root of any surveillance file.
 
-Behavioural patterns: your routine, your movement, your schedule, your purchasing
-habits, your online activity over time. Patterns are more useful than snapshots
-because they enable prediction. Knowing where you are is useful; knowing where you
+Behavioural patterns: routine, movement, schedule, purchasing
+habits, online activity over time. Patterns are more useful than snapshots
+because they enable prediction. Knowing where a person is is useful; knowing where they
 will be is more so.
 
-Social graph: who you communicate with, how often, through which channels, and in
+Social graph: who a person communicates with, how often, through which channels, and in
 what organisational contexts. The social graph is often more revealing than the
 content of communications. Mapping the graph of an activist network, a newsroom,
 or a diaspora community produces intelligence about structure, not just individuals.
@@ -70,7 +70,7 @@ asset here is the model, not any individual record.
 Economic and research intelligence: trade secrets, R&D data, negotiating positions,
 procurement information, and technological capability assessments. This is the domain
 of industrial espionage, which is conducted by allied states as well as adversarial ones.
-The Snowden disclosures included documentation of US collection targeting EU trade
+The Snowden disclosures of 2013 included documentation of US collection targeting EU trade
 negotiating positions.
 
 Critical infrastructure data: communications patterns, dependency maps, and operational

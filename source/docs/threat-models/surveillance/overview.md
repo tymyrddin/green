@@ -38,8 +38,8 @@ is the most discussed, but several EU member states participate in expanded shar
 arrangements under the Nine Eyes and Fourteen Eyes frameworks. These include the
 Netherlands, Denmark, France, Norway, Germany, Belgium, Italy, Spain, and Sweden.
 
-The mechanism is not simply "you spy on my citizens for me." It is more structural
-than that: each agency collects intelligence that it categorises as "foreign" (meaning
+The mechanism is not simply a matter of each agency spying on the others' citizens to
+order. It is more structural than that: each agency collects intelligence that it categorises as "foreign" (meaning
 communications flowing through or associated with non-domestic targets), and agencies
 share what they have collected. Since "foreign" collection in practice captures vast
 amounts of data about citizens of other partner states, the practical effect is that
@@ -47,7 +47,7 @@ each agency's domestic legal constraints on surveilling its own citizens can be
 navigated by receiving data about those citizens from a partner who collected it
 under different rules. This is a structural feature, not an accident.
 
-The Snowden disclosures documented this at scale. GCHQ collected data on EU citizens
+The Snowden disclosures of 2013 documented this at scale. GCHQ collected data on EU citizens
 from undersea cable access points and shared it with NSA. The NSA monitored the German
 Chancellor's communications. These are facts of record, not allegations.
 
@@ -58,7 +58,8 @@ Data brokers aggregate location data, behavioural profiles, and identity informa
 from apps, advertising ecosystems, and public sources, and they sell to commercial
 buyers. Government agencies in the United States have purchased location data from
 brokers to obtain information they would otherwise require a warrant to collect.
-There are documented cases of similar practices in Europe.
+In Europe the [Databroker Files](cases/databroker-files.md) investigation of 2025 showed
+the same commercial data exposing the movements of officials inside the EU's own institutions.
 
 This is not interception. It is procurement. And it is largely unregulated in the
 national security context precisely because GDPR does not apply there.
@@ -70,5 +71,5 @@ is either legal, contested only at the margins, or structured to be difficult to
 challenge. The system was designed to permit observation. It optimises for visibility
 under plausible deniability.
 
-You are not modelling a malfunction. You are modelling the system working as built,
+This is not a model of a malfunction. It is a model of the system working as built,
 under conditions of political stress that reveal what it was always capable of.

@@ -4,7 +4,7 @@ This playbook describes using DNS-level monitoring to identify connections consi
 
 This approach requires neither specialised hardware beyond a computer or a router, nor any modification to the device being checked. It is less detailed than full traffic capture but substantially easier to set up and run continuously.
 
-Before checking anyone else's device, confirm you have their informed consent and that they understand what the process involves. The person whose device is being checked should be present and in control of the decision.
+Before checking anyone else's device, confirm you have their informed consent and that they understand what the process involves. The person whose device is being checked needs to be present and in control of the decision.
 
 ## How it works
 

@@ -1,5 +1,7 @@
 # Companies
 
+![Companies](/_static/images/companies.png)
+
 The most durable failure in corporate security is the belief that the organisation is unlikely
 to be targeted. "We are not interesting enough" is a comfort, not an assessment. It is the mental
 equivalent of leaving the greenhouse unlocked because the orchids inside are not famous.

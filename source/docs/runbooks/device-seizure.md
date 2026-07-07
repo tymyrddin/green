@@ -63,6 +63,6 @@ the change in data holdings.
 ## Review what the seizure revealed
 
 A device seizure is a signal that your threat model has escalated or was miscalibrated.
-Review what data the device contained and whether it should have been there. If you were
-carrying sensitive data that should have been on a clean travel device, update your
+Review what data the device contained and whether it needed to be there. If you were
+carrying sensitive data that would have been better on a clean travel device, update your
 procedures for future travel.

@@ -4,7 +4,7 @@ This playbook describes setting up a low-cost network monitoring station that ca
 
 This setup is intended for support workers, technically capable individuals helping a survivor check a device, or small organisations that handle sensitive device assessments. It requires some comfort with Linux and a willingness to follow documentation carefully. It is not a point-and-click solution.
 
-Before checking anyone else's device, confirm you have their informed consent and that they understand what the process involves. The person whose device is being checked should be present and in control of the decision.
+Before checking anyone else's device, confirm you have their informed consent and that they understand what the process involves. The person whose device is being checked needs to be present and in control of the decision.
 
 ## What you need
 

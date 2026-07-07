@@ -2,7 +2,7 @@
 
 Trigger: you are preparing to leave, or have recently left, a relationship involving technology-facilitated abuse, and you need to reduce the digital access the other person currently has.
 
-This runbook covers digital steps only. Physical safety and legal considerations are beyond its scope and must be addressed alongside it, not after. Contact a specialist support organisation before or while working through these steps. In the UK: Refuge (refuge.org.uk), Women's Aid (womensaid.org.uk), and the National Domestic Abuse Helpline (0808 2000 247). They have advisors who understand the technology and can help you sequence this safely.
+This runbook covers digital steps only. Physical safety and legal considerations are beyond its scope and need to be addressed alongside it, not after. Contact a specialist support organisation before or while working through these steps. In the UK: Refuge (refuge.org.uk), Women's Aid (womensaid.org.uk), and the National Domestic Abuse Helpline (0808 2000 247). They have advisors who understand the technology and can help you sequence this safely.
 
 ## Before anything else: get a safe device
 
@@ -42,7 +42,7 @@ Social media: change passwords on all platforms. Check connected apps, active se
 
 If your home has smart devices: see the audit shared accounts playbook. An administrator account on a smart home system has access to cameras, door locks, and activity logs. This may not be possible to remove safely until you have left the physical space.
 
-If you suspect Bluetooth trackers have been placed in your belongings or vehicle: the Apple AirTag detection feature (on iPhone) or the Tracker Detect app (Android) can help locate them. Carry a physical sweep of bags, car, and clothing before any movement that matters for your safety.
+If you suspect Bluetooth trackers have been placed in your belongings or vehicle: the Apple AirTag detection feature (on iPhone) or the Tracker Detect app (Android) can help locate them. Carry a physical sweep of bags, car, and clothing before any movement that bears on your safety.
 
 ## After the immediate steps
 
@@ -58,6 +58,6 @@ Preserve evidence: document what has happened. Screenshots with timestamps, reco
 
 ## When to involve outside help
 
-A specialist support organisation should be involved from the beginning, not as a last resort. They can help with the sequencing, with understanding the legal picture, and with connecting you to technical experts who can assess devices and accounts in ways this runbook cannot.
+A specialist support organisation is worth involving from the beginning, not as a last resort. They can help with the sequencing, with understanding the legal picture, and with connecting you to technical experts who can assess devices and accounts in ways this runbook cannot.
 
 If you are in immediate danger, that takes priority over every digital step in this runbook. The digital situation can be addressed in stages. The physical situation cannot wait.

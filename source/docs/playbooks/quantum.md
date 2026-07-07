@@ -1,69 +1,49 @@
-# Quantum-resistant encryption: Why your secrets need future-proofing today
+# Quantum-resistant encryption
 
-The bad news: Quantum computers are coming, and they’ll shred today’s encryption like wet tissue paper. The good news: 
-Privacy apps like Signal and ProtonMail are already deploying post-quantum cryptography (PQC) to keep your data safe. 
-Here’s why it is important, and how to use it.
+Large quantum computers do not exist yet, but the timeline is short enough to plan around. When they arrive, they will break the public-key cryptography (RSA, ECC) that protects most traffic today. Several privacy tools have already moved to post-quantum cryptography (PQC), so the useful actions mostly come down to using them.
 
-## The Quantum apocalypse (for your privacy)
+## Why it is worth attention now
 
-Today’s encryption (like RSA and ECC) relies on math problems that quantum computers could solve in seconds. Once 
-they are powerful enough:
+Today's public-key schemes rest on maths problems a capable quantum computer could solve quickly. Once that threshold is reached:
 
-* Every intercepted Signal message could be retroactively decrypted.
-* Old PGP-encrypted emails might as well be postcards.
-* Government agencies are already harvesting data to crack later ("Store Now, Decrypt Later" attacks).
+* Intercepted messages recorded today could be decrypted retroactively.
+* Old PGP-encrypted email would offer little protection against a later break.
+* Some agencies already collect encrypted traffic to decrypt later, the pattern known as "store now, decrypt later".
 
-When Will It Happen?
+NIST's estimates put large-scale quantum computers roughly five to fifteen years out. The collection of encrypted data for future decryption is happening now, which is why forward secrecy against that future is worth having today.
 
-* 5–15 years for large-scale quantum computers (per NIST).
-* But military/govt data is being collected NOW for future decryption.
+## How it works
 
-## How Quantum-resistant encryption works
+PQC replaces the vulnerable maths with problems that stay hard for quantum computers, mainly:
 
-PQC uses new math problems that even quantum computers struggle with, like:
+* Lattice-based key exchange, the basis of Signal's PQXDH
+* Hash-based and lattice-based signatures, used in quantum-resistant PGP
 
-* Lattice-based cryptography (Signal’s PQXDH)
-* Hash-based signatures (ProtonMail’s quantum-resistant PGP)
+The shift is less a new lock than a new class of lock, chosen because the old class is expected to open.
 
-Think of it as upgrading from a wooden door to a vault lined with alien alloy.
+## Tools that already use it
 
-## Apps already using PQC (and how to enable it)
+Signal (PQXDH): enabled by default since 2023, no action needed. It combines a traditional exchange with CRYSTALS-Kyber, so a chat recorded today resists a later quantum break.
 
-Signal (PQXDH Protocol)
+ProtonMail (post-quantum PGP): available when both parties support it, using CRYSTALS-Dilithium for signatures. It applies only when the recipient also has it enabled.
 
-* Automatically enabled since 2023 (no user action needed).
-* Mixes traditional encryption with CRYSTALS-Kyber (a lattice-based algorithm).
-* Why it’s cool: Even if someone records your chats today, they can’t crack them later.
+Others: Apple's iMessage PQ3 and Tuta's hybrid encryption are further recent adopters.
 
-ProtonMail (Post-Quantum PGP)
+## Practical steps
 
-* Manual setup: Compose an email → Click the "Quantum-safe" padlock (if recipient also uses PQC).
-* Uses CRYSTALS-Dilithium for signatures.
-* Limitation: Only works if both parties enable it.
-
-Other early adopters
-
-* iMessage (Apple’s PQ3 protocol, rolling out in 2024).
-* Tuta (formerly Tutanota, working on hybrid encryption).
-
-## What you can do today
-
-* Switch to Signal/ProtonMail if you haven’t already.
-* For PGP users: Generate a quantum-resistant key with (Requires GnuPG 2.4+):
+* Moving to Signal or ProtonMail covers most everyday messaging.
+* For existing PGP use, GnuPG 2.4 or later can generate a quantum-resistant key:
 
 ```bash
-    gpg --quick-gen-key "Your Name" future-default
+gpg --quick-gen-key "Name" future-default
 ```
 
-* Don’t panic, but assume any non-PQC data could be readable by 2040.
+* Treat any non-PQC data as potentially readable in the 2040s, and prioritise accordingly rather than panicking.
 
-## The fine print
+## Caveats
 
-* Not all PQC is battle-tested yet. Some algorithms might have flaws (NIST is still finalising standards).
-* Old devices may not support it. Check your app versions.
-* VPNs/SSL will need upgrades too. Most web traffic is still vulnerable.
+* Not every PQC algorithm is fully battle-tested; NIST is still finalising standards, and some candidates may yet show flaws.
+* Older devices and app versions may not support it, so versions are worth checking.
+* Transport security (VPNs, TLS) needs its own upgrades, and much web traffic still runs on pre-quantum schemes.
 
-Encrypt like the future depends on it (because it does).
-
-Quantum computing won’t just break crypto, it’ll rewrite privacy, finance, and cybersecurity. By using PQXDH and 
-quantum PGP now, you’re locking the vault before the thieves get the tools.
+Adopting PQXDH and quantum-resistant PGP now is a way of closing the vault before the tools to open it are widely available.

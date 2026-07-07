@@ -21,7 +21,7 @@ In your email settings, look for:
 - Connected applications and OAuth grants that have access to your inbox
 - Active sessions showing devices or locations that are not yours
 
-Remove anything that should not be there. Forwarding rules are the most commonly abused: they can be set quietly and are easy to miss. A forwarding rule to the other person's address means they receive copies of every incoming email, including every verification code and password reset link, even after you change your password.
+Remove anything that has no business being there. Forwarding rules are the most commonly abused: they can be set quietly and are easy to miss. A forwarding rule to the other person's address means they receive copies of every incoming email, including every verification code and password reset link, even after you change your password.
 
 ## Enable two-factor authentication
 

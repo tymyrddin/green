@@ -1,81 +1,47 @@
-# VPNs for privacy protection
+# VPNs for privacy
 
-A Virtual Private Network (VPN) is one of the most effective tools for safeguarding your online privacy. It encrypts your internet traffic, hides your IP address, and helps you bypass censorship, but not all VPNs are equal.
+A virtual private network (VPN) encrypts internet traffic, hides an IP address, and helps get around censorship. It is one useful layer, though not all VPNs are equal and none is a complete solution.
 
-## Why you need a VPN
+## What a VPN does
 
-* Hide Your IP Address – Prevents websites, ISPs, and governments from tracking your real location.
-* Encrypt Your Traffic – Secures your data on public Wi-Fi (airports, cafes, hotels).
-* Bypass Censorship & Geo-Blocks – Access restricted content (news, streaming, social media).
-* Stop ISP Snooping – Prevents your internet provider from selling your browsing history.
+* Hides the IP address, so websites, ISPs and governments see the VPN's location rather than the real one
+* Encrypts traffic, which protects data on public Wi-Fi in airports, cafes and hotels
+* Bypasses censorship and geo-blocks for news, streaming and social media
+* Stops ISP snooping, so the provider cannot log and sell browsing history
 
-## Best privacy-focused VPNs (2024)
+## Privacy-focused providers
 
-### Proton VPN (Most secure)
+Proton VPN: Swiss-based, under strong privacy law, with an independently audited no-logs policy, open-source apps, and a free tier that is not speed-throttled (protonvpn.com).
 
-* Swiss-based (strong privacy laws)
-* No-logs policy (independently audited)
-* Open-source apps (transparent security)
-* Free tier available (with no speed throttling)
+Mullvad: no account needed, payable in cash or cryptocurrency, flat-rate at around €5 a month, running on RAM-only servers that wipe on reboot (mullvad.net).
 
-protonvpn.com
+IVPN: anti-tracking features, WireGuard and multi-hop routing, and no personal data required, aimed at more advanced users (ivpn.net).
 
-### Mullvad (Most anonymous)
+NordVPN: a large server network suited to streaming, with built-in threat protection; Panama-based, with a more limited audit history (nordvpn.com).
 
-* No account needed (pay with cash/crypto)
-* Flat-rate pricing (€5/month, no tricks)
-* RAM-only servers (data wiped on reboot)
+## The risk in free VPNs
 
-mullvad.net
+Most free VPNs log and sell data (Hola, Turbo), run slowly with ads, or use weak encryption that can leak an IP. The main trustworthy free option is Proton VPN Free, which keeps no logs and imposes no speed limit.
 
-### IVPN (Best for advanced users)
+## Setting one up
 
-* Anti-tracking features (blocks ads & trackers)
-* WireGuard & Multi-hop VPN (extra security)
-* No personal data required
+1. Choose a provider (Proton, Mullvad or IVPN are good defaults)
+2. Download and install from the official website rather than an app store
+3. Enable the kill switch, which cuts the connection if the VPN drops
+4. Use WireGuard or OpenVPN, faster and more secure than older protocols
 
-ivpn.net
+A leak test at [ipleak.net](https://ipleak.net/) confirms the tunnel is holding.
 
-#### NordVPN (Fast & reliable)
+## Where a VPN does not help
 
-* 6,000+ servers worldwide (good for streaming)
-* Threat Protection (blocks malware & trackers)
-* Panama-based, but has had minor past audits
+* Against malware, which needs antivirus and a firewall
+* Against Google or Facebook tracking, which needs privacy browsers and cookie blockers
+* Once logged into an account, since a VPN hides an IP, not an identity
 
-nordvpn.com
+## Further notes
 
-## Free VPNs: The risks
+* Chaining a VPN through Tor raises anonymity at the cost of speed
+* US-based VPNs sit under surveillance law worth weighing
+* An independent no-logs audit is the claim worth checking
 
-* Log and sell your data (Hola VPN, Turbo VPN)
-* Slow speeds & ads (most free tiers)
-* Weak encryption (some leak your IP)
-
-Only trustworthy free option: Proton VPN Free (no logs, no speed limits).
-
-## How to set up a VPN
-
-1. Choose a VPN (Proton, Mullvad, or IVPN recommended).
-2. Download & Install (from official website, not app stores).
-3. Enable Kill Switch (stops internet if VPN disconnects).
-4. Use WireGuard/OpenVPN (faster & more secure than older protocols).
-
-Test for Leaks ([ipleak.net](https://ipleak.net/)).
-
-## When a VPN will not protect You
-
-* Against malware (use an antivirus + firewall).
-* From Google/Facebook tracking (use privacy browsers + cookies blockers).
-* If you log into accounts (VPNs hide IPs, not identities).
-
-## Privacy tips
-
-* Use Tor + VPN (chaining VPN through Tor) for maximum anonymity (but slower speeds).
-* Avoid US-based VPNs (subject to surveillance laws).
-* Check audits (look for "no-logs" confirmation from independent firms).
-
-## Recommendation
-
-* For best privacy: Proton VPN or Mullvad.
-* For speed + streaming: NordVPN (but prioritize privacy-first options).
-
-A VPN is just one layer, combine it with [Firefox + uBlock Origin](blocks.md) + [encrypted email](email.md) for full protection.
+Proton VPN or Mullvad suit a privacy-first setup; NordVPN favours speed and streaming. A VPN is one layer, best combined with [Firefox and uBlock Origin](blocks.md) and [encrypted email](email.md).

@@ -6,7 +6,8 @@ and it does not stop when the relationship ends or the device is finally out of 
 
 ## Loss of autonomy
 
-This is the central aim of coercive control, and technology is an effective instrument of it.
+This is the central aim of coercive control, and technology is an effective instrument of it. Coercive control is a
+criminal offence in a growing number of jurisdictions, and technology-facilitated abuse increasingly falls within it.
 
 Each act, whether unlocking your phone, tracking your location, or deleting a calendar entry,
 removes a degree of your ability to make independent decisions. Over time, autonomy narrows:
@@ -30,6 +31,11 @@ content falls on the person it was fabricated about.
 This creates a specific kind of harm: not only are you dealing with the abuse, you are also
 dealing with the task of being believed in systems that lack the tools to make that assessment
 fairly.
+
+The counterpart is worth knowing too. Keeping a dated, backed-up record of genuine incidents,
+screenshots, messages, logs, stored somewhere the other person cannot reach, is what later lets
+your account be corroborated rather than merely asserted. The
+[digital safety steps when leaving](../../playbooks/leaving-safely.md) guide covers doing this safely.
 
 ## Social isolation
 
@@ -79,5 +85,5 @@ or weakness.
 
 Understanding what is happening is the beginning of addressing it. And addressing it, one
 step at a time, is possible. People do it. It is hard. But the harm that technology enables
-can also be reduced through technology, alongside the human support that nothing in this
+can also partly be reduced through technology, alongside the human support that nothing in this
 model can replace.

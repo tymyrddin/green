@@ -1,66 +1,48 @@
-# Using cash and privacy-focused payment methods
+# Cash and privacy-focused payments
 
-When you make purchases with regular debit/credit cards or mobile payments, companies can track exactly what you buy, 
-where, and when. This creates a detailed spending profile that can be used for advertising, credit scoring, or even 
-sold to data brokers. Here's how to maintain better financial privacy:
+Purchases made with ordinary debit or credit cards, or with mobile payments, let companies record exactly what was bought, where and when. Over time that builds a detailed spending profile, used for advertising and credit scoring, and sometimes sold on. A few methods make that profile harder to assemble.
 
-## Why cash still matters in a digital world
+## Why cash still does the work
 
-Paying with physical banknotes remains the most private way to purchase goods and services because:
+Physical banknotes remain the most private way to pay, because a cash payment:
 
-* It leaves no digital transaction record that can be tracked
-* Does not reveal your identity to the seller
-* Can not be linked to other purchases you have made
+* Leaves no digital transaction record to track
+* Does not reveal identity to the seller
+* Cannot be linked to other purchases
 
-For maximum privacy with cash:
+Cash is most private when withdrawals vary in amount and timing rather than following a routine. Different branches help for larger withdrawals. Some businesses refuse cash above a set limit for certain transactions.
 
-* Withdraw money from money machines in varying amounts at irregular times
-* Consider using different bank branches if making large withdrawals
-* Businesses can refuse cash payments over a certain limit for some transactions
+## Privacy-enhanced cards
 
-## Privacy-enhanced payment cards
-
-When cash is not practical, these alternatives offer more protection than standard cards:
+Where cash is impractical, some cards protect more than a standard one.
 
 ### Prepaid cards with minimal verification
 
-Prepaid cards are available worldwide, but verification rules vary. 
-
-* Purchase with cash. Look for cards requiring only basic registration.
-* Use different cards for different spending categories
+Prepaid cards exist worldwide, though verification rules vary. Buying one with cash, and choosing cards that ask only for basic registration, keeps them loosely tied to an identity. Different cards for different spending categories limit what any single card reveals.
 
 ### Disposable virtual cards
 
-Virtual cards like Revolut work in UK/Europe. Privacy.com is US-only.
+Revolut works across the UK and Europe; Privacy.com is US-only. Both generate one-time card numbers, so each merchant sees a unique number that cannot be used to link other purchases. Spending limits and expiry dates add further control.
 
-* Services like Revolut or Privacy.com generate one-time card numbers
-* Each merchant gets a unique number that can not track other purchases
-* Set spending limits and expiration dates for extra control
+### Cryptocurrency cards
 
-### Cryptocurrency cards 
+Cards from services such as BitPay or Crypto.com convert cryptocurrency to fiat at the point of sale and do not link directly to a bank account. Tax treatment differs by country and is worth checking first.
 
-Cryptocurrency cards have tax implications which differ by country. Examples: BitPay, Crypto.com cards.
+## Sensitive purchases
 
-* Some services convert crypto to fiat at point of sale
-* Doesn't directly link to your bank account
+For medical, political or personal items best kept private:
 
-## Special cases for sensitive purchases
+* A prepaid card bought with cash covers online orders
+* Locker or collection-point delivery avoids tying a purchase to a home address
+* Some merchants share purchase data with third parties regardless of payment method
 
-For medical, political, or personal items you would rather keep private:
+## Trade-offs
 
-* Use prepaid cards purchased with cash for online orders
-* Consider collecting packages from locker services rather than home
-* Be aware some merchants share purchase data with third parties regardless of payment method
+These methods improve privacy but carry costs:
 
-## The privacy trade-offs
+* Prepaid cards often charge fees and cap spending
+* Some services still require ID verification
+* Returns and exchanges are harder without a purchase record
+* Most countries require reporting of suspicious cash transactions over €10,000
 
-While these methods improve privacy, consider:
-
-* Prepaid cards often have fees and lower spending limits
-* Some services may still require ID verification
-* Returns/exchanges can be more difficult without purchase records
-* Most countries have regulations requiring reporting suspicious cash transactions over €10,000
-
-Complete financial privacy is challenging in modern banking systems, but these steps can significantly reduce how 
-much of your spending habits are recorded and shared. For everyday purchases, alternating between cash and privacy 
-cards makes it harder to build a complete profile of your activities.
+Complete financial privacy is hard to reach in a modern banking system. Alternating between cash and privacy cards for everyday purchases is usually enough to keep any single profile incomplete.

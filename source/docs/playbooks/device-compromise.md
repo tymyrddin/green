@@ -40,7 +40,7 @@ On iOS, the attack surface is narrower without a jailbreak. Signs of concern inc
 ## Decide: investigate or clean slate
 
 Forensic investigation of the device can reveal what was installed and when, which may
-matter for legal purposes. If you are working with law enforcement or a legal adviser, do
+be important for legal purposes. If you are working with law enforcement or a legal adviser, do
 not wipe the device before they have had a chance to advise.
 
 For most situations: the cleanest path is a factory reset and starting from scratch.

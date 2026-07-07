@@ -1,71 +1,49 @@
-# How to protect your email privacy
+# Protecting email privacy
 
-Emails often contain hidden tracking tools and metadata that reveal more than you might expect, including whether you 
-opened a message, your location, and even your device details. Here’s how to keep your email activity private.
+Email often carries hidden tracking and metadata that reveal more than the message itself: whether it was opened, an approximate location, even device details. A few changes close most of that.
 
-## Choose a privacy-focused email provider
+## Choose a privacy-focused provider
 
-Not all email services treat your data the same way. For maximum privacy:
+Providers differ in how they treat data. The more private options include:
 
-* ProtonMail (Switzerland-based) – Automatically strips metadata, encrypts emails, and doesn’t track your activity. Free accounts available.
-* Tutanota (Germany) – Offers end-to-end encryption and no third-party tracking.
-* Skiff (Privacy-focused alternative) – Encrypted and open-source, with aliases to hide your real address.
+* ProtonMail (Switzerland): strips metadata, encrypts message content, and does not track activity, with free accounts available.
+* Tutanota (Germany): end-to-end encryption and no third-party tracking.
+* Skiff: encrypted and open-source, with aliases that hide the real address.
 
-Avoid services like Gmail, Outlook, or Yahoo that scan emails for advertising and data profiling.
+Gmail, Outlook and Yahoo scan mail for advertising and profiling, and are worth avoiding for anything sensitive.
 
-## Stop senders from tracking you
+## Stop senders tracking opens
 
-Many companies embed invisible "tracking pixels" in emails to see:
+Many senders embed an invisible tracking pixel to record when a message was opened, an approximate location, and the device in use. Blocking it takes three habits:
 
-* When you opened the email
-* Your approximate location
-* What device you’re using
+* Turn off automatic loading of external images. Gmail, Outlook and Apple Mail all have the setting, and it stops most pixels loading.
+* Add a tracker blocker such as PixelBlock for Gmail or TrackerControl.
+* Read in plain-text mode where the client supports it, which loads no tracking elements at all.
 
-How to block email tracking:
+## Remove metadata before forwarding
 
-* Disable "Load external images" – In Gmail, Outlook, or Apple Mail, turn this off in settings to prevent tracking pixels from loading.
-* Use a tracker blocker – Browser extensions like PixelBlock (for Gmail) or TrackerControl detect and block email spies.
-* Read emails in "plain text" mode – Some clients let you view emails without loading tracking elements.
+A forwarded email can carry hidden metadata such as sender IP addresses and timestamps. Copying the text into a fresh message or document drops it. For attachments, ExifTool on the command line or Metadata Cleaner as a GUI tool scrubs files before they go out.
 
-## Remove metadata before forwarding or downloading
+## Use aliases for sign-ups
 
-If you need to share an email, it might contain hidden metadata (like sender IP addresses or timestamps). To clean it:
+Handing out an alias rather than the real address limits linkage:
 
-* On desktop: Copy-paste the text into a new email or document.
-* For attachments: Use ExifTool (command line) or Metadata Cleaner (GUI tool) to scrub files before sending.
+* SimpleLogin or AnonAddy create instant aliases that forward to the main inbox.
+* ProtonMail's "+" aliases add a suffix (name+shop@protonmail.com) that filters and blocks spam.
+* Temp-Mail.org or Guerrilla Mail cover one-time sign-ups.
 
-## Use burner or alias emails for sign-ups
+## Secure the account
 
-Instead of giving out your real email:
+A private provider still exposes mail if the account itself is taken:
 
-* SimpleLogin or AnonAddy – Create instant aliases that forward to your main inbox.
-* ProtonMail’s "+aliases" – Add extra words to your address (e.g., yourname+shop@protonmail.com) to filter and block spam.
-* Temporary emails – For one-time sign-ups, use Temp-Mail.org or Guerrilla Mail.
+* Enable two-factor authentication with an authenticator app such as Authy rather than SMS.
+* Review recent-login activity, which most providers show.
+* Use a strong, unique password, generated and stored in a manager such as Bitwarden or KeePass.
 
-## Secure your account from snooping
+## Watch for phishing
 
-Even private emails can be exposed if your account is compromised:
+Some mail exists to extract personal data. The recurring tells are urgent demands ("the account will be closed"), sender addresses that do not match the apparent origin, and requests for passwords or payment details. When a message is in doubt, contacting the company directly beats following its links.
 
-* Enable two-factor authentication (2FA) – Use an authenticator app (like Authy) instead of SMS.
-* Check for suspicious logins – Most providers show recent activity; review it regularly.
-* Use a strong, unique password – A password manager (Bitwarden, KeePass) helps generate and store them securely.
+## Encrypt sensitive mail
 
-## Be wary of phishing & scams
-
-Some emails try to trick you into revealing personal data. Red flags:
-
-* Urgent demands (e.g., "Your account will be closed!")
-* Mismatched sender addresses (hover over links before clicking)
-* Requests for passwords or payment details
-
-When in doubt, contact the company directly instead of clicking links.
-
-## Encrypt sensitive emails
-
-For highly confidential messages:
-
-* ProtonMail & Tutanota have built-in encryption.
-* PGP (Pretty Good Privacy) – Advanced users can manually encrypt emails with tools like GPG Suite.
-
-By following these steps, you’ll significantly reduce how much of your email activity is monitored, sold, or 
-exposed to hackers.
+For genuinely confidential messages, ProtonMail and Tutanota encrypt by default, and PGP through a tool such as GPG Suite covers manual encryption for more advanced use.

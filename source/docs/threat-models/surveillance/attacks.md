@@ -1,6 +1,6 @@
 # Attacks
 
-The patterns through which surveillance operates in practice. None of these require
+The patterns through which surveillance operates. None of these require
 exceptional technical capability or extraordinary legal authority. Most of them are
 routine, documented, and legal.
 
@@ -67,7 +67,8 @@ is no judicial oversight. The data was collected commercially and is sold commer
 The fact that it describes, in granular detail, the movements and associations of a
 large number of people who never consented to state access is a consequence of the
 data broker industry operating in a regulatory gap, particularly in the national
-security context where GDPR does not apply.
+security context where GDPR does not apply. The [Databroker Files](cases/databroker-files.md)
+investigation of 2025 showed the same market reaching the movements of EU and NATO officials.
 
 ## Function creep
 
@@ -91,9 +92,11 @@ the groups perceived as posing the highest risk, then broadens as capability exp
 and risk definitions evolve. Journalists, lawyers, political opposition figures,
 activists, environmental groups, religious minorities, diaspora communities, and trade
 union organisers have all been documented targets of surveillance in EU member states
-under national security mandates.
+under national security mandates. The [Paragon case](cases/paragon.md) is the recent,
+forensically confirmed instance: journalists and activists compromised by spyware a member
+state had licensed.
 
-This matters for the general population for two reasons. First, the definition of
+This is significant for the general population for two reasons. First, the definition of
 "at risk of targeting" has expanded consistently over time and shows no sign of
 contracting. Second, passive collection of population-scale data affects everyone
 regardless of whether they are specifically targeted; it is the targeting criteria
@@ -114,6 +117,17 @@ to law enforcement) without the corresponding transparency obligation. It create
 system where the legal trial addresses the disclosed evidence while the actual basis
 for targeting remains permanently sealed.
 
+## Insider misuse
+
+Not every failure of a database is an outside attack. The people with lawful access are
+also its largest risk, because a system built for a narrow purpose can be queried for
+another by anyone who holds the keys and acquires a motive. In 2026 the misuse of Bulgaria's
+Passenger Name Record system, the records of more than a hundred thousand people extracted
+and circulated for political ends, showed the pattern in the open (the
+[Bulgaria PNR case](cases/bulgaria-pnr.md)). Purpose limitation on paper does not constrain
+an official with both the access and a reason to use it, and the more databases are joined
+together, the more each insider can reach.
+
 ## AI-assisted analysis
 
 Pattern recognition applied at scale to large datasets makes previously impractical
@@ -124,5 +138,8 @@ generate assessments of future behaviour based on correlations rather than evide
 
 The analytical capability exists. The oversight frameworks for how it is applied, how
 its outputs are challenged, and what happens when it produces a false positive are
-generally underdeveloped. Misclassification at population scale is not a hypothetical
+generally underdeveloped. The EU AI Act draws some lines here, banning certain biometric and
+predictive uses while leaving wide law-enforcement exceptions, as the [legal
+landscape](landscape/biometric-and-border.md) sets out, but the exceptions are broad and the
+enforcement is young. Misclassification at population scale is not a hypothetical
 risk: it is a statistical certainty.

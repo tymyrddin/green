@@ -1,9 +1,9 @@
 # Assess third-party vendor security
 
-Every vendor or service provider with access to your systems or data is part of your attack
-surface. A breach that enters through a vendor is not less damaging because you did not
-introduce it. The relevant question is not whether you trust the vendor, but whether their
-security posture is adequate for the access they have.
+Every vendor or service provider with access to an organisation's systems or data is part of its
+attack surface. A breach that enters through a vendor is not less damaging for having been
+introduced by someone else. The relevant question is not whether the vendor is trusted, but whether
+its security posture is adequate for the access it has.
 
 Run this assessment before onboarding a new vendor with data access, and repeat it at
 contract renewal.
@@ -29,7 +29,7 @@ Request or review the following from the vendor:
   effectively over time. Prefer Type II.
 - Penetration test summary or report (within the last 12 months).
 - Data processing agreement (DPA), required under GDPR for any vendor processing personal
-  data on your behalf. If they cannot provide one, they cannot process EU personal data
+  data on the organisation's behalf. If they cannot provide one, they cannot process EU personal data
   lawfully.
 - Breach history: have they had incidents? How did they respond? Transparency here is a good
   sign. Evasiveness is not.
@@ -37,12 +37,12 @@ Request or review the following from the vendor:
 
 ## Ask the questions they will not volunteer
 
-Standard vendor questionnaires exist (SIG, VSA, CAIQ for cloud providers). Use one if you
-have one, or cover these areas:
+Standard vendor questionnaires exist (SIG, VSA, CAIQ for cloud providers). Use one where
+available, or cover these areas:
 
 - How is data encrypted at rest and in transit?
-- How is access to the data controlled internally? Who at the vendor can access your data?
-- What is their incident response process and how quickly would they notify you of a breach?
+- How is access to the data controlled internally? Who at the vendor can access it?
+- What is their incident response process and how quickly would they notify of a breach?
 - How do they handle data at end of contract? What is the deletion process and timeline?
 - What security training do their staff receive?
 - How do they manage third-party access to their own systems?
@@ -55,10 +55,10 @@ notify within 24 hours" is an answer.
 
 The security assessment is only as useful as the contractual protections that back it up:
 - Does the contract include a DPA with the required GDPR clauses?
-- Does it specify security requirements and give you audit rights?
+- Does it specify security requirements and grant audit rights?
 - Does it require notification of breaches within a defined timeframe?
 - Does it specify data deletion on termination and what "deletion" means?
-- Does it allow you to terminate if the vendor has a serious incident?
+- Does it allow termination if the vendor has a serious incident?
 
 If the standard contract does not include these, negotiate them in. Many vendors have a
 security addendum. Ask for it.

@@ -4,7 +4,7 @@ This playbook describes using a spare Android phone as a WiFi hotspot and runnin
 
 The phone acting as the monitor runs PCAPdroid. The suspect device connects to the hotspot that phone creates, and PCAPdroid captures all the traffic passing through it. You can then inspect that traffic, or export it for analysis elsewhere.
 
-Before checking anyone else's device, confirm you have their informed consent and that they understand what the process involves. The person whose device is being checked should be present and in control of the decision.
+Before checking anyone else's device, confirm you have their informed consent and that they understand what the process involves. The person whose device is being checked needs to be present and in control of the decision.
 
 ## What you need
 

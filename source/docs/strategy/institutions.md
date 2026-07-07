@@ -1,12 +1,14 @@
 # Research and academic institutions
 
-Research institutions occupy an uncomfortable position in the surveillance landscape. They generate
+![Institutions](/_static/images/institutions.png)
+
+Research institutions hold high-value assets under rules written for a lower-stakes age. They generate
 intellectual property that is of genuine interest to state and commercial adversaries. They host
 cross-border collaborations that create legal and jurisdictional complexity. They operate under
 governance frameworks designed for an era before cloud infrastructure, before bulk collection, and
 before the commercial data layer became as sophisticated as it is now. And they do most of this
-with IT departments that are substantially under-resourced relative to the value of what they are
-protecting.
+with IT departments substantially under-resourced relative to the value of what they are
+protecting. The mismatch is the threat model.
 
 The assets at risk are not only research data. They include the identities of collaborators in
 sensitive jurisdictions, the strategic content of unfunded grant proposals, the personal data of

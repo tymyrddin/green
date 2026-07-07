@@ -4,7 +4,7 @@ A photograph taken on a modern smartphone contains far more than the image. Embe
 
 The attack is passive and requires no exploitation. The metadata is present in the file by design, preserved by default, and visible to anyone who reads the file with appropriate tools.
 
-## How it works
+## Mechanism
 
 An extraction script opens the file, reads the embedded metadata block, and prints its contents. The logic differs slightly by file type but follows the same structure.
 
@@ -32,7 +32,7 @@ if file is a PDF or office document:
 
 The GPS coordinates embedded in an image taken with location services enabled give the exact spot where the photograph was taken, to within a few metres. Combined with the timestamp, they place a specific person at a specific place at a specific time. The device model, combined with other information, can narrow down the population of people who might have taken the photograph considerably.
 
-## What this reveals
+## Exposure
 
 Documents released publicly by organisations or individuals have repeatedly revealed their authors through metadata that was never noticed before publication. A 2003 example involved a United Kingdom government dossier on Iraqi weapons: the document's revision history showed the names of several individuals who had contributed to its drafting, information the government had not intended to disclose. Similar incidents recur regularly, in legal filings, in leaked documents, in photographs shared without attention to what they carry.
 

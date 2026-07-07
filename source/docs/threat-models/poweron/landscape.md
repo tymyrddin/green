@@ -16,6 +16,10 @@ The effect is that evidence becomes deniable and harassment can be scaled withou
 A friend, an employer, or a court may be shown something that looks convincing and is entirely
 fabricated. Abuse shifts from "I say this about you" to "here is apparent proof you did it."
 
+The law has begun to catch up. The EU's 2024 [Directive on violence against women](https://eur-lex.europa.eu/eli/dir/2024/1385/oj)
+criminalises the non-consensual sharing of intimate images and requires member states to criminalise
+sexual deepfakes by 2027. That does not undo the harm, but it changes what a survivor can point to.
+
 ## Spyware and tracking abuse
 
 Commercial stalkerware has become easier to install and harder to detect. "Legitimate" tools are
@@ -25,6 +29,13 @@ profiles designed for workplaces. Bluetooth trackers are used for physical surve
 The result is surveillance that is persistent rather than episodic. Survivors often begin to
 doubt their own perception because they cannot explain how the abuser knows what they know.
 The tracking is invisible by design.
+
+This is also where the ground has recently shifted a little in the survivor's favour. Since 2024,
+iPhones and Android phones share an [unwanted-tracker detection standard](https://www.theregister.com/2024/05/14/android_apple_devices_anti_stalking/)
+that warns when an unknown Bluetooth tracker, such as an AirTag, is travelling with you, whichever
+phone you carry. Stalkerware, too, is increasingly flagged by ordinary antivirus and by the vetted
+tools the [Coalition Against Stalkerware](https://stopstalkerware.org/) maintains. It is not always
+invisible, and [checking a device](../../playbooks/stalkerware-check.md) is possible.
 
 ## Account takeover via the identity ecosystem
 
@@ -59,6 +70,12 @@ Shared or previously shared accounts may retain control over locks, cameras, the
 lights long after a relationship ends. This creates an environment of unpredictability: things
 that happen in a home without explanation, things that are difficult to describe to someone
 who has not experienced it. The digital and the physical become indistinguishable.
+
+This is documented rather than anecdotal: researchers assessing consumer smart-home devices for
+abusability have found that locks, cameras, thermostats and speakers can each be turned to
+monitoring, lockout or intimidation by whoever holds the administrator account. Isolating these
+devices on a [separate network](../../runbooks/vlan.md) limits what they can reach, though a
+retained administrator account is best removed outright.
 
 ## Financial control via digital systems
 

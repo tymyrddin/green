@@ -1,4 +1,6 @@
-# Citizens
+# People
+
+![Civil](/_static/images/civil.png)
 
 Most people's mental model of who is watching them and why is at least a decade out of date. It was formed
 during an era of dial-up connections and desktop computers, updated occasionally by news events, and has not
@@ -6,8 +8,10 @@ kept pace with the infrastructure that now processes their data as a matter of r
 that someone has decided to target you. The threat is that you have already been included in systems
 designed to collect everyone.
 
-This matters for how you respond. Defending against targeted surveillance requires different tools than
-minimising your footprint in bulk collection. Most citizens face the second problem more than the first.
+This changes what defence means. Guarding against a chosen adversary is a different task from shrinking your
+footprint in systems that collect indiscriminately, and most people face the second far more than the first. The
+instinct to hide is largely beside the point. The useful question is how much surface you present, and whether the
+data already held about you is accurate, correctable and bounded.
 
 ## What you are actually defending against
 

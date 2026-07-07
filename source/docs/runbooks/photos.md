@@ -1,18 +1,15 @@
-# Stop tracking and sharing personal info via photos
+# Stripping location data from photos
 
-If you're sharing sensitive files, it's always worth taking a moment to remove this hidden information
-first. These simple steps can help protect your privacy when sending files to others.
+Photos carry hidden information, most notably the GPS coordinates of where they were taken. Removing it before sharing sensitive images is a small habit worth having.
 
-## Android users
+## Android
 
-Android users can enable "Remove location data" in their camera settings to prevent photos from storing GPS
-coordinates.
+Android camera settings include a "Remove location data" option that stops photos storing GPS coordinates in the first place.
 
-Download the "Scrambled Exif" app from the Play Store. Use it to clean photos before sharing them.
+For photos already taken, the Scrambled Exif app from the Play Store cleans them before sharing.
 
-## iPhone users
+## iPhone
 
-iPhone owners can go to Settings → Privacy → Location Services and turn off location access for the
-Camera app, ensuring photos do not secretly record where they were taken.
+Settings, Privacy, Location Services lets location access be turned off for the Camera app, so photos no longer record where they were taken.
 
-Share your photos through the Notes app first. When you send them from there, iOS automatically removes the hidden data.
+For photos already taken, sharing them through the Notes app first strips the hidden data: iOS removes it automatically when they are sent from there.

@@ -4,7 +4,7 @@ Every email carries more than its message. The headers record the journey: which
 
 The "From" field shows whoever the sender chose to display. The headers show what the servers actually recorded. Any recipient can read them. No special access is required.
 
-## How it works
+## Mechanism
 
 Each server that handles an email adds a "Received" header to the top of the message as it passes through. Reading the Received headers from bottom to top reconstructs the journey in chronological order.
 
@@ -20,7 +20,7 @@ An analysis script opens the email file, iterates through every header, and prin
 
 The "Subject" and "Date" headers, decoded from MIME encoding, confirm the content and timing. Routing anomalies, a message claiming to originate in London but first appearing on a server in an unexpected country, flag mismatches worth investigating.
 
-## What this reveals
+## Exposure
 
 Email headers are a log the sender has no control over once the message leaves their hands. An investigator, an adversary, or anyone with basic technical literacy can identify the originating infrastructure, check whether the claimed sender domain is consistent with the originating IP, and trace the path through any intermediate relays.
 

@@ -6,7 +6,7 @@ is what is growing, and what makes each variety so appealing.
 
 ## Data releases
 
-Think of data as different levels of greenhouse access. Sometimes it is just the head gardener
+Data comes with different levels of greenhouse access. Sometimes it is just the head gardener
 poking about with good intentions. Other times, the gates are flung open and tourists can trample
 through at will. Here are the flavours:
 
@@ -14,8 +14,8 @@ through at will. Here are the flavours:
 
 This is the "we are just looking around the shed" kind. Internal teams reuse data they already had
 permission for, usually with some vague notion of anonymisation. The risk of external intruders is
-low, in theory, since access is tightly controlled. But let us not pretend an overconfident intern
-could not leave the door ajar.
+low, in theory, since access is tightly controlled. But an overconfident intern can still leave
+the door ajar.
 
 ### External secondary research
 
@@ -33,7 +33,7 @@ They explode like overripe fruit.
 
 ## Auxiliary information
 
-You might think your data is safe, anonymised and stripped of names. But adversaries are tenacious
+It is tempting to think anonymised data, stripped of names, is safe. But adversaries are tenacious
 compost sniffers, and they will dig through the mulch to find what they need.
 
 * They collect crumbs: bits of information from petitions, forums, even a colleague's old review of
@@ -44,7 +44,7 @@ compost sniffers, and they will dig through the mulch to find what they need.
   flowerpot.
 
 In short: they will mix and match with whatever is lying around to figure out what is really growing
-in your greenhouse.
+in the greenhouse.
 
 ## Target dataset
 
@@ -63,20 +63,26 @@ customer service calls, and gait signatures lifted from CCTV footage all create 
 keys that persist across any number of future datasets. See also: [metadata](../../code/metadata.md)
 and [browser fingerprinting](../../code/browser.md).
 
+## Genetic data
+
+DNA profiles are the most durable linking key of all, and the only one that implicates people who never provided a sample. A profile shared by a relative can identify a person through the family tree, as the [genetic-genealogy case](cases/genetic-genealogy.md) describes. Consumer ancestry databases turn a private trait into a searchable index of families.
+
 ## Location and mobility data
 
 GPS trails, mobile cell tower logs, transport card swipes, and geofenced advertising data. Location
-data is among the most re-identifying categories that exists. A 2013 study by de Montjoye et al.
+data is among the most re-identifying categories that exist. A 2013 study by de Montjoye et al.
 demonstrated that just four approximate location points are sufficient to uniquely identify 95% of
 individuals in a mobile dataset.
 
 Continuous location data reveals home address, workplace, religious attendance, medical appointments,
-political activity, and intimate relationships, all without a single explicit label.
+political activity, and intimate relationships, all without a single explicit label. The commercial market
+in this data is the [surveillance model's databroker case](../surveillance/cases/databroker-files.md): the
+same location traces, bought rather than intercepted.
 
 ## Behavioural and temporal patterns
 
-The rhythm of behaviour over time: when you wake up, how long you spend on particular pages, the
-order in which you complete tasks, your response latency to notifications. Temporal patterns are
+The rhythm of behaviour over time: when someone wakes, how long they spend on particular pages, the
+order in which they complete tasks, their response latency to notifications. Temporal patterns are
 highly distinctive and extremely difficult to anonymise, because the structure of someone's day is
 often more identifying than any single data point within it.
 
@@ -85,7 +91,7 @@ can re-identify individuals across sessions even after all explicit identifiers 
 
 ## Graph and network data
 
-Your social graph: who you are connected to, how often you communicate, the structure of your
+A social graph: who someone is connected to, how often they communicate, the structure of their
 relationships. Graph data is particularly resistant to anonymisation because the re-identifying
 information is structural rather than attribute-based. Removing names leaves the shape of the
 network intact, and that shape is often sufficient.
@@ -98,9 +104,14 @@ co-participation graphs.
 Browser configuration, screen resolution, installed fonts, GPU rendering characteristics, time
 zone, language settings, and hardware identifiers combine to form a fingerprint that is often
 unique to a single device and therefore a single person. These fingerprints persist across
-incognito sessions, VPNs, and cleared cookies.
+incognito sessions, VPNs, and cleared cookies. The [fingerprint-to-name case](cases/fingerprint-to-name.md)
+shows brokers turning that persistence into a name.
 
 See also: [browser fingerprinting](../../code/browser.md).
+
+## Advertising identifiers
+
+Every phone ships with a resettable advertising identifier (Apple's IDFA, Android's GAID) that ad networks use to tie a person's activity together across apps without a login. Individually anonymous, the identifier is the spine of the tracking economy: it links app usage, feeds real-time bidding, and, joined to a data broker's records, resolves to a name and address. It is an asset precisely because it looks like an anonymous number and behaves like an identity.
 
 ## Synthetic data
 

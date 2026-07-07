@@ -55,7 +55,7 @@ tracker_database[fingerprint].append(site_Y_behaviour)
 # Result: linked profile with no login required
 ```
 
-## What this reveals
+## Exposure
 
 The combination of these three mechanisms means that the assumption of compartmentalisation, that using separate apps or clearing cookies separates one's identities, is largely false. A person using two apps owned by different brands but the same parent company, or two websites using the same analytics provider, will be tracked as one person. Their behaviour across those surfaces is combined, sold, and used for targeting without their knowledge.
 

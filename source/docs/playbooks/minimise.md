@@ -1,19 +1,16 @@
-# Minimise long-term data storage
+# Minimising long-term data storage
 
-Think of data like fertiliser: helpful in the right context, but if you pile it up in a forgotten corner of the shed, 
-it’ll rot, leak, and [attract raccoons](https://red.tymyrddin.dev/docs/through/). (Or hackers. Same energy.)
+Stored data behaves like fertiliser left in the shed: useful in its place, but a pile in a forgotten corner will eventually rot, leak, or [attract raccoons](https://red.tymyrddin.dev/docs/through/). Hackers work much the same way.
 
-Most of us hoard digital information. Old emails, half-written documents, awkward screenshots, years of chat logs, 
-all lounging about like digital cobwebs. But here’s the problem: the longer data lingers, the greater the risk it’ll 
-one day be stolen, leaked, subpoenaed, or decrypted by [quantum computers that don’t exist yet](quantum.md).
+Most digital life accumulates: old email, half-written documents, stray screenshots, years of chat logs, all sitting about like cobwebs. The problem is duration. The longer data lingers, the more chances it has to be stolen, leaked, subpoenaed, or one day decrypted by [quantum computers that do not exist yet](quantum.md).
 
-Reducing your long-term data footprint doesn’t just reduce risk, it also clears out digital clutter that nobody, 
-including future-you, wants to deal with.
+Reducing the long-term footprint lowers that risk and clears clutter that nobody, including a future self, wants to sort later.
 
-A few strategies for responsible composting:
+A few habits help:
 
-* Delete old emails and files regularly. Especially the sensitive ones. If you don’t need it, bin it. If you’re sentimental, export it to a document and protect that, don’t leave 3,000 unlabelled emails dangling in your inbox like ivy from the ceiling.
-* Use cold storage for keepers. If you must retain sensitive files (e.g., legal documents, creative work, ancient tax returns), put them on a physically isolated storage device, a "gapped" disk that's not connected to the internet. Encrypt it. Label it. Store it somewhere boring.
-* Avoid “cloud hoarding.” If it’s in your cloud account, assume it’s in someone else’s data lake too. Even deleted files often stick around longer than you'd expect.
-* Be wary of auto-sync. Devices love to replicate data everywhere by default. Turn off syncing for sensitive folders unless you like your private stuff moonlighting on half a dozen insecure endpoints.
-* Digital composting: because not everything needs to live forever in your inbox.
+* Delete old email and files on a regular cycle, sensitive ones first. What is not needed can go. Anything worth keeping for sentiment can be exported to a single protected document rather than left as thousands of unlabelled messages hanging from the inbox ceiling.
+* Keep the genuine keepers in cold storage. Legal documents, creative work and old tax returns can live on a physically isolated device that never touches the internet. Encrypt it, label it, and store it somewhere dull.
+* Treat the cloud as shared. A file in a cloud account can be assumed to sit in someone else's data lake too, and deleted files often persist longer than expected.
+* Watch auto-sync. Devices replicate data everywhere by default; turning sync off for sensitive folders keeps private material from quietly copying itself onto half a dozen weaker endpoints.
+
+Digital composting, in short: not everything needs to live forever in the inbox.

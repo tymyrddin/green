@@ -47,7 +47,7 @@ positions, industrial research, technology development, financial flows, and the
 internal deliberations of foreign governments, international organisations, and
 major corporations.
 
-This is called espionage when other states do it and intelligence when your own state
+This is called espionage when other states do it and intelligence when one's own state
 does it. The Snowden disclosures documented collection by the NSA targeting EU trade
 negotiating positions and internal EU communications. GCHQ collected data from undersea
 cables. German companies have been among the documented targets of non-adversarial

@@ -3,13 +3,14 @@
 Privacy-preserving techniques are the cold frames and cloches of the data garden: necessary, somewhat
 effective, and frequently overestimated by the people who deploy them. None of these approaches are
 a complete solution. All of them involve trade-offs between utility and protection that someone,
-eventually, gets wrong.
+eventually, gets wrong. And some older assumptions have simply failed: stripping names and identifiers
+from prose no longer defeats a capable model that can [infer the author from what remains](cases/llm-inference.md).
 
 ## k-Anonymity
 
 The idea is straightforward: ensure that every individual in a dataset is indistinguishable from at
 least k-1 others who share the same combination of quasi-identifying attributes. If at least five
-people in your dataset share the same postcode, age bracket, and occupation, no single record can be
+people in a dataset share the same postcode, age bracket, and occupation, no single record can be
 attributed to one person with certainty.
 
 In practice, k-anonymity has well-documented limits. If those five records each contain a different
@@ -29,7 +30,11 @@ whether or not a particular person's data was included, up to a defined privacy 
 Used by Apple, Google, and the US Census Bureau, which lends it credibility in large-scale deployments.
 The trade-off is utility: too little noise and individuals remain exposed; too much and the data
 becomes misleading. Choosing an appropriate epsilon is as much a policy decision as a technical one,
-and it is rarely made with full transparency.
+and it is rarely made with full transparency. The US Census Bureau's adoption of differential privacy
+for the 2020 census made that concrete: researchers had shown the older approach was vulnerable to
+reconstruction attacks that rebuilt individual records from published tables, and the switch then drew
+legal and political challenges over how much noise was too much. The epsilon debate is not academic; it
+decides who is protected and how usable the result is.
 
 ## Synthetic data
 
@@ -62,7 +67,7 @@ anonymisation is applied. Internal secondary research has a far smaller exposure
 release, regardless of what anonymisation technique is applied to both.
 
 Contractual controls, tiered access, query auditing, and data use agreements are unglamorous but
-load-bearing. They do not make the news, which is roughly how you want your security mitigations
+load-bearing. They do not make the news, which is roughly how a security mitigation is meant
 to behave.
 
 For operational guidance on minimising data exposure, see the [minimise long-term storage](../../playbooks/minimise.md)

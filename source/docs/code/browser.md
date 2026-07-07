@@ -2,7 +2,7 @@
 
 Cookies can be cleared. IP addresses can be hidden behind a VPN. But the browser itself is a kind of signature. A fingerprinting script, running silently when a page loads, assembles a profile from the properties of the browser and device: the screen dimensions, the installed fonts, the GPU and its driver, the time zone, whether cookies are enabled, the exact version of the rendering engine. Each value is unremarkable on its own. Together they form a combination that is statistically unique for the vast majority of browsers in the world.
 
-## How it works
+## Mechanism
 
 The script runs in the browser as ordinary JavaScript. No permissions are requested. No download occurs. The browser discloses these properties as a normal part of rendering web content, and the script simply collects and combines them.
 
@@ -32,7 +32,7 @@ The font detection step exploits the fact that each installed font renders text 
 
 The complete fingerprint is sent to the tracking service and stored. On a return visit, from any site using the same service, the same fingerprint is generated and matched. The user has not logged in, has not accepted cookies, and may be behind a different IP address. They are still recognised.
 
-## What this reveals
+## Exposure
 
 Browser fingerprinting is widely used in advertising, fraud detection, and analytics. Its value lies precisely in its persistence: it survives the privacy measures most users take. A person who clears their cookies, uses private browsing, and changes their IP address still presents the same fingerprint if they have not changed their browser, device, or configuration.
 

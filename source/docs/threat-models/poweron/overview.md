@@ -69,3 +69,9 @@ The pages that follow move through the threat landscape in a practical order:
 * Vectors covers the surfaces through which access is gained, from identity to environment.
 * Attacks covers how abuse actually unfolds in practice, the patterns that repeat.
 * Impacts covers what harm looks like, not just in the short term but over time.
+
+## Where this leads, and getting help
+
+Naming the pattern is the start; acting on it is the next step, and neither has to be done alone. If any of this is happening now, a specialist domestic-abuse service can help sequence a response safely. In the UK that includes [Refuge](https://www.refuge.org.uk/), [Women's Aid](https://www.womensaid.org.uk/), and the National Domestic Abuse Helpline (0808 2000 247); internationally, the [Coalition Against Stalkerware](https://stopstalkerware.org/) lists vetted support and tools.
+
+On this site, the practical response lives in the [survivor strategy](../../strategy/survivors.md) and its step-by-step guides, above all [digital safety steps when leaving](../../playbooks/leaving-safely.md), [checking a device for stalkerware](../../playbooks/stalkerware-check.md), and [reclaiming your primary email](../../runbooks/reclaim-email.md). This model is for understanding what is happening; those are for doing something about it.

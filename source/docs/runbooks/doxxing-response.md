@@ -71,7 +71,7 @@ for doxxing and online abuse cases.
 
 ## Support
 
-The practical and psychological toll of doxxing is significant and should not be minimised.
+The practical and psychological toll of doxxing is significant and is not to be minimised.
 Targeted harassment campaigns are designed to exhaust their targets into silence. Support
-from trusted people, and in some cases professional support, matters alongside the technical
+from trusted people, and in some cases professional support, has its place alongside the technical
 and legal response.

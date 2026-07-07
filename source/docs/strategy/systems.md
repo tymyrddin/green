@@ -1,4 +1,6 @@
-# Systems effects: what the models do not capture
+# Systems effects beyond models
+
+![Systems](/_static/images/systems.png)
 
 Threat models are reductive by design. They name assets, adversaries, objectives, and impacts in
 order to make the problem tractable. The cost is that they do not capture effects that are diffuse,
@@ -124,6 +126,11 @@ rather than as evidence that the implementation was insufficient. If data protec
 has repeatedly failed to contain the commercial surveillance market, the question is not how
 to write better regulation of the same design. The question is what assumption in the current
 regulatory model is producing this outcome consistently.
+
+There is a quieter version of this failure that sits with the analyst rather than the model:
+counsel that keeps validating the decision already taken, so that analysis becomes cover instead
+of advice. That is its own craft, and it is treated separately in the
+[thirteenth chair](https://purple.tymyrddin.dev/docs/thirteen/).
 
 ## The question of who benefits
 

@@ -37,13 +37,24 @@ infrastructure that passes through or is hosted in EU jurisdictions.
 Adversarial foreign agencies (Russian SVR/FSB, Chinese MSS, Iranian MOIS, and others)
 conduct surveillance and espionage operations against EU citizens, civil society,
 companies, and government institutions through a range of technical and human means.
-The Pegasus spyware, developed by the Israeli NSO Group, has been documented in use
-against politicians, journalists, and civil society figures across multiple EU member
-states, deployed both by adversarial states and, in some documented cases, by EU
-member state governments against their own citizens.
+Much of the most capable technical tooling, however, belongs to no single state. It is
+bought, and it is covered separately below.
 
 The foreign agency adversary is the one with the fewest domestic legal constraints
 and the most varied technical capability.
+
+## The mercenary spyware industry
+
+The most intrusive surveillance capability of the past decade has been a product, not a
+state secret. Firms develop spyware that can compromise a fully updated phone and read
+everything on it, and licence it to government clients. The Israeli NSO Group's Pegasus is
+the best known; its use against politicians, journalists and lawyers across several EU
+member states prompted the European Parliament's PEGA inquiry. It is not alone. Intellexa's
+Predator surfaced in scandals in Greece and beyond, and in 2025 Paragon's Graphite was
+forensically confirmed on the phones of European journalists, in some cases deployed by a
+member state's own intelligence service. The [Paragon case](cases/paragon.md) is the current
+instance of a recurring pattern: the capability is an industry, and it is available to any
+government that will pay.
 
 ## Law enforcement
 
@@ -60,6 +71,19 @@ Second, law enforcement agencies have expanded their own data collection capabil
 including through data retention mandates applied to telecommunications providers,
 through access to commercial databases, and through the use of technical surveillance
 tools that were previously the exclusive domain of intelligence agencies.
+
+## Border and data agencies
+
+Surveillance at EU level increasingly runs through shared institutions rather than any one
+national agency. eu-LISA operates the large-scale databases at the border, the Entry/Exit
+System, Eurodac, the Schengen and Visa Information Systems, now being wired together under the
+interoperability programme described in the [legal landscape](landscape/biometric-and-border.md).
+Frontex conducts its own data collection at the frontier, and Europol pools and analyses data
+from member states, an accumulation that its own supervisor has at points found to outrun its
+legal basis. Alongside them, police forces in several member states have adopted commercial
+data-mining platforms, Palantir among them, that merge disparate databases into a single
+searchable picture. None of these is a spy agency. Each expands the reach and joinability of
+state-held data.
 
 ## The commercial data layer
 

@@ -1,4 +1,6 @@
-# Nations and policy
+# Nations and states
+
+![Civil](/_static/images/nations-and-states.png)
 
 The surveillance threat model makes a structural observation: the EU has the strongest data
 protection framework in the world and simultaneously contains member states that operate bulk
@@ -71,6 +73,12 @@ Closing this gap requires specific regulatory attention to the data broker marke
 can be collected, for what purposes, under what consent conditions, and under what circumstances
 it can be transferred to law enforcement or intelligence agencies. The current framework
 technically covers this but the implementation has not kept pace with the market.
+
+The broker market is not the only disclosure surface that current policy underestimates. The
+[open-records aggregation study](../threat-models/infrastructure-aggregation/index.rst) works through a
+parallel case, where routine public records combine into infrastructure exposure that no single
+publication intended, and it carries a concrete recommendation for reviewing disclosures by what they
+aggregate into rather than what each one says on its own.
 
 ## The political weight of security narratives
 

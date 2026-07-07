@@ -75,11 +75,11 @@ process. Notify your organisation or legal contact as soon as possible.
 
 ## After return
 
-Assume that any device that was out of your control, confiscated, imaged, or inspected should
-be treated as potentially compromised.
+Treat any device that was out of your control, confiscated, imaged, or inspected as
+potentially compromised.
 
 Change passwords for any accounts that were accessible on the device. Revoke and reissue
 API keys or tokens. If the device was a travel device, wipe it before using it for anything sensitive.
 
-Review whether any data that was on the device should be considered exposed and whether this
+Review whether any data that was on the device needs to be treated as exposed, and whether that
 triggers any notification obligations.

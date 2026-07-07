@@ -1,53 +1,39 @@
-# How to remove your personal info from data broker websites
+# Removing personal data from broker sites
 
-Data brokers collect and sell your personal details, like your address, income, and online activity, without your 
-permission. Here’s how to take back control and opt out of these sites.
+Data brokers collect and sell personal details, home address, income, online activity, without consent. Getting off their lists is possible, though it takes repetition.
 
-## Find where your data is listed
+## Find where the data is listed
 
-Start by checking where your information appears online. Websites like [Have I Been Pwned](https://haveibeenpwned.com/) 
-show if your email was leaked in data breaches, while Spokeo in the US and similar people-search sites often list 
-your home address, phone number, and more. Search your name, email, and phone number to see what’s out there.
+Start by checking where the information already appears. [Have I Been Pwned](https://haveibeenpwned.com/) shows whether an email turned up in a known breach, while people-search sites such as Spokeo in the US list home addresses, phone numbers and more. Searching a name, email and phone number shows what is exposed.
 
-EU laws prohibit Spokeo-style scraping of addresses, social media, etc. Services like BlockSurvey or ProtonMail 
-(Switzerland) emphasize user control over data, and most EU tools focus on consent-based data access or 
-professional use.
+EU law prohibits Spokeo-style scraping of addresses and social media, so the European picture is different. Tools based in the EU, and services like BlockSurvey or ProtonMail in Switzerland, tend to emphasise consent-based access and user control rather than open resale.
 
 ## Opt out of each broker
 
-Once you have found data brokers holding your info, visit each site and look for their “Opt Out” or “Privacy” page 
-(usually in the footer). You will probably need to:
+For each broker holding the data, find its opt-out or privacy page, usually linked in the footer. The process usually requires:
 
-* Provide proof of identity, like a photo ID with sensitive details (e.g., ID number) blacked out.
-* Fill out a form or send an email requesting removal.
+* Proof of identity, such as a photo ID with sensitive fields (an ID number) blacked out
+* A form or an email requesting removal
 
-Keep in mind that many brokers re-add your data after a few months, so you’ll need to repeat this process every 3-6 
-months to stay off their lists.
+Many brokers re-add the data after a few months, so the opt-out needs repeating every three to six months to stay effective.
 
-If you live in Europe or the UK, the GDPR gives you the right to demand companies delete your data. You can send a 
-formal request like this:
+In Europe and the UK, the GDPR gives a right to demand deletion. A formal request can take this form:
 
 ```text
-Subject: Data Erasure Request Under Article 17 GDPR  
-Dear [Company Name],  
-I request immediate deletion of all my personal data under Article 17 of the GDPR. This includes any profiles, records, or associated information held by your organisation.  
-Please confirm once this action is completed.  
-Sincerely,  
-[Your Name] 
+Subject: Data Erasure Request Under Article 17 GDPR
+Dear [Company Name],
+I request immediate deletion of all my personal data under Article 17 of the GDPR. This includes any profiles, records, or associated information held by your organisation.
+Please confirm once this action is completed.
+Sincerely,
+[Name]
 ```
 
-Companies must comply within 30 days or face penalties.
+Companies have 30 days to comply, or face penalties.
 
-## Automated services for faster removal
+## Automated removal services
 
-If manually opting out feels overwhelming, paid services like DeleteMe (£99/year) handle the process for you, 
-regularly scanning and removing your data. For a free alternative, [SimpleOptOut](https://simpleoptout.com/) provides 
-step-by-step guides for opting out of 100+ data brokers on your own.
+Where manual opt-out feels overwhelming, paid services such as DeleteMe (around £99 a year) scan and remove data on a schedule. For a free alternative, [SimpleOptOut](https://simpleoptout.com/) gives step-by-step guides for opting out of more than a hundred brokers.
 
-## Staying private long-term
+## Staying private over time
 
-Since data brokers constantly refresh their databases, consider setting a yearly reminder to check for your info and 
-resubmit opt-outs. Using a separate email alias for online accounts can also help limit how much they can track.
-
-By following these steps, you’ll significantly reduce how much of your personal data is bought and sold without your 
-knowledge.
+Because brokers constantly refresh their databases, a yearly reminder to recheck and resubmit opt-outs keeps the effort from lapsing. Using a separate email alias for online accounts also limits how much any one broker can link together.

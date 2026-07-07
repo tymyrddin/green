@@ -1,10 +1,12 @@
 # NGOs and civil society
 
-Organisations that work on human rights, environmental advocacy, political reform, or any area that
-intersects with powerful interests face a threat landscape that differs from general commercial exposure.
-The adversaries are not only data brokers. They include state intelligence services, law enforcement
-with function-creep tendencies, private investigators retained by opponents, and in some jurisdictions,
-criminal actors working at the instruction of state or corporate interests.
+![NGO's](/_static/images/ngos.png)
+
+An organisation that contests power inherits the adversaries of the powerful. For civil society, human rights,
+environmental advocacy, political reform, the threat landscape is not general commercial exposure with the volume
+turned up. The adversaries are different in kind: state intelligence services, law enforcement with function-creep
+tendencies, private investigators retained by opponents, and in some jurisdictions criminal actors working at the
+instruction of state or corporate interests.
 
 The assets at risk are not only organisational data. They include the people in your network: the
 individuals who shared information, sought support, or participated in activities that could expose

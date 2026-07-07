@@ -13,10 +13,11 @@ companies, and the EU itself.
    :caption: Because knowing who holds the keys to the greenhouse is not paranoia. It is a design question.
 
    overview.md
-   landscape.md
+   landscape/index
    assets.md
    adversaries.md
    objectives.md
    vectors.md
    attacks.md
+   cases/index
    impacts.md

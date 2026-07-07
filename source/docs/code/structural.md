@@ -4,7 +4,7 @@ Who communicates with whom, and how often, reveals as much about an organisation
 
 The technique treats each person as a node and each communication as a directed edge. The properties of the resulting network, which nodes have the most connections, which serve as bridges between groups, which clusters communicate densely internally and sparsely across boundaries, carry information that was never intended to be disclosed.
 
-## How it works
+## Mechanism
 
 The input is a log of email metadata: sender, recipient, and timestamp. No message content is needed. The attack proceeds in stages.
 
@@ -41,7 +41,7 @@ if a small number of identities are known:
 
 The bootstrapping step is particularly powerful. With knowledge of only three or four employees, an analyst can label entire departments. The structure of the communication graph carries the information; the known identities are anchors for reading it.
 
-## What this reveals
+## Exposure
 
 The structural attack was demonstrated against the Enron email dataset, which was made public during legal proceedings and has since been used extensively in research. Analysts were able to reconstruct the organisation's hierarchy and identify key players from email metadata alone, before reading any message content.
 

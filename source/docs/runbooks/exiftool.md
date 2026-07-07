@@ -1,18 +1,17 @@
-# The most thorough cleaning method (using ExifTool)
+# Cleaning metadata with ExifTool
 
-For complete removal of metadata, ExifTool is the most powerful option. First, you'll need to
-[install it](https://exiftool.org/install.html) on your computer. Once installed, open your terminal or command prompt.
+For thorough metadata removal, ExifTool is the most capable option. It needs [installing](https://exiftool.org/install.html) first; after that, everything runs from a terminal or command prompt.
 
-To clean a single file, type:
+To clean a single file:
 
 ```bash
 exiftool -all= -overwrite_original yourfile.jpg
 ```
 
-To clean all files in a folder:
+To clean every file in a folder:
 
 ```bash
 exiftool -all= -overwrite_original /path/to/folder/
 ```
 
-This will permanently remove all hidden data from your files.
+This permanently removes the hidden data from the files.

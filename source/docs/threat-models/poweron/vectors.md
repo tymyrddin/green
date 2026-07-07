@@ -24,6 +24,11 @@ which an intimate partner already has.
 Password reset chains: a sequence of linked accounts where access to one enables access to
 the next. Email unlocks banking. Banking unlocks identity. Each link is an opportunity.
 
+Because everything else recovers from here, this is the layer to secure first. The
+[reclaim your primary email](../../runbooks/reclaim-email.md) runbook does it in an order designed
+not to tip off someone who is watching, and [two-factor authentication](../../runbooks/authenticators.md)
+on that inbox closes the SIM-swap route.
+
 ## The device layer
 
 Physical access is the most direct route to device compromise, and it is often already
@@ -32,6 +37,9 @@ available in a domestic context.
 Stalkerware and monitoring applications can be installed in minutes on an unlocked device.
 Most are designed to be invisible: they do not appear in the app list, they do not drain
 the battery noticeably, and many are actively designed to evade detection by security tools.
+Designed to evade is not the same as undetectable: [checking a device for stalkerware](../../playbooks/stalkerware-check.md)
+covers the safe way to look, and the [suspected device compromise](../../playbooks/device-compromise.md)
+playbook covers what to do about a compromised device without alerting whoever installed it.
 Some abusers use repurposed productivity or parental control apps; others use dedicated
 commercial stalkerware products.
 
@@ -58,14 +66,17 @@ accessible, or if login credentials were shared, professional communications and
 may still be visible.
 
 Shared subscriptions (streaming services, cloud storage, family plans) are easy to forget.
-Each one is a potential observation point or a lever for disruption.
+Each one is a potential observation point or a lever for disruption. Mapping and unwinding these
+deliberately, rather than all at once, is what the
+[audit and revoke shared account access](../../playbooks/audit-shared-accounts.md) playbook is for.
 
 ## The environment layer
 
 Smart home devices: locks, cameras, thermostats, doorbells, smart speakers. Any of these
 controlled via a shared account or with default credentials that were never changed can
 continue to be operated remotely after separation. The home becomes observable and
-manipulable from a distance.
+manipulable from a distance. Isolating these devices on a [separate network](../../runbooks/vlan.md),
+and removing any retained administrator account, limits that reach.
 
 Vehicles increasingly contain connectivity features: GPS history, Bluetooth device logs,
 and remote access through manufacturer apps. A car set up during a relationship may still
@@ -73,7 +84,10 @@ be registered to a shared account.
 
 Physical trackers: small Bluetooth tracking devices (AirTags and similar) can be hidden
 in bags, clothing, or vehicles. They are small, inexpensive, and designed to be unobtrusive.
-Detection requires active checking; they are not visible to the naked eye.
+Detection used to require active checking. Since 2024, both iPhone and Android
+[raise an alert](https://www.theregister.com/2024/05/14/android_apple_devices_anti_stalking/) when an
+unknown Bluetooth tracker has been travelling with you over time, whichever phone you carry, which
+turns a hidden tracker into one that tends to announce itself.
 
 ## The social layer
 
@@ -94,7 +108,9 @@ against the person being targeted rather than the person making the reports.
 
 None of these entry points require sophisticated technical skill. They require proximity,
 patience, and familiarity with someone's digital habits. That is exactly what an abusive
-partner has.
+partner has. These are the same surfaces the [deanonymisation model](../deanonymisation/index.rst)
+describes being used at population scale; here they are turned on one person by someone who already
+holds the keys.
 
 Recognising the surfaces is the first step. The goal is not to close every door at once
 but to know which ones exist, and to start with the ones that matter most.

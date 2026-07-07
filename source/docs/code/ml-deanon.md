@@ -2,7 +2,7 @@
 
 A person's writing style is as distinctive as a fingerprint. The words they favour, the sentence structures they default to, the way they punctuate, the phrases they reach for without thinking: these are consistent across contexts and measurable. An author identification model trained on known writing samples can predict the authorship of anonymous texts with accuracy that is uncomfortable for anyone writing under a pseudonym.
 
-## How it works
+## Mechanism
 
 The model learns to associate statistical patterns in text with specific authors. The key transformation is from readable text into a numerical representation that captures word choice and phrase patterns while discarding meaning.
 
@@ -29,7 +29,7 @@ confidence_scores = classifier.predict_probability(feature_vector)
 
 The model does not need certainty to be useful. A 68% probability assigned to one of three candidates is a significant lead. Combined with corroborating metadata, posting time, vocabulary domain, apparent technical knowledge, the probability may be sufficient to act on.
 
-## What this reveals
+## Exposure
 
 Stylometric analysis identified the author of The Cuckoo's Calling as J.K. Rowling in 2013. The novel had been published under the pseudonym Robert Galbraith; a statistical comparison of the text against Rowling's known work, and against work by other candidate authors, produced a clear match. The analysis was conducted by academics at Nottingham Trent University and published alongside the accusation.
 

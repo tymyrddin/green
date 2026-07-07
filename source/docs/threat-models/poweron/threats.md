@@ -1,6 +1,6 @@
 # What kind of harm can this cause?
 
-These are the outcomes: the reasons all of this matters.
+These are the outcomes: the reasons all of this is worth taking seriously.
 
 Once access is established and tools are in place, what follows is not random. It is often
 deliberate, strategic, and highly personal. The aim is rarely just to "spy." It is to
@@ -17,7 +17,9 @@ you sleep, who you talk to, where you go on a Thursday.
 The surveillance itself is often less important than its effect. When you suspect you are
 being watched, you begin to self-censor, second-guess your choices, and avoid the people
 and services that might help you. The watcher does not need to act on what they see. The
-knowledge that someone might be watching is often enough.
+knowledge that someone might be watching is often enough. It is the same chilling effect the
+[surveillance model](../surveillance/index.rst) describes at state scale, here delivered by
+someone in the next room.
 
 ## Control
 

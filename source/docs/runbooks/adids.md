@@ -1,68 +1,56 @@
-# How (and why) to reset your advertising ID regularly
+# Resetting the advertising ID
 
-Your smartphone's advertising ID is a unique tracker assigned to your device that allows companies to build a
-profile of your app usage, interests, and behaviour, even if you don't log in anywhere. Here's how to reset it on
-Android and iOS to disrupt tracking.
+A smartphone's advertising ID is a unique tracker assigned to the device. It lets companies build a profile of app usage, interests and behaviour without anyone logging in anywhere. Resetting it regularly disrupts that profile. Here is how, on Android and iOS.
 
-## What is an advertising ID?
+## What it is
 
-An advertising ID lets apps and ad networks link your activity across different services to target ads.
+An advertising ID lets apps and ad networks link activity across services to target ads.
 
-* Android: Called the "Google Advertising ID" (GAID)
-* iOS: Called the "Identifier for Advertisers" (IDFA)
+* Android: the Google Advertising ID (GAID)
+* iOS: the Identifier for Advertisers (IDFA)
 
-Example: If you search for "hiking boots" in Chrome, Instagram might show you boot ads later, even if you weren't logged in.
+A search for "hiking boots" in one app can surface boot ads in another later, with no login involved, because both saw the same ID.
 
-## Why reset it weekly?
+## Why reset it
 
-* Breaks tracking chains – Resetting creates a new random ID, making it harder to build a long-term profile.
-* Limits personalized ads – You'll still see ads, but they'll be less targeted.
-* Works even if you don't opt out – Some apps ignore "Opt out of ads personalization" but still use the ID for analytics.
+* Resetting mints a new random ID, which breaks the chain that builds a long-term profile.
+* Ads still appear, but with less targeting.
+* It helps even without opting out, since some apps ignore the "opt out of ads personalisation" setting but still use the ID for analytics.
 
-## How to reset on Android
+## On Android
 
-* Open Settings → Google → Ads
-* Tap "Reset advertising ID"
-* (Optional) Enable "Opt out of ads personalization" to limit tracking further.
+* Open Settings, Google, Ads
+* Tap Reset advertising ID
+* Optionally enable "Opt out of ads personalisation" to limit tracking further
 
-Note: Some Android skins (Samsung, Xiaomi, etc.) bury this setting. Try searching for "advertising ID" in Settings.
+Some Android skins (Samsung, Xiaomi) bury this setting; searching Settings for "advertising ID" finds it.
 
-## How to reset on iOS
+## On iOS
 
-* Open Settings → Privacy & Security → Tracking
-* Toggle off "Allow Apps to Request to Track" (blocks IDFA access entirely).
-* To reset, Go to Settings → Privacy & Security → Apple Advertising and tap "Reset Advertising Identifier"
+* Open Settings, Privacy and Security, Tracking
+* Turn off "Allow Apps to Request to Track", which blocks IDFA access entirely
+* To reset, go to Settings, Privacy and Security, Apple Advertising, and tap Reset Advertising Identifier
 
-## Limitations to know
+## Limitations
 
-* Doesn't stop all tracking – Fingerprinting, IP logging, and first-party data (e.g., Google/Facebook logged-in tracking) still work.
-* Some apps bypass it – Especially if you use the same Google/Apple account everywhere.
-* Resets aren't instant – It can take hours for ad networks to update.
+* It does not stop all tracking; fingerprinting, IP logging and first-party data (logged-in tracking by Google or Facebook) still work.
+* Some apps bypass it, especially when the same Google or Apple account is used everywhere.
+* Resets are not instant; ad networks can take hours to update.
 
-## Further options for stronger privacy
+## Stronger measures
 
-* Use a firewall app (e.g., TrackerControl for Android) to block hidden trackers.
-* Disable personalized ads in Google (adssettings.google.com).
-* On iOS, use Lockdown Mode (Settings → Privacy & Security → Lockdown Mode) to cut off most tracking.
+* A firewall app such as TrackerControl for Android blocks hidden trackers.
+* Google's own ad personalisation can be disabled at adssettings.google.com.
+* On iOS, Lockdown Mode (Settings, Privacy and Security, Lockdown Mode) cuts off most tracking.
 
-## Automate it
+## Automating it
 
-* Android: Use Tasker or MacroDroid to reset the ID weekly.
-* iOS: Shortcuts app can't reset the IDFA, but you can set a reminder.
+* On Android, Tasker or MacroDroid can reset the ID weekly.
+* On iOS, the Shortcuts app cannot reset the IDFA, but a weekly reminder covers it.
 
-Combine with other anti-tracking tools
-
-## For best results
-
-* Reset advertising ID weekly
-* Use Firefox Focus for private browsing
-* Block ads/trackers with NextDNS or AdGuard
-
-This won't make you invisible, but it fragments your data enough to reduce profiling.
+A weekly reset, paired with Firefox Focus for private browsing and NextDNS or AdGuard for ad and tracker blocking, fragments the data enough to reduce profiling. It does not confer invisibility.
 
 ## Testing
-
-Want to test if it's working? Try:
 
 * [AppCensus (Android)](https://appcensus.mobi/)
 * [Lockdown Privacy (iOS)](https://lockdownprivacy.com/)

@@ -30,7 +30,9 @@ regime becomes accessible in another.
 ISP and telecommunications interception: all EU telecom providers are required to
 maintain lawful interception capability. This is infrastructure built into the network
 that allows targeted or bulk interception of communications content and metadata.
-The legal threshold for activating this capability varies by jurisdiction.
+The legal threshold for activating this capability varies by jurisdiction. The same
+built-in access is a target in its own right: intrusions into telecom lawful-intercept
+systems have shown that a capability built for authorised use is also a door others can force.
 
 Backbone collection: signals intelligence agencies collect from undersea cables, internet
 exchange points, and network infrastructure at points where large volumes of traffic
@@ -38,11 +40,18 @@ can be accessed at once. This collection captures data transiting a jurisdiction
 regardless of where it originates or terminates. The legal framework for backbone
 collection is generally less restrictive than for targeted individual interception.
 
-Device and software compromise: targeted spyware (the most prominent example being
-the Pegasus tool developed by NSO Group) can compromise devices and provide access
-to all data on them, including encrypted communications. This vector is used against
-high-value targets. It has been documented in use against EU citizens including
-politicians, journalists, and lawyers.
+Device and software compromise: mercenary spyware such as NSO's Pegasus or Paragon's
+Graphite can compromise a device and read everything on it, including encrypted
+communications, in current cases through zero-click exploits that need no action by the
+target. It is used against high-value targets and has been documented against EU
+politicians, journalists and lawyers; the [Paragon case](cases/paragon.md) is the recent,
+forensically confirmed instance.
+
+On-device scanning: a newer, still-contested vector would place inspection on the device
+itself. Proposals to scan message content against a database before it is encrypted, the
+mechanism behind the EU's [Chat Control](landscape/scanning-and-encryption.md) debate, would
+turn every participating phone into a checkpoint, reaching content that transport encryption
+would otherwise protect.
 
 ## Platform vectors
 
@@ -56,15 +65,17 @@ Platforms hosted on non-EU infrastructure present a jurisdictional complication:
 data may be subject to the legal regime of the hosting country (most commonly the
 United States) as well as to the EU regime. US intelligence agencies can access
 data held by US-incorporated companies through instruments including Section 702 of
-the Foreign Intelligence Surveillance Act and Executive Order 12333, regardless of
-where the data was generated or who generated it.
+the Foreign Intelligence Surveillance Act and Executive Order 12333, and the US CLOUD Act
+lets US authorities compel a US-based provider to hand over data it controls wherever in
+the world it is stored, regardless of where the data was generated or who generated it.
 
 This is the direct practical consequence of European dependency on US cloud
-infrastructure. The data protection agreement between the EU and US (currently the
-EU-US Data Privacy Framework, the third attempt following Schrems I and Schrems II)
-attempts to address this but operates under the same structural tension that invalidated
-its predecessors: US national security law applies to US companies regardless of what
-a bilateral agreement says.
+infrastructure. The transfer arrangement between the EU and US, currently the EU-US Data
+Privacy Framework, is the third attempt after Schrems I struck down Safe Harbor in 2015 and
+Schrems II struck down Privacy Shield in 2020, and it is [itself under
+challenge](landscape/cross-border-transfers.md). It operates under the same structural
+tension that invalidated its predecessors: US national security law applies to US companies
+regardless of what a bilateral agreement says.
 
 ## Commercial vectors
 
@@ -78,7 +89,8 @@ The advertising technology ecosystem generates surveillance-grade data as a bypr
 of serving advertisements. Location data, device identifiers, browsing history, and
 app usage patterns flow through ad-tech pipes at scale. This data is commercially
 available to any buyer with a budget, including government agencies and their
-contracted intermediaries.
+contracted intermediaries, as the [Databroker Files](cases/databroker-files.md) investigation
+of 2025 demonstrated inside the EU's own institutions.
 
 ## Structural vectors
 
@@ -87,6 +99,12 @@ non-EU platforms, cloud services, and hardware manufacturers. Data processed on
 foreign infrastructure is subject to foreign legal jurisdiction regardless of where
 the data subject lives. This is not a targeted attack vector. It is a structural
 condition that creates permanent jurisdictional leakage.
+
+State database interoperability: the EU's border and security databases (the Entry/Exit
+System, Eurodac, the Schengen and Visa Information Systems) are being connected into a shared
+biometric search layer, described in the [legal landscape](landscape/biometric-and-border.md).
+Interoperability is less an intrusion than a change of scale: data gathered for one purpose
+becomes queryable alongside everything else, and joinability is itself a capability.
 
 Vendor supply chain: telecommunications equipment from vendors with contested
 relationships to foreign governments (the most discussed example being Huawei),

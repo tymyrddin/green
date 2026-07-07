@@ -1,4 +1,4 @@
-# Audit what data you hold
+# Data audit
 
 A data audit answers the question: what personal or sensitive data does this organisation
 actually hold, where is it, why is it there, and how long is it staying?
@@ -34,7 +34,7 @@ For each system, identify the categories of data it holds:
 - Financial data
 - Internal strategy or intellectual property
 
-Note which categories have regulatory implications in your jurisdiction. In the EU, special
+Note which categories carry regulatory implications in the relevant jurisdiction. In the EU, special
 category data and children's data have stricter requirements.
 
 ## Document purpose and legal basis
@@ -55,18 +55,18 @@ Most organisations have a retention policy of some kind. The gap between the pol
 is actually in the systems is usually large.
 
 For each data category, ask: is there a defined retention period, and is it being applied in
-practice? If not, set one and implement it. Data that is not needed should have a scheduled
-deletion date, not an indefinite hold.
+practice? If not, one can be set and applied. Data that is not needed is a candidate for a scheduled
+deletion date rather than an indefinite hold.
 
 ## Identify data to delete or archive
 
-From the audit, you should have a set of data to act on:
+From the audit, a set of data to act on emerges:
 - Data with no current purpose: delete.
-- Data that must be retained for legal reasons but is no longer operationally needed: archive
+- Data that has to be retained for legal reasons but is no longer operationally needed: archive
   to secure, access-restricted cold storage. Remove from live systems.
 - Data whose retention period has passed: delete, with documentation that the deletion occurred.
 
-Deletion should be confirmed and documented. A deleted database backup that is not noted in
+Deletion is worth confirming and documenting. A deleted database backup that is not noted in
 the audit record will appear as a gap on the next audit.
 
 ## Record and review
@@ -78,6 +78,6 @@ A data audit is not a one-time exercise. The environment changes. New systems ar
 New data flows are created. Schedule a review annually, and review specifically when new
 systems are added or significant changes are made to existing ones.
 
-The audit record is also useful for regulatory compliance: if your supervisory authority
-requests information about your data holdings, a maintained audit record demonstrates that
-you are managing this deliberately rather than discovering it under pressure.
+The audit record is also useful for regulatory compliance: if a supervisory authority
+requests information about the organisation's data holdings, a maintained audit record demonstrates
+deliberate management rather than discovery under pressure.

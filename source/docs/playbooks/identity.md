@@ -1,33 +1,23 @@
-# How to keep your anonymous data separate from your identity
+# Keeping anonymous data separate from identity
 
-To protect your privacy and make it harder for companies to track you, you can take a few simple steps to break the digital chains that link your online activity to your identity.
+Breaking the links between online activity and a real identity takes only a few habits, each aimed at a different chain that trackers rely on.
 
 ## Break tracking chains
 
-Use different browsers for different purposes. For example, try Firefox Focus for sensitive browsing (like searching 
-for medical or financial topics) and your regular browser only for logged-in services (like email or social media). 
-Also, enable privacy features like "Total Cookie Protection" in Firefox or "Strict" tracking prevention in Microsoft 
-Edge to limit how websites follow you.
+Different browsers for different purposes keep contexts apart: Firefox Focus for sensitive browsing such as medical or financial searches, and a regular browser only for logged-in services like email or social media. Privacy features such as Total Cookie Protection in Firefox or Strict tracking prevention in Microsoft Edge limit how far a site can follow a visitor.
 
-## Scramble your digital fingerprint
+## Scramble the fingerprint
 
-Websites can identify you by subtle details like your screen size and browser settings. To make this harder, install 
-an extension like CanvasBlocker (which fakes some of these details) and set your screen resolution to common values, 
-such as 1920×1080, so you blend in with other users.
+Sites identify a device by small details such as screen size and browser settings. An extension like CanvasBlocker fakes some of these, and setting the screen resolution to a common value such as 1920×1080 helps a device blend in with the crowd rather than stand out.
 
-## Separate your online identities
+## Separate identities
 
-Create different email addresses for different parts of your life, one for banking and finances, another for 
-social media, and a separate one for shopping and newsletters. This way, if one account gets exposed, it won’t 
-automatically reveal everything else about you.
+Different email addresses for different parts of life, one for banking, another for social media, a third for shopping and newsletters, keep an exposure contained. If one account leaks, it does not automatically reveal the rest.
 
-## Hide your location patterns
+## Hide location patterns
 
-Turn off Wi-Fi and GPS when you don’t need them, and use features like Apple’s "Private Wi-Fi Address" or Android’s 
-"Randomised MAC" to prevent your device from being tracked across different networks.
+Turning off Wi-Fi and GPS when they are not needed reduces passive location logging. Apple's Private Wi-Fi Address and Android's randomised MAC keep a device from being recognised across networks.
 
-## Disrupt tracking tricks
+## Disrupt timing correlation
 
-To confuse companies that try to link your activity over time, add random delays (5–120 minutes) before posting on 
-social media. Occasionally visit decoy websites (like random news sites or shopping pages) to pollute the profile 
-that trackers build about you.
+To make activity harder to link over time, a random delay of a few minutes to a couple of hours before posting to social media breaks the timing signal. Occasional visits to unrelated sites add noise to whatever profile a tracker is assembling.

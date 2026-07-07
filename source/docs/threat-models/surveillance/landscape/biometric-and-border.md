@@ -1,0 +1,13 @@
+# Biometrics and the border
+
+Two build-outs are turning identity itself into a surveillance surface: the regulation of biometric AI, and the databases at the EU's frontier.
+
+## The AI Act's biometric line
+
+The EU AI Act draws a line around biometric surveillance, with [prohibitions that took effect on 2 February 2025](https://artificialintelligenceact.eu/article/5/). It bans building or expanding facial-recognition databases by untargeted scraping of images from the internet or CCTV; it bans biometric categorisation that infers race, political opinion, union membership, religion or sexual orientation; and it bans emotion recognition in workplaces and schools. Real-time remote biometric identification in public spaces by law enforcement is prohibited too, but with exceptions: searching for missing persons or trafficking victims, an imminent threat to life or a terrorist attack, and locating suspects in a defined list of serious crimes, each subject to prior judicial or administrative authorisation and to reporting.
+
+The exceptions are where the argument sits. They leave a lawful route to live public facial recognition, member states retain room to authorise nationally what the Act nominally forbids, and retrospective identification faces a lower bar than real-time. Separately, EU data-protection authorities have fined Clearview AI repeatedly over scraping-based facial recognition, so far without the company meaningfully complying.
+
+## The biometric border
+
+At the frontier the direction is expansion. The Entry/Exit System (EES), which records the fingerprints and facial images of non-EU travellers crossing the Schengen border, began rolling out in October 2025. The European Travel Information and Authorisation System (ETIAS) follows for visa-exempt travellers. Beneath them sits an [interoperability programme](https://www.biometricupdate.com/202606/eu-rolls-out-new-eurodac-system-with-facial-biometrics-interoperability) knitting the major EU databases (EES, ETIAS, Eurodac, the Schengen Information System and the Visa Information System) into a shared Biometric Matching Service and a European Search Portal, so an authorised officer can query many systems at once, with facial recognition being added to Eurodac and SIS. Together these form one of the largest biometric databases in the world, holding the fingerprints and photographs of hundreds of millions of people. The EU Digital Identity wallet under eIDAS 2.0 adds a further identity layer whose linkability and central role make it, as the [age-verification case](../cases/age-verification-app.md) shows, its own concern.

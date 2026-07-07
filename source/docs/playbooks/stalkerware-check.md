@@ -20,13 +20,13 @@ The Coalition Against Stalkerware recommends Malwarebytes (free, available on th
 
 Also check manually: Settings, Apps or Application Manager, show all apps including system apps. Look for anything you do not recognise, particularly anything with a generic or plausible-sounding name and no obvious function. Note that stalkerware is often designed to hide itself, so a clean scan does not guarantee a clean device.
 
-Check which apps have been granted unusual permissions: access to location, microphone, camera, contacts, and SMS. Go to Settings, Privacy, Permission Manager, and review each permission category for applications that should not have it.
+Check which apps have been granted unusual permissions: access to location, microphone, camera, contacts, and SMS. Go to Settings, Privacy, Permission Manager, and review each permission category for applications that have no business holding it.
 
 ## On iPhone
 
 Apple's restrictions on third-party applications make traditional stalkerware harder to install on iPhones. The most common methods are either installing a Mobile Device Management (MDM) profile, which gives broad control over the device, or accessing iCloud from another device using the same credentials.
 
-Check for MDM profiles: Settings, General, VPN and Device Management. Any profile installed there that you did not install yourself should be removed.
+Check for MDM profiles: Settings, General, VPN and Device Management. Remove any profile installed there that you did not install yourself.
 
 Check your Apple ID for devices signed in: Settings, your name at the top, scroll down to see all signed-in devices. Remove any you do not recognise.
 

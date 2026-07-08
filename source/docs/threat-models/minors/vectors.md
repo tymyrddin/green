@@ -51,5 +51,3 @@ The newest surface, and an ironic one. Verifying that a user is old enough, now 
 services, often means collecting identity: a face scan, a document, a card. A measure meant to protect
 children can attach a verified identity to a child's activity, becoming a collection point in its own
 right.
-
-Last reviewed: 2026-07-08.

@@ -32,45 +32,45 @@ Younger players benefit from a simpler deck with more obvious tells; older playe
 
 ## Social Media Maze
 
-Lay out a network of account cards on the table, each one connected to a few others by lines or strings. Players move 
-their information token across the network by jumping between connected accounts. Each jump reveals a new piece of 
-personal data: a location, an interest, a friend connection, a piece of activity. 
+Lay out a network of account cards on the table, each one connected to a few others by lines or strings. Players move
+their information token across the network by jumping between connected accounts. Each jump reveals a new piece of
+personal data: a location, an interest, a friend connection, a piece of activity.
 
-- Privacy Settings cards can block a jump; 
-- Anonymous Mode cards hide which account the token is coming from. 
+- Privacy Settings cards can block a jump;
+- Anonymous Mode cards hide which account the token is coming from.
 
 The goal is to reach certain milestones without triggering too many reveals.
 
-The game's most instructive moments are rarely the big reveals. They are the small, incremental ones: 
-the moment when you realise your token has made it three or four connections away from where you started and you 
-cannot quite trace how it got there. Something you shared is now visible to someone you never intended it to reach, 
+The game's most instructive moments are rarely the big reveals. They are the small, incremental ones:
+the moment when you realise your token has made it three or four connections away from where you started and you
+cannot quite trace how it got there. Something you shared is now visible to someone you never intended it to reach,
 through a chain of connections that seemed reasonable at each individual step.
 
-That feeling, losing track of something you thought you controlled, is what the game is designed to produce. 
-Information on social media does not travel in single jumps. It propagates through networks of connections, and 
-each person in the chain is making their own decisions about what to share further. Privacy settings help, but 
+That feeling, losing track of something you thought you controlled, is what the game is designed to produce.
+Information on social media does not travel in single jumps. It propagates through networks of connections, and
+each person in the chain is making their own decisions about what to share further. Privacy settings help, but
 they act on the first jump. What happens after that is harder to predict.
 
 It often sparks a useful conversation about what "private" actually means in a networked world.
 
 ## Data Dumpster Dive
 
-Before the game begins, someone prepares a set of cards representing fragments of a person's data trail: an 
-email address, a shopping receipt, a username from a forum, a photo with a location tag, a fitness tracker log, 
-a booking confirmation. Scatter these around the room. Players have a few minutes to collect as many as they can, 
-then sit down together and try to piece together who the person is: their name, where they live, what they do, what 
+Before the game begins, someone prepares a set of cards representing fragments of a person's data trail: an
+email address, a shopping receipt, a username from a forum, a photo with a location tag, a fitness tracker log,
+a booking confirmation. Scatter these around the room. Players have a few minutes to collect as many as they can,
+then sit down together and try to piece together who the person is: their name, where they live, what they do, what
 their daily routines look like.
 
-Taken one by one, none of the cards seems like much. A username is just a username. A receipt tells you where 
-someone shops sometimes. A fitness log tells you when they tend to leave the house. But together, these fragments 
-tell a story that is surprisingly complete. In a well-prepared set of cards, it is usually possible to reconstruct 
+Taken one by one, none of the cards seems like much. A username is just a username. A receipt tells you where
+someone shops sometimes. A fitness log tells you when they tend to leave the house. But together, these fragments
+tell a story that is surprisingly complete. In a well-prepared set of cards, it is usually possible to reconstruct
 a fairly detailed portrait of the fictional person from only eight or ten fragments.
 
-This is the aggregation problem made physical. The term describes the way that combining individually unremarkable 
-pieces of information can produce something far more revealing than any single piece on its own. It is the reason 
-data brokers are valuable to advertisers: not because any one data point is significant, but because enough of them 
-together build a profile. Understanding this through the experience of actually doing the aggregating can change 
+This is the aggregation problem made physical. The term describes the way that combining individually unremarkable
+pieces of information can produce something far more revealing than any single piece on its own. It is the reason
+data brokers are valuable to advertisers: not because any one data point is significant, but because enough of them
+together build a profile. Understanding this through the experience of actually doing the aggregating can change
 how people think about what they share online.
 
-Works well from age twelve upwards, and is particularly worth playing with anyone who has ever said "well, it is 
+Works well from age twelve upwards, and is particularly worth playing with anyone who has ever said "well, it is
 just a username".

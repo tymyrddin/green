@@ -8,6 +8,6 @@ In 2023 researchers at ETH Zurich (Robin Staab, Mark Vero, Mislav Balunović and
 
 Later work extended it from inference to identification. Agentic systems, models given a web browser, can take a handful of anonymous comments, infer where a person lives and what they do, search the open web, and propose a name, recovering identities by cross-referencing details against public pages.
 
-## Why it counts
+## Attribution without a shortlist
 
 This closes a gap the older techniques left open. [Stylometry](../techniques.md), authorship attribution by writing style, used to need a candidate shortlist and specialist tooling; a language model does the same work at scale, from a standing start, with no shortlist at all. It also defeats the assumption behind most text-based privacy advice, that removing names and obvious identifiers is enough. It is not, once the reader is a model that reasons from the incidental. The capability sits directly alongside the [surveillance model](../../surveillance/index.rst): the text people publish becomes another route from data to identity, one that needs no interception at all.

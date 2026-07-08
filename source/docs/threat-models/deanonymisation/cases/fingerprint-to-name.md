@@ -20,7 +20,7 @@ tracking scripts embedded in millions of websites passed browser identifiers ove
 Instagram and Yandex apps on the same Android device, where the logged-in account tied the "anonymous" browsing
 to a named person, private browsing included.
 
-## Why it counts
+## The identifier that survives the defences
 
 Fingerprinting is the identifier that survives the standard defences. Clearing cookies, private-browsing mode and
 consent refusals do not remove it, because it is not stored on the device; it is recomputed from the device each time.

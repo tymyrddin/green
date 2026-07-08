@@ -114,7 +114,7 @@ Courts, employers, and friends are not yet equipped to assess it reliably.
 Persistence: access and influence can survive separation. A survivor who has left physically
 may remain entangled digitally in ways that are not immediately visible.
 
-## What this means in practice
+## No single fix
 
 Traditional advice, "block them, change your password, get a new number," is no longer
 sufficient on its own. Safety now requires systemic thinking: across devices, accounts,

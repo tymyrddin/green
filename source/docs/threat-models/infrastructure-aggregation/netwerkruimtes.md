@@ -16,7 +16,7 @@ Compliance is supervised: "the Industrial Security department of the MIVD overse
 
 ## Adversarial reading
 
-What follows is reasoning available from the tender notice alone. No intrusion, no access required.
+No intrusion and no special access are needed. The tender notice alone is enough.
 
 ### Map physical and organisational entry points
 

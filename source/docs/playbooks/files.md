@@ -1,65 +1,37 @@
 # Removing metadata from files
 
-## The problem with Windows' built-in metadata removal
+Documents and images carry hidden information about who made them, when, on what device, and sometimes where. Removing it before sharing a file is a small habit worth having, but the built-in tools people reach for first are often not enough.
 
-The "Remove Properties and Personal Information" feature in Windows has significant limitations that make it inadequate for proper privacy protection:
+## Why the Windows built-in tool falls short
 
-1. Limited File Format Support: Only works with 11 file formats including old Office 2003 files (DOC/XLS/PPT), JPEG, TIFF, PNG, XPS, MP3, MP4, MOV, and ASF/WMA/WMV .
+The "Remove Properties and Personal Information" option in Windows is the one most people reach for, and it leaves more behind than it suggests. It handles only a short list of formats, mostly the older Office types (DOC, XLS, PPT), plus JPEG, TIFF, PNG, XPS, and a few audio and video containers. Even for those, plenty survives: Office files keep editing time, template details, revision dates, comments, and tracked changes; images keep most of their EXIF block, embedded thumbnails, and camera serial numbers; and a TIFF that looks clean can still yield metadata to a hex editor. The option labelled "Create a copy with all possible properties removed" removes only what the feature understands, not everything the file holds, which is where the false sense of security comes from.
 
-2. Incomplete Metadata Removal: Even for supported formats, many metadata elements remain:
-   - Office files retain editing time, template info, creation/modification dates, comments, tracked changes, and hidden content 
-   - Images keep most EXIF data (including thumbnails), XMP/IPTC data, and camera serial numbers 
-   - TIFF files appear cleaned but metadata remains recoverable with a hex editor 
+## PDF files
 
-3. Misleading Interface: The option "Create a copy with all possible properties removed" only removes what the feature supports, not all metadata the file may contain .
-
-## Better solutions for metadata removal
-
-### For PDF files
-
-While ExifTool can modify PDF metadata, it doesn't permanently remove it - the original data remains recoverable . A more thorough approach involves:
-
-1. First use ExifTool to clear metadata:
+ExifTool can edit PDF metadata, but on its own it leaves the original values recoverable inside the file. A more thorough approach is two steps. First clear the metadata:
 
 ```bash
 exiftool -all:all= file.pdf
 ```
 
-2. Then use qpdf to linearize the file and remove orphaned data:
+Then rewrite the file with qpdf, which drops the orphaned data left behind:
 
 ```bash
 qpdf --linearize file.pdf clean_file.pdf
 ```
 
-This combination makes the changes irreversible . However, note this doesn't clean metadata from embedded objects within the PDF .
+Together these make the change stick. Metadata inside embedded objects can still survive, so a genuinely sensitive PDF is often better rebuilt from a clean export than scrubbed.
 
-### For Office documents
+## Office documents
 
-Microsoft Office includes a "Document Inspector" that does a decent job for single files, though it lacks batch processing capability . For batch processing Office files, third-party tools like BatchPurifier™ are recommended as they support:
-- Multiple Office formats (DOCX, XLSX, PPTX)
-- Removal of comments, tracked changes, hidden text, and other sensitive elements 
+Microsoft Office includes a Document Inspector that does a reasonable job on a single file. It does not batch-process, so a folder of documents is slow going by hand; a dedicated metadata-removal tool covers that case, at the cost of trusting a third party with the files. Whichever route, the things worth confirming are gone are comments, tracked changes, hidden text, and revision history.
 
-### For images and other files
+## Images and other files
 
-ExifTool remains a powerful option for many file types, supporting:
+For images and a wide range of other formats, ExifTool remains the most capable option, covering dozens of metadata types across JPEG, PNG, WebP, SVG, and common audio and video containers, with batch processing. The [ExifTool runbook](../runbooks/exiftool.md) covers the commands.
 
-- Over 60 types of hidden data/metadata removal
-- Batch processing capabilities
-- Support for JPEG, PNG, WebP, SVG, AVI, WAV, MP3, MP4 and more 
+## A few habits that help
 
-## Key recommendations
+Relying on one built-in tool tends to leave gaps, so it helps to match the tool to the format: Document Inspector or a dedicated cleaner for Office, ExifTool with qpdf for PDF, ExifTool for images. Converting a document to PDF through LibreOffice sheds a good deal of hidden data along the way, and for an image, resaving it or taking a screenshot drops the original metadata. Whatever the method, checking the file afterwards is the step that catches what was missed.
 
-1. Don't rely solely on Windows' built-in tool - it provides a false sense of security 
-
-2. Use format-specific tools:
-   - Office: Document Inspector or BatchPurifier™
-   - PDF: ExifTool + qpdf combination
-   - Images: ExifTool or dedicated image cleaners
-
-3. Consider document conversion:
-   - Converting to PDF via LibreOffice can remove much hidden data
-   - For images, consider resaving or taking screenshots
-
-4. Verify cleaning results - always check files after cleaning to ensure sensitive data was actually removed
-
-The white paper from [Digital Confidence](https://digitalconfidence.com/Remove-Properties-and-Personal-Information-a-Misleading-Feature.html) provides excellent technical details about Windows' metadata removal limitations, while [ExifTool](https://exiftool.org/)'s documentation explains its PDF handling constraints. For comprehensive cleaning, [specialized tools](https://cyberrunner.medium.com/removing-metadata-from-pdf-files-using-exiftool-and-qpdf-20090b75d7f0) designed specifically for privacy protection are often necessary.
+The [Digital Confidence white paper](https://digitalconfidence.com/Remove-Properties-and-Personal-Information-a-Misleading-Feature.html) sets out the Windows tool's limits in technical detail, and [ExifTool](https://exiftool.org/) documents its own PDF handling.

@@ -15,7 +15,7 @@ and that European data protection law was not designed to constrain that right.
 
 Everything GDPR achieves for individual privacy stops at the national security fence.
 
-## What EU member states are actually permitted to do
+## What member states are permitted to do
 
 No EU member state has a blanket legal prohibition on surveilling its own citizens.
 Every member state has intelligence legislation that permits surveillance of individuals
@@ -40,7 +40,7 @@ Netherlands, Denmark, France, Norway, Germany, Belgium, Italy, Spain, and Sweden
 The mechanism is not simply a matter of each agency spying on the others' citizens to
 order. It is more structural than that: each agency collects intelligence that it categorises as "foreign" (meaning
 communications flowing through or associated with non-domestic targets), and agencies
-share what they have collected. Since "foreign" collection in practice captures vast
+share what they have collected. Since "foreign" collection captures vast
 amounts of data about citizens of other partner states, the practical effect is that
 each agency's domestic legal constraints on surveilling its own citizens can be
 navigated by receiving data about those citizens from a partner who collected it
@@ -65,7 +65,7 @@ national security context precisely because GDPR does not apply there.
 
 ## The system working as built
 
-This is not illegal behaviour by rogue actors. Most of what it describes
+This is not illegal behaviour by rogue actors. Most of it
 is either legal, contested only at the margins, or structured to be difficult to
 challenge. The system was designed to permit observation. It optimises for visibility
 under plausible deniability.

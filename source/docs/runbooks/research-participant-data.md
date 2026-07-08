@@ -56,7 +56,7 @@ Identifiable participant data is best not sent to a collaborator whose instituti
 
 ### Publication
 
-Anonymised or aggregated data can often be published or shared openly without consent issues, provided the anonymisation is genuine. Test re-identification risk before publishing: small group sizes, unusual attribute combinations, and sparse datasets can allow re-identification even without direct identifiers. The [data minimisation guidance](../playbooks/minimise.md) in this collection is relevant to that assessment.
+Anonymised or aggregated data can often be published or shared openly without consent issues, provided the anonymisation is genuine. Test re-identification risk before publishing: small group sizes, unusual attribute combinations, and sparse datasets can allow re-identification even without direct identifiers. The [data minimisation guidance](../playbooks/minimise.md) is relevant to that assessment.
 
 ## Deletion
 

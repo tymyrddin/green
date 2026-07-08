@@ -32,7 +32,7 @@ Others: Apple's iMessage PQ3 and Tuta's hybrid encryption are further recent ado
 ## Practical steps
 
 * Moving to Signal or ProtonMail covers most everyday messaging.
-* For existing PGP use, GnuPG 2.6 (or the 2.5 development series) can generate a post-quantum key. The 2.4 branch cannot, and has reached end of life; on it, `future-default` still produces a classical key:
+* For existing PGP use, the GnuPG 2.5 series (the current release line) can generate a post-quantum key. The 2.4 branch cannot, and has reached end of life; on it, `future-default` still produces a classical key:
 
 ```bash
 gpg --quick-gen-key "Name" pqc

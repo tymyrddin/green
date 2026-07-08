@@ -23,7 +23,7 @@ The data processing agreement with the vendor sets out their notification obliga
 
 GDPR requires notification to the supervisory authority within 72 hours of becoming aware of a personal data breach that poses a risk to individuals. The clock may already have started at the moment of awareness, not at the vendor's notification. Check the timing carefully.
 
-Where the breach is likely to result in a high risk to individuals (special category data, or data enabling identity fraud or physical harm), the affected individuals must be notified directly too.
+Where the breach is likely to result in a high risk to individuals (special category data, or data enabling identity fraud or physical harm), the affected individuals have to be notified directly too.
 
 Legal counsel can confirm the specific obligations in a given jurisdiction. Any data protection officer needs involving immediately.
 

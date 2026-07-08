@@ -20,7 +20,7 @@ This confirms active maintenance, names the pipeline contents (kerosene), gives 
 
 ## Adversarial reading
 
-What follows is reasoning available from these two sources alone, with public incident reporting and KLIC context adding physical and historical detail. No intrusion, no access required.
+No intrusion and no special access are needed. Public incident reporting and KLIC context add the physical and historical detail.
 
 ### Map strategic fuel transport infrastructure
 

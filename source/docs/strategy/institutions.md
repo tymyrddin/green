@@ -42,7 +42,7 @@ Researchers who experience security controls as hostile to the culture of their 
 route around them. This is not a personal failing. It is a predictable response to a mismatch
 between the way security is presented and the values that drive research behaviour.
 
-The framing matters. Security as protection of the research, the participants, and the
+The framing is the point. Security as protection of the research, the participants, and the
 collaborators, rather than security as institutional risk management, is more likely to
 be received as aligned with research values. It is also more accurate.
 

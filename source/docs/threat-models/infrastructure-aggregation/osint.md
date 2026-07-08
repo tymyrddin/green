@@ -1,4 +1,4 @@
-#  Open Source Intelligence (OSINT)
+# Open source intelligence (OSINT)
 
 The aim is not intrusion, but mapping the dependencies an adversary could infer from records that were never sensitive in isolation. Permits, tenders, job ads, planning portals; each published for legitimate reasons, each routine. Combined, they can describe a site's quiet supports in surprising detail.
 
@@ -6,7 +6,7 @@ The examples are Dutch, for context.
 
 ## A working process
 
-A narrow, repeatable loop tends to work better than a broad sweep. Pick the smallest interesting target, follow the dependency chain, and stop when the picture stabilises.
+A narrow, repeatable loop usually works better than a broad sweep. Pick the smallest interesting target, follow the dependency chain, and stop when the picture stabilises.
 
 1. Pick an anchor. A single site, narrowly defined: a radar station, an ammunition depot, a logistics hub.
 2. List its critical services. Electricity (typically medium voltage), cooling water, data connectivity, fuel supply, physical access, waste handling.

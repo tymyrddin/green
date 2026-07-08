@@ -1,7 +1,7 @@
 Cases: re-identification demonstrated
 ======================================
 
-Each page here is a documented demonstration, from the research literature or the public
+These are documented demonstrations, from the research literature and the public
 record, that "anonymous" is a claim about effort, not a property of data.
 
 None of them is hypothetical. Strip the names, and the data still names people, given a

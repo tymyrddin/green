@@ -35,7 +35,7 @@ Handing out an alias rather than the real address limits linkage:
 
 A private provider still exposes mail if the account itself is taken:
 
-* Enable two-factor authentication with an authenticator app such as Authy rather than SMS.
+* Enable two-factor authentication with an authenticator app such as Aegis or 2FAS rather than SMS.
 * Review recent-login activity, which most providers show.
 * Use a strong, unique password, generated and stored in a manager such as Bitwarden or KeePass.
 

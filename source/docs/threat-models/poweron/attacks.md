@@ -1,6 +1,6 @@
 # What do these look like in real life?
 
-This is where theory meets practice. The attack patterns below are not hypothetical; they are
+The attack patterns below are not hypothetical; they are
 the recurring shapes that technology-facilitated abuse takes. Each has a technical method
 underneath it, but the goal is always the same: reduce your independence, your credibility,
 and your sense of safety.
@@ -75,7 +75,7 @@ This pattern is often combined with others: harassment creates pressure, pressur
 errors, errors create new access points. The aim is not a single dramatic intrusion; it is
 a gradual erosion of the conditions that make security possible.
 
-## Stalkerware in practice
+## Stalkerware
 
 Purpose-built stalkerware can track GPS location in real time, record calls, access messages
 and emails, activate microphones and cameras, and log keystrokes including passwords. It
@@ -87,7 +87,7 @@ automation apps or abused "family safety" products achieve similar results. It i
 beyond finding: [checking a device for stalkerware](../../playbooks/stalkerware-check.md) sets out
 how to look safely.
 
-## Location tracking in practice
+## Location tracking
 
 Beyond phone GPS, location can be tracked through Bluetooth trackers hidden in bags, cars,
 or clothing; shared account features like Apple Find My or Google Location Sharing; geotags
@@ -99,7 +99,7 @@ Bluetooth-tracker part of this, recent iPhones and Android phones now
 unfamiliar tag built to the shared standard, such as an AirTag, has been travelling with you, though a
 generic or deliberately silenced tracker can still evade it.
 
-## AI-generated content in practice
+## AI-generated content
 
 Voice cloning from a few seconds of audio produces synthetic audio that can sound convincing
 to people who know you. Image generation tools can produce realistic fake photographs.
@@ -111,7 +111,7 @@ that identification by a significant margin. Where the content is a non-consensu
 [StopNCII](https://stopncii.org/) can have a known image blocked across participating platforms
 before it spreads.
 
-## Financial manipulation in practice
+## Financial manipulation
 
 Control over shared banking applications, credit cards, and subscriptions is used to monitor
 spending, block access to money, create hidden debts, or generate fraudulent transactions.
@@ -119,7 +119,7 @@ Buy-now-pay-later systems can be used in someone else's name. Financial monitori
 disruption are tools of dependency: the goal is to reduce the economic options available
 to you, not necessarily to take money outright.
 
-## Smart home gaslighting in practice
+## Smart home gaslighting
 
 Remote control of lights, thermostats, locks, and speakers creates an environment that
 responds unpredictably, where things happen without explanation and are difficult to describe
@@ -127,7 +127,7 @@ to someone who has not experienced it. The effect is psychological: a persistent
 unpredictability in a space that should feel safe, and a creeping uncertainty about your
 own perception of events.
 
-## More words
+## Power and control, not technology
 
 Every one of these patterns is about power and control. The technology is the delivery
 mechanism. Naming the pattern is not the same as having a solution, but it is the start

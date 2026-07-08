@@ -106,7 +106,7 @@ services. This is the homeostatic trap: the system resists reform not because of
 individual bad actor but because the reform threatens the equilibrium on which many actors
 depend.
 
-Working at leverage points matters more than working at symptoms. Regulatory action that
+Working at leverage points does more than working at symptoms. Regulatory action that
 changes what the system is rewarded for, rather than action that addresses individual harms
 case by case, is the intervention that can actually move the equilibrium.
 

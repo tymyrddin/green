@@ -14,7 +14,7 @@ The demonstrations kept coming as datasets grew. In 2006 AOL published twenty mi
 by a random user number; reporters identified individual searchers from the content of their own searches within days.
 In 2008 Arvind Narayanan and Vitaly Shmatikov re-identified subscribers in the anonymised Netflix Prize dataset by
 matching viewing histories against public IMDb ratings. In 2014 a released New York City taxi dataset, its medallion
-numbers hashed with a reversible scheme, was turned back into named drivers and traceable trips.
+numbers hashed with a trivially brute-forcible scheme, was turned back into named drivers and traceable trips.
 
 ## The general result
 
@@ -25,7 +25,7 @@ model of uniqueness, they estimated
 that [99.98% of Americans could be correctly re-identified](https://www.nature.com/articles/s41467-019-10933-3)
 in any dataset using just fifteen demographic attributes, including age, sex and marital status.
 
-## Why it counts
+## The combination is the finding
 
 Re-identification is not exotic. It follows from a plain fact about
 people: the combination of a few ordinary attributes is unique. That is the same logic

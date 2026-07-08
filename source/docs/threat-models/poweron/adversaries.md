@@ -1,7 +1,7 @@
 # Who is causing the harm or doing the surveillance?
 
-Who is behind the harm? The answer is not always obvious. It is not just "bad people doing bad things online." It is 
-a cast of characters, from central figures to silent enablers. Some act deliberately; others simply leave doors open. 
+Who is behind the harm? The answer is not always obvious. It is not just "bad people doing bad things online." It is
+a cast of characters, from central figures to silent enablers. Some act deliberately; others simply leave doors open.
 All contribute to the harm.
 
 ## Abusive partners (past or present)

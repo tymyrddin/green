@@ -100,10 +100,10 @@ video attributed to you. This is not hypothetical; it is described in
 the [attacks page](../threat-models/poweron/attacks.md) and it is occurring in legal proceedings and in reports to
 employers, schools, and social services with increasing frequency.
 
-Preserving evidence of the genuine situation matters, but so does not conducting that preservation on a compromised
+Preserving evidence of the genuine situation is worth doing, but so is not conducting that preservation on a compromised
 device. Use a safe device to document what is happening: screenshots with timestamps, records of contacts, evidence of
 access and surveillance. Do not delete anything that may be relevant, even if it is distressing to keep. Legal and
-support workers can help you understand what matters and how to present it.
+support workers can help you understand what is relevant and how to present it.
 
 ## Financial independence
 

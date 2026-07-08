@@ -53,6 +53,3 @@ broader work of shrinking what is known is in the [minimise playbook](../playboo
 
 The mechanics of how states collect and combine this information are described in
 the [surveillance threat model](../threat-models/surveillance/index.rst). The difference here is not the mechanics but the stakes: the same collection that is a background hum for most people is, for someone whose status is insecure, load-bearing. That asymmetry is the point, and it is why generic advice has to be read against a specific situation.
-
-Last reviewed: 2026-07-08.
-

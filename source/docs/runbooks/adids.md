@@ -40,7 +40,7 @@ Some Android skins (Samsung, Xiaomi) bury this setting; searching Settings for "
 ## Stronger measures
 
 * A firewall app such as TrackerControl for Android blocks hidden trackers.
-* Google's own ad personalisation can be disabled at adssettings.google.com.
+* Google's own ad personalisation can be adjusted at myadcenter.google.com.
 * On iOS, Lockdown Mode (Settings, Privacy and Security, Lockdown Mode) hardens the device against targeted spyware; it is aimed at that threat rather than at everyday ad tracking.
 
 ## Automating it

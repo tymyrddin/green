@@ -2,7 +2,7 @@ Open records: an aggregation threat model
 ==========================================
 
 .. image:: /_static/images/sos.png
-  :alt: A realistic intelligence-analysis workspace visualising a Dutch infrastructure dependency correlation system called “S.O.S.”. Large geospatial maps of the Netherlands cover transparent layered screens showing military radar sites, fuel pipelines, substations, rail infrastructure, utility corridors, and defence facilities connected through glowing graph relationships.
+  :alt: A realistic intelligence-analysis workspace visualising a Dutch infrastructure dependency correlation system called "S.O.S.". Large geospatial maps of the Netherlands cover transparent layered screens showing military radar sites, fuel pipelines, substations, rail infrastructure, utility corridors, and defence facilities connected through glowing graph relationships.
 
 An open-data aggregation study built from real public records: what a regime of
 routine, individually harmless publication adds up to when someone reads it patiently and at scale. Entirely Dutch

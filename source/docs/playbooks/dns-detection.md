@@ -1,6 +1,6 @@
 # Detect stalkerware using DNS monitoring
 
-DNS-level monitoring can identify connections consistent with stalkerware and spyware. When a device runs stalkerware, the software must contact its servers to deliver the data it collects. Before it can contact those servers, it must look up their addresses in the domain name system. That lookup is visible to whoever controls the DNS resolver the device is using.
+DNS-level monitoring can identify connections consistent with stalkerware and spyware. When a device runs stalkerware, the software has to contact its servers to deliver the data it collects. Before it can contact those servers, it looks up their addresses in the domain name system. That lookup is visible to whoever controls the DNS resolver the device is using.
 
 This approach requires neither specialised hardware beyond a computer or a router, nor any modification to the device being checked. It is less detailed than full traffic capture but substantially easier to set up and run continuously.
 
@@ -8,7 +8,7 @@ Before checking anyone else's device, confirm you have their informed consent an
 
 ## How it works
 
-Every device on a network, by default, uses a DNS resolver to translate domain names into IP addresses. Stalkerware that phones home to a command-and-control server must resolve that server's domain name. If you control the DNS resolver, you can log every domain the suspect device queries and compare those queries against known stalkerware domains.
+Every device on a network, by default, uses a DNS resolver to translate domain names into IP addresses. Stalkerware that phones home to a command-and-control server has to resolve that server's domain name. If you control the DNS resolver, you can log every domain the suspect device queries and compare those queries against known stalkerware domains.
 
 There are two ways to do this: run your own resolver on the local network (Pi-hole), or route the device's DNS queries through a filtering resolver that logs and blocks known threats (NextDNS).
 
@@ -23,9 +23,8 @@ docker run -d \
   --name pihole \
   --restart unless-stopped \
   -e TZ=Europe/London \
-  -e WEBPASSWORD=choose-a-strong-password \
+  -e FTLCONF_webserver_api_password=choose-a-strong-password \
   -v pihole-data:/etc/pihole \
-  -v dnsmasq-data:/etc/dnsmasq.d \
   -p 53:53/tcp -p 53:53/udp \
   -p 8080:80 \
   pihole/pihole

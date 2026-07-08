@@ -44,7 +44,7 @@ a previous relationship.
 
 ## Private communications
 
-Messages, email threads, call logs, and voice notes. These matter both as evidence (of
+Messages, email threads, call logs, and voice notes. These count both as evidence (of
 conversations, agreements, or behaviour) and as intelligence: someone with access to your
 communications can monitor your plans, identify your support network, and intercept
 conversations with solicitors, support services, or friends.

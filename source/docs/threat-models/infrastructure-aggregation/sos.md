@@ -6,12 +6,12 @@ The system's goal is to automatically identify potential 'choke points' in criti
 
 The architecture comprises four layers:
 
-- Ingestion Layer: Data acquisition from PDOK APIs, Overheid.nl catalogue, scheduled scraping, and manual uploads.
-- Storage & Processing Layer: A "Data Lake" stores all raw data, which is then processed by Python scripts to extract structured information into a relational database.
-- Correlation & Analysis Layer: The structured data is fed into a graph database like Neo4j. As data arrives, the system's logic queries this graph to identify dependency chains.
-- Presentation Layer: A dashboard for visualisation and an alerting module that sends notifications when new correlations are found.
+- Ingestion layer: data acquisition from PDOK APIs, the Overheid.nl catalogue, scheduled scraping, and manual uploads.
+- Storage and processing layer: a data lake stores all raw data, which Python scripts then process to extract structured information into a relational database.
+- Correlation and analysis layer: the structured data is fed into a graph database such as Neo4j, and as data arrives the system queries this graph to identify dependency chains.
+- Presentation layer: a dashboard for visualisation, and an alerting module that sends notifications when new correlations are found.
 
-## Data Source catalogue
+## Data source catalogue
 
 While some data is available through APIs, some of the most operationally useful intelligence comes from static documents, downloadable datasets, planning archives, and administrative records that can be collected, parsed, and correlated over time.
 
@@ -401,7 +401,7 @@ Correlated with:
 
 This allows reconstruction of parts of a defence logistics dependency network through entirely public information.
 
-## Feasibility 
+## Feasibility
 
 Building the S.O.S. system is technically feasible using existing open data, graph analysis tooling, geospatial systems, and document processing techniques.
 
@@ -420,8 +420,8 @@ A limited but operational prototype could likely be assembled within weeks using
 * graph databases
 * standard parsing pipelines
 
-The resulting system would not “discover secrets”. It would reveal how fragmented administrative transparency 
+The resulting system would not "discover secrets". It would reveal how fragmented administrative transparency
 gradually accumulates into operationally meaningful infrastructure visibility.
 
-In that sense, the modern attack surface is less purely technical. It is increasingly administrative, distributed, 
+In that sense, the modern attack surface is less purely technical. It is increasingly administrative, distributed,
 and assembled through correlation over time.

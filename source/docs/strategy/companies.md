@@ -29,7 +29,7 @@ that model and the actual environment.
 
 Organisations most often lose security arguments not because the rational case is weak but
 because the conditions do not support change. A development team that has learned through
-experience that security reviews mean delays and rarely catch problems that matter has formed
+experience that security reviews mean delays and rarely catch problems that count has formed
 a view. That view determines behaviour more reliably than a policy. Changing the view requires
 changing the experience, not issuing a better policy.
 

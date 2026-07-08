@@ -1,6 +1,6 @@
 # Submit a GDPR deletion request
 
-Under GDPR Article 17, anyone has the right to ask a data controller to delete the personal data it holds about them. This is sometimes called the "right to be forgotten". It is a legal right, not a polite request, and controllers must respond within one month.
+Under GDPR Article 17, anyone has the right to ask a data controller to delete the personal data it holds about them. This is sometimes called the "right to be forgotten". It is a legal right, not a polite request, and controllers are obliged to respond within one month.
 
 It does not cover everything. Data held for legal obligations, public interest, or ongoing contractual necessity may be exempt. For data held for marketing, profiling, or a service no longer used, it applies clearly.
 
@@ -31,7 +31,7 @@ Keep a copy of what was sent, and when.
 
 ## After sending
 
-The controller has one calendar month to respond. A complex request may be extended by two further months, but the controller must give notice within the first month.
+The controller has one calendar month to respond. A complex request may be extended by two further months, but the controller has to give notice within the first month.
 
 A refusal has to come with an explanation. Common legitimate grounds are that the data is needed to fulfil a current contract, or to meet a legal obligation.
 

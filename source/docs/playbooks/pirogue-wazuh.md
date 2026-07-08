@@ -52,15 +52,15 @@ Patterns worth noting include regular periodic connections to the same external 
 
 ## What this does and does not tell you
 
-A positive match against a known stalkerware domain is a strong indicator but not conclusive proof of installation: 
-some commercial products reuse infrastructure across legitimate and illegitimate deployments. An absence of matches 
+A positive match against a known stalkerware domain is a strong indicator but not conclusive proof of installation:
+some commercial products reuse infrastructure across legitimate and illegitimate deployments. An absence of matches
 does not confirm the device is clean: novel or custom stalkerware may not yet appear in threat intelligence feeds.
 
-The value of PiRogue is in surfacing behavioural patterns, not just matching against a known list. Unexplained 
-regular connections, unusual data volumes, and contact with unfamiliar infrastructure are all worth investigating 
+The value of PiRogue is in surfacing behavioural patterns, not just matching against a known list. Unexplained
+regular connections, unusual data volumes, and contact with unfamiliar infrastructure are all worth investigating
 further even when no threat intelligence match fires.
 
-If the assessment produces concerning results, contact a specialist organisation before taking action on the device 
-itself. The Coalition Against Stalkerware (stopstalkerware.org) can connect you with technical experts. The decision 
-about whether to remove detected software, preserve evidence, or reset the device depends on the individual's safety 
+If the assessment produces concerning results, contact a specialist organisation before taking action on the device
+itself. The Coalition Against Stalkerware (stopstalkerware.org) can connect you with technical experts. The decision
+about whether to remove detected software, preserve evidence, or reset the device depends on the individual's safety
 and legal situation. See the [check a device for stalkerware](stalkerware-check.md) playbook for the considerations around that decision.

@@ -16,7 +16,7 @@ forensic practitioners
 had [circumvented GEDmatch users' opt-out settings](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/),
 giving law enforcement access to profiles whose owners had not agreed to it.
 
-## Why it counts
+## Identified through your relatives
 
 This is re-identification with a property the others do not have: it identifies people through their relatives, so
 consent by the individual is beside the point. It is the sharpest instance of the [consent problem](../consent.md), one person's decision to test exposes a whole family tree, and it hands

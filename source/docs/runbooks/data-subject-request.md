@@ -2,7 +2,7 @@
 
 Trigger: a GDPR data subject access request (SAR), a deletion request, a portability request, or an objection to processing has arrived. These are legal rights, and a response is required.
 
-The clock starts when a request recognisable as such is received. The deadline is one calendar month. Extensions of two further months are available for complex or numerous requests, but the requester must be notified within the first month if one is used.
+The clock starts when a request recognisable as such is received. The deadline is one calendar month. Extensions of two further months are available for complex or numerous requests, but the requester has to be notified within the first month if one is used.
 
 ## Verify the requester's identity
 

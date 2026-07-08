@@ -33,7 +33,7 @@ has no current profile but may acquire one.
 
 Generalising across these situations produces recommendations that are accurate for some readers and
 irrelevant or even misleading for others. The alternative, producing bespoke guidance for every possible
-context, is not something these pages can do.
+context, is not feasible.
 
 The models were built with specific, recurring threat patterns in mind: commercial data extraction,
 nation-state surveillance, and partner abuse. The defensive guidance follows from those patterns. Where

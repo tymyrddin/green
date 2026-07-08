@@ -60,7 +60,7 @@ raising the cost and complexity of surveillance sufficiently that casual or spec
 targeting becomes less rewarding, and that if targeted attacks do occur, the damage is
 contained.
 
-Solidarity between organisations matters here. Shared threat intelligence, shared incident
+Solidarity between organisations is what does the work here. Shared threat intelligence, shared incident
 response resources, and mutual support when an organisation is under attack are not just
 nice-to-haves. They are structural defences against adversaries who benefit from civil society
 operating in isolation. Digital Defenders Partnership, Access Now's Digital Security Helpline,

@@ -114,4 +114,4 @@ describes being used at population scale; here they are turned on one person by 
 holds the keys.
 
 Recognising the surfaces is the first step. The goal is not to close every door at once
-but to know which ones exist, and to start with the ones that matter most.
+but to know which ones exist, and to start with the ones that count most.

@@ -80,7 +80,7 @@ directly, as the [LLM-inference case](cases/llm-inference.md) shows.
 ## Notable reference cases and datasets
 
 The research literature on re-identification relies on a set of landmark cases that demonstrate
-what is possible with the above tools.
+what is possible with these tools.
 
 * Netflix Prize dataset (Narayanan and Shmatikov, 2008): supposedly anonymous film rating
   data re-identified by cross-referencing with public IMDb reviews. Demonstrated that sparse,

@@ -41,9 +41,9 @@ Be precise about what is known versus inferred. The scope assessment drives ever
 
 ## Legal notification obligations
 
-Under GDPR, where personal data has been breached, the organisation must notify its supervisory authority within 72 hours of becoming aware, unless the breach is unlikely to result in a risk to individuals. The clock starts at reasonable certainty, not at the start of investigation.
+Under GDPR, where personal data has been breached, the organisation is required to notify its supervisory authority within 72 hours of becoming aware, unless the breach is unlikely to result in a risk to individuals. The clock starts at reasonable certainty, not at the start of investigation.
 
-Where individuals are at high risk from the breach, the organisation must also notify them directly.
+Where individuals are at high risk from the breach, the organisation has to notify them directly as well.
 
 Document when awareness began, what was known at that point, and what decisions followed. That record is what an authority later weighs when asking why the response took the time it did.
 

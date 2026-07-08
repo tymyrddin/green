@@ -26,7 +26,7 @@ Revolut works across the UK and Europe; Privacy.com is US-only. Both generate on
 
 ### Cryptocurrency cards
 
-Cards from services such as BitPay or Crypto.com convert cryptocurrency to fiat at the point of sale and do not link directly to a bank account. Tax treatment differs by country and is worth checking first.
+Cards from services such as Crypto.com convert cryptocurrency to fiat at the point of sale and do not link directly to a bank account. Tax treatment differs by country and is worth checking first.
 
 ## Sensitive purchases
 

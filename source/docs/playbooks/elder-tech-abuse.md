@@ -35,5 +35,3 @@ There is no need to do it all at once. If the person concerned also controls you
 ## You do not have to work it out alone
 
 In the UK, [Hourglass](https://wearehourglass.org/) is the charity dedicated to the abuse of older people, with a free, confidential 24-hour helpline on 0808 808 8141. A bank's safeguarding team, adult social services, and, where there is theft or threat, the police can each help with part of the picture. Removing your details from the data brokers that make older people easy to target for scams is covered in the [data broker playbook](brokers.md).
-
-Last reviewed: 2026-07-08.

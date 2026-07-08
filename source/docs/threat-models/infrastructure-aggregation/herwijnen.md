@@ -10,9 +10,9 @@ Nothing here is leaked. Each source is published for legitimate reasons. The poi
 
 ### Judicial documentation
 
-The Council of State [ruling 202502316-1-R4](https://www.raadvanstate.nl/uitspraken/@154674/202502316-1-r4/) records the decision to grant, in a single motion, "the environmental permit required for the construction and operation of the radar" (*"gelijktijdig ook de benodigde omgevingsvergunning voor het bouwen en in werking hebben van de radar te verlenen"*).
+The Council of State [ruling 202502316-1-R4](https://www.raadvanstate.nl/uitspraken/@154674/202502316-1-r4/) (12 November 2025) turns on the Ministry of Defence's attempt to grant, in a single motion, "the environmental permit required for the construction and operation of the radar" (*"gelijktijdig ook de benodigde omgevingsvergunning voor het bouwen en in werking hebben van de radar te verlenen"*). The wording alone reveals the intent and the scope: not just construction, but operation.
 
-This authorises not only construction but operation. One sentence anchors three things at once: state intent, scope, and permanence.
+What the ruling decided cuts the other way. The Afdeling bestuursrechtspraak found it was not the competent court for that permit, because the Ministry never obtained the Tweede Kamer's consent for the RCR coordination route, and it referred the objections down to the Rechtbank Gelderland. The related challenge to the rijksinpassingsplan stays with the Council of State, with a hearing expected in the summer of 2026. So the permit is contested and unsettled rather than granted in perpetuity. The document reveals the plan more than it secures it, which is the sharper lesson for anyone reading these files for what they give away.
 
 ### Local reporting
 

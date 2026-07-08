@@ -24,7 +24,7 @@ KeePassXC: open source, storing the vault as a local file only. Nothing leaves t
 
 Browser-saved passwords can be exported:
 
-- Chrome: Settings, Passwords, Export
+- Chrome: three-dot menu, Passwords and autofill, Google Password Manager, Settings, Export passwords
 - Firefox: about:logins, Export logins
 
 Import the file into Bitwarden (Settings, Import data), then delete the exported file and clear the saved passwords from the browser.

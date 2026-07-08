@@ -16,7 +16,7 @@ training_data = [
     # ... hundreds or thousands of labelled examples
 ]
 
-model = RandomForest.train(features=app_lists, labels=political_leanings)
+model = LogisticRegression.train(features=app_lists, labels=political_leanings)
 
 # Inference phase (attack):
 target = {apps: ["weather", "hunting_app", "sports_scores", "news_aggregator"]}
@@ -24,12 +24,13 @@ predicted_label = model.predict(target.apps)
 prediction_confidence = model.confidence(target.apps)
 → "conservative", 78% confidence
 
-# Additional output: which features mattered most
-feature_importance = model.explain()
-→ hunting_app: 0.31, bible_study: 0.24, climate_tracker: -0.19, ...
+# Additional output: the weight the model learned for each app
+feature_weights = model.coefficients()
+→ hunting_app: +0.31, bible_study: +0.24, climate_tracker: -0.19, ...
+# a positive weight pushes the prediction one way, a negative weight the other
 ```
 
-The feature importance output tells an analyst which apps are most predictive, and in which direction. This is itself actionable: it reveals which data to collect in future.
+The weights tell an analyst which apps are most predictive, and in which direction: installing a hunting app moves the prediction towards one label, a climate tracker towards the other. This is itself actionable, because it reveals which data to collect in future.
 
 ## Exposure
 

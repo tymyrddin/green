@@ -8,7 +8,7 @@ be joined to a real identity. Both are now answered.
 
 A browser fingerprint is built from a device's configuration: its GPU and how it renders graphics, its fonts, screen
 resolution, audio hardware, timezone and language. The combination is distinctive enough that foundational research
-measured over 90% uniqueness across devices. In 2025 researchers at Texas A&M and Johns Hopkins
+measured over 80% uniqueness across browsers. In 2025 researchers at Texas A&M and Johns Hopkins
 published [FPTrace](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html), a
 framework that inferred, from how ad systems behaved when a fingerprint changed, that websites are in fact using
 fingerprinting to track users across sessions and sites, persisting after cookies are cleared, and feeding those

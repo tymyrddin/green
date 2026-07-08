@@ -40,8 +40,8 @@ not judge. They understand the technology. They can help you think through what 
 situation.
 
 In the UK, Refuge and Women's Aid both have specialists in technology-facilitated abuse. The Safety Net project at the
-National Network to End Domestic Violence has detailed guidance. The Coalition Against Stalkerware connects survivors
-with vetted technical support.
+National Network to End Domestic Violence has detailed guidance. The Coalition Against Stalkerware publishes
+guidance for survivors and helps the organisations that support them build their technical expertise.
 
 Use a device the other person cannot access for any research or planning, including reading this page. A library
 computer, a trusted friend's phone, or a device purchased for this purpose are all options. Do not search on a device
@@ -54,9 +54,9 @@ recovery for almost every other service route through it. If someone has access 
 rules within it, they can intercept recovery flows and reach into other accounts without needing the passwords to those
 accounts.
 
-The [reclaiming your primary email](../runbooks/reclaim-email.md) runbook covers the steps in order: securing the
-password, enabling two-factor authentication, checking for forwarding rules and connected applications, reviewing active
-sessions, and changing the recovery options. Do this from a device you trust and a network you trust. Do not do it on a
+The [reclaiming your primary email](../runbooks/reclaim-email.md) runbook covers the steps in a deliberate order:
+removing any hidden forwarding rules and connected apps first, then changing the password, enabling two-factor
+authentication, resetting the recovery options, and signing out other sessions last. Do this from a device you trust and a network you trust. Do not do it on a
 shared device or a home network that the other person controls.
 
 Once the email is secured, the rest follows more safely, because the root of the recovery chain is no longer accessible
@@ -88,8 +88,10 @@ until access is deliberately removed, and removing it from a shared account requ
 access.
 
 Bluetooth trackers, hidden in cars, bags, or belongings, are small and easy to overlook. If you suspect a tracker has
-been placed, the Apple AirTag detection feature (built into iPhones and available as a separate Android application) and
-Tile detection tools can locate them. Carry a physical sweep through your belongings and vehicle.
+been placed, unknown-tracker alerts can help find it: these are built into iPhones and, since 2024, into recent Android
+phones too, with Apple's standalone Tracker Detect app as an older fallback. Tile's own Scan and Secure app finds most
+Tiles, though a Tile switched to Anti-Theft Mode is deliberately hidden from it, so a clear scan does not rule one out.
+Because no scan catches everything, carry a physical sweep through your belongings and vehicle as well.
 
 ## Reputation and fabricated evidence
 

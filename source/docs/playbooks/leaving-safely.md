@@ -8,7 +8,7 @@ Physical safety and legal considerations need to be addressed alongside these di
 
 Do not plan, research, or communicate on a device the other person has had access to. If that means every device you currently have, borrow one from a trusted person who is not connected to the other person, or use a library computer.
 
-Create a new email address on the safe device, through a provider the other person does not know you are using (ProtonMail, Tutanota, or a fresh Gmail account on a new Google account). Do not create it using your existing compromised account as a recovery option.
+Create a new email address on the safe device, through a provider the other person does not know you are using (ProtonMail, Tuta, or a fresh Gmail account on a new Google account). Do not create it using your existing compromised account as a recovery option.
 
 This new email address is your staging account. Use it for all the steps below. Do not access it from your usual devices.
 
@@ -42,7 +42,7 @@ Social media: change passwords on all platforms. Check connected apps, active se
 
 If your home has smart devices: see the audit shared accounts playbook. An administrator account on a smart home system has access to cameras, door locks, and activity logs. This may not be possible to remove safely until you have left the physical space.
 
-If you suspect Bluetooth trackers have been placed in your belongings or vehicle: the Apple AirTag detection feature (on iPhone) or the Tracker Detect app (Android) can help locate them. Carry a physical sweep of bags, car, and clothing before any movement that bears on your safety.
+If you suspect Bluetooth trackers have been placed in your belongings or vehicle: recent iPhones and Android phones (Android 6.0 and up, since 2024) raise an alert when an unknown tracker built to the shared standard, such as an AirTag, travels with you, and Apple's Tracker Detect app is an older manual scan for Android. None of these catches a generic tag or one deliberately silenced, such as a Tile in Anti-Theft Mode, so carry a physical sweep of bags, car, and clothing before any movement that bears on your safety.
 
 ## After the immediate steps
 

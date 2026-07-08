@@ -17,7 +17,7 @@ Mullvad: no account needed, payable in cash or cryptocurrency, flat-rate at arou
 
 IVPN: anti-tracking features, WireGuard and multi-hop routing, and no personal data required, aimed at more advanced users (ivpn.net).
 
-NordVPN: a large server network suited to streaming, with built-in threat protection; Panama-based, with a more limited audit history (nordvpn.com).
+NordVPN: a large server network suited to streaming, with built-in threat protection; Panama-based, with repeated independent no-logs audits, though its ownership and jurisdiction draw more scrutiny than the options above (nordvpn.com).
 
 ## The risk in free VPNs
 

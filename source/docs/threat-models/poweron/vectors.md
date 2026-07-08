@@ -86,8 +86,9 @@ Physical trackers: small Bluetooth tracking devices (AirTags and similar) can be
 in bags, clothing, or vehicles. They are small, inexpensive, and designed to be unobtrusive.
 Detection used to require active checking. Since 2024, both iPhone and Android
 [raise an alert](https://www.theregister.com/2024/05/14/android_apple_devices_anti_stalking/) when an
-unknown Bluetooth tracker has been travelling with you over time, whichever phone you carry, which
-turns a hidden tracker into one that tends to announce itself.
+unknown Bluetooth tracker built to the shared standard, such as an AirTag, has been travelling with you
+over time, whichever phone you carry. It is a real improvement, but a generic tag or one deliberately
+put into a silent mode can slip past it, so a physical check still earns its place.
 
 ## The social layer
 

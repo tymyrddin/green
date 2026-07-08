@@ -20,7 +20,7 @@ This confirms active maintenance, names the pipeline contents (kerosene), gives 
 
 ## Adversarial reading
 
-What follows is reasoning available from these two sources alone, with older incident reporting (a 1995 rupture is the prominent example) and KLIC context filling in burial-depth variation. No intrusion, no access required.
+What follows is reasoning available from these two sources alone, with public incident reporting and KLIC context adding physical and historical detail. No intrusion, no access required.
 
 ### Map strategic fuel transport infrastructure
 
@@ -30,13 +30,15 @@ Spatial plans say where military fuel pipelines run beneath civilian land. They 
 
 Because the line runs alongside civilian utilities, the same documents locate corridors where several critical systems are co-located, mark segments where a single disruption can affect multiple services at once, and imply that civilian works programmes have second-order effects on Defence logistics. That is the start of a co-dependent-fragility map.
 
+Public incident records show the corridor risk is not hypothetical. In late March 2004 a high-voltage pylon toppled during works near Beek and struck the military kerosene line, contaminating soil in the neighbouring municipality of Stein. The episode surfaced in [parliamentary questions](https://zoek.officielebekendmakingen.nl/ah-tk-20032004-1709.html) whose answers confirm, in passing, that the line is drawn on regional and municipal spatial plans and locatable through KLIC. The record of the failure re-discloses the infrastructure it describes.
+
 ### Infer maintenance cycles and operational exposure windows
 
 Permit data names where maintenance is occurring, which segments are under repair, and where temporary discharge installations are in place. From there, an observer can infer periods of reduced redundancy, locations where the network is temporarily reconfigured, and windows where resilience depends on stand-in arrangements. The point is not direct action; it is knowing when the system is structurally less stable.
 
-### Reconstruct system depth, routing, and legacy constraints
+### Reconstruct routing and legacy constraints
 
-Historical incident reporting and KLIC context together let an observer infer pipeline-depth variation across segments, older sections with weaker burial protection, and routing decisions shaped by geography, regulation, and forced co-location with civilian networks. The picture is one of uneven physical resilience across a single ostensibly-uniform network.
+KLIC data and the spatial plans together let an observer infer routing across segments, the age profile of a network first laid in the 1950s, and placement decisions shaped by geography, regulation, and forced co-location with civilian networks. Precise burial depth is not something these public sources reliably give up, but the broad picture is one of uneven physical resilience across a single ostensibly-uniform network.
 
 ### Build a system-of-systems logistics model
 

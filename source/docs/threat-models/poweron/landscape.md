@@ -32,10 +32,12 @@ The tracking is invisible by design.
 
 This is also where the ground has recently shifted a little in the survivor's favour. Since 2024,
 iPhones and Android phones share an [unwanted-tracker detection standard](https://www.theregister.com/2024/05/14/android_apple_devices_anti_stalking/)
-that warns when an unknown Bluetooth tracker, such as an AirTag, is travelling with you, whichever
-phone you carry. Stalkerware, too, is increasingly flagged by ordinary antivirus and by the vetted
-tools the [Coalition Against Stalkerware](https://stopstalkerware.org/) maintains. It is not always
-invisible, and [checking a device](../../playbooks/stalkerware-check.md) is possible.
+that can warn when an unknown Bluetooth tracker is travelling with you, whichever phone you carry. It
+reaches trackers built to the standard, such as AirTags and the brands that have signed up; a cheap
+generic tag, or a Tile switched to its Anti-Theft Mode, can still ride along unannounced, so it is
+worth pairing the alerts with a physical check. Stalkerware, too, is increasingly flagged by ordinary
+antivirus, including the security vendors that make up the [Coalition Against Stalkerware](https://stopstalkerware.org/).
+It is not always invisible, and [checking a device](../../playbooks/stalkerware-check.md) is possible.
 
 ## Account takeover via the identity ecosystem
 

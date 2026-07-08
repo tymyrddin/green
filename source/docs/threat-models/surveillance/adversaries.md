@@ -9,7 +9,7 @@ are, in many cases, the same entities responsible for the legal framework that p
 
 Every EU member state maintains at least one civilian intelligence agency with domestic
 remit. Examples include the AIVD in the Netherlands, the DGSI in France, the BfV in
-Germany, the ABIN in Poland, and the BVT (now DSN) in Austria. These agencies operate
+Germany, the ABW in Poland, and the BVT (now DSN) in Austria. These agencies operate
 under national legislation that grants surveillance powers for purposes including
 counter-terrorism, counter-espionage, protection of constitutional order, and, in
 some cases, broader national security mandates that are defined generously.

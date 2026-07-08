@@ -96,7 +96,8 @@ routes. The danger is not only being watched but being anticipated. Showing up w
 did not announce you were going is not a coincidence when your movements are visible. For the
 Bluetooth-tracker part of this, recent iPhones and Android phones now
 [raise an alert](https://www.theregister.com/2024/05/14/android_apple_devices_anti_stalking/) when an
-unfamiliar tag has been travelling with you.
+unfamiliar tag built to the shared standard, such as an AirTag, has been travelling with you, though a
+generic or deliberately silenced tracker can still evade it.
 
 ## AI-generated content in practice
 

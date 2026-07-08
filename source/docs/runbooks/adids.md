@@ -29,7 +29,7 @@ Some Android skins (Samsung, Xiaomi) bury this setting; searching Settings for "
 
 * Open Settings, Privacy and Security, Tracking
 * Turn off "Allow Apps to Request to Track", which blocks IDFA access entirely
-* To reset, go to Settings, Privacy and Security, Apple Advertising, and tap Reset Advertising Identifier
+* Current iOS has no separate reset button (it was removed in iOS 14); with tracking turned off the IDFA is replaced by zeros, which achieves the same thing
 
 ## Limitations
 
@@ -41,7 +41,7 @@ Some Android skins (Samsung, Xiaomi) bury this setting; searching Settings for "
 
 * A firewall app such as TrackerControl for Android blocks hidden trackers.
 * Google's own ad personalisation can be disabled at adssettings.google.com.
-* On iOS, Lockdown Mode (Settings, Privacy and Security, Lockdown Mode) cuts off most tracking.
+* On iOS, Lockdown Mode (Settings, Privacy and Security, Lockdown Mode) hardens the device against targeted spyware; it is aimed at that threat rather than at everyday ad tracking.
 
 ## Automating it
 
@@ -52,5 +52,5 @@ A weekly reset, paired with Firefox Focus for private browsing and NextDNS or Ad
 
 ## Testing
 
-* [AppCensus (Android)](https://appcensus.mobi/)
+* [Exodus Privacy: Android app tracker reports](https://reports.exodus-privacy.eu.org/)
 * [Lockdown Privacy (iOS)](https://lockdownprivacy.com/)

@@ -8,7 +8,7 @@ anything, can be identified because a cousin did.
 Investigative genetic genealogy uploads a DNA profile, from a crime scene or in principle from anywhere, to a consumer
 genealogy database such as GEDmatch or FamilyTreeDNA,
 and searches for relatives by shared DNA segments. From a few matched cousins and conventional genealogy, an
-investigator triangulates back to a single person. In a database of GEDmatch's size, around 1.2 million profiles, a 2018 study estimated that [about 60% of searches for a person of European descent return a third cousin or closer](https://www.science.org/doi/10.1126/science.aau4832); once such a database covers roughly 2% of a population, more than 90% of that population becomes reachable. Either way, the technique reaches far beyond the people who actually tested.
+investigator triangulates back to a single person. GEDmatch has held around 1.2 million profiles; a 2018 study of a database of similar size, 1.28 million MyHeritage profiles, estimated that [about 60% of searches for a person of European descent return a third cousin or closer](https://www.science.org/doi/10.1126/science.aau4832); once such a database covers roughly 2% of a population, more than 90% of that population becomes reachable. Either way, the technique reaches far beyond the people who actually tested.
 
 The breakthrough was the 2018 identification of the Golden State Killer, Joseph DeAngelo, from a relative's data on
 GEDmatch. By December 2023 the method had helped solve more than 650 criminal cases. In 2023 The Intercept reported that

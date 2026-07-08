@@ -1,6 +1,6 @@
 # Cleaning metadata with ExifTool
 
-For thorough metadata removal, ExifTool is the most capable option. It needs [installing](https://exiftool.org/install.html) first; after that, everything runs from a terminal or command prompt.
+For thorough metadata removal, ExifTool is the most capable option. It needs [installing](https://exiftool.sourceforge.net/install.html) first; after that, everything runs from a terminal or command prompt.
 
 To clean a single file:
 

@@ -11,7 +11,7 @@ An extraction script opens the file, reads the embedded metadata block, and prin
 ```
 open file
 
-if file is an image (JPEG, PNG):
+if file is an image (JPEG, HEIC, TIFF):
     read EXIF block
     extract:
         GPS latitude and longitude    → precise location

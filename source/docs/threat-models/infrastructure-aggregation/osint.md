@@ -42,7 +42,7 @@ Useful categories when scanning:
 
 *Underground assets*
 
-- KLIC (Kabels en Leidingen Informatie Centrum). The detailed registry is restricted, but the public viewer is enough to indicate cable-density areas.
+- KLIC (Kabels en Leidingen Informatie Centrum). Cable and pipe data is released only in response to a location-specific request (an oriëntatieverzoek or graafmelding to the Kadaster), not through an open public map.
 
 *Geodata*
 

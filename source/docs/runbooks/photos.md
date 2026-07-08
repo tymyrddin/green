@@ -12,4 +12,4 @@ For photos already taken, the Scrambled Exif app from the Play Store cleans them
 
 Settings, Privacy, Location Services lets location access be turned off for the Camera app, so photos no longer record where they were taken.
 
-For photos already taken, sharing them through the Notes app first strips the hidden data: iOS removes it automatically when they are sent from there.
+For photos already taken, the share sheet can drop the location before sending: tap Share, then Options at the top, and turn Location off. The image then goes out without its GPS coordinates.

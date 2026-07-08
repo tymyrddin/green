@@ -7,10 +7,9 @@ Email often carries hidden tracking and metadata that reveal more than the messa
 Providers differ in how they treat data. The more private options include:
 
 * ProtonMail (Switzerland): strips metadata, encrypts message content, and does not track activity, with free accounts available.
-* Tutanota (Germany): end-to-end encryption and no third-party tracking.
-* Skiff: encrypted and open-source, with aliases that hide the real address.
+* Tuta, formerly Tutanota (Germany): end-to-end encryption and no third-party tracking.
 
-Gmail, Outlook and Yahoo scan mail for advertising and profiling, and are worth avoiding for anything sensitive.
+Gmail, Outlook and Yahoo tie mail into wider advertising and profiling systems, and are worth avoiding for anything sensitive. Gmail stopped scanning message content to target ads back in 2017, though account and metadata profiling continues.
 
 ## Stop senders tracking opens
 
@@ -28,7 +27,7 @@ A forwarded email can carry hidden metadata such as sender IP addresses and time
 
 Handing out an alias rather than the real address limits linkage:
 
-* SimpleLogin or AnonAddy create instant aliases that forward to the main inbox.
+* SimpleLogin or addy.io, formerly AnonAddy, create instant aliases that forward to the main inbox.
 * ProtonMail's "+" aliases add a suffix (name+shop@protonmail.com) that filters and blocks spam.
 * Temp-Mail.org or Guerrilla Mail cover one-time sign-ups.
 
@@ -46,4 +45,4 @@ Some mail exists to extract personal data. The recurring tells are urgent demand
 
 ## Encrypt sensitive mail
 
-For genuinely confidential messages, ProtonMail and Tutanota encrypt by default, and PGP through a tool such as GPG Suite covers manual encryption for more advanced use.
+For genuinely confidential messages, ProtonMail and Tuta encrypt by default, and PGP through a tool such as GPG Suite covers manual encryption for more advanced use.

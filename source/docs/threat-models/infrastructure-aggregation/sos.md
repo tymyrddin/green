@@ -21,9 +21,9 @@ The significance rarely lies in a single source. It emerges through accumulation
 
 #### TenderNed API
 
-Real-time authenticated XML API containing Dutch public procurement notices.
+An openly accessible API of Dutch public procurement notices.
 
-The API exposes procurement metadata in European TED XML format and requires substantial parsing to extract operationally useful fields such as:
+The publications webservice returns procurement metadata as JSON; full publication documents are retrievable as XML through a separate authenticated call. Either way it needs parsing to extract operationally useful fields such as:
 
 * contracting authority
 * assignment title
@@ -72,7 +72,7 @@ Operationally valuable because planning documentation frequently exposes:
 * dependency relationships
 
 API endpoint:
-[https://api.ruimtelijkeplannen.nl/](https://api.ruimtelijkeplannen.nl/)
+[https://ruimte.omgevingswet.overheid.nl/ruimtelijke-plannen/api/opvragen/v4/](https://ruimte.omgevingswet.overheid.nl/ruimtelijke-plannen/api/opvragen/v4/)
 
 #### Overheid.nl Open Data Catalog API
 
@@ -132,7 +132,7 @@ Particularly useful when correlated with:
 * planning procedures
 * procurement timelines
 
-#### Bellingcat SAR Interference Tracker
+#### Bellingcat Radar Interference Tracker
 
 A public analytical tool using SAR interference signatures to identify possible radar activity locations.
 

@@ -8,7 +8,7 @@ SMS-based 2FA is better than nothing, but it is the weakest form available, vuln
 
 Aegis (Android, free, open source): supports encrypted backups of the codes, which counts for a great deal when a phone is eventually replaced.
 
-Raivo (iOS, open source): similar to Aegis for Apple devices.
+2FAS (iOS and Android, open source): no account required, with encrypted backups to iCloud or Google Drive.
 
 Ente Auth (Android and iOS, open source, optional encrypted cloud sync): useful for keeping codes alive across a lost phone without a local backup.
 

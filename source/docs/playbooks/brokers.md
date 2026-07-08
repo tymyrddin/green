@@ -32,7 +32,7 @@ Companies have 30 days to comply, or face penalties.
 
 ## Automated removal services
 
-Where manual opt-out feels overwhelming, paid services such as DeleteMe (around £99 a year) scan and remove data on a schedule. For a free alternative, [SimpleOptOut](https://simpleoptout.com/) gives step-by-step guides for opting out of more than a hundred brokers.
+Where manual opt-out feels overwhelming, paid services such as DeleteMe (around £100 a year) scan and remove data on a schedule. For a free alternative, [SimpleOptOut](https://simpleoptout.com/) gives step-by-step guides for opting out of more than a hundred brokers.
 
 ## Staying private over time
 

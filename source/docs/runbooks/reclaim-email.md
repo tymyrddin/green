@@ -4,15 +4,11 @@ Your primary email is the root of your digital identity. Almost every other acco
 
 Do all of this from a device and network you trust. Not a shared device. Not the home Wi-Fi if the router was set up by the other person. A library computer, a trusted friend's phone, or a device purchased for this purpose are safer options.
 
-## Change the password first
+Securing your email is a visible step. The other person will lose whatever access they had, and they may notice. If there is any risk of escalation, time this with a specialist support organisation against your physical-safety plan rather than acting on impulse. The order below is arranged to keep from tipping them off before the account is fully back in your hands.
 
-Use a long, unique passphrase that you have never used before and have not used anywhere the other person might know about. Do not use a variation of a previous password.
+## Remove hidden access first
 
-If you use a password manager, make sure the manager itself is on a device only you control and protected by a password the other person does not know. If the password manager was previously on a shared device or the other person had access to it, change the manager's master password from a safe device first.
-
-## Check who else has access
-
-Before adding new security, look at what access already exists.
+Before you change anything, log in from the safe device and look at what access already exists. Some of it survives a password change, and the order you deal with it in decides whether the other person gets tipped off.
 
 In your email settings, look for:
 - Forwarding rules that copy your incoming mail to another address
@@ -21,13 +17,19 @@ In your email settings, look for:
 - Connected applications and OAuth grants that have access to your inbox
 - Active sessions showing devices or locations that are not yours
 
-Remove anything that has no business being there. Forwarding rules are the most commonly abused: they can be set quietly and are easy to miss. A forwarding rule to the other person's address means they receive copies of every incoming email, including every verification code and password reset link, even after you change your password.
+Remove the forwarding rules, filters, delegated access, and connected apps first. Forwarding rules are the most commonly abused: they can be set quietly and are easy to miss. A forwarding rule to the other person's address means they receive copies of every incoming email, including every verification code and password reset link, and it keeps working even after you change your password. Taking it out first also means the provider's automatic "your password was changed" alert is not forwarded to them the moment you do the next step. Leave signing out the active sessions until last, once the new password and two-factor login are in place, so a session you close cannot simply sign back in.
+
+## Change the password
+
+Use a long, unique passphrase that you have never used before and have not used anywhere the other person might know about. Do not use a variation of a previous password.
+
+If you use a password manager, make sure the manager itself is on a device only you control and protected by a password the other person does not know. If the password manager was previously on a shared device or the other person had access to it, change the manager's master password from a safe device first.
 
 ## Enable two-factor authentication
 
 Once you have cleaned up existing access and changed the password, enable two-factor authentication using an authenticator app. Not SMS if you can avoid it: if the other person has any influence over your mobile account or a shared family plan, SMS codes can be intercepted.
 
-Install an authenticator app (Aegis on Android, Raivo or Ente Auth on iOS) on a device only you control. Set up the 2FA, scan the QR code, and store the backup codes somewhere the other person cannot reach.
+Install an authenticator app (Aegis on Android, Ente Auth or 2FAS on iOS) on a device only you control. Set up the 2FA, scan the QR code, and store the backup codes somewhere the other person cannot reach.
 
 ## Change your recovery options
 
@@ -39,7 +41,7 @@ Replace the recovery phone number with a number the other person does not know. 
 
 Most email providers show a recent activity log. Look for logins from devices or locations you do not recognise, and for any account settings that were changed at times when you were not using the account.
 
-If you see evidence of access you did not authorise, sign out all other sessions from the account settings. This terminates any active session the other person may still be using.
+Whatever the log shows, sign out all other sessions from the account settings as the final step. This terminates any session the other person may still be holding, and by now the new password and two-factor login mean they cannot sign back in.
 
 ## After the email is secure
 

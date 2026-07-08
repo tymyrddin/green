@@ -31,7 +31,7 @@ The model does not need certainty to be useful. A 68% probability assigned to on
 
 ## Exposure
 
-Stylometric analysis identified the author of The Cuckoo's Calling as J.K. Rowling in 2013. The novel had been published under the pseudonym Robert Galbraith; a statistical comparison of the text against Rowling's known work, and against work by other candidate authors, produced a clear match. The analysis was conducted by academics at Nottingham Trent University and published alongside the accusation.
+Stylometric analysis confirmed J.K. Rowling as the author of The Cuckoo's Calling in 2013. The novel had been published under the pseudonym Robert Galbraith, and the Sunday Times, acting on an anonymous tip, asked Patrick Juola of Duquesne University and Peter Millican of Oxford to test it. A statistical comparison of the text against Rowling's known work, and against work by other candidate authors, made her the only author to rank first or second on every measure they ran. Note the order of events: the tip came first, and stylometry corroborated it. That is the usual shape of the attack.
 
 The technique has been applied in criminal investigations to attribute extremist writings and in academic fraud detection to identify ghost-written work. It is available as open-source software. The barrier to applying it is low: access to sufficient writing samples from candidate authors is the main requirement, and for anyone who posts publicly under their real name that requirement is easily met.
 

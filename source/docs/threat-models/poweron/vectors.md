@@ -105,7 +105,7 @@ Platform reporting systems can be abused to get accounts suspended or content re
 Repeated or coordinated false reports can trigger automated platform responses that act
 against the person being targeted rather than the person making the reports.
 
-## A word on this section
+## Proximity, not sophistication
 
 None of these entry points require sophisticated technical skill. They require proximity,
 patience, and familiarity with someone's digital habits. That is exactly what an abusive

@@ -97,7 +97,7 @@ Safety that depends on blocking one account on one platform is incomplete. It re
 thinking about the whole ecosystem: every channel, every shared contact, every place
 where your identity or information is accessible.
 
-## A word on this section
+## Human problems, not technical ones
 
 These threats are not technical problems with technical solutions. They are human ones,
 shaped to look like coincidences, glitches, and misunderstandings. Naming them is

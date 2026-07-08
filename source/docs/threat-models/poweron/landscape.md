@@ -4,8 +4,6 @@ The threats covered in this model have changed quickly in the last two to three 
 in a comforting direction. The tools are cheaper, faster, and more accessible. The harm they
 enable is harder to detect, harder to prove, and harder to escape.
 
-This page is an orientation: what is actually changing, and why it is important now.
-
 ## AI-enabled abuse
 
 Voice cloning from a few seconds of audio (a voicemail, a WhatsApp voice note, a TikTok) is
@@ -122,5 +120,3 @@ Traditional advice, "block them, change your password, get a new number," is no 
 sufficient on its own. Safety now requires systemic thinking: across devices, accounts,
 and services; across the people connected to you; and across the places where your identity
 and data exist.
-
-The pages that follow map this in practical terms.

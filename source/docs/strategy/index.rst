@@ -20,6 +20,7 @@ losing to the status quo. Name those first, or any advice is only motion.
    nations
    systems
    survivors
+   precarious-status
 
 Where the models stop fitting
 -----------------------------
@@ -37,7 +38,7 @@ context, is not something these pages can do.
 The models were built with specific, recurring threat patterns in mind: commercial data extraction,
 nation-state surveillance, and partner abuse. The defensive guidance follows from those patterns. Where
 a situation diverges significantly from the framing, because the adversary is different, the
-jurisdiction unusual, or the threat model more acute, the guidance reads better as a starting point for
-thinking than as a checklist.
+jurisdiction unusual, or the threat model more acute, the framing bends to the situation, not the
+situation to the framing.
 
 A general model read as precise guidance for a specific context is its own category of error.

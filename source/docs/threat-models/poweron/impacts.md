@@ -78,7 +78,7 @@ The difficulty of being believed compounds this: when you cannot explain clearly
 happening, when the evidence is technical, when the abuser appears credible, the isolation
 of not being believed is its own form of harm.
 
-## A word on this section
+## Not paranoia or weakness
 
 These impacts are real, measurable, and deeply human. They are not paranoia, overreaction,
 or weakness.

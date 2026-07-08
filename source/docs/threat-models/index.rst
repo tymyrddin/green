@@ -11,5 +11,6 @@ objectives, techniques, and impacts for a defined scope.
 
    deanonymisation/index
    infrastructure-aggregation/index
+   minors/index
    poweron/index
    surveillance/index

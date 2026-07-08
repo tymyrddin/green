@@ -85,7 +85,7 @@ Reputation harm is particularly difficult to recover from because the platforms 
 that receive false information are not equipped to verify it, and the burden of proof often
 falls on the person being targeted.
 
-## A word on this section
+## Where to start
 
 You are not at fault for having a digital life. The problem is not the technology; it is how
 it is used against you.

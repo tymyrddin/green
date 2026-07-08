@@ -1,7 +1,5 @@
 # Digital threat modelling for partner abuse
 
-## How this threat model works
-
 Let's say you're being followed, but not in the dark alley sort of way. More like your phone always
 knows where you are, your messages seem strangely public, and your ex-partner is suspiciously
 well-informed about things you never told them.
@@ -29,7 +27,7 @@ a password change buys you hours at most.
 
 You are not defending a system from the outside. You are untangling one from within.
 
-## Why survivors need a different kind of model
+## A different kind of model
 
 Most tech security models are built for businesses: firewalls, hackers, boardroom panic.
 This is not that.
@@ -40,7 +38,7 @@ often have access (to your devices, accounts, or passwords), knowledge (of your 
 and emotional triggers), and motivation (to monitor, control, or harm you). That combination
 changes the rules entirely.
 
-## Why this model helps
+## Recognising the pattern
 
 Because recognising the pattern is the first step in breaking it.
 
@@ -57,18 +55,6 @@ It also helps support workers, legal professionals, and anyone else involved to 
 We use this model to understand, not to diagnose. Everyone's situation is different. But thinking
 through what is at risk, who might exploit it, and how they might do it is a solid step toward
 reclaiming control.
-
-## How the model works
-
-The pages that follow move through the threat landscape in a practical order:
-
-* The threat landscape covers what has changed in the last few years and why it is important now.
-* Assets covers what actually needs protecting, starting with your identity, not your devices.
-* Adversaries covers who causes harm and what capabilities they realistically have.
-* Threats covers what they are trying to achieve: surveillance, control, isolation, and more.
-* Vectors covers the surfaces through which access is gained, from identity to environment.
-* Attacks covers how abuse actually unfolds in practice, the patterns that repeat.
-* Impacts covers what harm looks like, not just in the short term but over time.
 
 ## Where this leads, and getting help
 

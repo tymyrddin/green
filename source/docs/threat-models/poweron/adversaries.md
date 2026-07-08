@@ -84,7 +84,7 @@ Platforms routinely:
 This is not malice. It is neglect. They have designed for the easy case. When abuse enters
 the picture, those same design choices quietly support it.
 
-## A word on this section
+## Seeing who is in the room
 
 Understanding who is involved is not about fear. It is about clarity. Who has access? Who
 benefits from that access? And who is propping it up, even without knowing it?

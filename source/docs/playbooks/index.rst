@@ -14,8 +14,10 @@ points and branches.
    identity
    brokers
    minimise
+   health-data
    email
    vpn
+   device-hardening
    blocks
    chrome
    payment
@@ -26,6 +28,7 @@ points and branches.
    data-audit
    vendor-assessment
    audit-shared-accounts
+   elder-tech-abuse
    stalkerware-check
    pirogue-wazuh
    pcapdroid

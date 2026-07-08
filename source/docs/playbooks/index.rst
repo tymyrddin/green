@@ -1,13 +1,9 @@
-Playbooks: when judgement is required
+Playbooks
 ======================================
-
-A playbook handles a class of situations that can unfold more than one way. It carries decision
-points and branches.
 
 .. toctree::
    :glob:
    :maxdepth: 1
-   :includehidden:
 
    routines
    messaging

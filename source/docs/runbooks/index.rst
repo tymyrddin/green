@@ -1,13 +1,9 @@
-Runbooks: step-by-step procedures
+Runbooks
 ===================================
-
-A runbook carries a single procedure that runs the same way every time.
 
 .. toctree::
    :glob:
    :maxdepth: 1
-   :includehidden:
-   :caption: Runbooks:
 
    passwords
    authenticators

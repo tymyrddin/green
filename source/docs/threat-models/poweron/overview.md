@@ -61,3 +61,5 @@ reclaiming control.
 Naming the pattern is the start; acting on it is the next step, and neither has to be done alone. If any of this is happening now, a specialist domestic-abuse service can help sequence a response safely. In the UK that includes [Refuge](https://www.refuge.org.uk/), [Women's Aid](https://www.womensaid.org.uk/), and the National Domestic Abuse Helpline (0808 2000 247); internationally, the [Coalition Against Stalkerware](https://stopstalkerware.org/) publishes survivor guidance and points to its member support organisations.
 
 On this site, the practical response lives in the [survivor strategy](../../strategy/survivors.md) and its step-by-step guides, above all [digital safety steps when leaving](../../playbooks/leaving-safely.md), [checking a device for stalkerware](../../playbooks/stalkerware-check.md), and [reclaiming your primary email](../../runbooks/reclaim-email.md). This model is for understanding what is happening; those are for doing something about it.
+
+Last reviewed: 2026-07-08.

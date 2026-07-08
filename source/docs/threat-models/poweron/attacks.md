@@ -134,3 +134,5 @@ mechanism. Naming the pattern is not the same as having a solution, but it is th
 of one: if you can see it, you can plan around it.
 
 You are not imagining it. You are not overreacting. And there are ways forward.
+
+Last reviewed: 2026-07-08.

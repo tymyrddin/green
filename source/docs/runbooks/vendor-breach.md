@@ -39,3 +39,5 @@ Weigh whether to continue the relationship and, if so, what to add at contract r
 ## Document and follow through
 
 Record when the notification arrived, what it said, what obligations followed, what was disclosed to the supervisory authority, and what was communicated to affected individuals. Update the [data audit](../playbooks/data-audit.md) to reflect what has changed about the vendor relationship.
+
+Last reviewed: 2026-07-08.

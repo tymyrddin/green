@@ -77,3 +77,5 @@ multiple computers around the world before it arrives at its destination. Unders
 than a simple VPN becomes intuitive once you have watched a token bounce through three pairs of hands.
 
 Try a second round where the <span style="color: red;">Censor</span> announces which tool they are watching for, and see how the other players adapt.
+
+Last reviewed: 2026-07-08.

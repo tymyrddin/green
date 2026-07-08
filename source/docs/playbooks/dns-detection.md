@@ -65,3 +65,5 @@ DNS monitoring does not capture the content of communications or confirm what da
 ## If you see something concerning
 
 If DNS monitoring surfaces domains matching stalkerware blocklists or suspicious patterns, contact a specialist organisation before taking action on the device itself. The Coalition Against Stalkerware (stopstalkerware.org) can connect you with technical experts. See the [check a device for stalkerware](stalkerware-check.md) playbook for the considerations around next steps, including the factory reset decision.
+
+Last reviewed: 2026-07-08.

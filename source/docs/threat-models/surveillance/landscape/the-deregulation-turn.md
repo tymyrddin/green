@@ -11,3 +11,5 @@ A legitimate-interest basis would be [opened for training AI systems](https://no
 Parts of the ePrivacy rules would be folded into the GDPR, loosening the long-standing requirement to obtain consent before storing or reading information on a person's device. That would normalise device-level access that ePrivacy was written to gate.
 
 Each change weakens a protection that the defensive playbooks rely on. A deletion right that reaches less data, a consent rule that guards fewer devices, and a training exception with no opt-out are not abstract adjustments. They move the baseline against which every individual measure is judged.
+
+Last reviewed: 2026-07-08.

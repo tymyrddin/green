@@ -30,3 +30,5 @@ game itself.
 If you are playing with children, the question "what would you do differently next time?" usually works better than
 asking what was learned. It keeps the frame in the garden, where the emphasis is on trying things and adjusting,
 rather than in the classroom, where the emphasis is on getting things right.
+
+Last reviewed: 2026-07-08.

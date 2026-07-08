@@ -48,3 +48,5 @@ Whatever the log shows, sign out all other sessions from the account settings as
 Once your email is secured, you can begin changing passwords on other accounts, because the recovery path for those accounts is now under your control. Start with your most sensitive accounts: banking and financial services, then the accounts you use most, then everything else.
 
 See the [enable two-factor authentication](../runbooks/authenticators.md) playbook for rolling 2FA out more broadly, and the [audit shared accounts](../playbooks/audit-shared-accounts.md) playbook for working through the rest of the shared access picture.
+
+Last reviewed: 2026-07-08.

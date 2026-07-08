@@ -46,3 +46,5 @@ These methods improve privacy but carry costs:
 * Most countries require reporting of suspicious cash transactions over €10,000
 
 Complete financial privacy is hard to reach in a modern banking system. Alternating between cash and privacy cards for everyday purchases is usually enough to keep any single profile incomplete.
+
+Last reviewed: 2026-07-08.

@@ -120,3 +120,5 @@ Traditional advice, "block them, change your password, get a new number," is no 
 sufficient on its own. Safety now requires systemic thinking: across devices, accounts,
 and services; across the people connected to you; and across the places where your identity
 and data exist.
+
+Last reviewed: 2026-07-08.

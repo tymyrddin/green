@@ -35,3 +35,5 @@ For images and a wide range of other formats, ExifTool remains the most capable 
 Relying on one built-in tool tends to leave gaps, so it helps to match the tool to the format: Document Inspector or a dedicated cleaner for Office, ExifTool with qpdf for PDF, ExifTool for images. Converting a document to PDF through LibreOffice sheds a good deal of hidden data along the way, and for an image, resaving it or taking a screenshot drops the original metadata. Whatever the method, checking the file afterwards is the step that catches what was missed.
 
 The [Digital Confidence white paper](https://digitalconfidence.com/Remove-Properties-and-Personal-Information-a-Misleading-Feature.html) sets out the Windows tool's limits in technical detail, and [ExifTool](https://exiftool.org/) documents its own PDF handling.
+
+Last reviewed: 2026-07-08.

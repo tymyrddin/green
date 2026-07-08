@@ -151,3 +151,5 @@ other person's reach. Doing it in the right order, with support, is more importa
 * [Account compromise response](../runbooks/account-compromise.md)
 * [Doxxing response](../runbooks/doxxing-response.md)
 * [After device seizure](../runbooks/device-seizure.md)
+
+Last reviewed: 2026-07-08.

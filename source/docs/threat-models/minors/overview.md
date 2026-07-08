@@ -37,3 +37,5 @@ Understanding is one thing; doing is another, and the doing lives elsewhere on t
 For an adult, [checking a device for stalkerware](../../playbooks/stalkerware-check.md),
 [auditing shared accounts](../../playbooks/audit-shared-accounts.md), and
 [stripping metadata from photos](../../runbooks/photos.md) each cover part of it.
+
+Last reviewed: 2026-07-08.

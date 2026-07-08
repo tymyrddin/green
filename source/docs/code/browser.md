@@ -41,3 +41,5 @@ The Electronic Frontier Foundation's Panopticlick study, published in 2010, foun
 ## Defences
 
 The Tor Browser and Firefox with `privacy.resistFingerprinting` enabled return randomised or normalised values for many of the measurements fingerprinting relies on, making each session appear to be a different browser. Using a common browser on a common operating system, without unusual fonts or extensions, reduces uniqueness because more people share the same configuration. Browser extensions block many fingerprinting scripts from running at all, though which extension is available now depends on the browser: Chrome's move to Manifest V3 removed the full uBlock Origin and leaves the reduced uBlock Origin Lite in its place, while Firefox and Brave still run the complete version. The most complete defence is the Tor Browser, which is specifically designed to make all users appear identical to outside observers.
+
+Last reviewed: 2026-07-08.

@@ -87,3 +87,5 @@ Understanding what is happening is the beginning of addressing it. And addressin
 step at a time, is possible. People do it. It is hard. But the harm that technology enables
 can also partly be reduced through technology, alongside the human support that nothing in this
 model can replace.
+
+Last reviewed: 2026-07-08.

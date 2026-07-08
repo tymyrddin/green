@@ -105,3 +105,5 @@ the first step toward addressing them.
 
 You are not imagining it. You are not overreacting. And understanding what is happening
 is not the same as accepting it.
+
+Last reviewed: 2026-07-08.

@@ -81,3 +81,5 @@ systems are added or significant changes are made to existing ones.
 The audit record is also useful for regulatory compliance: if a supervisory authority
 requests information about the organisation's data holdings, a maintained audit record demonstrates
 deliberate management rather than discovery under pressure.
+
+Last reviewed: 2026-07-08.

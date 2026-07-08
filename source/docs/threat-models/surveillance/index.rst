@@ -21,3 +21,5 @@ companies, and the EU itself.
    attacks.md
    cases/index
    impacts.md
+
+Last reviewed: 2026-07-08.

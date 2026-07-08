@@ -49,3 +49,5 @@ PCAPdroid sees the network traffic at the IP level. It cannot decrypt traffic th
 A device contacting a known stalkerware server is a strong indicator. A device sending regular small packets to an unfamiliar host may indicate a heartbeat. Large data transfers at unexpected times may indicate exfiltration. None of these are conclusive alone, but patterns across a monitoring session build a picture.
 
 If the assessment produces concerning results, contact a specialist organisation before taking action on the device itself. The Coalition Against Stalkerware (stopstalkerware.org) can connect you with technical experts. See the [check a device for stalkerware](stalkerware-check.md) playbook for the considerations around next steps.
+
+Last reviewed: 2026-07-08.

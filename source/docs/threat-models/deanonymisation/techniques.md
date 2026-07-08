@@ -163,3 +163,5 @@ the law.
 The classic quiet exit. Exfiltration is the extraction of data from a secure environment, usually
 incrementally and under the radar: a few records at a time, disguised as normal traffic, or piggybacking
 on legitimate integrations. By the time the loss is detected, the data has long since changed hands.
+
+Last reviewed: 2026-07-08.

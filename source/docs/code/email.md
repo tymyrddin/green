@@ -29,3 +29,5 @@ This is routine in forensic email analysis, in spam filtering, and in phishing i
 ## Defences
 
 The most effective defence is using a webmail provider that deliberately strips the originating IP from the first Received header before adding its own. Most large providers do this: a message sent through Gmail or ProtonMail shows the provider's server, not the sender's device. Sending through a remailer or an anonymising mail service adds further layers. The key is ensuring that no Received header in the chain points directly to infrastructure the sender controls or occupies.
+
+Last reviewed: 2026-07-08.

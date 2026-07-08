@@ -68,3 +68,5 @@ Useful categories when scanning:
 - Company websites, where local technical service providers occasionally note "MoD contracts" alongside site photos.
 
 [Radarstation Herwijnen](herwijnen.md) is one worked example, using a small subset of these sources.
+
+Last reviewed: 2026-07-08.

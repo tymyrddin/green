@@ -59,3 +59,5 @@ Behavioural profiling at this level operates on aggregate patterns over time. Re
 publicly available data limits profile quality. Using separate accounts for different contexts prevents the aggregation
 of behaviour from multiple areas of life into a single profile. Being aware that public posts are training data for
 systems the poster never sees is a useful frame for deciding what to share and where.
+
+Last reviewed: 2026-07-08.

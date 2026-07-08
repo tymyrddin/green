@@ -75,3 +75,5 @@ The practical and psychological toll of doxxing is significant and is not to be 
 Targeted harassment campaigns are designed to exhaust their targets into silence. Support
 from trusted people, and in some cases professional support, has its place alongside the technical
 and legal response.
+
+Last reviewed: 2026-07-08.

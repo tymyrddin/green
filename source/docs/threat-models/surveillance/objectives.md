@@ -86,3 +86,5 @@ also operate outside formal authorisation, using commercial data purchases or te
 capabilities applied without formal oversight. The selective targeting of minority
 communities, political opposition figures, and civil society actors is documented
 across multiple EU member states and cannot be treated as an exceptional occurrence.
+
+Last reviewed: 2026-07-08.

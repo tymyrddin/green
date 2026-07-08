@@ -167,3 +167,5 @@ trace. Was it the model, the data, the person who trained it, or the person who 
 
 These systems create accountability gaps where no one is clearly at fault, and the harmed person has no clear path to
 recourse.
+
+Last reviewed: 2026-07-08.

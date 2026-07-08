@@ -64,3 +64,5 @@ made by people with no accountability for the downstream consequences.
 Clarifying ownership is not a cultural fix. It is a structural one. Who is accountable for
 the security consequences of a product decision needs to be answered before the decision
 is made, not after the breach.
+
+Last reviewed: 2026-07-08.

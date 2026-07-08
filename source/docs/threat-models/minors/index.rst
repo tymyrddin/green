@@ -23,3 +23,5 @@ through the whole model.
    vectors.md
    attacks.md
    impacts.md
+
+Last reviewed: 2026-07-08.

@@ -40,3 +40,5 @@ platform, aims at a degree of control over what a child does and sees. Even wher
 protective, the effect includes teaching the child that being watched is ordinary. That habituation is
 itself an outcome some actors are content to produce, because a person who expects to be watched is
 easier to watch later.
+
+Last reviewed: 2026-07-08.

@@ -41,3 +41,5 @@ For higher-threat situations, a hardware security key such as a YubiKey resists 
 Hardware keys work well as a second method on top of an app: the app for daily convenience, the key registered as a backup.
 
 That same resistance, answering only to the genuine site, is what passkeys bring to everyday sign-ins; the [passkeys runbook](passkeys.md) covers setting them up.
+
+Last reviewed: 2026-07-08.

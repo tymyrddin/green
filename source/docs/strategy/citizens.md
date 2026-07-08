@@ -46,3 +46,5 @@ market carries on regardless. That part is a structural condition, not a persona
 at [Nations and states](nations.md) and [Systems effects](systems.md). Supporting the organisations that
 press for data protection is not separate from personal security; it is the half of it that individual action
 cannot buy.
+
+Last reviewed: 2026-07-08.

@@ -39,3 +39,5 @@ Email is a low-privacy medium by design. It was not built for privacy. Even with
 For a new, private email account, ProtonMail and Tuta (formerly Tutanota) offer E2EE for messages between users of the same service, and encrypted storage.
 
 For existing email accounts, PGP encryption is possible but requires the other party to use it too. It is practical where both parties are motivated to set it up. For most people, moving the sensitive conversations to Signal is less friction and more reliable.
+
+Last reviewed: 2026-07-08.

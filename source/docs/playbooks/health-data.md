@@ -41,3 +41,5 @@ The calculation changes when you cross a border into a jurisdiction where the ca
 ## Clearing the trail already left
 
 For data that is already out there, UK and EU law gives you rights to see and delete it. The [data subject request runbook](../runbooks/data-subject-request.md) covers asking an organisation what it holds, the [GDPR deletion runbook](../runbooks/gdpr-deletion.md) covers erasure, and the [data broker playbook](brokers.md) covers the brokers specifically, who are the ones most likely to be quietly reselling health-adjacent signals.
+
+Last reviewed: 2026-07-08.

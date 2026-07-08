@@ -52,3 +52,5 @@ This is also the argument against the claim that collecting metadata rather than
 ## Defences
 
 Adding noise to communication patterns, occasionally sending messages to randomly selected contacts with no substantive content, can degrade the reliability of graph analysis, though one person's cover traffic counts for little against a large and otherwise honest graph. End-to-end encrypted messaging protects content but not metadata: the fact of communication, its frequency, and its timing are still observable to the infrastructure carrying it. Metadata-minimising protocols, which limit what timing and addressing information is available to intermediate systems, address this at the infrastructure level. For most individuals and organisations, the practical implication is an awareness that communication frequency and pattern are themselves sensitive data, not merely a neutral record of who talked about what.
+
+Last reviewed: 2026-07-08.

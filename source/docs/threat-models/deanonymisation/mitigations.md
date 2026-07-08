@@ -71,3 +71,5 @@ load-bearing. They do not make the news, which is roughly how a security mitigat
 to behave.
 
 [Minimising long-term storage](../../playbooks/minimise.md) limits exposure before any of these techniques apply.
+
+Last reviewed: 2026-07-08.

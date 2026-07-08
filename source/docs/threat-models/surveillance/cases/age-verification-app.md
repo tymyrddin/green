@@ -11,3 +11,5 @@ Separate analysis reported that the identity data did not stay protected either:
 ## Official is not safer by default
 
 This case turns not on an adversary reaching data they were not meant to have but on the state building the exposure itself. When the Commission responded that testers had used an outdated demo, the researchers disputed it, and the deeper problem remained: an official tool, held up as the privacy-respecting option, shipped with the flaws it was meant to rule out. Official [digital infrastructure](../vectors.md) is not automatically safer than the commercial kind. It is a surface like any other.
+
+Last reviewed: 2026-07-08.

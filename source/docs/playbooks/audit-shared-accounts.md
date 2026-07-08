@@ -49,3 +49,5 @@ If you are on a shared mobile contract, the account holder may be able to see ca
 You will likely find more shared access than you expected. You do not need to remove everything at once. Prioritise in order of risk: what gives the most visibility into your current situation and movements, what connects to your identity anchors, and what can be removed without alerting the other person at a moment that is not yet safe.
 
 After the email is secured and the most critical shared access is removed, continue working through the list at a pace that fits your situation. This is not something to complete in a single session.
+
+Last reviewed: 2026-07-08.

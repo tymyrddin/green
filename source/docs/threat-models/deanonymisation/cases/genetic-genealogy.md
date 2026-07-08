@@ -22,3 +22,5 @@ This is re-identification with a property the others do not have: it identifies 
 consent by the individual is beside the point. It is the sharpest instance of the [consent problem](../consent.md), one person's decision to test exposes a whole family tree, and it hands
 a [law-enforcement adversary](../adversaries.md) an identification method that needs no warrant against the target, only
 a distant cousin who once mailed off a saliva sample.
+
+Last reviewed: 2026-07-08.

@@ -73,3 +73,5 @@ The assessment at onboarding captures the vendor's posture at one point in time.
 - Review access permissions annually and revoke anything not actively needed.
 - If the vendor is acquired or merges, re-assess. Security posture and contractual
   commitments do not automatically transfer.
+
+Last reviewed: 2026-07-08.

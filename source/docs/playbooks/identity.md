@@ -21,3 +21,5 @@ Turning off Wi-Fi and GPS when they are not needed reduces passive location logg
 ## Disrupt timing correlation
 
 To make activity harder to link over time, a random delay of a few minutes to a couple of hours before posting to social media breaks the timing signal. Occasional visits to unrelated sites add noise to whatever profile a tracker is assembling.
+
+Last reviewed: 2026-07-08.

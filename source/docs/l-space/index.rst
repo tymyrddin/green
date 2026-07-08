@@ -15,3 +15,5 @@ tends the place with quiet authority.
    :includehidden:
 
    resources.md
+
+Last reviewed: 2026-07-08.

@@ -55,3 +55,5 @@ treating their data with the seriousness its longevity deserves, and for noticin
 protect them and the tools that expose them are frequently the same. Understanding the shape of the harm
 is what lets the adults around a child make choices that protect without simply teaching the child to
 expect a life on the record.
+
+Last reviewed: 2026-07-08.

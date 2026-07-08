@@ -34,3 +34,5 @@ combination is the finding, turned on people. It is why the [mitigations](../mit
 identifiers, k-anonymity chief among them, degrade as soon as an adversary brings auxiliary data, and why the commercial
 datasets the [surveillance model](../../surveillance/cases/databroker-files.md) describes are dangerous even when they
 are sold as anonymous.
+
+Last reviewed: 2026-07-08.

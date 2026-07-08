@@ -13,3 +13,5 @@ Threat models for specific contexts and adversary types.
    minors/index
    poweron/index
    surveillance/index
+
+Last reviewed: 2026-07-08.

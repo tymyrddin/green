@@ -41,3 +41,5 @@ The exercise will almost certainly surface things the plan assumed were handled 
 ## The garden journal
 
 A brief record can follow each of these routines. A few sentences are enough: what was found, what surprised, what question now stands that did not before. Over time, the journal shows what has changed in the garden from one season to the next, which is considerably more useful than any single snapshot. It also makes the routines easier to maintain, because returning to a record of previous visits makes the next visit feel continuous rather than isolated.
+
+Last reviewed: 2026-07-08.

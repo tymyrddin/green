@@ -57,3 +57,5 @@ The limitation of on-device tools is that sophisticated stalkerware may be able 
 ## After the device is clean
 
 If you have confirmed or suspect the device was compromised, treat any account you accessed from it as potentially exposed. Change passwords for those accounts from a clean device. Check for new forwarding rules or connected apps in your email account. See the [audit shared accounts](audit-shared-accounts.md) playbook for working through the broader picture.
+
+Last reviewed: 2026-07-08.

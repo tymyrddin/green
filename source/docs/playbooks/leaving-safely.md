@@ -61,3 +61,5 @@ Preserve evidence: document what has happened. Screenshots with timestamps, reco
 A specialist support organisation is worth involving from the beginning, not as a last resort. They can help with the sequencing, with understanding the legal picture, and with connecting you to technical experts who can assess devices and accounts in ways this runbook cannot.
 
 If you are in immediate danger, that takes priority over every digital step in this runbook. The digital situation can be addressed in stages. The physical situation cannot wait.
+
+Last reviewed: 2026-07-08.

@@ -143,3 +143,5 @@ predictive uses while leaving wide law-enforcement exceptions, as the [legal
 landscape](landscape/biometric-and-border.md) sets out, but the exceptions are broad and the
 enforcement is young. Misclassification at population scale is not a hypothetical
 risk: it is a statistical certainty.
+
+Last reviewed: 2026-07-08.

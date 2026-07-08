@@ -425,3 +425,5 @@ gradually accumulates into operationally meaningful infrastructure visibility.
 
 In that sense, the modern attack surface is less purely technical. It is increasingly administrative, distributed,
 and assembled through correlation over time.
+
+Last reviewed: 2026-07-08.

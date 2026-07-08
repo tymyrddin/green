@@ -54,3 +54,5 @@ A weekly reset, paired with Firefox Focus for private browsing and NextDNS or Ad
 
 * [Exodus Privacy: Android app tracker reports](https://reports.exodus-privacy.eu.org/)
 * [Lockdown Privacy (iOS)](https://lockdownprivacy.com/)
+
+Last reviewed: 2026-07-08.

@@ -40,3 +40,5 @@ Android: most modern Android devices encrypt by default once a screen lock is se
 ## Biometrics at borders
 
 Biometric unlock (fingerprint, face) is convenient and generally secure. At border crossings, or anywhere unlocking may be compelled, a PIN or passphrase carries more legal protection in many jurisdictions. The rules are worth knowing before travelling. The [travel devices playbook](../playbooks/travel-devices.md) covers this in more detail.
+
+Last reviewed: 2026-07-08.

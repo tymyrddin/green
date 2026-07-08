@@ -59,3 +59,5 @@ Operating in the gap between law enforcement capability and public accessibility
 ## Politicians
 
 Regulate, confuse and occasionally campaign with the electorate's data. From the GDPR to ad microtargeting, politicians often sit on both sides of the privacy fence, demanding protections while quietly exploiting the system for elections: crafting regulation with loopholes wide enough to drive a tractor through, partnering with platforms for campaign data and targeting, and using fear to justify expanded surveillance powers.
+
+Last reviewed: 2026-07-08.

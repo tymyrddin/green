@@ -78,3 +78,5 @@ request](../runbooks/gdpr-deletion.md) shrink the commercial half of the picture
 receiving end of a state demand, [responding to a legal demand](../runbooks/legal-demand.md) and [handling a
 data-subject request](../runbooks/data-subject-request.md) are the procedures worth having ready before they
 are needed.
+
+Last reviewed: 2026-07-08.

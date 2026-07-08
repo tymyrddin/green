@@ -45,3 +45,5 @@ A leak test at [ipleak.net](https://ipleak.net/) confirms the tunnel is holding.
 * An independent no-logs audit is the claim worth checking
 
 Proton VPN or Mullvad suit a privacy-first setup; NordVPN favours speed and streaming. A VPN is one layer, best combined with [Firefox and uBlock Origin](blocks.md) and [encrypted email](email.md).
+
+Last reviewed: 2026-07-08.

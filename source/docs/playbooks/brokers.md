@@ -37,3 +37,5 @@ Where manual opt-out feels overwhelming, paid services such as DeleteMe (around 
 ## Staying private over time
 
 Because brokers constantly refresh their databases, a yearly reminder to recheck and resubmit opt-outs keeps the effort from lapsing. Using a separate email alias for online accounts also limits how much any one broker can link together.
+
+Last reviewed: 2026-07-08.

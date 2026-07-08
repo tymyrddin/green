@@ -35,3 +35,5 @@ Naming the MIVD's Industrial Security unit identifies the body that validates co
 Procurement data on its own makes it possible to map which companies maintain access to sensitive environments, infer which systems depend on external maintenance cycles, and identify where operational continuity rests on third-party availability. The frame stops being "contract" and becomes "dependency relationship between state systems and private actors".
 
 The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the structural argument and where this fits into policy.
+
+Last reviewed: 2026-07-08.

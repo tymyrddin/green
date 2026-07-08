@@ -64,3 +64,5 @@ installation, 2FA on all accounts.
 
 If the device was a work device, notify your organisation's security team. They may need
 to assess whether any organisational data was exposed.
+
+Last reviewed: 2026-07-08.

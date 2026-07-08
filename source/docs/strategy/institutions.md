@@ -74,3 +74,5 @@ Funders have more leverage here than they typically use. Research funding bodies
 data management plans as a condition of grant approval could extend that to require security
 plans for research involving sensitive data or cross-border collaboration. This is a structural
 lever that does not depend on individual institutions to act first.
+
+Last reviewed: 2026-07-08.

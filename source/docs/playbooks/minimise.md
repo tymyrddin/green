@@ -14,3 +14,5 @@ A few habits help:
 * Watch auto-sync. Devices replicate data everywhere by default; turning sync off for sensitive folders keeps private material from quietly copying itself onto half a dozen weaker endpoints.
 
 Digital composting: not everything needs to live forever in the inbox.
+
+Last reviewed: 2026-07-08.

@@ -49,3 +49,5 @@ Include the original request, the date sent, and any response received.
 ## Practical shortcuts
 
 JustDeleteMe keeps direct links to account-deletion pages for hundreds of services, faster than hunting through settings, and rates how hard deletion is. Anything rated "hard" or "impossible" is worth a formal GDPR request.
+
+Last reviewed: 2026-07-08.

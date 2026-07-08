@@ -43,3 +43,5 @@ The Cambridge Analytica affair made the mechanism public: Facebook likes served 
 ## Defences
 
 Limiting which apps have access to the device's app list restricts what can be reported to analytics services. On both iOS and Android, analytics SDK permissions can be constrained by the operating system, though enforcement is inconsistent. More fundamentally, being selective about app installations reduces the surface available for inference. An app installed for occasional convenience may contribute significantly to an inferred profile that its user never intended to create.
+
+Last reviewed: 2026-07-08.

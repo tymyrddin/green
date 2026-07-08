@@ -42,3 +42,5 @@ jurisdiction unusual, or the threat model more acute, the framing bends to the s
 situation to the framing.
 
 A general model read as precise guidance for a specific context is its own category of error.
+
+Last reviewed: 2026-07-08.

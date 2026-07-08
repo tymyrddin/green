@@ -17,3 +17,5 @@ what is at risk, how access is gained, and what the consequences look like in pr
    vectors.md
    attacks.md
    impacts.md
+
+Last reviewed: 2026-07-08.

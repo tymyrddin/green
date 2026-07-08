@@ -45,3 +45,5 @@ Passwords get reused despite best intentions. If the compromised account's passw
 Report the compromise to the service. Most platforms have a dedicated route and may be able to explain how the access occurred.
 
 Watch for follow-on activity over the following weeks: unusual login attempts elsewhere, unexpected messages from connected accounts, and social-engineering attempts against contacts using information the attacker now holds.
+
+Last reviewed: 2026-07-08.

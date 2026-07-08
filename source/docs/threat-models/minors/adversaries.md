@@ -51,3 +51,5 @@ price of connection, and carries that lesson into adulthood.
 
 None of this makes an ordinary, caring parent an abuser. It means the tools deserve the same scrutiny
 turned on any other watcher, and that protection and control are closer neighbours than they look.
+
+Last reviewed: 2026-07-08.

@@ -47,3 +47,5 @@ gpg --quick-gen-key "Name" pqc
 * Transport security (VPNs, TLS) needs its own upgrades, and much web traffic still runs on pre-quantum schemes.
 
 Adopting PQXDH and quantum-resistant PGP now is a way of closing the vault before the tools to open it are widely available.
+
+Last reviewed: 2026-07-08.

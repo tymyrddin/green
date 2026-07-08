@@ -47,3 +47,5 @@ Send a written response within the deadline, including:
 ## Document everything
 
 Record the date the request arrived, the identity verification performed, the data located, the response sent, and the date it went out. This record is required if the supervisory authority later asks for a demonstration of compliance.
+
+Last reviewed: 2026-07-08.

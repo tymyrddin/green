@@ -50,3 +50,5 @@ from synthetic media to more convincing approaches by people seeking contact.
 
 None of this is a reason for alarm on its own. Together it means the question of what is known about a
 child, by whom, and for how long, is a live one in a way it was not a decade ago.
+
+Last reviewed: 2026-07-08.

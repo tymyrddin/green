@@ -85,3 +85,5 @@ relationship in which someone else set up or handled the device, the order chang
 person off. iOS has a Safety Check (Settings, Privacy and Security, Safety Check) built for exactly this, which reviews
 and can reset who and what has access. Start with the [survivor strategy](../strategy/survivors.md) and
 the [audit shared accounts playbook](audit-shared-accounts.md) first.
+
+Last reviewed: 2026-07-08.

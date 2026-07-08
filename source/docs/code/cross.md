@@ -62,3 +62,5 @@ The combination of these three mechanisms means that the assumption of compartme
 ## Defences
 
 Separate browsers for separate contexts reduce fingerprint correlation across activities. Avoiding cross-platform login, particularly using a major platform account to log into third-party services, eliminates the shared-identifier mechanism. Reviewing which apps have access to email addresses in the device's privacy settings removes a common source of hashed identifier sharing. Blocking fingerprinting scripts through a browser extension addresses the third mechanism, though it requires regular maintenance as scripts adapt.
+
+Last reviewed: 2026-07-08.

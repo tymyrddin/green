@@ -96,3 +96,5 @@ what is possible with these tools.
 
 These cases are not historical curiosities. They are the proof of concept that shapes current
 adversary practice, worked up in full in the [cases](cases/index.rst).
+
+Last reviewed: 2026-07-08.

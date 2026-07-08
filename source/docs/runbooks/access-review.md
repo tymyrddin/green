@@ -53,3 +53,5 @@ Keep this documentation somewhere reachable during an incident, not only in a sy
 ## Automate what is feasible
 
 Where systems support it, automatic deprovisioning on HR-record closure is worth configuring. Even an imperfect automation that catches 70% of leavers promptly beats a manual process that catches all of them eventually. Most identity providers (Okta, Azure AD, Google Workspace) support SCIM provisioning that can automate this where the SaaS applications support the protocol.
+
+Last reviewed: 2026-07-08.

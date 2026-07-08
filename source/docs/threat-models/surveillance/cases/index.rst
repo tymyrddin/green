@@ -18,3 +18,5 @@ them. The evidence for how surveillance works in the EU is, increasingly, in the
    paragon.md
    bulgaria-pnr.md
    age-verification-app.md
+
+Last reviewed: 2026-07-08.

@@ -152,3 +152,5 @@ tend your own greenhouse carefully. You can share what you grow with your neighb
 the landscaping decisions for the larger garden are made somewhere else, by people with
 different interests, and the best individual greenhouse management in the world does not
 change what happens to the soil.
+
+Last reviewed: 2026-07-08.

@@ -18,3 +18,4 @@ Pseudocode snippets showing how some attacks work:
    structural.md
    ml-deanon.md
 
+Last reviewed: 2026-07-08.

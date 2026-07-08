@@ -72,3 +72,5 @@ under plausible deniability.
 
 This is not a malfunction. It is the system working as built,
 under conditions of political stress that reveal what it was always capable of.
+
+Last reviewed: 2026-07-08.

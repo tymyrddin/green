@@ -117,3 +117,5 @@ achieve on top of them.
 
 The thinking behind the approach taken here is documented
 at [The Foundations](https://purple.tymyrddin.dev/docs/foundations/).
+
+Last reviewed: 2026-07-08.

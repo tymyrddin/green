@@ -11,3 +11,5 @@ The trigger was a political feud. The disclosures grew out of checks into the pr
 ## The control was the adversary
 
 This is the insider version of the threat, seen from the inside. No adversary bypassed a control; the control was the adversary. A [state database](../adversaries.md) with lawful purposes and privileged access is only ever as safe as the incentives of the people who can query it, and in a political system under strain those incentives point the wrong way. The [legal landscape](../landscape/index.rst) can define a narrow purpose for PNR data, as the directive does, but purpose limitation on paper does not survive contact with an official who has both the access and a motive.
+
+Last reviewed: 2026-07-08.

@@ -55,3 +55,5 @@ For everyday browsing, uBlock Origin and Privacy Badger together are enough to s
 
 * [Cover Your Tracks (EFF)](https://coveryourtracks.eff.org/)
 * [WhoTracks.Me](https://whotracks.me/)
+
+Last reviewed: 2026-07-08.

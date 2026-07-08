@@ -21,3 +21,5 @@ This is not accidental. The incentive structure rewards data collection and puni
 For adversaries, the consent economy is not a problem to work around. It is a feature. Consent frameworks legitimise data collection at scale, create repositories that can be breached or subpoenaed, and establish a paper trail that protects the collector while exposing the individual. When data collected "with consent" is sold to a broker, shared with a government agency in the [national-security space the GDPR does not reach](../surveillance/landscape/the-gdpr-hole.md), or folded into a re-identification attack, the original click in a dialogue box is doing a great deal of work it was never designed to do.
 
 The fiction of consent does not protect the person who clicked. It protects the organisation that asked them to.
+
+Last reviewed: 2026-07-08.

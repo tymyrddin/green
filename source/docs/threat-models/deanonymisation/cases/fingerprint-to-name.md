@@ -28,3 +28,5 @@ That makes it a [device-fingerprint asset](../assets.md) the
 ordinary [tracker-blocking advice](../../../playbooks/blocks.md) only partly addresses, and a direct feed into
 the [commercial data layer](../../surveillance/cases/databroker-files.md) that the surveillance model shows reaching all
 the way to named officials.
+
+Last reviewed: 2026-07-08.

@@ -16,3 +16,5 @@ Most home routers (ASUS, TP-Link, Netgear and others) support this.
    * In each smart device's Wi-Fi settings, join the guest network instead of the main one.
 
 The smart bulbs and cameras can then reach the internet, where allowed, but not the laptop or phone on the main network.
+
+Last reviewed: 2026-07-08.

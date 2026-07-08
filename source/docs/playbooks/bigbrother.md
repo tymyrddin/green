@@ -43,3 +43,5 @@ For a higher threat model:
 * Fabric with metallic lining blocks some overhead imaging.
 
 Facial recognition depends on consistent, predictable input. Varying appearance across time and place is what degrades it.
+
+Last reviewed: 2026-07-08.

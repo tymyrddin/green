@@ -45,3 +45,5 @@ Document what was disclosed, to whom, when, and under what authority. That recor
 Review whether the demand exposed a data-holdings gap, data held that need not have been, and update the data audit and retention policies accordingly (see the [data audit playbook](../playbooks/data-audit.md)).
 
 If the demand came as a surprise because the data map was incomplete, treat it as a prompt to improve visibility into what is held and where.
+
+Last reviewed: 2026-07-08.

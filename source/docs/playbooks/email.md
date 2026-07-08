@@ -46,3 +46,5 @@ Some mail exists to extract personal data. The recurring tells are urgent demand
 ## Encrypt sensitive mail
 
 For genuinely confidential messages, ProtonMail and Tuta encrypt by default, and PGP through a tool such as GPG Suite covers manual encryption for more advanced use.
+
+Last reviewed: 2026-07-08.

@@ -64,3 +64,5 @@ If the assessment produces concerning results, contact a specialist organisation
 itself. The Coalition Against Stalkerware (stopstalkerware.org) can connect you with technical experts. The decision
 about whether to remove detected software, preserve evidence, or reset the device depends on the individual's safety
 and legal situation. See the [check a device for stalkerware](stalkerware-check.md) playbook for the considerations around that decision.
+
+Last reviewed: 2026-07-08.

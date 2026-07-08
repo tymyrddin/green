@@ -122,3 +122,5 @@ It is not automatically safe: generative models trained on small or unusual popu
 reproduce identifying patterns; membership inference attacks can sometimes establish whether a
 particular individual's data contributed to the training process. "It is synthetic" is not a
 guarantee of safety.
+
+Last reviewed: 2026-07-08.

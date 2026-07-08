@@ -83,3 +83,5 @@ API keys or tokens. If the device was a travel device, wipe it before using it f
 
 Review whether any data that was on the device needs to be treated as exposed, and whether that
 triggers any notification obligations.
+
+Last reviewed: 2026-07-08.

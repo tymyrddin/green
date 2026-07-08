@@ -13,3 +13,5 @@ Sometimes it is not just who a person is, but what they have growing in their pa
 ## Link disclosure
 
 If the flower cannot quite be identified, trace the roots. Link disclosure is about relationships: who talks to whom, who buys what, who follows which fertiliser brand on Instagram. Even when identities stay technically hidden, connections often give the game away. It is like recognising someone not by their name, but by every plant in their allotment.
+
+Last reviewed: 2026-07-08.

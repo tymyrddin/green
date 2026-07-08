@@ -139,3 +139,5 @@ future government's definition, become a threat.
 
 The system does not need to punish often. It needs to be perceived as capable of it.
 That perception is, at this point, well-founded.
+
+Last reviewed: 2026-07-08.

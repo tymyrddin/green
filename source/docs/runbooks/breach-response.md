@@ -74,3 +74,5 @@ Once the scope is understood and the immediate damage contained:
 After the immediate crisis, review what happened and why. The aim is not blame but understanding the conditions that produced the incident and whether they have been addressed. Worth asking: was the vulnerability known? Why had it not been fixed? Did detection happen quickly enough? What would have helped?
 
 Document the findings, share them with the relevant stakeholders, and act on them. A review that produces no changes is not a review. It is a ritual.
+
+Last reviewed: 2026-07-08.

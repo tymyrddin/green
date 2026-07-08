@@ -36,3 +36,5 @@ After import, work through the accounts in order of importance and change any pa
 When creating any new account, generate the password from the browser extension straight away, rather than typing one by hand. A hand-typed password under time pressure tends to be reused or weak; the generator takes three seconds.
 
 Check periodically whether any account has appeared in a known breach. Bitwarden integrates with Have I Been Pwned and flags compromised passwords in the vault.
+
+Last reviewed: 2026-07-08.

@@ -40,3 +40,5 @@ The technique has been applied in criminal investigations to attribute extremist
 The defences available are limited. Writing style can be partially obscured by consciously using different vocabulary, shorter sentences, or different punctuation habits. Paraphrasing tools can alter surface features while preserving meaning. Neither approach is reliable against a model trained specifically on that author's style, because the patterns that are most distinctive are often below the level of conscious awareness and difficult to suppress consistently.
 
 The most effective protection is preventing the association between the anonymous account and any known writing sample in the first place. This is harder than it sounds: anyone who has posted under their real name on any public platform has provided training data. Using a completely separate writing register, a different persona with different linguistic habits maintained consistently from the beginning, is more protective than trying to obscure an existing style after the fact.
+
+Last reviewed: 2026-07-08.

@@ -69,3 +69,5 @@ At the end of the retention period, delete systematically:
 Document that deletion occurred. If a regulatory authority ever asks why the data is no longer held, "deleted on schedule per the retention policy" is the answer worth being able to give.
 
 Where a participant withdraws consent and requests deletion mid-study, follow the same process for their records specifically, as promptly as possible.
+
+Last reviewed: 2026-07-08.

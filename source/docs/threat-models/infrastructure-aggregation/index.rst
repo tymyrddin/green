@@ -32,3 +32,5 @@ the defending, is green's own :doc:`defensive strategies <../../strategy/index>`
    dpo.md
    netwerkruimtes.md
    sos.md
+
+Last reviewed: 2026-07-08.

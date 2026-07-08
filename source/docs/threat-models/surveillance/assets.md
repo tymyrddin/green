@@ -80,3 +80,5 @@ intelligence asset and a pre-positioning asset for offensive operations.
 At the structural level, the asset is not a person. It is a
 population model. And population models are built from individual records whether or
 not any individual was the intended target.
+
+Last reviewed: 2026-07-08.

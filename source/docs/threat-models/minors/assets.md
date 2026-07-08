@@ -48,3 +48,5 @@ Finally, the asset that ties the others together: the adult this child will beco
 that will greet them. A profile assembled across a childhood does not expire at eighteen. It informs
 what that adult is shown, offered, charged, and assumed to be. Protecting a child's data is, in the
 end, protecting a person who does not exist yet from decisions being made about them now.
+
+Last reviewed: 2026-07-08.

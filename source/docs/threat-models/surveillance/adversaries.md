@@ -114,3 +114,5 @@ collection obligations that serve a surveillance function.
 This is the adversary that does not look like one. It looks like bureaucracy. The data
 flows it generates are a byproduct of legitimate regulatory function, but byproducts
 can be collected and repurposed.
+
+Last reviewed: 2026-07-08.

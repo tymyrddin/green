@@ -16,3 +16,5 @@ Chrome can be tightened without switching, though it starts from a weaker positi
 * [Disable Chrome's Topics API](../runbooks/disable-chrome-topics.md)
 * [Install Privacy Badger to block hidden trackers](blocks.md)
 * [Use a VPN to hide the IP address](vpn.md)
+
+Last reviewed: 2026-07-08.

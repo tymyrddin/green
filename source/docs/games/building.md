@@ -71,3 +71,5 @@ is one of the best things a game can produce.
 
 - [Classical ciphers](https://github.com/tymyrddin/scripts-classical-ciphers)
 - [Root Me: CryptAnalysis](https://www.root-me.org/en/Challenges/Cryptanalysis/)
+
+Last reviewed: 2026-07-08.

@@ -44,3 +44,5 @@ Report the URL to:
 Reporting helps get the domain taken down and protects others who receive the same message.
 
 A targeted attack, where the message carried accurate personal details rather than a generic mass lure, is a different threat level. Report it to an organisation's security team, or for an individual, weigh whether the surveillance threat models on this site describe the situation.
+
+Last reviewed: 2026-07-08.

@@ -15,3 +15,5 @@ exiftool -all= -overwrite_original /path/to/folder/
 ```
 
 This permanently removes the hidden data from the files.
+
+Last reviewed: 2026-07-08.

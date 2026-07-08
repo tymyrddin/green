@@ -31,3 +31,5 @@ adversary is not a state or a broker but someone who already knows the target, t
    mitigations.md
    impacts.md
    consent.md
+
+Last reviewed: 2026-07-08.

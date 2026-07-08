@@ -111,3 +111,5 @@ relationships to foreign governments (the most discussed example being Huawei),
 software with undisclosed telemetry, and hardware with firmware that may have been
 modified create collection opportunities that do not depend on legal process.
 The supply chain vector affects not just individual devices but network architecture.
+
+Last reviewed: 2026-07-08.

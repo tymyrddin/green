@@ -29,3 +29,5 @@ not return to its original shape.
    the-deregulation-turn.md
    scanning-and-encryption.md
    biometric-and-border.md
+
+Last reviewed: 2026-07-08.

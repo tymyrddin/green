@@ -115,3 +115,5 @@ holds the keys.
 
 Recognising the surfaces is the first step. The goal is not to close every door at once
 but to know which ones exist, and to start with the ones that count most.
+
+Last reviewed: 2026-07-08.

@@ -69,3 +69,5 @@ and Front Line Defenders all support organisations facing active threats.
 The power asymmetry between the organisations described in the surveillance threat model and
 most NGOs is real. Accepting that asymmetry as fixed is not required. Collective action at
 regulatory and legislative level has reshaped data protection law before. That work continues.
+
+Last reviewed: 2026-07-08.

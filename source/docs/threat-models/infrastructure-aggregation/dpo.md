@@ -54,3 +54,5 @@ For infrastructure classified as vital to national security, the levers most dir
 * cross-domain reconstructability assessment of multi-agency geospatial datasets before publication
 
 The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the broader structural argument and policy frame.
+
+Last reviewed: 2026-07-08.

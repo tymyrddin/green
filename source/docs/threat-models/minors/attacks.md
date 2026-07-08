@@ -41,3 +41,5 @@ control, and the child has learned across those years that their screen is never
 is the pattern the [stalkerware check playbook](../../playbooks/stalkerware-check.md) and the
 [audit shared accounts playbook](../../playbooks/audit-shared-accounts.md) address from the far side,
 once the watching is no longer wanted.
+
+Last reviewed: 2026-07-08.

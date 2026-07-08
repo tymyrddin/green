@@ -43,3 +43,5 @@ The metadata travels with the file everywhere it goes, through sharing, through 
 Several free tools read and strip metadata from common file types. For images, tools such as ExifTool can remove the EXIF block entirely or overwrite specific fields. For documents, most office applications offer a "remove personal information" option before saving. Making this a habit before sharing files outside a household or organisation is straightforward once the step is part of the workflow.
 
 The more fundamental defence is disabling location services for the camera application on a smartphone. If GPS coordinates are never written into the file in the first place, they cannot be extracted from it later.
+
+Last reviewed: 2026-07-08.

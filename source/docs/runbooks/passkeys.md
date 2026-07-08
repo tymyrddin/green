@@ -33,3 +33,5 @@ Where a service allows more than one passkey, register a second from a different
 ## The password stays, for now
 
 Most services keep password sign-in as a fallback after a passkey is added, which means the account remains only as strong as its weakest way in. The passkey still earns its place: day-to-day sign-ins stop being phishable, and there is no code to be talked out of. When a service offers to disable password sign-in or weaker recovery methods, that is worth taking, once the passkey demonstrably works on every device you sign in from and a second passkey or backup codes exist.
+
+Last reviewed: 2026-07-08.

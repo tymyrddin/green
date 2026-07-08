@@ -95,3 +95,5 @@ starting point: what is most important, where to look first, and what to priorit
 picture feels too large to take in at once.
 
 Identity first. Then access. Then everything else.
+
+Last reviewed: 2026-07-08.

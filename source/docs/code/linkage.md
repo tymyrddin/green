@@ -43,3 +43,5 @@ This is also the mechanism behind many data broker profiles: no single source co
 ## Defences
 
 Differential privacy adds calibrated noise to aggregate statistics in a dataset, making it possible to publish useful results while providing mathematical guarantees against re-identification. Data minimisation, collecting and publishing only the attributes genuinely necessary for the stated purpose, reduces the surface available for linkage. Generalising attributes before release, publishing age ranges rather than ages, city rather than postcode, reduces quasi-identifier precision. The appropriate level of generalisation depends on the size of the population and the number of other available datasets, which makes this a calculation rather than a policy.
+
+Last reviewed: 2026-07-08.

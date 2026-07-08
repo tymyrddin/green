@@ -39,3 +39,5 @@ Most services keep 2FA under a Security or Privacy section. A service that offer
 For higher-threat situations, a hardware security key such as a YubiKey resists phishing better than an authenticator app, because it only responds to the genuine site it was registered with and will not hand a code to a convincing fake.
 
 Hardware keys work well as a second method on top of an app: the app for daily convenience, the key registered as a backup.
+
+That same resistance, answering only to the genuine site, is what passkeys bring to everyday sign-ins; the [passkeys runbook](passkeys.md) covers setting them up.

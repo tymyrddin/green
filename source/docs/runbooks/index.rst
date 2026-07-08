@@ -11,6 +11,7 @@ A runbook carries a single procedure that runs the same way every time.
 
    passwords
    authenticators
+   passkeys
    device-encryption
    vlan
    photos

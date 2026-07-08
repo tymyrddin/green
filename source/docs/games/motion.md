@@ -12,7 +12,7 @@ One player is the <span style="color: red;">Tracker</span>. Everyone else is a <
 around the room; each card represents a different website. The <span style="color: blue;">User</span>s wander around picking up cards, visiting their 
 favourite sites. The <span style="color: red;">Tracker</span> follows them and notes which cards each <span style="color: blue;">User</span> collects.
 
-The game rewards the <span style="color: red;">Tracker</span> faster than most people expect. Within a few minutes, the <span style="color: red;">Tracker</span> can tell you not just 
+The game rewards the <span style="color: red;">Tracker</span> faster than players expect. Within a few minutes, the <span style="color: red;">Tracker</span> can tell you not just 
 which websites each <span style="color: blue;">User</span> visited, but roughly in what order and how often. It turns out that wandering around picking 
 up cards leaves quite a visible trail.
 
@@ -23,16 +23,17 @@ The <span style="color: blue;">User</span>s do have defences.
 
 But using those cards takes attention, and the <span style="color: red;">Tracker</span> keeps going.
 
-What tends to happen is that the <span style="color: red;">Tracker</span> wins more easily than anyone expected, and the <span style="color: blue;">User</span>s start to understand why. 
-Being tracked is the default. Protecting yourself from it is the extra step. That is exactly how it works online: your 
-browser picks up tracking cookies the moment you arrive at most websites, and blocking them requires tools you have 
-to install and understand.
+The <span style="color: red;">Tracker</span> usually wins more easily than anyone expected, and the <span style="color: blue;">User</span>s start to understand why. 
+Being tracked is the default. Protecting yourself from it is the extra step. That is exactly how it works online: 
+websites start collecting the moment you arrive, through cookies but also through browser fingerprinting and 
+interest profiles built from your history. Some browsers block part of this by default; switching off the rest 
+takes tools and settings you have to go looking for.
 
 Try playing one round without any defence cards, then one round where <span style="color: blue;">User</span>s can use them freely. The difference in 
 how comfortable it feels to wander the room will tell you a great deal about what browser extensions are actually 
 doing when they run quietly in the background.
 
-The asymmetry tends to surprise adults as much as children.
+The asymmetry surprises adults as much as children.
 
 ## The VPN Tunnel Relay
 
@@ -46,14 +47,14 @@ has to cooperate to keep a tunnel open while Packets sprint through, which is ha
 moving and the tunnel players are trying to hold their position.
 
 Once you have run through a tunnel a few times and arrived at the other side with your token still in your pocket, 
-the VPN concept tends to click. A VPN creates an encrypted channel between your device and a server somewhere else, 
+the VPN concept clicks. A VPN creates an encrypted channel between your device and a server somewhere else, 
 so that your <span style="color: red;">ISP</span> can see that data is travelling but cannot read what it says or where it is ultimately going. 
 The hands-joined tunnel in the game is a physical version of exactly that.
 
 A good question to sit with after the game: what if the <span style="color: red;">ISP</span> could see where the tunnel starts and ends, even if 
 they could not see inside it? That is a real limitation of VPNs, and it is worth knowing about.
 
-Younger players can enjoy the running without fully grasping the metaphor; older ones will start asking the harder questions.
+The running is fun at any age; the questions about what the tunnel stands for arrive in their own time.
 
 ## The Great Firewall Fortress
 

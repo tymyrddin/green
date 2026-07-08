@@ -7,9 +7,12 @@ Privacy greenhouse
 Imagine your personal data is a rare orchid in a vast, overgrown botanical garden. Corporate poachers, government
 landscapers, and algorithmic weeds all want to catalog, clone, or crush your fragile blooms.
 
+Tending
+------------------------------------
+
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
 
    docs/threat-models/index

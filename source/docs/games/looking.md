@@ -4,7 +4,7 @@
 
 These four games are about noticing: what information hides in plain sight, what a message gives away without meaning to, and how quickly small pieces of information can add up to a surprisingly complete picture of someone.
 
-They are quieter than the motion games. You need a table and some cards or paper, and most can be made from things you already have at home. They tend to produce the most conversation afterwards, because what they reveal is often genuinely uncomfortable in an interesting way.
+They are quieter than the motion games. You need a table and some cards or paper, and most can be made from things you already have at home. They produce the most conversation afterwards, because what they reveal is often genuinely uncomfortable in an interesting way.
 
 
 ## Metadata Detective
@@ -13,18 +13,18 @@ Each player draws a picture of a person, place, photo, or thing on a card and ke
 
 The scoring works the other way round from most games. If you guess correctly, the person who drew the card loses a point, because their metadata gave too much away. If you guess wrong, the drawer wins a point: they protected their privacy successfully. This reversal is the whole point.
 
-What tends to happen is that players discover they have written metadata that is far too revealing. The time of day, the device, and the location together tell you almost everything about the photograph. Then they start experimenting with what three pieces of metadata would give the least away, which is exactly the right question to be asking.
+Players usually discover they have written metadata that is far too revealing. The time of day, the device, and the location together tell you almost everything about the photograph. Then they start experimenting with what three pieces of metadata would give the least away, which is the question the game is there to plant.
 
-Metadata is the information about a file that travels with it everywhere, even after you have been careful about the content: who created it, when, on what device, and sometimes where. Most people have never looked at their own photographs' metadata. After this game, they will.
+Metadata is the information about a file that travels with it everywhere, even after you have been careful about the content: who created it, when, on what device, and sometimes where. Your own photographs carry it too, and it is worth a look.
 
-The conversation about what makes metadata revealing tends to go on much longer than the game itself.
+The conversation about what makes metadata revealing often outlasts the game itself.
 
 
 ## Phishing Fishing
 
-Deal each player a hand of message cards. Some of the cards contain genuine messages: a receipt from an online shop, a reminder from a friend, a notification from a service they use. Others are phishing attempts, messages designed to look genuine but containing tells: an odd sender address, a link that goes somewhere unexpected, a request that feels slightly off. Players must identify and discard the phishing cards as quickly as possible to avoid losing points. Special Alert cards let you examine one extra card per turn.
+Deal each player a hand of message cards. Some of the cards contain genuine messages: a receipt from an online shop, a reminder from a friend, a notification from a service they use. Others are phishing attempts, messages designed to look genuine but containing tells: an odd sender address, a link that goes somewhere unexpected, a request that feels slightly off. Players race to identify and discard the phishing cards before they cost points. Special Alert cards let you examine one extra card per turn.
 
-The mild time pressure is what makes the game work. Most people can identify a phishing attempt easily when they are reading carefully and unhurried. The game creates just enough urgency to reproduce the conditions under which real mistakes actually happen: you are busy, you are skimming, and the message looks like most other messages at first glance.
+The mild time pressure is what makes the game work. A phishing attempt read slowly and carefully is usually easy to spot. The game creates just enough urgency to reproduce the conditions under which real mistakes actually happen: you are busy, you are skimming, and the message looks like most other messages at first glance.
 
 The most useful moments are the near-misses: the card you almost kept because it was convincing in a specific way. Afterwards, go through the deck together and talk about which cards were hardest to sort, and what specifically made the phishing attempts almost believable. The answer is usually the same in real phishing too: a sense of urgency, a familiar-looking sender, and one small detail that is slightly wrong.
 
@@ -41,7 +41,7 @@ personal data: a location, an interest, a friend connection, a piece of activity
 
 The goal is to reach certain milestones without triggering too many reveals.
 
-The game's most instructive moments tend not to involve the big reveals. They involve the small, incremental ones: 
+The game's most instructive moments are rarely the big reveals. They are the small, incremental ones: 
 the moment when you realise your token has made it three or four connections away from where you started and you 
 cannot quite trace how it got there. Something you shared is now visible to someone you never intended it to reach, 
 through a chain of connections that seemed reasonable at each individual step.
@@ -69,8 +69,8 @@ a fairly detailed portrait of the fictional person from only eight or ten fragme
 This is the aggregation problem made physical. The term describes the way that combining individually unremarkable 
 pieces of information can produce something far more revealing than any single piece on its own. It is the reason 
 data brokers are valuable to advertisers: not because any one data point is significant, but because enough of them 
-together build a profile. Understanding this through the experience of actually doing the aggregating tends to change 
+together build a profile. Understanding this through the experience of actually doing the aggregating can change 
 how people think about what they share online.
 
-Works well from age twelve upwards. It is particularly effective for anyone who has ever thought "well, it is just 
-a username, why is it so important?" After this game, they will know exactly why it is important.
+Works well from age twelve upwards, and is particularly worth playing with anyone who has ever said "well, it is 
+just a username".

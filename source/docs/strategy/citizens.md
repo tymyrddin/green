@@ -32,7 +32,7 @@ An overwhelming list produces inaction; a short list of high-leverage changes pr
 thing gets done, a [password manager](../runbooks/passwords.md) and [two-factor
 authentication](../runbooks/authenticators.md) on the main email account close the most common routes to
 compromise more than any other single step. Everything else can follow, in whatever order makes sense.
-Security fatigue is rational rather than a failing; the answer is to sequence, not to lower the bar.
+Security fatigue is rational; the answer is to sequence, not to lower the bar.
 
 ## The reach of personal action
 
@@ -42,9 +42,9 @@ even if the walls stay glass.
 
 Some of it, though, personal hygiene cannot reach. The data broker market runs on terms that are technically
 disclosed and practically unreadable, and opting out profile by profile is laborious and incomplete while the
-market carries on regardless. That part is a structural condition, not a personal failing, and it is argued
+market carries on regardless. That part is a structural condition, and it is argued
 at [Nations and states](nations.md) and [Systems effects](systems.md). Supporting the organisations that
 press for data protection is not separate from personal security; it is the half of it that individual action
 cannot buy.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

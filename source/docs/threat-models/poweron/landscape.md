@@ -8,7 +8,7 @@ enable is harder to detect, harder to prove, and harder to escape.
 
 Voice cloning from a few seconds of audio (a voicemail, a WhatsApp voice note, a TikTok) is
 now widely available. Realistic fake images and videos can be produced without technical skill.
-Synthetic identities can be built to interact over time, not just for one-off scams.
+Synthetic identities can be built to interact over time.
 
 The effect is that evidence becomes deniable and harassment can be scaled without direct contact.
 A friend, an employer, or a court may be shown something that looks convincing and is entirely
@@ -99,7 +99,7 @@ is fabricated, in systems that have not yet developed reliable ways to assess th
 Abuse is not contained to one platform or channel. When contact is blocked on one surface,
 it moves to another: messaging to email, email to social media, social media to workplace
 tools or mutual contacts. Identity follows the survivor. Safety requires thinking about the
-whole ecosystem, not individual accounts in isolation.
+whole ecosystem.
 
 ## What has fundamentally changed
 
@@ -121,4 +121,4 @@ sufficient on its own. Safety now requires systemic thinking: across devices, ac
 and services; across the people connected to you; and across the places where your identity
 and data exist.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -28,8 +28,8 @@ a search anywhere else. For someone whose status is under review, that device ho
 contacts, their messages, and the people connected to them.
 
 There is a trap here worth naming. A phone visibly wiped just before a crossing can read as concealment and invite more
-scrutiny, not less. What holds up better is a device that is genuinely minimal, an everyday phone that simply does not
-carry much, rather than one that has obviously been emptied.
+scrutiny. What holds up better is a device that is genuinely minimal, an everyday phone that simply does not
+carry much.
 The [travel devices playbook](../playbooks/travel-devices.md) covers preparing such a device, and
 the [device seizure runbook](../runbooks/device-seizure.md) covers what happens if one is taken.
 
@@ -54,4 +54,4 @@ broader work of shrinking what is known is in the [minimise playbook](../playboo
 The mechanics of how states collect and combine this information are described in
 the [surveillance threat model](../threat-models/surveillance/index.rst). The difference here is not the mechanics but the stakes: the same collection that is a background hum for most people is, for someone whose status is insecure, load-bearing. That asymmetry is the point, and it is why generic advice has to be read against a specific situation.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -16,7 +16,7 @@ One sentence carries presence, exact diameter, and operating organisation, all w
 
 A Water Authority publication notice ([WSB-2024-19528](https://zoek.officielebekendmakingen.nl/wsb-2024-19528/)) records an "application of 12 September 2024 for the construction, use and relocation of a temporary discharge facility for repair works on the DPO kerosene pipeline at Grensweg in Denekamp" (*"Aanvraag omgevingsvergunning van 12 september 2024 voor aanleg, gebruik en verplaatsing tijdelijke lozingsvoorziening t.b.v. herstelwerkzaamheden aan kerosineleiding van DPO (Defensie Pijpleiding Organisatie), Grensweg te Denekamp."*).
 
-This confirms active maintenance, names the pipeline contents (kerosene), gives the exact intervention site (a different town from Voorst, indicating a distributed network rather than a single asset), and provides operational timing: the work has a permit window in late 2024. *Lozingsvoorziening* is a temporary water-discharge installation used while pipeline sections are dewatered for repair.
+This confirms active maintenance, names the pipeline contents (kerosene), gives the exact intervention site (a different town from Voorst, indicating a distributed network), and provides operational timing: the work has a permit window in late 2024. *Lozingsvoorziening* is a temporary water-discharge installation used while pipeline sections are dewatered for repair.
 
 ## Adversarial reading
 
@@ -49,10 +49,10 @@ Combine spatial plans with permit databases, water authority records, and utilit
 For infrastructure classified as vital to national security, the levers most directly suggested by the spatial-data exposure pattern in this case:
 
 * aggregation-aware review of spatial-planning disclosures
-* corridor-level mapping treated as a question to answer case by case, rather than a default to publish in full
+* corridor-level mapping treated as a question to answer case by case
 * separation of operational descriptors (exact diameter, routing) from planning-level transparency where the risk is systemic rather than local
 * cross-domain reconstructability assessment of multi-agency geospatial datasets before publication
 
 The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the broader structural argument and policy frame.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

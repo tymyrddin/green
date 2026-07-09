@@ -1,8 +1,8 @@
 # Impacts
 
 Even the most carefully tended greenhouse can be ruined if someone tampers with the soil, overfeeds the aphids, or
-simply barges in and starts tagging the petunias. The impacts of privacy breaches and data misuse are not just
-theoretical. They are personal, structural, and often quietly devastating.
+simply barges in and starts tagging the petunias. The impacts of privacy breaches and data misuse are
+personal, structural, and often quietly devastating.
 
 Sections marked ↑ describe risks that
 are growing; those marked ↓ describe things being eroded.
@@ -33,7 +33,7 @@ In short: an analytics garden full of noise is not improved by turning up the vo
 AI was meant to be the rational gardener: pruning with precision, impartial and tireless. Instead the result is topiary
 nightmares that reflect their makers' worst habits.
 
-Bias is not just a side effect. It is often built in. The systems are opaque, the data is messy, and the consequences
+Bias is often built in. The systems are opaque, the data is messy, and the consequences
 are real. Tay, Microsoft's chatbot, famously turned racist in less than 24 hours of exposure to the internet, thriving
 like a greenhouse fungus on what it was fed. Tay was a curiosity, though. The serious version does lasting damage: from 2013 the Dutch tax authority ran a risk-classification model over childcare-benefit claims that scored dual nationality and a non-Dutch-sounding name as markers of fraud, and some 26,000 families were [wrongly accused](https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/), many driven into debt, bankruptcy, or the removal of their children, with the government resigning over it in 2021 and the data-protection authority later fining the tax service for processing nationality data unlawfully. HR algorithms downgrade CVs from women, minorities or older applicants
 because their profiles do not fit the mould, as if hiring were a matter of preferred soil pH. Loan models exclude
@@ -140,7 +140,7 @@ person is no longer a person. They are a performance indicator.
 This creates stress, alienation, and a strange new kind of inequality: algorithmic precarity. If a data profile does not
 match what the system thinks is "successful," the person's options quietly shrink.
 
-It is not just surveillance. It is data feudalism.
+It is data feudalism.
 
 ## ↑ Loss of context and consent
 
@@ -149,7 +149,7 @@ Data, once collected, is decontextualised and repurposed in ways the original pe
 A postcode given for delivery is now used to set an insurance premium. A liked tweet joking about depression now marks
 someone as vulnerable to an algorithm. A face uploaded to an app now trains someone else's facial recognition system.
 
-Consent is not just "I clicked agree." Real consent is informed, specific, and revocable. The current system pretends at
+Real consent is informed, specific, and revocable. The current system pretends at
 consent but delivers functional [coercion](consent.md).
 
 ## ↑ Global inequity
@@ -168,4 +168,4 @@ trace. Was it the model, the data, the person who trained it, or the person who 
 These systems create accountability gaps where no one is clearly at fault, and the harmed person has no clear path to
 recourse.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -10,8 +10,8 @@ The Italian thread ran wider. WhatsApp had earlier [notified around ninety users
 
 ## The limit of individual defence
 
-Graphite is not an exotic capability held by one rogue service. It is a product, licensed to governments, part of a mercenary-spyware market that the European Parliament's own PEGA inquiry examined after the Pegasus and Predator/Intellexa scandals across Poland, Hungary, Greece and Spain. Paragon is the newest name on a list of [adversaries](../adversaries.md) that is an industry, not an exception.
+Graphite is not an exotic capability held by one rogue service. It is a product, licensed to governments, part of a mercenary-spyware market that the European Parliament's own PEGA inquiry examined after the Pegasus and Predator/Intellexa scandals across Poland, Hungary, Greece and Spain. Paragon is the newest name on a list of [adversaries](../adversaries.md) that is an industry.
 
-The case also marks the limit of individual defence. A zero-click iMessage exploit defeats the ordinary advice, because there is nothing to decline to click. What contained it was not an action by the target but a platform patch and a notification from Apple and WhatsApp, which is to say that the parties best placed to detect this class of attack are the platforms, not the people carrying the phones. That asymmetry bears hardest on [civil society](../impacts.md).
+The case also marks the limit of individual defence. A zero-click iMessage exploit defeats the ordinary advice, because there is nothing to decline to click. What contained it was not an action by the target but a platform patch and a notification from Apple and WhatsApp, which is to say that the parties best placed to detect this class of attack are the platforms. That asymmetry bears hardest on [civil society](../impacts.md).
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

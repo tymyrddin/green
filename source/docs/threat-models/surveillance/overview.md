@@ -8,8 +8,7 @@ argue about its limits rather than its existence.
 
 The General Data Protection Regulation is the most prominent data protection law in
 the world and it explicitly does not apply to national security activities. Article 2(2)(a)
-places national security outside its scope entirely. This is not a loophole that was
-accidentally left open. It is a deliberate boundary, written into the text, reflecting
+places national security outside its scope entirely. This is a deliberate boundary, written into the text, reflecting
 the settled position that states reserve the right to surveil in the name of security
 and that European data protection law was not designed to constrain that right.
 
@@ -37,8 +36,8 @@ is the most discussed, but several EU member states participate in expanded shar
 arrangements under the Nine Eyes and Fourteen Eyes frameworks. These include the
 Netherlands, Denmark, France, Norway, Germany, Belgium, Italy, Spain, and Sweden.
 
-The mechanism is not simply a matter of each agency spying on the others' citizens to
-order. It is more structural than that: each agency collects intelligence that it categorises as "foreign" (meaning
+The mechanism is more structural than agencies spying on each other's citizens to
+order: each agency collects intelligence that it categorises as "foreign" (meaning
 communications flowing through or associated with non-domestic targets), and agencies
 share what they have collected. Since "foreign" collection captures vast
 amounts of data about citizens of other partner states, the practical effect is that
@@ -48,7 +47,7 @@ under different rules.
 
 The Snowden disclosures of 2013 documented this at scale. GCHQ collected data on EU citizens
 from undersea cable access points and shared it with NSA. The NSA monitored the German
-Chancellor's communications. These are facts of record, not allegations.
+Chancellor's communications. These are facts of record.
 
 ## The commercial layer
 
@@ -65,12 +64,11 @@ national security context precisely because GDPR does not apply there.
 
 ## The system working as built
 
-This is not illegal behaviour by rogue actors. Most of it
-is either legal, contested only at the margins, or structured to be difficult to
-challenge. The system was designed to permit observation. It optimises for visibility
+Most of this is either legal, contested only at the margins, or structured to be
+difficult to challenge. The system was designed to permit observation. It optimises for visibility
 under plausible deniability.
 
 This is not a malfunction. It is the system working as built,
 under conditions of political stress that reveal what it was always capable of.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

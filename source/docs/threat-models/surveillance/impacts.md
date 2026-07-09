@@ -9,8 +9,7 @@ and what they do.
 
 The primary and most direct impact on ordinary citizens is the chilling effect: the
 modification of behaviour driven by the belief that communications may be monitored,
-associations may be recorded, and political or social activity may be logged and
-retained.
+associations recorded, and political or social activity logged and retained.
 
 Research consistently shows that mass surveillance awareness reduces engagement with
 politically sensitive content, reduces willingness to communicate about controversial
@@ -71,8 +70,8 @@ Compliance pressure as access vector: regulatory and law enforcement agencies ca
 use compliance requirements as leverage to obtain data or access. A business that
 depends on its operating licence, tax treatment, or regulatory standing in a
 jurisdiction may face informal pressure to cooperate with data requests that fall
-short of the formal legal threshold. This pressure may never be explicit and may
-never produce a written record.
+short of the formal legal threshold. This pressure may never be explicit or
+produce a written record.
 
 Vendor and infrastructure dependency: the structural dependence of European business
 on non-EU cloud infrastructure, software, and hardware means that commercially
@@ -140,4 +139,4 @@ future government's definition, become a threat.
 The system does not need to punish often. It needs to be perceived as capable of it.
 That perception is, at this point, well-founded.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -6,8 +6,7 @@ legal authority to inspect devices, compel passwords, and in some cases detain d
 forensic imaging. This is not hypothetical: it has happened to journalists, researchers,
 NGO staff, and lawyers travelling with sensitive materials.
 
-Rather than assuming the worst at every border, decide in advance what an acceptable risk
-level is and prepare accordingly.
+Decide in advance what an acceptable risk level is and prepare accordingly.
 
 ## Assess the trip
 
@@ -30,7 +29,7 @@ If you are using your primary devices, before you leave:
 - Remove or log out of applications you do not need for the trip.
 - Revoke access tokens for services you will not use (revoke OAuth connections, not just log out).
 - Remove any sensitive files that are not needed. If you need them, consider whether they can
-  be accessed from an encrypted remote location rather than stored locally.
+  be accessed from an encrypted remote location.
 
 Consider what a one-hour forensic imaging of your device would reveal to a motivated examiner.
 If that is acceptable, proceed. If not, reduce further.
@@ -84,4 +83,4 @@ API keys or tokens. If the device was a travel device, wipe it before using it f
 Review whether any data that was on the device needs to be treated as exposed, and whether that
 triggers any notification obligations.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

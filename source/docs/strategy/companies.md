@@ -6,7 +6,7 @@ The most durable failure in corporate security is the belief that the organisati
 to be targeted. "We are not interesting enough" is a comfort, not an assessment. It is the mental
 equivalent of leaving the greenhouse unlocked because the orchids inside are not famous.
 
-The assets of a company are not only its systems. They are the mental representations that drive
+A company's assets extend beyond its systems to the mental representations that drive
 decisions about what is worth protecting, who the adversaries are, and what would count as a
 sufficient response. Most breaches begin not with a sophisticated exploit but with a gap between
 that model and the actual environment.
@@ -31,16 +31,15 @@ Organisations most often lose security arguments not because the rational case i
 because the conditions do not support change. A development team that has learned through
 experience that security reviews mean delays and rarely catch problems that count has formed
 a view. That view determines behaviour more reliably than a policy. Changing the view requires
-changing the experience, not issuing a better policy.
+changing the experience.
 
 When the security team is experienced as an enforcement function that adds friction and issues
 blame when things go wrong, information stops flowing to it. Incidents are managed locally.
 Near-misses are not reported. The security team operates on a version of reality that the
 organisation is careful not to disturb.
 
-The alignment between what the organisation says about security and what it actually does is
-not optional infrastructure. Security that appears in policy and disappears in practice is not
-security. It is a story the organisation tells about itself. People inside the organisation
+Security that appears in policy and disappears in practice is not security. It is a story
+the organisation tells about itself. People inside the organisation
 know the difference and adjust their behaviour accordingly.
 
 ## Incentives and accountability
@@ -61,8 +60,8 @@ that retained unnecessary data, the IT decisions that allowed permission sprawl,
 procurement decisions that chose a cheaper vendor with a weaker security posture are often
 made by people with no accountability for the downstream consequences.
 
-Clarifying ownership is not a cultural fix. It is a structural one. Who is accountable for
+Clarifying ownership is a structural fix. Who is accountable for
 the security consequences of a product decision needs to be answered before the decision
 is made, not after the breach.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

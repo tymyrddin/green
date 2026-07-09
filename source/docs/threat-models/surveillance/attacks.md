@@ -54,8 +54,7 @@ challenge it.
 
 ## Commercial bypass
 
-Rather than deploying technical surveillance infrastructure or obtaining judicial
-authorisation, agencies purchase data from commercial brokers. The data purchased
+Agencies purchase data from commercial brokers. The data purchased
 may include precise location histories extending over months or years, social
 connections derived from device proximity or shared network access, browsing and
 purchase behaviour, and biographical details compiled from public and semi-public
@@ -100,7 +99,7 @@ This is significant for the general population for two reasons. First, the defin
 "at risk of targeting" has expanded consistently over time and shows no sign of
 contracting. Second, passive collection of population-scale data affects everyone
 regardless of whether they are specifically targeted; it is the targeting criteria
-that determine whose file is examined, not whose data was collected.
+that determine whose file is examined.
 
 ## Parallel construction
 
@@ -144,4 +143,4 @@ landscape](landscape/biometric-and-border.md) sets out, but the exceptions are b
 enforcement is young. Misclassification at population scale is not a hypothetical
 risk: it is a statistical certainty.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -1,7 +1,7 @@
 # What's worth protecting?
 
-What is actually at stake in technology-facilitated abuse? Not just devices, and not just
-passwords. The assets at risk here are the pieces of your digital life that, when accessed
+What is actually at stake in technology-facilitated abuse? Not just devices and passwords.
+The assets at risk here are the pieces of your digital life that, when accessed
 or compromised, give someone else control over where you go, who you speak to, and how safe
 you feel doing either.
 
@@ -96,4 +96,4 @@ picture feels too large to take in at once.
 
 Identity first. Then access. Then everything else.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

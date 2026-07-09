@@ -15,7 +15,7 @@ common to them; the severity is not.
 
 ## The hole where the services live
 
-The national-security exemption in the GDPR is not a loophole to be closed. It is a deliberate design
+The national-security exemption in the GDPR is a deliberate design
 decision, the one the [surveillance model's legal landscape](../threat-models/surveillance/landscape/the-gdpr-hole.md)
 turns on: the EU excluded national-security activity from the regulation's scope, deferring to member-state
 sovereignty in the single area where harmonisation was politically impossible. The result is a regime whose
@@ -29,7 +29,7 @@ framework protects against the services has misread the map.
 Interception is the old picture. The newer one is procurement and assembly. Agencies buy location and
 behavioural data from the broker market because a purchase does not trip the safeguards a warrant would, and
 the [Databroker Files](../threat-models/surveillance/cases/databroker-files.md) showed that this reaches even
-EU and NATO officials rather than staying a theoretical risk.
+EU and NATO officials.
 
 Buying is only half of it. The [infrastructure-aggregation model](../threat-models/infrastructure-aggregation/index.rst)
 is the other half: routine, individually harmless public records, tenders, planning applications, network
@@ -68,7 +68,7 @@ risks a slice of worldwide revenue; the same pressure, applied consistently to t
 purpose limitation, could shrink the commercial layer the services buy from. Intelligence oversight itself
 remains underdeveloped relative to the transnational collection it is meant to govern: oversight between
 national mechanisms does not cover what flows through the sharing arrangements, and a European body with
-genuine access to cross-border programmes would be a structural improvement rather than a procedural one.
+genuine access to cross-border programmes would be a structural improvement.
 None of this dismantles security capacity. It builds governance that matches the capacity already there, and
 that has historically moved slowly, incompletely, and sometimes backwards.
 
@@ -79,4 +79,4 @@ receiving end of a state demand, [responding to a legal demand](../runbooks/lega
 data-subject request](../runbooks/data-subject-request.md) are the procedures worth having ready before they
 are needed.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -107,8 +107,8 @@ individual bad actor but because the reform threatens the equilibrium on which m
 depend.
 
 Working at leverage points does more than working at symptoms. Regulatory action that
-changes what the system is rewarded for, rather than action that addresses individual harms
-case by case, is the intervention that can actually move the equilibrium.
+changes what the system is rewarded for is the intervention that can actually move the
+equilibrium.
 
 ## Cascading model failures
 
@@ -117,8 +117,8 @@ blocked by political conditions that benefit from the status quo.
 
 This produces cascading model failures. Policy is made on models that are incomplete or
 outdated. Decisions based on those models produce outcomes that the models predicted were
-unlikely. The outcomes are attributed to implementation failures or external factors rather
-than to the models themselves. The models are not updated. The cycle continues.
+unlikely. The outcomes are attributed to implementation failures or external factors. The
+models are not updated. The cycle continues.
 
 The corrective is to treat recurring policy failures as evidence that the model is wrong
 rather than as evidence that the implementation was insufficient. If data protection regulation
@@ -153,4 +153,4 @@ the landscaping decisions for the larger garden are made somewhere else, by peop
 different interests, and the best individual greenhouse management in the world does not
 change what happens to the soil.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

@@ -1,6 +1,6 @@
 # Who is causing the harm or doing the surveillance?
 
-Who is behind the harm? The answer is not always obvious. It is not just "bad people doing bad things online." It is
+Who is behind the harm? The answer is not always obvious. It is
 a cast of characters, from central figures to silent enablers. Some act deliberately; others simply leave doors open.
 All contribute to the harm.
 
@@ -10,11 +10,11 @@ The central figure in this story. Not a mysterious figure in a basement, but som
 your voice, your habits, your weak spots, and probably your PIN.
 
 They may have had full access to your devices and accounts, often with your knowledge and trust.
-That access may have never been revoked. In many cases, the phone was a gift, the router was
+That access might never have been revoked. In many cases, the phone was a gift, the router was
 installed by them, or the login to your email is in a shared notes app "just in case."
 
 Their advantage is not primarily technical. It is relational. They know what you will click on.
-They know how to talk you round. They may justify surveillance as concern, control as care, or
+They know how to talk you round. They justify surveillance as concern, control as care, or
 financial interference as protecting you.
 
 Importantly: this applies to both current and former partners. In fact, some of the most
@@ -26,12 +26,12 @@ The capabilities available to an abusive partner are worth stating plainly, beca
 different from most adversary models.
 
 Knowledge: they may know your passwords (old and possibly current), the answers to your
-security questions, and which accounts you use for which purposes. They may know your recovery
-email address and your phone number. They may have watched you enter PINs.
+security questions, and which accounts you use for which purposes. Possibly your recovery
+email address and your phone number. They might have watched you enter PINs.
 
-Access: they may have active logged-in sessions on devices you no longer control. They may
-share accounts (streaming services, cloud storage, family plans) that were never properly
-separated. They may have had brief physical access to a device recently, even if you did not
+Access: they may have active logged-in sessions on devices you no longer control. Shared
+accounts (streaming services, cloud storage, family plans) were often never properly
+separated. They might have had brief physical access to a device recently, even if you did not
 know it.
 
 Tools: stalkerware or repurposed "parental control" applications; social engineering and
@@ -52,7 +52,7 @@ who provide tools, access, or legitimacy.
 * Private investigators are sometimes hired to track someone or dig up data. There is a grey
   market of operators who specialise in monitoring former partners.
 * Friends, family members, or mutual contacts may be drawn in: some willingly, others
-  manipulated. They may pass on information, share posts, or help with access without
+  manipulated. They pass on information, share posts, or help with access without
   realising what they are contributing to.
 
 The abuser controls the narrative. Everyone else plays a supporting role, often without
@@ -92,4 +92,4 @@ benefits from that access? And who is propping it up, even without knowing it?
 Once you can see who is in the room, digitally or otherwise, you can start making decisions
 about how to change that. One account. One setting. One step at a time.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

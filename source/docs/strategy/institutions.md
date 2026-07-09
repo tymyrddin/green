@@ -47,8 +47,8 @@ collaborators, rather than security as institutional risk management, is more li
 be received as aligned with research values. It is also more accurate.
 
 The cost of a breach in an academic context is significant and underweighted in institutional
-planning. A research group whose unpublished findings are leaked to a competitor does not just
-experience a data loss. It experiences a fundamental violation of the trust on which
+planning. A research group whose unpublished findings are leaked to a competitor
+experiences more than a data loss: a fundamental violation of the trust on which
 collaboration depends. The damage to relationships, to future collaboration, and to individual
 careers can be severe and lasting.
 
@@ -75,4 +75,4 @@ data management plans as a condition of grant approval could extend that to requ
 plans for research involving sensitive data or cross-border collaboration. This is a structural
 lever that does not depend on individual institutions to act first.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

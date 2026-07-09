@@ -40,14 +40,14 @@ adversary does not usually announce themselves. The anxious model makes communic
 can suppress the honesty and information flow that effective organisations depend on.
 
 People under stress communicate differently, and security cultures feel this before incident logs
-do. When staff feel that a security conversation will result in blame or burden rather than
-support, they will manage disclosures carefully. Near-misses will not be reported. Incidents will
+do. When staff feel that a security conversation will result in blame or burden, they will
+manage disclosures carefully. Near-misses will not be reported. Incidents will
 be minimised. The security culture will become incongruent with the actual state of the organisation.
 
 Building a culture where security incidents are reported without fear requires that reporting
 be experienced as useful rather than punishing. Respond to disclosures with problem-solving,
 not interrogation. Treat someone who reports a phishing click as someone who helped you find
-a gap, not someone who created a problem.
+a gap.
 
 ## The structural conditions
 
@@ -55,14 +55,13 @@ Civil society organisations are targeted partly because they contest power. The 
 conditions that make their work necessary also make them adversarial targets for actors with
 resources and institutional access that most NGOs cannot match.
 
-This is not defeatism. It is a calibration. The goal is not perfect security. The goal is
+This is not defeatism. It is a calibration. The goal is
 raising the cost and complexity of surveillance sufficiently that casual or speculative
 targeting becomes less rewarding, and that if targeted attacks do occur, the damage is
 contained.
 
 Solidarity between organisations is what does the work here. Shared threat intelligence, shared incident
-response resources, and mutual support when an organisation is under attack are not just
-nice-to-haves. They are structural defences against adversaries who benefit from civil society
+response resources, and mutual support when an organisation is under attack are structural defences against adversaries who benefit from civil society
 operating in isolation. Digital Defenders Partnership, Access Now's Digital Security Helpline,
 and Front Line Defenders all support organisations facing active threats.
 
@@ -70,4 +69,4 @@ The power asymmetry between the organisations described in the surveillance thre
 most NGOs is real. Accepting that asymmetry as fixed is not required. Collective action at
 regulatory and legislative level has reshaped data protection law before. That work continues.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-09.

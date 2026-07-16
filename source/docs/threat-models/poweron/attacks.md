@@ -1,6 +1,6 @@
 # What do these look like in real life?
 
-The attack patterns below are not hypothetical; they are
+These are not hypothetical patterns; they are
 the recurring shapes that technology-facilitated abuse takes. Each has a technical method
 underneath it, but the goal is always the same: reduce your independence, your credibility,
 and your sense of safety.
@@ -56,10 +56,10 @@ messages in your name; selective disclosure of real content stripped of context;
 reports to employers, schools, social services, or the police.
 
 The pattern exploits the credibility gap between "here is a document" and "I can prove it
-is false." Courts, employers, and platforms are not equipped to assess the authenticity of
+is false". Courts, employers, and platforms are not equipped to assess the authenticity of
 digital evidence reliably. The burden of proof tends to land on the person being targeted.
 
-Abuse shifts from "I say this about you" to "here is apparent proof you did it."
+Fabrication turns an accusation into apparent evidence: not a claim to be weighed but an artefact to be shown.
 
 ## Escalation via frustration
 
@@ -122,17 +122,17 @@ to you, not necessarily to take money outright.
 ## Smart home gaslighting
 
 Remote control of lights, thermostats, locks, and speakers creates an environment that
-responds unpredictably, where things happen without explanation and are difficult to describe
-to someone who has not experienced it. The effect is psychological: a persistent sense of
+responds unpredictably, where things happen without explanation and are hard to convey
+to anyone who has not lived inside it. The effect is psychological: a persistent sense of
 unpredictability in a space that should feel safe, and a creeping uncertainty about your
 own perception of events.
 
 ## Power and control, not technology
 
 Every one of these patterns is about power and control. The technology is the delivery
-mechanism. Naming the pattern is not the same as having a solution, but it is the start
-of one: if you can see it, you can plan around it.
+mechanism. Naming the pattern is not the same as having a solution, but once it is visible
+you can plan around it.
 
 You are not imagining it. You are not overreacting. And there are ways forward.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

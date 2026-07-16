@@ -15,8 +15,8 @@ the Information Commissioner's Office since September 2021. It is a statutory co
 Protection Act 2018, and it expects any online service a child under eighteen is likely to use to
 default to high privacy, to switch off profiling and location tracking unless there is a good reason,
 and to collect the minimum. Under the UK GDPR a child can consent to their own data being processed
-from the age of thirteen; below that a parent consents for them. The EU sets the same default higher,
-at sixteen, and lets member states lower it to thirteen, so the age varies across Europe.
+from the age of thirteen; below that a parent consents for them. The EU's default sits higher,
+at sixteen, though member states may lower it to thirteen, so the age varies across Europe.
 
 These rules have changed how the better services behave. They have not ended profiling, and they
 apply patchily to the games, apps, and platforms that sit outside their reach or ignore them.
@@ -51,4 +51,4 @@ from synthetic media to more convincing approaches by people seeking contact.
 None of this is a reason for alarm on its own. Together it means the question of what is known about a
 child, by whom, and for how long, is a live one in a way it was not a decade ago.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

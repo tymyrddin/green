@@ -1,6 +1,6 @@
 # How it plays out
 
-The patterns below are not dramatic breaches. They are the ordinary ways a child's data accumulates and
+These are not dramatic breaches. They are the ordinary ways a child's data accumulates and
 is acted on, each unremarkable in the moment and consequential in aggregate.
 
 ## The profile that starts before memory
@@ -15,8 +15,8 @@ already exists, assembled largely by people acting in good faith.
 
 A child opens an app built to keep them. Autoplay serves the next thing; a streak punishes a day away;
 a notification pulls them back. Each interaction is logged and feeds the tuning of the next. The pattern
-is not a single harm but a shaping: a developing relationship with attention bent toward the app's
-retention, at the age when such habits form most readily.
+is not a single harm but a shaping: a bond with the feed built to keep the child returning, formed at
+the age when such patterns set hardest.
 
 ## Aggregation into a lasting record
 
@@ -42,4 +42,4 @@ is the pattern the [stalkerware check playbook](../../playbooks/stalkerware-chec
 [audit shared accounts playbook](../../playbooks/audit-shared-accounts.md) address from the far side,
 once the watching is no longer wanted.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

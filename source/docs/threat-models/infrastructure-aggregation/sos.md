@@ -403,7 +403,7 @@ This allows reconstruction of parts of a defence logistics dependency network th
 
 ## Feasibility
 
-Building the S.O.S. system is technically feasible using existing open data, graph analysis tooling, geospatial systems, and document processing techniques.
+Building the SOS system is technically feasible using existing open data, graph analysis tooling, geospatial systems, and document processing techniques.
 
 The complexity lies less in collection than in:
 
@@ -426,4 +426,4 @@ gradually accumulates into operationally meaningful infrastructure visibility.
 In that sense, the modern attack surface is less purely technical. It is increasingly administrative, distributed,
 and assembled through correlation over time.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

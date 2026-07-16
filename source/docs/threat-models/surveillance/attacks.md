@@ -31,7 +31,7 @@ The practical intelligence value of metadata is, in most analytical contexts, hi
 than content. A social graph built from communications metadata maps networks,
 identifies key connectors, reveals relationships between organisations, and makes
 visible operational patterns that content alone would not expose. Former NSA Director
-Michael Hayden stated publicly that the US government "kills people based on metadata."
+Michael Hayden stated publicly that the US government "kills people based on metadata".
 The legal threshold for accessing metadata is, in most jurisdictions, lower than for
 content.
 
@@ -123,8 +123,8 @@ also its largest risk, because a system built for a narrow purpose can be querie
 another by anyone who holds the keys and acquires a motive. In 2026 the misuse of Bulgaria's
 Passenger Name Record system, the records of more than a hundred thousand people extracted
 and circulated for political ends, showed the pattern in the open (the
-[Bulgaria PNR case](cases/bulgaria-pnr.md)). Purpose limitation on paper does not constrain
-an official with both the access and a reason to use it, and the more databases are joined
+[Bulgaria PNR case](cases/bulgaria-pnr.md)). A narrow purpose written into a statute does little against
+an official who already holds the access and has found a reason, and the more databases are joined
 together, the more each insider can reach.
 
 ## AI-assisted analysis
@@ -138,9 +138,9 @@ generate assessments of future behaviour based on correlations rather than evide
 The analytical capability exists. The oversight frameworks for how it is applied, how
 its outputs are challenged, and what happens when it produces a false positive are
 generally underdeveloped. The EU AI Act draws some lines here, banning certain biometric and
-predictive uses while leaving wide law-enforcement exceptions, as the [legal
-landscape](landscape/biometric-and-border.md) sets out, but the exceptions are broad and the
+predictive uses while leaving wide [law-enforcement exceptions](landscape/biometric-and-border.md),
+but the exceptions are broad and the
 enforcement is young. Misclassification at population scale is not a hypothetical
 risk: it is a statistical certainty.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

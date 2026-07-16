@@ -33,7 +33,7 @@ Most tech security models are built for businesses: firewalls, hackers, boardroo
 This is not that.
 
 Here, the threat is not some figure in a hoodie. It is someone you might share a bed, a child,
-or a Netflix account with. They may not be doing anything that looks like "hacking." But they
+or a Netflix account with. They may not be doing anything that looks like "hacking". But they
 often have access (to your devices, accounts, or passwords), knowledge (of your habits, routines,
 and emotional triggers), and motivation (to monitor, control, or harm you). That combination
 changes the rules entirely.
@@ -62,4 +62,4 @@ Naming the pattern is the start; acting on it is the next step, and neither has 
 
 On this site, the practical response lives in the [survivor strategy](../../strategy/survivors.md) and its step-by-step guides, above all [digital safety steps when leaving](../../playbooks/leaving-safely.md), [checking a device for stalkerware](../../playbooks/stalkerware-check.md), and [reclaiming your primary email](../../runbooks/reclaim-email.md). This model is for understanding what is happening; those are for doing something about it.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

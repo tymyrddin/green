@@ -8,10 +8,11 @@ Threat models for specific contexts and adversary types.
    :maxdepth: 2
    :includehidden:
 
-   deanonymisation/index
-   infrastructure-aggregation/index
-   minors/index
-   poweron/index
+   commercial-data-extraction/index
    surveillance/index
+   infrastructure-aggregation/index
+   deanonymisation/index
+   poweron/index
+   minors/index
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

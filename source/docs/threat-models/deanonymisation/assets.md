@@ -69,7 +69,7 @@ DNA profiles are the most durable linking key of all, and the only one that impl
 
 GPS trails, mobile cell tower logs, transport card swipes, and geofenced advertising data. Location
 data is among the most re-identifying categories that exist. A 2013 study by de Montjoye et al.
-demonstrated that just four approximate location points are sufficient to uniquely identify 95% of
+demonstrated that just four approximate spatio-temporal points are sufficient to uniquely identify 95% of
 individuals in a mobile dataset.
 
 Continuous location data reveals home address, workplace, religious attendance, medical appointments,
@@ -123,4 +123,4 @@ reproduce identifying patterns; membership inference attacks can sometimes estab
 particular individual's data contributed to the training process. "It is synthetic" is not a
 guarantee of safety.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

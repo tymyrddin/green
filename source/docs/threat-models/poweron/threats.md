@@ -3,7 +3,7 @@
 These are the outcomes: the reasons all of this is worth taking seriously.
 
 Once access is established and tools are in place, what follows is not random. It is often
-deliberate, strategic, and highly personal. The aim is rarely just to "spy." It is to
+deliberate, strategic, and highly personal. The aim is rarely just to "spy". It is to
 undermine your autonomy, your relationships, your finances, and your sense of what is real.
 
 ## Surveillance
@@ -32,7 +32,7 @@ smart home systems to regulate your environment without your consent. Applying p
 through what appears to be concern about your routine, your spending, or your contacts.
 
 Control is most effective when it is exercised quietly. Obvious coercion leaves evidence.
-Ambient control, "I'm just worried about you," does not.
+Ambient control, "I'm just worried about you", does not.
 
 ## Isolation
 
@@ -101,9 +101,9 @@ where your identity or information is accessible.
 
 These threats are not technical problems with technical solutions. They are human ones,
 shaped to look like coincidences, glitches, and misunderstandings. Naming them is
-the first step toward addressing them.
+what turns a run of coincidences back into a problem you can act on.
 
-You are not imagining it. You are not overreacting. And understanding what is happening
+None of this is imagined, and none of it is an overreaction. And understanding what is happening
 is not the same as accepting it.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

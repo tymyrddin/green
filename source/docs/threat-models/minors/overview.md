@@ -5,7 +5,7 @@ consent to any of it. Before a baby can speak, there is often a name, a birth da
 rough location circulating through apps, clouds, and the accounts of proud relatives. By the time a
 child is old enough to ask who holds their data, the answer already runs to dozens of companies.
 
-The adults around a child, parents, carers, teachers, are the ones who can act on any of this, so it
+The adults around a child, parents, carers, teachers, are the ones who can act on any of this, so this model
 is written for them. It is not a guide to locking children down, and not a panic about screens. It
 asks the ordinary questions, what is at stake, who acts on it, how, and what the harm looks like, for
 someone too young to answer them for themselves.
@@ -38,4 +38,4 @@ For an adult, [checking a device for stalkerware](../../playbooks/stalkerware-ch
 [auditing shared accounts](../../playbooks/audit-shared-accounts.md), and
 [stripping metadata from photos](../../runbooks/photos.md) each cover part of it.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

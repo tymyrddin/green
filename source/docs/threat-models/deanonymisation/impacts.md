@@ -42,7 +42,7 @@ cycle. And some DNA test companies hand anonymised health data to insurers, wher
 the premiums certainly do not, especially for subgroups already under strain.
 
 Models reward the lucky, punish the rest, and rarely apologise. Worse, the solution often presented is to "add a human
-in the loop." But humans are where the biases came from; they just taught the machine to be more efficient about it.
+in the loop". But humans are where the biases came from; they just taught the machine to be more efficient about it.
 
 Avoiding bias is not rocket science: the techniques exist, and so do the tests. What is apparently missing is the
 incentive. Bias, like poor security in the past, is not profitable to fix. At least not yet.
@@ -138,7 +138,7 @@ Personal worth becomes a metric: engagement rate, credit score, productivity lev
 person is no longer a person. They are a performance indicator.
 
 This creates stress, alienation, and a strange new kind of inequality: algorithmic precarity. If a data profile does not
-match what the system thinks is "successful," the person's options quietly shrink.
+match what the system thinks is "successful", the person's options quietly shrink.
 
 It is data feudalism.
 
@@ -168,4 +168,4 @@ trace. Was it the model, the data, the person who trained it, or the person who 
 These systems create accountability gaps where no one is clearly at fault, and the harmed person has no clear path to
 recourse.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

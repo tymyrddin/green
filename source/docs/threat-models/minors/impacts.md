@@ -6,8 +6,7 @@ data has been easy to treat as a minor concern. Set out over the length of a lif
 ## A record that arrives before the person
 
 The clearest harm is a profile that reaches adulthood ahead of its subject. What was collected across a
-childhood does not expire at eighteen. It shapes what the new adult is shown, offered, charged, and
-assumed to be, in advertising, in pricing, and potentially in the checks made by employers, insurers,
+childhood does not switch off at eighteen. It shapes what the new adult is shown and sold, in advertising, in pricing, and potentially in the checks made by employers, insurers,
 and lenders. A person can arrive at adulthood already categorised on the strength of things they did
 before they could spell, with no realistic way to see the file or correct it.
 
@@ -16,8 +15,8 @@ before they could spell, with no realistic way to see the file or correct it.
 A childhood conducted under observation, whether commercial, educational, or parental, quietly narrows
 the space to explore. A child who senses that everything is recorded and may resurface learns to
 self-edit early. Some of that is prudence. Some of it is the loss of the ordinary freedom to try things,
-fail, and change without a permanent audience. The capacity to become someone different from your
-fourteen-year-old self depends on fourteen not being on file forever.
+fail, and change without a permanent audience. Growing past the person you were as a teenager is harder when that version of you is kept on file
+for good.
 
 ## Surveillance made normal
 
@@ -30,7 +29,7 @@ when the watching grows.
 ## Manipulation that lands harder
 
 Profiling aimed at a developing mind works on someone less equipped to see it. Advertising and
-engagement systems tuned to a child meet a person still learning that persuasion exists, still forming
+engagement systems tuned to a child meet someone who has not yet learned to see the pull, still forming
 the preferences being nudged. The effect is not a single bad purchase but influence exerted at the age
 when it shapes the most.
 
@@ -51,9 +50,9 @@ adults, the surveillance is heaviest where the capacity to resist it is least.
 ## Seriousness without alarm
 
 None of this argues for cutting children off from the connected world they will live in. It argues for
-treating their data with the seriousness its longevity deserves, and for noticing that the tools sold to
-protect them and the tools that expose them are frequently the same. Understanding the shape of the harm
+treating their data with the seriousness its longevity deserves, and for noticing how often the tool that
+guards a child and the tool that exposes them turn out to be one and the same. Understanding the shape of the harm
 is what lets the adults around a child make choices that protect without simply teaching the child to
 expect a life on the record.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

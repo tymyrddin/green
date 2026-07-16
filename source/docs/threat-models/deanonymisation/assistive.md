@@ -72,9 +72,9 @@ to a known author with high confidence given sufficient sample size.
   attribution, measuring the divergence between writing samples at the character and word level.
 
 Stylometry is particularly relevant to deanonymisation of whistleblowers, anonymous reviewers,
-and forum users who post substantial amounts of text under a pseudonym. The classical tools above have
+and forum users who post substantial amounts of text under a pseudonym. The classical tools just described have
 largely been overtaken: transformer and embedding-based models now attribute authorship without a
-candidate shortlist, and large language models infer an author's traits and identity from ordinary text
+prepared list of suspects, and large language models infer an author's traits and identity from ordinary text
 directly, as the [LLM-inference case](cases/llm-inference.md) shows.
 
 ## Notable reference cases and datasets
@@ -97,4 +97,4 @@ what is possible with these tools.
 These cases are not historical curiosities. They are the proof of concept that shapes current
 adversary practice, worked up in full in the [cases](cases/index.rst).
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

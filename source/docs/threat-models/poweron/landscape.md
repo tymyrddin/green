@@ -12,7 +12,7 @@ Synthetic identities can be built to interact over time.
 
 The effect is that evidence becomes deniable and harassment can be scaled without direct contact.
 A friend, an employer, or a court may be shown something that looks convincing and is entirely
-fabricated. Abuse shifts from "I say this about you" to "here is apparent proof you did it."
+fabricated. Abuse shifts from "I say this about you" to "here is apparent proof you did it".
 
 The law has begun to catch up. The EU's 2024 [Directive on violence against women](https://eur-lex.europa.eu/eli/dir/2024/1385/oj)
 criminalises the non-consensual sharing of intimate images and requires member states to criminalise
@@ -116,9 +116,9 @@ may remain entangled digitally in ways that are not immediately visible.
 
 ## No single fix
 
-Traditional advice, "block them, change your password, get a new number," is no longer
+Traditional advice, "block them, change your password, get a new number", is no longer
 sufficient on its own. Safety now requires systemic thinking: across devices, accounts,
 and services; across the people connected to you; and across the places where your identity
 and data exist.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

@@ -34,7 +34,8 @@ EU member states and is rarely truly independent).
 The Five Eyes alliance (United States, United Kingdom, Canada, Australia, New Zealand)
 is the most discussed, but several EU member states participate in expanded sharing
 arrangements under the Nine Eyes and Fourteen Eyes frameworks. These include the
-Netherlands, Denmark, France, Norway, Germany, Belgium, Italy, Spain, and Sweden.
+Netherlands, Denmark, France, Germany, Belgium, Italy, Spain, and Sweden, along with
+Norway, which sits outside the EU but inside the same arrangements.
 
 The mechanism is more structural than agencies spying on each other's citizens to
 order: each agency collects intelligence that it categorises as "foreign" (meaning
@@ -71,4 +72,4 @@ under plausible deniability.
 This is not a malfunction. It is the system working as built,
 under conditions of political stress that reveal what it was always capable of.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

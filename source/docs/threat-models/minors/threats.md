@@ -38,7 +38,7 @@ personal approach that feels, to the child, like it came from someone who alread
 The last objective is the quietest. Monitoring, whether by a controlling family member, a school, or a
 platform, aims at a degree of control over what a child does and sees. Even where the aim is
 protective, the effect includes teaching the child that being watched is ordinary. That habituation is
-itself an outcome some actors are content to produce, because a person who expects to be watched is
-easier to watch later.
+itself an outcome some actors are content to produce: a person who has always assumed an audience
+rarely thinks to question it.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

@@ -45,11 +45,10 @@ life online, are surveillance conducted out of care.
 Two things about it are worth stating without flinching. First, the tools are frequently the very same
 ones sold for abuse: a parental-control app and a piece of stalkerware are often one product with two
 marketing pages, which is why the [stalkerware check playbook](../../playbooks/stalkerware-check.md)
-reads the way it does. Second, constant monitoring teaches a child what to expect of being watched. A
-child raised to assume an adult can always see their screen learns that surveillance is the normal
-price of connection, and carries that lesson into adulthood.
+reads the way it does. Second, constant monitoring teaches a child what to expect of being watched, and that expectation,
+once set, is hard to unlearn.
 
 None of this makes an ordinary, caring parent an abuser. It means the tools deserve the same scrutiny
 turned on any other watcher, and that protection and control are closer neighbours than they look.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

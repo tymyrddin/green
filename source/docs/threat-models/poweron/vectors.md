@@ -4,7 +4,7 @@ Access in this context is rarely dramatic. It does not usually involve breaking 
 It involves using doors that were already open, or that were opened during the relationship and
 never properly closed.
 
-The following layers describe where those access points tend to be. Each layer has its own
+The access points cluster into a few layers, each with its own
 risks and its own starting points for protection.
 
 ## The identity layer
@@ -113,7 +113,7 @@ partner has. These are the same surfaces the [deanonymisation model](../deanonym
 describes being used at population scale; here they are turned on one person by someone who already
 holds the keys.
 
-Recognising the surfaces is the first step. The goal is not to close every door at once
+The goal is not to close every door at once
 but to know which ones exist, and to start with the ones that count most.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

@@ -12,7 +12,7 @@ Nothing here is leaked. Each source is published for legitimate reasons. The poi
 
 The Council of State [ruling 202502316-1-R4](https://www.raadvanstate.nl/uitspraken/@154674/202502316-1-r4/) (12 November 2025) turns on the Ministry of Defence's attempt to grant, in a single motion, "the environmental permit required for the construction and operation of the radar" (*"gelijktijdig ook de benodigde omgevingsvergunning voor het bouwen en in werking hebben van de radar te verlenen"*). The wording alone reveals the intent and the scope: not just construction, but operation.
 
-What the ruling decided cuts the other way. The Afdeling bestuursrechtspraak found it was not the competent court for that permit, because the Ministry never obtained the Tweede Kamer's consent for the RCR coordination route, and it referred the objections down to the Rechtbank Gelderland. The related challenge to the rijksinpassingsplan stays with the Council of State, with a hearing expected before the summer of 2026. So the permit is contested and unsettled rather than granted in perpetuity. The document reveals the plan more than it secures it.
+What the ruling decided cuts the other way. The Afdeling bestuursrechtspraak found it was not the competent court for that permit, because the Ministry never obtained the Tweede Kamer's consent for the RCR coordination route, and it referred the objections down to the Rechtbank Gelderland. The related challenge to the rijksinpassingsplan stays with the Council of State, which heard the case on 9 June 2026 with a written ruling to follow. So the permit is contested and unsettled rather than granted in perpetuity. The document reveals the plan more than it secures it.
 
 ### Local reporting
 
@@ -28,7 +28,7 @@ The RCR (*Rijkscoördinatieregeling*) is a fast-track planning route reserved fo
 
 ## Adversarial reading
 
-No intrusion and no special access are needed. The three public sources above are enough.
+No intrusion and no special access are needed. Three public sources are enough.
 
 ### Identify and prioritise strategic assets
 
@@ -40,12 +40,12 @@ The same set of documents exposes what the radar depends on but does not own: ex
 
 ### Infer timing and transition windows
 
-Construction status and procedural updates expose timing. The system is not yet fully operational. There are transitional phases where redundancy may be incomplete, and periods in which disruption would have disproportionate effect on availability. The point is not physical action; it is knowing when resilience is lowest.
+Construction status and procedural updates expose timing. The system is not yet fully operational. There are transitional phases where redundancy may be incomplete, and periods in which disruption would have disproportionate effect on availability. None of this needs an act of sabotage, only the knowledge of when resilience is lowest.
 
 ### Build a system-of-systems map
 
-Combined with public datasets for energy grids, transport, and communications, the Herwijnen file feeds something larger: a map of interdependencies between critical systems, of shared infrastructure nodes, of the support structures that several national capabilities draw from at once. The unit of analysis stops being one asset and becomes a network.
+Combined with public datasets for energy grids, transport, and communications, the Herwijnen file feeds something larger: a map of interdependencies between critical systems, of shared infrastructure nodes, of the support structures that several national capabilities draw from at once. What is being read stops being one asset and becomes a network.
 
-The [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/) holds the structural argument and where this fits into policy.
+Where a single radar dispute fits into the wider policy argument sits in the [strategic frame](https://purple.tymyrddin.dev/docs/admin-surface/strategy/).
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

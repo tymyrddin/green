@@ -7,7 +7,7 @@ from the inside.
 
 The most important attack surface is not technical. It is legal. The
 existence of legal access mechanisms means that the question is not "how do they get
-in" but "under what conditions is the door already open."
+in" but "under what conditions is the door already open".
 
 National security exemptions remove the most significant legal barriers. A surveillance
 activity conducted under a national security mandate operates outside GDPR entirely,
@@ -112,4 +112,4 @@ software with undisclosed telemetry, and hardware with firmware that may have be
 modified create collection opportunities that do not depend on legal process.
 The supply chain vector affects not just individual devices but network architecture.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

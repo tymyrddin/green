@@ -82,8 +82,8 @@ selective use of real content, manipulated screenshots, AI-generated material, f
 or false reports to employers, schools, or social services.
 
 Reputation harm is particularly difficult to recover from because the platforms and institutions
-that receive false information are not equipped to verify it, and the burden of proof often
-falls on the person being targeted.
+that receive false information are not equipped to verify it, and the work of putting the record straight
+falls on the one it was aimed at.
 
 ## Where to start
 
@@ -96,4 +96,4 @@ picture feels too large to take in at once.
 
 Identity first. Then access. Then everything else.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

@@ -11,7 +11,7 @@ your voice, your habits, your weak spots, and probably your PIN.
 
 They may have had full access to your devices and accounts, often with your knowledge and trust.
 That access might never have been revoked. In many cases, the phone was a gift, the router was
-installed by them, or the login to your email is in a shared notes app "just in case."
+installed by them, or the login to your email is in a shared notes app "just in case".
 
 Their advantage is not primarily technical. It is relational. They know what you will click on.
 They know how to talk you round. They justify surveillance as concern, control as care, or
@@ -92,4 +92,4 @@ benefits from that access? And who is propping it up, even without knowing it?
 Once you can see who is in the room, digitally or otherwise, you can start making decisions
 about how to change that. One account. One setting. One step at a time.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

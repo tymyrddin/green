@@ -1,6 +1,6 @@
 # And what can it do to you?
 
-The impacts of technology-facilitated abuse go well beyond "someone read my texts." This is
+The impacts of technology-facilitated abuse go well beyond "someone read my texts". This is
 not about inconvenience or privacy preferences. It is about long-term, often invisible harm,
 and it does not stop when the relationship ends or the device is finally out of their reach.
 
@@ -72,7 +72,7 @@ that makes it difficult to describe what is happening to others.
 
 Many survivors develop symptoms of PTSD or complex PTSD, particularly after prolonged
 exposure to this kind of environment. The harm is not just psychological in the colloquial
-sense of "upsetting." It is physiological, structural, and long-term.
+sense of "upsetting". It is physiological, structural, and long-term.
 
 The difficulty of being believed compounds this: when you cannot explain clearly what is
 happening, when the evidence is technical, when the abuser appears credible, the isolation
@@ -83,9 +83,9 @@ of not being believed is its own form of harm.
 These impacts are real, measurable, and deeply human. They are not paranoia, overreaction,
 or weakness.
 
-Understanding what is happening is the beginning of addressing it. And addressing it, one
+Understanding what is happening does not lift the weight on its own, but a response is built on it. And addressing it, one
 step at a time, is possible. People do it. It is hard. But the harm that technology enables
 can also partly be reduced through technology, alongside the human support that nothing in this
 model can replace.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

@@ -61,7 +61,7 @@ Counterintuitively, sparse data is often more dangerous.
 Sparsity-based techniques exploit the fact that rare behaviours are inherently identifying. Someone who is the
 only person in a dataset to have attended a particular event, lived in a small village, and carried an unusual
 medical history can be pinned by those three facts alone. A 2013 study by de Montjoye and colleagues found that
-just four approximate location points uniquely identify 95% of individuals in a mobile dataset, and a 2019
+just four approximate spatio-temporal points uniquely identify 95% of individuals in a mobile dataset, and a 2019
 generalisation put re-identification at 99.98% from fifteen attributes ([cases](cases/anonymous-is-a-myth.md)). Anonymisation that works for common profiles
 tends to fall apart at the edges.
 
@@ -117,9 +117,9 @@ See also: [AI profiling techniques](../../code/ai-profiling.md).
 
 ## Inference from writing
 
-The sharpest recent development is inference rather than extraction. A large language model does not need a target's data in its training set to expose them; it reads what they write. Given ordinary text, current models infer location, income, age and sex with high accuracy, and given a browser they will search the open web and propose a name. This subsumes classical stylometry, authorship attribution that once needed a candidate shortlist and specialist tooling, and does it at scale from a standing start.
+The sharpest recent development is inference rather than extraction. A large language model does not need a target's data in its training set to expose them; it reads what they write. Given ordinary text, current models infer location, income, age and sex with high accuracy, and given a browser they will search the open web and propose a name. This swallows classical stylometry. Where authorship attribution once needed a fixed set of suspects and purpose-built software, a model works from open text alone, cheaply and at once.
 
-It also defeats the assumption behind most text-based privacy advice: removing names and obvious identifiers no longer helps once the reader reasons from the incidental ([LLM-inference case](cases/llm-inference.md)).
+It also defeats the assumption behind most text-based privacy advice: removing names and obvious identifiers no longer helps once the reader can draw conclusions from the incidental detail ([LLM-inference case](cases/llm-inference.md)).
 
 ## Data poisoning
 
@@ -164,4 +164,4 @@ The classic quiet exit. Exfiltration is the extraction of data from a secure env
 incrementally and under the radar: a few records at a time, disguised as normal traffic, or piggybacking
 on legitimate integrations. By the time the loss is detected, the data has long since changed hands.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

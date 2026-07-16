@@ -6,7 +6,7 @@ Marketers bid more for a person's attention than anyone would ever pay for the c
 
 ## Meaningful consent
 
-Meaningful consent has three properties. It is informed: the person knows what they are agreeing to, in plain language, before agreeing to anything. It is specific: they have consented to this use of their data, not to a vague intention to use it for "service improvement and related purposes." And it is revocable: they can withdraw it, and something actually changes when they do.
+Meaningful consent has three properties. It is informed: the person knows what they are agreeing to, in plain language, before agreeing to anything. It is specific: they have consented to this use of their data, not to a vague intention to use it for "service improvement and related purposes". And it is revocable: they can withdraw it, and something actually changes when they do.
 
 The current model offers none of this. It offers a dialogue box designed to frustrate, a pre-ticked checkbox, and a "Reject All" button that takes three more clicks than "Accept All" and resets on every return.
 
@@ -22,4 +22,4 @@ For adversaries, the consent economy is not a problem to work around. It is a fe
 
 The fiction of consent does not protect the person who clicked. It protects the organisation that asked them to.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

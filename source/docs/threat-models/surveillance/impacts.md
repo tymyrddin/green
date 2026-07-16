@@ -54,7 +54,7 @@ internal communications may be accessed constrains what can be discussed and how
 Reputational and funding attacks: intelligence about internal disagreements, financial
 pressures, or sensitive cases can be used to generate public-facing attacks, trigger
 regulatory investigations, or pressure donors. This is the functional equivalent of
-the disinformation operations in the deanonymisation model, with state
+a private disinformation campaign, with state
 resources behind it.
 
 ## Companies
@@ -139,4 +139,4 @@ future government's definition, become a threat.
 The system does not need to punish often. It needs to be perceived as capable of it.
 That perception is, at this point, well-founded.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-16.

@@ -10,11 +10,11 @@ little auxiliary information, a public database, or a capable model.
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Anonymous is a claim about effort, not a property of data.
+   :caption: Documented, not hypothetical.
 
    anonymous-is-a-myth.md
    llm-inference.md
    genetic-genealogy.md
    fingerprint-to-name.md
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-16.

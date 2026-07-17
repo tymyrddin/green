@@ -39,8 +39,8 @@ replacement it was supposed to bridge to.
 
 ## The SDK economy
 
-Much of the collection on a phone is not done by the apps a person chose. It is done by
-third-party code bundled inside them: analytics, advertising, attribution, and location
+Much of the collection on a phone runs on third-party code bundled inside the apps a person
+chose: analytics, advertising, attribution, and location
 kits dropped in by the developer, each shipping data back to a firm the user never picked.
 A weather app, a torch, a free game, a period tracker may each carry several. The
 permission a person grants the app becomes data for its partners, and none of those
@@ -81,9 +81,11 @@ gatekeepers from combining a person's data across their own services for adverti
 without consent. Both bite on how the profile is used and joined up. Neither stops the
 profile being built.
 
-Meanwhile the law written for the cookie itself has stalled. The ePrivacy Regulation,
-proposed in 2017 to modernise the rules the banners rest on, has still not been adopted.
-The mechanics keep moving; the instrument meant to govern them sits unfinished.
+Meanwhile the law written for the cookie itself was abandoned. The ePrivacy Regulation,
+proposed in 2017 to modernise the rules the banners rest on, never passed: the Commission
+withdrew it in February 2025, having concluded that no agreement was coming and that the
+draft had aged out of both its technology and its law. What still governs is the directive
+from 2002 that the regulation was meant to replace, written for a web that no longer exists.
 
 ## What has actually changed
 
@@ -95,4 +97,4 @@ sensitive categories, minors, which leaves the building of the profile largely u
 
 Underneath the language of each rearrangement, collection has not shrunk. It changed rails.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

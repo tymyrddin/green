@@ -12,6 +12,6 @@ Several EU member states take part in the Nine Eyes and Fourteen Eyes signals-in
 
 ## Buying what a warrant would require
 
-Government agencies can and do buy data from commercial brokers, acquiring location histories, behavioural profiles, social connections and identity information without the legal threshold that targeted collection would demand. Because brokers compile the material from advertising ecosystems, app telemetry and public databases, the product is detailed, current and lawfully held by the broker; the onward sale to an agency needs no warrant. In the United States the practice is documented and contested. In Europe it is less publicly examined, and it operates in the gap between consumer data protection, where the GDPR applies, and national security, where it does not. The [Databroker Files](../cases/databroker-files.md) investigation showed how far that reach extends, into the location traces of officials inside the EU's own institutions.
+Government agencies can and do buy from commercial brokers what the legal threshold for targeted collection would otherwise demand; because the broker holds the material lawfully, the onward sale needs no warrant of its own. In the United States the practice is documented and contested. In Europe it is less publicly examined, and it operates in the gap between consumer data protection, where the GDPR applies, and national security, where it does not.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

@@ -32,8 +32,7 @@ Further along, the profile stops suggesting and starts deciding. Creditworthines
 spending patterns, insurance priced from lifestyle and behavioural signals, tenants and job
 applicants screened against bought data: here the [inferred attribute](assets.md) becomes a
 gate. A guess about a person, right or wrong, firm or shaky, turns into a loan refused, a
-premium raised, an application quietly dropped, usually with no reason given and little to
-appeal to. The GDPR's Article 22 restricts decisions taken solely by automation where they
+premium raised, an application quietly dropped. The GDPR's Article 22 restricts decisions taken solely by automation where they
 carry legal or similarly significant effects, which is a fair signal of how consequential
 this objective is understood to be. The boundary between commercial scoring and state
 scoring is thinner than it looks.
@@ -74,4 +73,4 @@ Behind it, the profile earns most where it sorts people into prices, reads them 
 and decides on their behalf. Naming only the first objective is how the others keep working
 undisturbed.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

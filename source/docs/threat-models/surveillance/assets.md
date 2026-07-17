@@ -11,26 +11,24 @@ At the individual level, the assets are the raw materials of a person's digital 
 but the value placed on them here is different from how a data broker sees them.
 Intelligence agencies are not in the business of selling anyone things.
 
-Identity signals: a name, national identity number, passport details, address
-history, and the identifiers that attach a person to accounts, devices, and services.
-These are the root of any surveillance file.
+At the root of any file sit the identity signals: a name, a national identity number,
+passport details, address history, and the identifiers that fasten a person to their
+accounts, devices, and services. Everything else hangs off those.
 
-Behavioural patterns: routine, movement, schedule, purchasing
-habits, online activity over time. Patterns are more useful than snapshots
-because they enable prediction. Knowing where a person is is useful; knowing where they
-will be is more so.
+Then the patterns. Routine, movement, schedule, purchasing habits, online activity
+gathered over time. A pattern beats a snapshot because it predicts. Knowing where a
+person is has its uses; knowing where they will be on Thursday has more.
 
-Social graph: who a person communicates with, how often, through which channels, and in
-what organisational contexts. The social graph is often more revealing than the
-content of communications. Mapping the graph of an activist network, a newsroom,
-or a diaspora community produces intelligence about structure, not just individuals.
+The social graph is often more revealing than anything said across it: who a person
+talks to, how often, through which channels, in what organisational context. Map the
+graph of an activist network, a newsroom, or a diaspora community and what comes back
+is its structure, not any individual in it.
 
-Beliefs and affiliations: political views, religious practice, union membership,
-civil society participation, protest attendance, and association with groups or
-causes that may be of interest to a surveilling party. These attributes are
-particularly sensitive because they are exactly what freedom of association and
-freedom of thought are meant to protect, and exactly what politically motivated
-surveillance tends to target.
+Last come beliefs and affiliations, which are the most sensitive of the four for a
+plain reason. Political views, religious practice, union membership, civil society
+work, who marched and with whom: these are precisely what freedom of association and
+freedom of thought exist to protect, and precisely what politically motivated
+surveillance goes looking for.
 
 ## Organisational layer
 
@@ -38,47 +36,44 @@ Non-governmental organisations, civil society groups, trade unions, religious
 institutions, diaspora communities, and media organisations hold assets that are
 of interest to surveillance for different reasons than individual data.
 
-Beneficiary and partner data: organisations working with vulnerable populations,
-refugees, people in conflict zones, or political dissidents hold records that
-identify people whose exposure would carry direct personal risk. A donor database,
-a case management system, or an encrypted communications channel is valuable to
-a surveilling party precisely because the people it contains may be difficult to
-locate through other means.
+The first is who they hold. An organisation working with refugees, people in conflict
+zones, or political dissidents keeps records naming people for whom exposure carries
+direct personal risk. A donor database, a case management system, an encrypted channel:
+each is valuable precisely because the people inside it are hard to find any other way.
+The organisation is not the target. It is the index.
 
-Internal strategy and communications: board discussions, legal correspondence,
-strategic planning documents, and confidential communications with partner
-organisations. The interest here is in understanding what a civil society group
-knows, who it is coordinating with, and what it intends to do. This is relevant
-both to domestic intelligence agencies monitoring political opposition and to
-foreign intelligence agencies assessing influence networks.
+The second is what they intend. Board discussions, legal correspondence, strategic
+plans, confidential exchanges with partners. Reading these answers what a group knows,
+who it is coordinating with, and what it means to do next, which interests a domestic
+agency watching political opposition and a foreign one mapping influence in roughly
+equal measure.
 
-Funding and donor networks: who funds a civil society organisation and on what
-terms is operationally useful information. It can be used to apply pressure on
-funders, to map financial networks, or to generate regulatory or reputational
-challenges.
+The third is who pays. Funding and donor networks are operationally useful because they
+are leverage: pressure applied to a funder, a financial network mapped, a regulatory or
+reputational problem manufactured at one remove from the organisation itself.
 
 ## Structural layer
 
 At the national and EU level, the assets are not individuals or organisations but
 patterns and aggregates that describe the state of a society.
 
-Population behaviour and political sentiment: aggregate data about what large numbers
-of people believe, how they communicate, and how they organise. This is the input to
-predictive models of political stability, social unrest, and electoral behaviour. The
-asset here is the model, not any individual record.
+Population behaviour and political sentiment come first: what large numbers of people
+believe, how they communicate, how they organise. Fed into predictive models of political
+stability, social unrest, and electoral behaviour, the asset stops being any record and
+becomes the model built from all of them.
 
-Economic and research intelligence: trade secrets, R&D data, negotiating positions,
-procurement information, and technological capability assessments. This is the domain
-of industrial espionage, which is conducted by allied states as well as adversarial ones.
-The Snowden disclosures of 2013 included documentation of US collection targeting EU trade
-negotiating positions.
+Economic and research intelligence is the next tier. Trade secrets, R&D data, negotiating
+positions, procurement information, assessments of what a rival can actually build. This
+is industrial espionage, and allied states run it as readily as adversarial ones; the
+Snowden disclosures of 2013 documented US collection against EU trade negotiating
+positions.
 
-Critical infrastructure data: communications patterns, dependency maps, and operational
-data about energy, transport, financial, and digital infrastructure. This is both an
-intelligence asset and a pre-positioning asset for offensive operations.
+Then critical infrastructure: communications patterns, dependency maps, operational data
+on energy, transport, finance, and the digital layer under all of them. It reads as
+intelligence in peacetime and as pre-positioning in anything else.
 
-At the structural level, the asset is not a person. It is a
-population model. And population models are built from individual records whether or
-not any individual was the intended target.
+At the structural level the asset is not a person. It is a population model. And a
+population model is built from individual records whether or not any individual was
+ever the point.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

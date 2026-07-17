@@ -77,24 +77,12 @@ largely been overtaken: transformer and embedding-based models now attribute aut
 prepared list of suspects, and large language models infer an author's traits and identity from ordinary text
 directly, as the [LLM-inference case](cases/llm-inference.md) shows.
 
-## Notable reference cases and datasets
+## The barrier that is not there
 
-The research literature on re-identification relies on a set of landmark cases that demonstrate
-what is possible with these tools.
+The through-line is cost. Nearly everything here is free or cheap, most of it is open source,
+and little of it needs a specialist to drive. The landmark re-identifications were research
+projects in their day, each one a paper with named authors; the same work now runs on a laptop
+with libraries a student installs in an afternoon. What that looks like when someone actually
+does it is the [cases](cases/index.rst).
 
-* Netflix Prize dataset (Narayanan and Shmatikov, 2008): supposedly anonymous film rating
-  data re-identified by cross-referencing with public IMDb reviews. Demonstrated that sparse,
-  apparently innocuous behavioural data is highly identifying.
-* AOL search logs (2006): 20 million search queries released as "anonymous" data. Journalists
-  re-identified individuals within days from the content of their queries alone.
-* NYC Taxi dataset (2014): taxi trip records with "anonymised" medallion and licence-number
-  hashes cracked via brute force by Vijay Pandurangan, with Anthony Tockar then re-identifying
-  individual passengers and their trips.
-* de Montjoye mobility study (2013): showed that four approximate spatio-temporal data points
-  are sufficient to uniquely identify 95% of individuals in a mobile location dataset of 1.5
-  million people.
-
-These cases are not historical curiosities. They are the proof of concept that shapes current
-adversary practice, worked up in full in the [cases](cases/index.rst).
-
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

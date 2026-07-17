@@ -79,32 +79,25 @@ regardless of what a bilateral agreement says.
 
 ## Commercial vectors
 
-Data brokers aggregate and sell information that would otherwise require legal
-instruments to collect. Location data, behavioural profiles, social connections, and
-identity information purchased from brokers is acquired commercially, not through
-interception. No warrant is required. No target needs to be named. The purchase is
-a commercial transaction.
-
-The advertising technology ecosystem generates surveillance-grade data as a byproduct
-of serving advertisements. Location data, device identifiers, browsing history, and
-app usage patterns flow through ad-tech pipes at scale. This data is commercially
-available to any buyer with a budget, including government agencies and their
-contracted intermediaries, as the [Databroker Files](cases/databroker-files.md) investigation
-of 2025 demonstrated inside the EU's own institutions.
+The route here is a purchase order. Brokers and the ad-tech ecosystem sell what interception
+would otherwise have to reach, a way in that needs no intrusion at all ([commercial
+bypass](attacks.md)).
 
 ## Structural vectors
 
 Infrastructure dependency: European digital infrastructure is heavily reliant on
 non-EU platforms, cloud services, and hardware manufacturers. Data processed on
 foreign infrastructure is subject to foreign legal jurisdiction regardless of where
-the data subject lives. This is not a targeted attack vector. It is a structural
-condition that creates permanent jurisdictional leakage.
+the data subject lives. Nobody has to aim it: the leakage is a standing condition of
+where the data sits, not an attack anyone launches.
 
 State database interoperability: the EU's border and security databases (the Entry/Exit
 System, Eurodac, the Schengen and Visa Information Systems) are being connected into a shared
 biometric search layer, described in the [legal landscape](landscape/biometric-and-border.md).
 Interoperability is less an intrusion than a change of scale: data gathered for one purpose
-becomes queryable alongside everything else, and joinability is itself a capability.
+becomes queryable alongside everything else, and joinability is itself a capability. The
+[aggregation model](../infrastructure-aggregation/index.rst) runs the same arithmetic on public
+records, where each document is routine and the combination is the finding.
 
 Vendor supply chain: telecommunications equipment from vendors with contested
 relationships to foreign governments (the most discussed example being Huawei),
@@ -112,4 +105,4 @@ software with undisclosed telemetry, and hardware with firmware that may have be
 modified create collection opportunities that do not depend on legal process.
 The supply chain vector affects not just individual devices but network architecture.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

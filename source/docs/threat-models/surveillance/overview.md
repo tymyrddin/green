@@ -52,13 +52,12 @@ Chancellor's communications. These are facts of record.
 
 ## The commercial layer
 
-The most underexamined part of the picture is the commercial data infrastructure.
-Data brokers aggregate location data, behavioural profiles, and identity information
-from apps, advertising ecosystems, and public sources, and they sell to commercial
-buyers. Government agencies in the United States have purchased location data from
-brokers to obtain information they would otherwise require a warrant to collect.
-In Europe the [Databroker Files](cases/databroker-files.md) investigation of 2025 showed
-the same commercial data exposing the movements of officials inside the EU's own institutions.
+The state does not have to collect what it can buy. Agencies in the United States have
+purchased location data from brokers; in Europe the [Databroker Files](cases/databroker-files.md)
+investigation of 2025 found the same feeds carrying the movements of officials inside the EU's
+own institutions. Nothing in that market was built for the state: it runs on
+[advertising identifiers, real-time bidding and broker
+enrichment](../commercial-data-extraction/index.rst), and sells to whoever pays.
 
 This is not interception. It is procurement. And it is largely unregulated in the
 national security context precisely because GDPR does not apply there.
@@ -72,4 +71,4 @@ under plausible deniability.
 This is not a malfunction. It is the system working as built,
 under conditions of political stress that reveal what it was always capable of.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

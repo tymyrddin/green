@@ -50,6 +50,8 @@ give away a home or a school even when the caption does not.
 The newest surface, and an ironic one. Verifying that a user is old enough, now required of many
 services, often means collecting identity: a face scan, a document, a card. A measure meant to protect
 children can attach a verified identity to a child's activity, becoming a collection point in its own
-right.
+right. The identity layer this increasingly runs on, the EU wallet under eIDAS 2.0 and the biometric
+databases behind it, sits in the [surveillance model's
+landscape](../surveillance/landscape/biometric-and-border.md).
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

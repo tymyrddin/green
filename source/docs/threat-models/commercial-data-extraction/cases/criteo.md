@@ -11,9 +11,9 @@ case reached the data of roughly 370 million Europeans.
 
 Criteo is the adtech middle made visible. Most people have never chosen it, or heard of it,
 yet its cookie followed them from publisher to publisher, building the browsing picture that
-priced each advert. The [adversaries](../adversaries.md) page describes this layer as the one
-that touches no consumer directly and appears in no policy anyone reads. The fine is what it
-looks like when that layer is finally named.
+priced each advert. The [adtech middle](../adversaries.md) touches no consumer directly and
+appears in no policy anyone reads. The fine is what it looks like when that layer is finally
+named.
 
 ## Consent it could not show
 
@@ -31,4 +31,4 @@ chain in which each party assumes someone else obtained the yes, and no one can 
 The penalty landed on the firm that profited from the profile, not the site that displayed
 the banner.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

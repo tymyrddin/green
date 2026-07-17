@@ -60,10 +60,9 @@ Counterintuitively, sparse data is often more dangerous.
 
 Sparsity-based techniques exploit the fact that rare behaviours are inherently identifying. Someone who is the
 only person in a dataset to have attended a particular event, lived in a small village, and carried an unusual
-medical history can be pinned by those three facts alone. A 2013 study by de Montjoye and colleagues found that
-just four approximate spatio-temporal points uniquely identify 95% of individuals in a mobile dataset, and a 2019
-generalisation put re-identification at 99.98% from fifteen attributes ([cases](cases/anonymous-is-a-myth.md)). Anonymisation that works for common profiles
-tends to fall apart at the edges.
+medical history can be pinned by those three facts alone. The [research](cases/anonymous-is-a-myth.md) has put
+numbers on how few such facts it takes, and the count is consistently lower than whoever prepared the release
+expected. Anonymisation calibrated for the common profile falls apart at the edges.
 
 ## Data linkage
 
@@ -164,4 +163,4 @@ The classic quiet exit. Exfiltration is the extraction of data from a secure env
 incrementally and under the radar: a few records at a time, disguised as normal traffic, or piggybacking
 on legitimate integrations. By the time the loss is detected, the data has long since changed hands.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

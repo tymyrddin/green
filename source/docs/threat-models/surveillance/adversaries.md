@@ -49,10 +49,11 @@ everything on it, and licence it to government clients. The Israeli NSO Group's 
 the best known; its use against politicians, journalists and lawyers across several EU
 member states prompted the European Parliament's PEGA inquiry. It is not alone. Intellexa's
 Predator surfaced in scandals in Greece and beyond, and in 2025 Paragon's Graphite was
-forensically confirmed on the phones of European journalists, in some cases deployed by a
-member state's own intelligence service. The [Paragon case](cases/paragon.md) is the current
-instance of a recurring pattern: the capability is an industry, and it is available to any
-government that will pay.
+forensically confirmed on the phones of European journalists and activists. Italy's own
+oversight committee acknowledged the state had used the tool against two migrant-rescue
+activists, while leaving open who had targeted a journalist infected in the same period. The
+[Paragon case](cases/paragon.md) is the current instance of a recurring pattern: the
+capability is an industry, and it is available to any government that will pay.
 
 ## Law enforcement
 
@@ -85,22 +86,15 @@ state-held data.
 
 ## The commercial data layer
 
-This is the adversary that appears on no intelligence community organogram. The commercial
-data ecosystem: data brokers, ad-tech networks, telecommunications providers acting as
-data suppliers, and the broader infrastructure of behavioural tracking that monetises
-consumer attention. These entities are not conducting surveillance in the sense of
-targeting specific individuals for intelligence purposes. They are conducting surveillance
-in the sense of systematically collecting, processing, and selling information about
-human behaviour at scale.
+This is the adversary that appears on no intelligence community organogram, and the one that
+is barely an adversary at all. The [trade itself](../commercial-data-extraction/adversaries.md)
+collects and sells at scale for reasons that have nothing to do with intelligence. What puts
+it here is the second sale: agencies buy the product, and platform data reaches them through
+legal instruments or informal cooperation, so the commercial layer extends state visibility
+into domains that would otherwise need an intrusive operation and a legal authorisation.
 
-They supply the state. Government agencies purchase
-data from brokers. Intelligence agencies can access platform data through legal instruments
-or informal cooperation. The commercial layer extends state visibility into domains that
-would otherwise require intrusive technical operations and legal authorisation, and it
-does so legally, at commercial rates, with no requirement for a warrant.
-
-The broker is not an adversary in the sense of intending harm. It is an adversary in the
-sense of being a structural participant in a system that enables harm.
+The broker intends no harm. It qualifies as an adversary by being a structural
+participant in a system that produces harm anyway.
 
 ## Regulatory bodies
 
@@ -115,4 +109,4 @@ This is the adversary that does not look like one. It looks like bureaucracy. Th
 flows it generates are a byproduct of legitimate regulatory function, but byproducts
 can be collected and repurposed.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

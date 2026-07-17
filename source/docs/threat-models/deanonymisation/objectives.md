@@ -1,17 +1,27 @@
 # Objectives
 
-Adversaries in the data garden are not here for a leisurely stroll. They are digging through the compost, rummaging under the mulch, and pulling up every root they can find. The aim is exposure: not the pleasant kind, like a bit of spring sun, but the sort that turns anonymised data into personal profiles, behaviours into blueprints, and networks into neat little diagrams of who-knows-whom.
+Adversaries in the data garden are not here for a leisurely stroll. Exposure comes in three
+kinds, and the distinction is not academic: a determined one can win without ever learning a
+name. The defences differ by kind, and a release that survives one can still fall to another.
 
 ## Identity disclosure
 
-The crown jewel of any data-harvesting expedition: matching the pseudonymous daffodil in a dataset to an actual person. This is the moment an adversary looks at a string of identifiers and says, "Ah yes, that is Bob from Amsterdam." Once identity is disclosed, privacy stops being theoretical and starts being personal.
+The prize of the whole dig: matching a pseudonymous record to an actual person. This is the
+moment an adversary looks at a string of identifiers and says, "Ah yes, that is Bob from
+Amsterdam." Once identity is out, privacy stops being theoretical and starts being personal.
 
 ## Content disclosure
 
-Sometimes it is not just who a person is, but what they have growing in their patch. Content disclosure is the unmasking of sensitive personal data: medical conditions, political leanings, sexuality, religious beliefs, memberships, and other protected petals. It includes identity documents and bank details, the kind of data that does not belong in the wild unless someone is actively trying to be burgled.
+Not who a person is, but what is growing in their patch. Content disclosure is the unmasking of
+the sensitive attribute itself: a medical condition, a political leaning, sexuality, religion,
+a membership, alongside the flatter kinds of damage like an identity document or a bank detail.
+It needs no identification at all. Learn that everyone in a small group shares a diagnosis and
+the diagnosis is out for all of them at once, the names never required.
 
 ## Link disclosure
 
-If the flower cannot quite be identified, trace the roots. Link disclosure is about relationships: who talks to whom, who buys what, who follows which fertiliser brand on Instagram. Even when identities stay technically hidden, connections often give the game away. It is like recognising someone not by their name, but by every plant in their allotment.
+The roots rather than the flower: who talks to whom, who buys what, who turns up where.
+Connections give the game away even when identities stay technically hidden, because a network's
+shape is its own signature. Recognise the pattern and the label on the node is a formality.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

@@ -12,8 +12,8 @@ relationships, religion, political opinion, and, in a detail particular to the p
 whether a person was a defector from North Korea. None was asked directly. Meta assembled
 them by reading which pages a person liked and which adverts they clicked, turning ordinary
 engagement into advertising topics that named a faith or marked someone as gay or
-transgender. The [assets](../assets.md) page calls the inferred trait the highest-value asset
-in the model; this is that asset built at national scale and sold by the thousand.
+transgender. The [inferred trait](../assets.md) is the highest-value thing the market makes,
+and this is that trait built at national scale and sold by the thousand.
 
 ## Not the regulator's first pass
 
@@ -29,4 +29,4 @@ This is [inferring the protected trait](../attacks.md) at platform scale, the sa
 [Grindr](grindr.md) and [Flo](flo.md) show on smaller stages. The likes were the raw
 material; the sensitive topic was the product; a checkbox marked sensitive was never needed.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

@@ -16,12 +16,11 @@ personal offer is often just a personal price.
 
 ## Judged before you arrive
 
-Further along, the profile stops nudging and starts deciding. A [risk score](objectives.md)
-built from bought and inferred data settles the loan, the tenancy, the premium, the shortlist,
-before a person has said a word. A wrong inference costs as much as a right one, and usually
-more, since the person cannot see the guess that sank them and has no obvious door marked
-appeal. The decision arrives as a flat no with no reason attached, which is the hardest kind
-to challenge.
+A [risk score](objectives.md) does not wait for a person to speak. It has already settled the
+application by the time they make it, and what lands is only the outcome. A wrong inference
+costs as much as a right one, usually more, because the guess that sank them is not visible
+and carries no door marked appeal. The decision arrives as a flat no with no reason attached,
+and a verdict a person cannot read is a verdict they cannot contest.
 
 ## The sensitive made legible
 
@@ -59,7 +58,8 @@ person and an unaffordable door for another. A risk score is a formality for the
 who clears it and a wall for the one it quietly excludes from credit or a home. An inferred
 trait is an awkward advert for most and a genuine danger for someone whose safety depends on
 it staying private. The same machinery, pointed at everyone, presses hardest on those with
-the least room to absorb it, which is where this model hands over to the
-[precarious-status strategy](../../strategy/precarious-status.md).
+the least room to absorb it. For [someone whose right to remain is
+uncertain](../../strategy/precarious-status.md), the trail that sells an advert can help
+decide whether they are allowed to stay.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

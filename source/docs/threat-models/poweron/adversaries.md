@@ -10,7 +10,7 @@ The central figure in this story. Not a mysterious figure in a basement, but som
 your voice, your habits, your weak spots, and probably your PIN.
 
 They may have had full access to your devices and accounts, often with your knowledge and trust.
-That access might never have been revoked. In many cases, the phone was a gift, the router was
+That access might have never been revoked. In many cases, the phone was a gift, the router was
 installed by them, or the login to your email is in a shared notes app "just in case".
 
 Their advantage is not primarily technical. It is relational. They know what you will click on.

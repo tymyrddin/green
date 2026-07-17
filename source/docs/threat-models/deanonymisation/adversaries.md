@@ -46,11 +46,11 @@ Lawful, but not always proportionate. Data access in the name of safety is a sli
 
 A different species from domestic law enforcement: better resourced, operating under different legal frameworks, and not always subject to the same oversight structures. National signals intelligence agencies can compel cooperation from platforms, conduct bulk data collection under national security justifications, and operate across jurisdictions in ways that local law enforcement cannot.
 
-The capabilities gap between a national intelligence agency and any individual's privacy controls is considerable. Mitigations that work against opportunistic adversaries may be insufficient here. This adversary is the [surveillance model](../surveillance/index.rst)'s territory.
+The capabilities gap between a national intelligence agency and any individual's privacy controls is considerable. Mitigations that work against opportunistic adversaries may be insufficient here, because what actually constrains an agency of this kind is [law and oversight rather than any technique a person can apply](../surveillance/index.rst), and national security is where that law thins out.
 
 ## Stalkers and domestic abusers
 
-Location data, device access, account monitoring and social graph analysis are all used by people seeking to track, control or harm individuals they know personally. This adversary has direct access to the target's devices, accounts, and physical environment in ways that remote adversaries do not, which changes the threat profile significantly. This intimate-range adversary is the [poweron model](../poweron/index.rst)'s subject.
+Location data, device access, account monitoring and social graph analysis are all used by people seeking to track, control or harm individuals they know personally. This adversary has direct access to the target's devices, accounts, and physical environment in ways that remote adversaries do not, which changes the threat profile significantly. Re-identification barely applies: [someone who already knows the answer](../poweron/index.rst) does not need to infer it, and the defences that assume a stranger assume the wrong thing.
 
 ## Private investigators
 
@@ -60,4 +60,4 @@ Operating in the gap between law enforcement capability and public accessibility
 
 Regulate, confuse and occasionally campaign with the electorate's data. From the GDPR to ad microtargeting, politicians often sit on both sides of the privacy fence, demanding protections while quietly exploiting the system for elections: crafting regulation with loopholes wide enough to drive a tractor through, partnering with platforms for campaign data and targeting, and using fear to justify expanded surveillance powers.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

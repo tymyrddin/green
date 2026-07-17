@@ -49,8 +49,9 @@ long tail of smaller houses buy, match, enrich, and resell, sitting behind opt-o
 mechanisms that are hard to find and harder to finish. The people-search sites are the same
 trade with a shopfront, retailing to anyone with a card what the wholesale market moves in
 bulk. Location brokers are a distinct branch, dealing in movement pulled from app SDKs and
-sold with its origin filed off. Where this trade is turned back into a named individual, the
-work belongs to the [deanonymisation model](../deanonymisation/index.rst).
+sold with its origin filed off. Turning that filed-off movement back into a named individual
+takes no further purchase, only [auxiliary data and a matching
+technique](../deanonymisation/index.rst).
 
 ## The buyers
 
@@ -58,17 +59,18 @@ Everyone the profile is sold to so they can act on it: advertisers and the marke
 the campaigns, insurers pricing risk, employers screening applicants, lenders and landlords
 scoring them, political campaigns carving up an electorate. Collection is upstream and
 abstract; the consequence lands with the buyer, when a segment becomes a premium, a
-rejection, or a message that knows more than it was told. Some of these are studies in their
-own right: the intimate-range buyer pulling a people-search report is the
-[poweron model](../poweron/index.rst)'s subject. And one buyer is not a business at all.
+rejection, or a message that knows more than it was told. Not every buyer is an institution:
+the customer for a [people-search report](../poweron/index.rst) is sometimes an ex-partner
+looking for an address. And one buyer is not a business at all.
 
 ## The state as customer
 
 One actor on the market is not in it for money. What a state cannot lawfully collect it can
 buy at the going rate, alongside any advertiser, and the same feeds that price a trainer
 advert can place an official at a building. Here the state is a customer rather than a
-watcher, which is the seam where this model hands over to the
-[surveillance model](../surveillance/index.rst).
+watcher, and the purchase answers to procurement rules rather than to the
+[law that governs collection](../surveillance/index.rst). That difference is the whole
+attraction.
 
 ## No single hand
 
@@ -78,4 +80,4 @@ used what was offered. Each link is defensible on its own, and the harm is assem
 parts that each look harmless, which is also why holding any single party to account for the
 result is so hard.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

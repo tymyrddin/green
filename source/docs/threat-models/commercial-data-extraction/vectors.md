@@ -39,8 +39,8 @@ becomes another stream.
 
 The login is where scattered sessions are stitched into one person. Signing in with an
 existing account, the "log in with Google" button, carries an identity from site to site.
-Newsletter sign-ups, competitions, and web forms hand over the email address that the
-[assets](assets.md) page calls the join key, and once a business holds it, it can upload its
+Newsletter sign-ups, competitions, and web forms hand over the email address that serves as
+the market's [join key](assets.md), and once a business holds it, it can upload its
 customer list to be matched against the wider market and enriched with attributes it never
 collected. The email is the universal key precisely because a person reuses it everywhere by
 design.
@@ -70,4 +70,4 @@ because refusing them means refusing the ordinary use they came wrapped in. Redu
 exposure works less by blocking a single entrance than by giving away less at each ordinary
 step.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

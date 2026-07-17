@@ -10,6 +10,6 @@ The proposal has moved in fits, and two separate instruments are easy to confuse
 
 ## The wider pressure on encryption
 
-Chat Control is one expression of a longer campaign, framed by some agencies as the "going dark" problem: the demand that strong encryption carry a lawful-access route for authorities. The technical objection has not changed. A mechanism that lets an authorised party read encrypted content is a mechanism others can find and misuse, and there is no known way to build access for one reader that cannot become access for another. The separate ePrivacy Regulation, meant to modernise the rules on confidentiality of communications, has stalled for years in the same tension.
+Chat Control is one expression of a longer campaign, framed by some agencies as the "going dark" problem: the demand that strong encryption carry a lawful-access route for authorities. The technical objection has not changed. A mechanism that lets an authorised party read encrypted content is a mechanism others can find and misuse, and there is no known way to build access for one reader that cannot become access for another. The separate ePrivacy Regulation, meant to modernise the rules on confidentiality of communications, spent years deadlocked in the same tension and was withdrawn by the Commission in February 2025, leaving the 2002 directive in place.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

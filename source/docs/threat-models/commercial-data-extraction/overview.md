@@ -7,13 +7,15 @@ whether or not any single person is ever looked at. That is the ground truth of 
 model: the harm, where there is harm, comes from a standing arrangement working exactly
 as designed, not from it failing.
 
-A greenhouse is built to be seen into. This one was also built to be harvested from, on
-a schedule, by parties the plants inside will never meet.
+Whoever built the greenhouse also set a harvest schedule, and the picking is done by parties
+the plants inside will never meet.
 
 ## What separates this from state surveillance
 
 The [surveillance model](../surveillance/index.rst) covers who watches in the name of
-security and under what law. This is the layer of watching that answers to a balance
+security and under what law. 
+
+This is the layer of watching that answers to a balance
 sheet instead, and the differences change what defence can look like.
 
 There is no warrant, because none is needed. There is no suspicion, because the target
@@ -22,9 +24,9 @@ matched, and resold, rarely named and rarely of interest as an individual at all
 motive is revenue, and the collection scales because collection is cheap and the profile
 sells.
 
-The two models meet at one seam. What a state cannot lawfully gather, it can often buy.
+What a state cannot lawfully gather, it can often buy.
 Government agencies have bought from data brokers the location data they would otherwise
-need a warrant to collect, and the 2025 [Databroker Files](../surveillance/cases/databroker-files.md)
+need a warrant to collect, and the [2025 Databroker Files](../surveillance/cases/databroker-files.md)
 investigation traced the same commercial feeds to the movements of officials inside the
 EU's own institutions. Procurement, not interception. The commercial harvest is the raw
 material; state surveillance is one of its customers.
@@ -74,4 +76,4 @@ the most risk, with the least room to opt out, are covered in the
 The service was free because the service was never the product. The profile is, and the
 reader is the crop.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

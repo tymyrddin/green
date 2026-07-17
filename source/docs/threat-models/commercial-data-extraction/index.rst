@@ -9,8 +9,8 @@ harvest is legal, and that is the difficulty with it.
 Where the :doc:`surveillance model <../surveillance/index>` follows watching that answers
 to the state, this follows watching that answers to a balance sheet. A person is
 inventory here, profiled and priced and resold, rarely named and rarely of individual
-interest. The two meet at one seam, since what a state cannot lawfully collect it can
-often buy.
+interest. The two meet where the state runs out of legal room: what it cannot lawfully
+collect, it can often buy.
 
 It is the collection layer that the :doc:`deanonymisation model <../deanonymisation/index>`
 later turns back into a name, captured before any name is attached. And it is the private
@@ -33,4 +33,4 @@ none can fully audit.
    cases/index
    impacts.md
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

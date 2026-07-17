@@ -14,5 +14,6 @@ Threat models for specific contexts and adversary types.
    deanonymisation/index
    poweron/index
    minors/index
+   second-order-effects.md
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

@@ -18,7 +18,9 @@ Behind the visible apps sits a quieter trade. Brokers assemble and sell profiles
 exempt: data flowing from apps, loyalty schemes, and public records can be aggregated into a profile
 that ages with the child. A child rarely appears as a named target in a broker's catalogue, but the
 household, the address, and the patterns around them are all saleable, and the child inherits the
-profile as they grow into it.
+profile as they grow into it. The [chain of collectors, brokers and
+buyers](../commercial-data-extraction/index.rst) that assembles it is the same one that runs on adults.
+A child is simply a record in it with longer left to compound.
 
 ## Schools and education technology
 
@@ -51,4 +53,4 @@ once set, is hard to unlearn.
 None of this makes an ordinary, caring parent an abuser. It means the tools deserve the same scrutiny
 turned on any other watcher, and that protection and control are closer neighbours than they look.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

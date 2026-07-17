@@ -19,8 +19,11 @@ safer. The feature a person chose was privacy; the business behind it was the op
 Avast described the data it sold as de-identified. The FTC found that the browsing histories
 were detailed enough to be traced back to individuals, and that Avast had not adequately
 stripped or aggregated them. A list of the pages a person visits, timestamped and continuous,
-is close to a signature, which is a point the [assets](../assets.md) page makes in general and
-this case makes in particular.
+is close to a signature, which is what makes a [continuous behavioural
+stream](../assets.md) worth paying for in the first place. That de-identification fails on contact with detail is the
+finding the [deanonymisation model gathers across three
+decades](../../deanonymisation/cases/anonymous-is-a-myth.md); the FTC's version came with an
+order behind it.
 
 ## The pattern
 
@@ -28,4 +31,4 @@ This is [collection dressed as a feature](../attacks.md): a tool whose stated jo
 watchers out, quietly monetising what it saw from the inside. The betrayal is not incidental
 to the model. Trust in the product is what put the collector on the device.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

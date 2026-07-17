@@ -54,20 +54,14 @@ challenge it.
 
 ## Commercial bypass
 
-Agencies purchase data from commercial brokers. The data purchased
-may include precise location histories extending over months or years, social
-connections derived from device proximity or shared network access, browsing and
-purchase behaviour, and biographical details compiled from public and semi-public
-sources.
-
-The legal threshold for this procurement route is, in most jurisdictions, no different
-from any other government procurement decision. There is no warrant requirement. There
-is no judicial oversight. The data was collected commercially and is sold commercially.
-The fact that it describes, in granular detail, the movements and associations of a
-large number of people who never consented to state access is a consequence of the
-data broker industry operating in a regulatory gap, particularly in the national
-security context where GDPR does not apply. The [Databroker Files](cases/databroker-files.md)
-investigation of 2025 showed the same market reaching the movements of EU and NATO officials.
+Agencies purchase from commercial brokers what targeted collection would otherwise gate. The
+legal threshold for this route is, in most jurisdictions, no different from any other
+government procurement decision: no warrant, no judicial oversight, no target named. That it
+describes the movements and associations of people who never consented to state access is a
+consequence of the [regulatory gap](landscape/the-gdpr-hole.md) it trades in. The [Databroker
+Files](cases/databroker-files.md) investigation of 2025 showed the market reaching the movements
+of EU and NATO officials. Seen from the market's side, this is [buying past the
+warrant](../commercial-data-extraction/attacks.md), one move among the several that trade runs on.
 
 ## Function creep
 
@@ -134,6 +128,9 @@ analysis feasible. Communications networks can be mapped across millions of node
 Behavioural anomalies can be flagged automatically. Individuals can be scored for
 risk based on patterns derived from population-level data. Predictive profiling can
 generate assessments of future behaviour based on correlations rather than evidence.
+The same model class that scores a person can also name one, inferring identity from
+ordinary text with no shortlist of suspects to work from, which the [deanonymisation model's
+techniques](../deanonymisation/techniques.md) set out.
 
 The analytical capability exists. The oversight frameworks for how it is applied, how
 its outputs are challenged, and what happens when it produces a false positive are
@@ -143,4 +140,4 @@ but the exceptions are broad and the
 enforcement is young. Misclassification at population scale is not a hypothetical
 risk: it is a statistical certainty.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

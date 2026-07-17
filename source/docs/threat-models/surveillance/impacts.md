@@ -17,45 +17,45 @@ subjects, and increases self-censorship among groups most likely to be targeted.
 These effects do not require any individual to have been specifically surveilled.
 The structural awareness of capability is sufficient.
 
-Beyond the chilling effect:
+Two harms sit beneath it.
 
-Misclassification risk: population-scale data collection and automated analysis will
-produce false positives. Individuals who match a pattern associated with a risk category
-may be flagged for further investigation, included on watchlists, subjected to enhanced
-scrutiny at borders, or denied services, without ever having done anything that would
-justify any of this. The algorithm does not know the difference; it knows correlations.
-Challenging a misclassification requires knowing one is on a list, which is rarely
-disclosed.
+Collection at population scale, analysed automatically, produces false positives as a
+matter of arithmetic. Someone who matches a pattern associated with a risk category can
+be flagged, watchlisted, held longer at a border, or refused a service, having done
+nothing that would justify any of it. The algorithm does not know the difference. It
+knows correlations. And challenging the result requires knowing one is on a list, which
+is the thing least likely to be disclosed.
 
-Loss of anonymity in public life: movement through public space, attendance at
-meetings, participation in protests, and digital activity in nominally private contexts
-are all increasingly observable and retainable. Anonymity in civic life, which has
-historically been a protection for dissent, minority views, and vulnerable populations,
-is structurally eroding.
+Anonymity in public life is the other. Movement through public space, attendance at a
+meeting, presence at a protest, activity in nominally private digital contexts: all of
+it is increasingly observable and increasingly kept. Anonymity in civic life has
+historically protected dissent, minority views, and anyone a change of government
+could reclassify, and it is structurally eroding. What turns an observed trace back
+into a named person is a separate step, and the
+[deanonymisation model](../deanonymisation/index.rst) covers it.
 
 ## NGOs and civil society
 
 Organisations working on human rights, refugee support, environmental protection,
 political advocacy, or any activity that involves documenting or challenging government
-behaviour face a specific threat profile that combines elements of all the adversary
-types in this model.
+behaviour draw the attention of domestic agencies, foreign services, and the
+[commercial layer](adversaries.md) at once, which is a threat profile few of them are
+resourced for.
 
-Exposure of beneficiaries and sources: an NGO's case management data, contact lists,
-and secure communications may contain the identities of people who face direct personal
-risk if exposed. Refugees, whistleblowers, human rights defenders in conflict zones,
-and people fleeing persecution are identifiable through an organisation's records.
-Surveillance of the organisation exposes them.
+The sharpest exposure is not the organisation's own. Case management data, contact lists,
+and secure communications carry the identities of refugees, whistleblowers, human rights
+defenders in conflict zones, and people fleeing persecution, any of whom face direct
+personal risk if named. Watching the organisation reaches all of them at once.
 
-Operational chilling: legal teams, advocacy teams, and strategy documents are
-surveillance assets if the organisation is of interest to a domestic intelligence
-agency, a foreign government, or a donor state's intelligence service. Awareness that
-internal communications may be accessed constrains what can be discussed and how.
+Inside, the chill lands on the work. Legal teams, advocacy teams, and strategy documents
+become surveillance assets the moment a group is of interest to a domestic agency, a
+foreign government, or a donor state's service. Knowing that internal communications may
+be read changes what gets discussed, and how frankly.
 
-Reputational and funding attacks: intelligence about internal disagreements, financial
-pressures, or sensitive cases can be used to generate public-facing attacks, trigger
-regulatory investigations, or pressure donors. This is the functional equivalent of
-a private disinformation campaign, with state
-resources behind it.
+Then there is what the intelligence enables. Internal disagreements, financial pressure,
+a sensitive case: each can be turned into a public attack, a regulatory investigation, or
+a quiet word with a funder. It is a disinformation campaign with state resources behind
+it and no fingerprints on it.
 
 ## Companies
 
@@ -66,18 +66,17 @@ competitors. The Snowden disclosures included specific examples. The competitive
 intelligence collected includes R&D data, trade negotiation positions, merger and
 acquisition planning, and pricing strategies.
 
-Compliance pressure as access vector: regulatory and law enforcement agencies can
-use compliance requirements as leverage to obtain data or access. A business that
-depends on its operating licence, tax treatment, or regulatory standing in a
-jurisdiction may face informal pressure to cooperate with data requests that fall
-short of the formal legal threshold. This pressure may never be explicit or
-produce a written record.
+Compliance is the second lever, and the quieter one. A regulator or a police force can
+use what it already requires as leverage for what it would otherwise have to ask for. A
+business that depends on its operating licence, its tax treatment, or its standing in a
+jurisdiction can find itself under informal pressure to cooperate with requests that fall
+short of the legal threshold. The pressure need never be explicit. It rarely leaves a
+written record.
 
-Vendor and infrastructure dependency: the structural dependence of European business
-on non-EU cloud infrastructure, software, and hardware means that commercially
-sensitive data regularly transits or resides in jurisdictions where it is subject to
-legal access mechanisms under foreign law. This is not a hypothetical risk. It is
-a continuous operational condition for most large European enterprises.
+The third is simply where the data sits. European business runs on non-EU cloud, software,
+and hardware, so commercially sensitive material routinely transits or rests in
+jurisdictions whose law reaches it. That is not a risk in the hypothetical sense. For a
+large European enterprise it is a standing condition of operating at all.
 
 ## Research institutions
 
@@ -102,23 +101,23 @@ The EU faces a structural problem that GDPR and data protection law were not des
 to solve: asymmetric intelligence capability between member states, and collective
 dependency on infrastructure that is jurisdictionally outside the Union.
 
-Asymmetric intelligence: some member states are deeply integrated into the Fourteen
-Eyes sharing arrangement; others are not. The intelligence capability and the surveillance
-data available to different member state governments are therefore not equivalent.
-This creates asymmetric information within EU institutions themselves.
+Take the asymmetry first. Some member states sit deep inside the Fourteen Eyes
+arrangement and others sit outside it, so the intelligence one government holds is not
+the intelligence its neighbour holds. The imbalance does not stop at the border; it
+runs through the EU institutions those governments share.
 
-Infrastructure dependency: European citizens' data is processed by US-headquartered
-platforms, stored on US cloud infrastructure, and transmitted through networks that
-include equipment from manufacturers with contested relationships to foreign governments.
-Three iterations of the EU-US data transfer framework have been unable to resolve the
-fundamental tension between US national security law and EU data protection rights.
-This is a sovereignty problem, not a technical one.
+The dependency is the other half. European citizens' data is processed by
+US-headquartered platforms, stored on US cloud, and carried over networks built partly
+from equipment whose makers have contested relationships with foreign governments. Three
+iterations of the transatlantic transfer framework have failed to reconcile US national
+security law with EU data protection rights, which suggests the problem is not one a
+fourth draft reaches. It is a question of sovereignty wearing a technical costume.
 
-Erosion of digital sovereignty: the ability of the EU to govern its own digital
-environment, protect its citizens' data, and maintain the integrity of its democratic
-processes depends on infrastructure it does not control, legal frameworks that other
-jurisdictions do not respect, and intelligence sharing arrangements that are not
-symmetrical or transparent.
+Put together, they erode the thing underneath: the Union's ability to govern its own
+digital environment, protect the data of the people in it, and keep its democratic
+processes intact. That ability currently rests on infrastructure it does not control,
+legal frameworks other jurisdictions decline to respect, and sharing arrangements that
+are neither symmetrical nor visible.
 
 ## Cross-layer: trust erosion
 
@@ -139,4 +138,4 @@ future government's definition, become a threat.
 The system does not need to punish often. It needs to be perceived as capable of it.
 That perception is, at this point, well-founded.
 
-Last reviewed: 2026-07-16.
+Last reviewed: 2026-07-17.

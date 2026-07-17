@@ -13,12 +13,13 @@ least k-1 others who share the same combination of quasi-identifying attributes.
 people in a dataset share the same postcode, age bracket, and occupation, no single record can be
 attributed to one person with certainty.
 
-In practice, k-anonymity has well-documented limits. If those five records each contain a different
-medical condition, grouping them achieves nothing: anyone who knows one person's postcode and age can
-still infer their condition. Extensions like l-diversity (ensuring the sensitive values within each
-group are varied) and t-closeness (ensuring that variation mirrors the overall distribution in the
-dataset) address some of this, but the underlying problem remains: quasi-identifiers are everywhere,
-not always obvious, and combinatorially explosive.
+In practice, k-anonymity has well-documented limits. Hiding a person in a crowd of five does nothing
+if the crowd all share a secret: where every one of those five records carries the same medical
+condition, anyone who knows one person's postcode and age learns their diagnosis regardless, because
+the group no longer has to be narrowed. Extensions like l-diversity (ensuring the sensitive values
+within each group are varied) and t-closeness (ensuring that variation mirrors the overall
+distribution in the dataset) address some of this, but the underlying problem remains:
+quasi-identifiers are everywhere, not always obvious, and combinatorially explosive.
 
 ## Differential privacy
 
@@ -72,4 +73,4 @@ to behave.
 
 [Minimising long-term storage](../../playbooks/minimise.md) limits exposure before any of these techniques apply.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

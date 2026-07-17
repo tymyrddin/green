@@ -19,9 +19,8 @@ through the whole model.
    landscape.md
    assets.md
    adversaries.md
-   threats.md
    vectors.md
    attacks.md
    impacts.md
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-17.

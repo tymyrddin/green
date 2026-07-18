@@ -13,10 +13,7 @@ interest. The two meet where the state runs out of legal room: what it cannot la
 collect, it can often buy.
 
 It is the collection layer that the :doc:`deanonymisation model <../deanonymisation/index>`
-later turns back into a name, captured before any name is attached. And it is the private
-counterpart to the :doc:`infrastructure-aggregation model <../infrastructure-aggregation/index>`:
-one reads public records anyone can request, the other a supply chain few can see and
-none can fully audit.
+later turns back into a name, captured before any name is attached. 
 
 .. toctree::
    :maxdepth: 1

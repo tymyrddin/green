@@ -59,11 +59,6 @@ the European figure at around 376 broadcasts per person per day in its 2022 anal
 Each recipient may keep, combine, and resell what it receives. The result is not a
 snapshot but a profile that accretes, recombines, and outlives the moment that fed it.
 
-Where the [aggregation model](../infrastructure-aggregation/index.rst) reads public
-records anyone can request, this is a private supply chain few can see and none can fully
-audit. The finding there is what patient reading adds up to. The finding here is that the
-reading need never happen: the dossier assembles itself.
-
 ## Where this leads
 
 Naming the arrangement is the start; reducing a person's exposure to it is separate work,

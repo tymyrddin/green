@@ -29,7 +29,7 @@ in any dataset using just fifteen demographic attributes, including age, sex and
 
 Re-identification is not exotic. It follows from a plain fact about
 people: the combination of a few ordinary attributes is unique. That is the same logic
-the [infrastructure-aggregation model](../../infrastructure-aggregation/index.rst) applies to buildings and cables, the
+the [administrative attack surface](https://purple.tymyrddin.dev/docs/admin-surface/) applies to buildings and cables, the
 combination is the finding, turned on people. It is why the [mitigations](../mitigations.md) that rely on stripping
 identifiers, k-anonymity chief among them, degrade as soon as an adversary brings auxiliary data, and why the commercial
 datasets the [surveillance model](../../surveillance/cases/databroker-files.md) describes are dangerous even when they

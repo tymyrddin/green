@@ -31,7 +31,7 @@ behavioural data from the broker market because a purchase does not trip the saf
 the [Databroker Files](../threat-models/surveillance/cases/databroker-files.md) showed that this reaches even
 EU and NATO officials.
 
-Buying is only half of it. The [infrastructure-aggregation model](../threat-models/infrastructure-aggregation/index.rst)
+Buying is only half of it. The [administrative attack surface](https://purple.tymyrddin.dev/docs/admin-surface/)
 is the other half: routine, individually harmless public records, tenders, planning applications, network
 registries, staff directories, combine into a picture no single disclosure intended. At state scale that
 logic cuts both ways. It is how an intelligence service assembles a target from open sources, and it is how a

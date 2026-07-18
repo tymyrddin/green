@@ -95,9 +95,7 @@ State database interoperability: the EU's border and security databases (the Ent
 System, Eurodac, the Schengen and Visa Information Systems) are being connected into a shared
 biometric search layer, described in the [legal landscape](landscape/biometric-and-border.md).
 Interoperability is less an intrusion than a change of scale: data gathered for one purpose
-becomes queryable alongside everything else, and joinability is itself a capability. The
-[aggregation model](../infrastructure-aggregation/index.rst) runs the same arithmetic on public
-records, where each document is routine and the combination is the finding.
+becomes queryable alongside everything else, and joinability is itself a capability.
 
 Vendor supply chain: telecommunications equipment from vendors with contested
 relationships to foreign governments (the most discussed example being Huawei),

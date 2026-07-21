@@ -1,8 +1,8 @@
 # Databroker Files: officials for sale
 
-In November 2025 a [cross-border investigation](https://netzpolitik.org/2025/databroker-files-targeting-the-eu/), led 
-by netzpolitik.org with Bayerischer Rundfunk, L'Echo, Le Monde and BNR, showed that the movements of senior EU and 
-NATO personnel could be reconstructed from data sold by the advertising industry. The reporters obtained a sample of 
+In November 2025 a [cross-border investigation](https://netzpolitik.org/2025/databroker-files-targeting-the-eu/), led
+by netzpolitik.org with Bayerischer Rundfunk, L'Echo, Le Monde and BNR, showed that the movements of senior EU and
+NATO personnel could be reconstructed from data sold by the advertising industry. The reporters obtained a sample of
 roughly 278 million location records from Belgium,
 drawn from ordinary smartphone apps and traded through commercial data brokers, and traced devices back to the buildings
 where European security is administered.

@@ -10,10 +10,10 @@ as designed, not from it failing.
 Whoever built the greenhouse also set a harvest schedule, and the picking is done by parties
 the plants inside will never meet.
 
-## What separates this from state surveillance
+## A balance sheet, not a warrant
 
 The [surveillance model](../surveillance/index.rst) covers who watches in the name of
-security and under what law. 
+security and under what law.
 
 This is the layer of watching that answers to a balance
 sheet instead, and the differences change what defence can look like.

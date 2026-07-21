@@ -6,10 +6,11 @@ Threat models are reductive by design. They name assets, adversaries, objectives
 order to make the problem tractable. The cost is that they do not capture effects that are diffuse,
 slow-moving, emergent, or that operate across multiple layers simultaneously.
 
-Some of those effects can be named, though not all come with mitigations. Some are structural
-conditions, not problems that can be solved by any actor at an individual or organisational level.
-Ignoring them produces a map of the problem that is too small, and decisions made on too small a map
-tend to optimise locally while the larger system continues to degrade.
+Some of those effects can be named, though not all come with mitigations. Some are
+[structural conditions](../threat-models/substrate.md), not problems that can be solved by any actor
+at an individual or organisational level. Ignoring them produces a map of the problem that is too
+small, and decisions made on too small a map tend to optimise locally while the larger system
+continues to degrade.
 
 ## The chilling effect as a systemic output
 
@@ -108,7 +109,8 @@ depend.
 
 Working at leverage points does more than working at symptoms. Regulatory action that
 changes what the system is rewarded for is the intervention that can actually move the
-equilibrium.
+equilibrium. Which of those points are currently load-bearing is a question about
+[what extraction can afford](../threat-models/envelope.md).
 
 ## Cascading model failures
 
@@ -153,4 +155,4 @@ the landscaping decisions for the larger garden are made somewhere else, by peop
 different interests, and the best individual greenhouse management in the world does not
 change what happens to the soil.
 
-Last reviewed: 2026-07-09.
+Last reviewed: 2026-07-19.

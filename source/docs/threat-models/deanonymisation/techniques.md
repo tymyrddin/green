@@ -51,7 +51,7 @@ Even fully scrubbed social graphs retain a distinctive shape. If a person's netw
 enough, the structure alone identifies them as a node, regardless of what the node is labelled. Adversaries
 can match graphs from different datasets against each other, seed a target network with fake accounts to
 track connectivity patterns, or stitch together multiple breach datasets over time to build a composite
-structural map. Once the shape is known, the name is a formality.
+structural map. Once the shape is known, the identification is already done.
 
 ## Sparsity-based attacks
 

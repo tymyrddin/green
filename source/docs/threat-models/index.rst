@@ -14,6 +14,8 @@ Threat models for specific contexts and adversary types.
    poweron/index
    minors/index
    substrate.md
+   residue.md
+   envelope.md
    second-order-effects.md
 
-Last reviewed: 2026-07-17.
+Last reviewed: 2026-07-19.

@@ -31,7 +31,7 @@ harmful to them.
 The aim is protective. The privacy cost sits inside it. Checking an age reliably usually means
 collecting more identity data, not less: a face scan, an identity document, a payment card. A measure
 introduced to keep children away from harmful content can end up attaching a verified identity to a
-child's browsing, which is its own exposure. This is the pattern to watch across children's safety
+child's browsing, which is its own exposure. The pattern runs across children's safety
 policy: the protective measure and the surveillance measure are frequently the same measure. The EU's
 own age-verification app made the cost concrete: researchers found facial images read from passport
 chips written to disk unencrypted, and verification selfies kept rather than deleted ([the

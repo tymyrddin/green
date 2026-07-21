@@ -1,7 +1,6 @@
 # Vectors
 
-Every greenhouse has multiple ways in. This one was built with most of them unlocked
-from the inside.
+This greenhouse was built with most of its ways in left unlocked from the inside.
 
 ## Legal vectors
 

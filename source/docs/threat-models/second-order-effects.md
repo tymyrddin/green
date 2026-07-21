@@ -6,7 +6,7 @@ to the people growing up inside it, slowly, and without a moment anyone could po
 is tracked, always, some of it chosen and most of it not, and these are the things that settle
 into the soil once that becomes the norm.
 
-Some of what follows is growing; some of it is being worn away. Both directions are the same
+Some of these effects are growing; some are being worn away. Both directions are the same
 weather.
 
 ## ↑ Bias and discrimination
@@ -73,7 +73,7 @@ more it dominates. It is the network effect: the biggest platforms pull in more 
 until moving elsewhere feels impossible.
 
 The result is a landscape where privacy is a luxury rather than a standard, because the individual is not really the
-customer. They are the ground being fought over.
+customer. They are [the ground being fought over](substrate.md).
 
 ## ↑↓ Regulation across borders
 
@@ -109,4 +109,4 @@ weight to make a large platform notice.
 The result is a digital colonialism dynamic. Rich countries export surveillance tools, extract data, and impose their
 standards. Poorer regions become both test beds and resource mines, with little say in what happens to either.
 
-Last reviewed: 2026-07-17.
+Last reviewed: 2026-07-19.

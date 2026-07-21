@@ -62,8 +62,9 @@ a bank, a tax authority, a school, a landlord, a doctor's appointment or an empl
 runs through infrastructure with no offline equivalent still functioning. Where a service is the
 condition of participating in ordinary administration, refusing it is not an option that a person
 can price and decline. Network effects close a second set of exits: leaving a platform where
-everyone is means leaving the people, not the software. Consent, under those conditions, describes
-a signature rather than a choice.
+everyone is means leaving the people, not the software, and the concentration that produces
+that hold is itself one of the [second-order effects](second-order-effects.md) of the
+arrangement. Consent, under those conditions, describes a signature rather than a choice.
 
 This is why exhortations to individual responsibility land badly. Being told to read the terms, or
 to simply use something else, presumes an open landscape. Some of the ground is open, and the
@@ -88,10 +89,10 @@ modest claim than escape.
 
 Some exits are collective rather than individual, and these are the ones that alter the substrate
 itself. Interoperability requirements, data portability with real teeth, procurement rules,
-enforcement budgets, and public alternatives to private infrastructure all work by reopening a
-route out rather than by asking a person to be more careful. Whether that route reopens is argued
-at [systems effects](../strategy/systems.md) and, where states are the actor,
-[nations and states](../strategy/nations.md).
+[enforcement budgets](envelope.md), and public alternatives to private infrastructure
+all work by reopening a route out rather than by asking a person to be more careful. Whether that
+route reopens is argued at [systems effects](../strategy/systems.md) and, where states are the
+actor, [nations and states](../strategy/nations.md).
 
 And some exits are theatre. Cookie banners that record a preference and change nothing downstream,
 opt-outs applied per profile in a market that regenerates profiles, deletion that removes a
@@ -115,4 +116,4 @@ Reading any substrate is the same move. The narrative layer records what people 
 records what constrains them. The two rarely agree, and the gap between them is usually where the
 argument actually is.
 
-Last reviewed: 2026-07-18.
+Last reviewed: 2026-07-19.

@@ -64,6 +64,6 @@ The streams are cheap and everywhere; the inference is clever; the profile is th
 saleable object. But all of it rests on the join key. Remove the persistent identifier and
 the rest falls back into unlinkable traces of no particular worth. Keep it and everything
 composes. Both the value to the collector and the exposure to the person gather at the
-same point, which is worth knowing before deciding where defence is best spent.
+same point.
 
 Last reviewed: 2026-07-16.

@@ -5,8 +5,6 @@ the helpers: the tools and platforms that are meant to make things easier and, i
 make deanonymisation faster, cheaper, and more scalable. These technologies are not inherently
 adversarial. They are simply very good at finding patterns, and finding patterns is most of the work.
 
-These are drawn from research literature and documented real-world cases.
-
 ## Graph analysis
 
 Social network structure is one of the most powerful re-identification surfaces available. Graph

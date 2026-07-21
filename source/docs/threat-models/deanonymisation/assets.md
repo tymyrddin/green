@@ -20,8 +20,8 @@ the door ajar.
 
 Here, outsiders are allowed into the garden, but only after signing a blood pact (or a data-sharing
 agreement). With anonymisation, contracts, and a few watchdogs, it feels secure. That is, until
-someone gets clever with auxiliary information and finds a way to pick the lock. Trust, but verify,
-and then lock the compost bin.
+someone gets clever with auxiliary information and finds a way to pick the lock. The trust needs
+verifying, and the compost bin needs a lid.
 
 ### Public release
 
@@ -99,10 +99,10 @@ co-participation graphs.
 
 ## Device fingerprints
 
-Browser configuration, screen resolution, installed fonts, GPU rendering characteristics, time
-zone, language settings, and hardware identifiers combine to form a fingerprint that is often
-unique to a single device and therefore a single person. These fingerprints persist across
-incognito sessions, VPNs, and cleared cookies. The [fingerprint-to-name case](cases/fingerprint-to-name.md)
+A browser gives itself away by its own configuration: screen resolution, installed fonts, GPU
+rendering characteristics, time zone, language settings, and hardware identifiers combine into a
+fingerprint that is often unique to a single device and therefore a single person. These
+fingerprints persist across incognito sessions, VPNs, and cleared cookies. The [fingerprint-to-name case](cases/fingerprint-to-name.md)
 shows brokers turning that persistence into a name.
 
 See also: [browser fingerprinting](../../code/browser.md).

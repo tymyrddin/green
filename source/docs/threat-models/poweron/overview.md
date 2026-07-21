@@ -52,7 +52,7 @@ It also helps support workers, legal professionals, and anyone else involved to 
 * It is not paranoia
 * And no, "just block them" is not a solution
 
-We use this model to understand, not to diagnose. Everyone's situation is different. But thinking
+Understanding is not the same as diagnosis, and everyone's situation is different. But thinking
 through what is at risk, who might exploit it, and how they might do it is a solid step toward
 reclaiming control.
 

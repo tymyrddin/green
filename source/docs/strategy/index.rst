@@ -43,4 +43,4 @@ situation to the framing.
 
 A general model read as precise guidance for a specific context is its own category of error.
 
-Last reviewed: 2026-07-08.
+Last reviewed: 2026-07-19.

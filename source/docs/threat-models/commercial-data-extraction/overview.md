@@ -1,7 +1,7 @@
 # Nothing here is a breach
 
 Commercial data extraction is not an intrusion. No door is forced, no password stolen,
-no figure in a hoodie. Every step in the chain is contracted, disclosed somewhere in a
+no intruder at all. Every step in the chain is contracted, disclosed somewhere in a
 policy, and agreed to by a click nobody read. Collection runs continuously, on everyone,
 whether or not any single person is ever looked at. That is the ground truth of the
 model: the harm, where there is harm, comes from a standing arrangement working exactly
@@ -61,7 +61,7 @@ snapshot but a profile that accretes, recombines, and outlives the moment that f
 
 ## Where this leads
 
-Naming the arrangement is the start; reducing a person's exposure to it is separate work,
+The arrangement now has a name; reducing a person's exposure to it is separate work,
 and most of it is not individual. The practical response for a person lives in the
 [citizen strategy](../../strategy/citizens.md); for an organisation that is itself a
 collector, in the [company strategy](../../strategy/companies.md). Those already carrying

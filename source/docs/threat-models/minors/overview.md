@@ -5,10 +5,10 @@ consent to any of it. Before a baby can speak, there is often a name, a birth da
 rough location circulating through apps, clouds, and the accounts of proud relatives. By the time a
 child is old enough to ask who holds their data, the answer already runs to dozens of companies.
 
-The adults around a child, parents, carers, teachers, are the ones who can act on any of this. What
-follows is not a guide to locking children down, and not a panic about screens, but the ordinary
-questions: what is at stake, who acts on it, how, and what the harm looks like, for someone too young
-to answer them for themselves.
+The adults around a child, parents, carers, teachers, are the ones who can act on any of this. The
+aim is not to lock children down, and not to panic about screens, but to ask the ordinary questions:
+what is at stake, who acts on it, how, and what the harm looks like, for someone too young to answer
+them for themselves.
 
 ## What makes children a distinct case
 
@@ -32,7 +32,7 @@ and the same tools can be turned to control.
 
 ## Where the practical steps live
 
-Understanding is one thing; doing is another, and the doing lives elsewhere on the site. The
+Understanding is one thing; doing is another. The
 [Greenhouse games](../../games/index.rst) introduce children themselves to these ideas through play.
 For an adult, [checking a device for stalkerware](../../playbooks/stalkerware-check.md),
 [auditing shared accounts](../../playbooks/audit-shared-accounts.md), and

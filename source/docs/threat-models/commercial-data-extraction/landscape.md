@@ -10,8 +10,10 @@ keeps running, and the rules arrive a step behind the pipe they were written for
 Selling a single advertising slot works by auction, and the auction is loud. A request
 describing the reader, the page open, a rough location, the device, a bundle of inferred
 interests, is broadcast to many bidding firms at once so they can price the impression.
-Every firm on the list receives that description. Winning the auction is not a condition
-of receiving it; losing bidders keep their copy too.
+Every participant in the auction receives that description before bidding. Winning is 
+not a condition of receiving the request. What happens to that data afterwards depends on 
+contractual rules, technical implementation, and regulatory compliance, but the information 
+has already been disclosed to every participant.
 
 That is why the practice has been called adtech's biggest data breach. The Irish Council
 for Civil Liberties, examining the ecosystem in 2022, found Google alone permitted 4,698

@@ -1,6 +1,6 @@
 # Adversaries
 
-The adversaries here are not the hooded figures of popular imagination. Most
+The adversaries here wear no disguise. Most
 of them have offices, legal mandates, oversight committees of varying rigour, and
 annual budgets that appear in parliamentary documents. The entities doing the harvesting
 are, in many cases, the same entities responsible for the legal framework that permits it.

@@ -1,6 +1,6 @@
 # Minimising long-term data storage
 
-Stored data behaves like fertiliser left in the shed: useful in its place, but a pile in a forgotten corner will eventually rot, leak, or [attract raccoons](https://red.tymyrddin.dev/docs/through/). Hackers work much the same way.
+Stored data behaves like fertiliser left in the shed: useful in its place, but a pile in a forgotten corner will eventually rot, leak, or [attract raccoons](https://red.tymyrddin.dev/docs/loops/position/). Hackers work much the same way.
 
 Most digital life accumulates: old email, half-written documents, stray screenshots, years of chat logs, all sitting about like cobwebs. The problem is duration. The longer data lingers, the more chances it has to be stolen, leaked, subpoenaed, or one day decrypted by [quantum computers that do not exist yet](quantum.md).
 

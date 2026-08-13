@@ -15,6 +15,7 @@ Playbooks
    vpn
    device-hardening
    blocks
+   netguard
    chrome
    payment
    files

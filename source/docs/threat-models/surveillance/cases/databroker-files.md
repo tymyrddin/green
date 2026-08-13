@@ -37,4 +37,10 @@ devices, and notified member-state incident-response teams. That the response is
 the market has to follow, is the [legal gap](../landscape/the-gdpr-hole.md), measured from inside the EU's own
 buildings.
 
-Last reviewed: 2026-07-17.
+A reader whose own phone sits in the same trade can start with the [advertising ID runbook](../../../runbooks/adids.md),
+which covers the identifier the pings hang on, and go wider with the [seven ways](../../../runbooks/location-brokers.md)
+translated from netzpolitik's own guide: app permissions, the radios, IP-based location, consent dialogues and the
+political route. The Databroker Checker, which once let a person test whether their advertising ID sat in the German
+sample, was taken offline in July 2026.
+
+Last reviewed: 2026-08-13.

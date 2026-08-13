@@ -15,6 +15,7 @@ them. The evidence for how surveillance works in the EU is, increasingly, in the
    :caption: Documented, recent, and cited.
 
    databroker-files.md
+   police-in-the-market.md
    paragon.md
    bulgaria-pnr.md
    age-verification-app.md

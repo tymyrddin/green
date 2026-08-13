@@ -12,6 +12,7 @@ Runbooks
    vlan
    photos
    adids
+   location-brokers
    exiftool
    gdpr-deletion
    access-review

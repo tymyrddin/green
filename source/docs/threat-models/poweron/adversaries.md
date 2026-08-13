@@ -54,6 +54,15 @@ who provide tools, access, or legitimacy.
 * Friends, family members, or mutual contacts may be drawn in: some willingly, others
   manipulated. They pass on information, share posts, or help with access without
   realising what they are contributing to.
+* The commercial location market sells to whoever asks. Advertising-derived location records
+  from ordinary apps are traded in bulk, and journalists obtained samples of them without
+  paying and without the verification call some sellers ask for, which is the measure of how
+  closely a buyer gets checked. The reporting behind the
+  [Databroker Files](../surveillance/cases/databroker-files.md) counts people threatened by
+  stalking among those most exposed by the trade. This enabler also differs from the others
+  in a way that carries into every defence: a purchase touches no device and no account, so a
+  phone found clean of stalkerware, an inbox reclaimed and a network separated all leave it
+  where it was.
 
 The abuser controls the narrative. Everyone else plays a supporting role, often without
 knowing it.

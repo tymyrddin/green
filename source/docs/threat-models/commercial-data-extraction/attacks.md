@@ -51,7 +51,11 @@ signature on the file.
 The state joins the market as an ordinary customer and obtains what a court order would
 otherwise gate. The [Databroker Files](../surveillance/cases/databroker-files.md) investigation
 traced commercially traded location data into the movements of EU and NATO officials. No
-interception was needed, only a purchase order.
+interception was needed, only a purchase order. By 2026 the buyers were on the record:
+German state police forces, an Austrian ministry and Hungarian services, set out in the
+[police in the market](../surveillance/cases/police-in-the-market.md) case, which a state
+data protection commissioner reads as circumventing a judicial safeguard rather than meeting
+it.
 
 ## Resold into the open
 

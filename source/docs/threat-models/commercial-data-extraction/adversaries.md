@@ -61,7 +61,11 @@ scoring them, political campaigns carving up an electorate. Collection is upstre
 abstract; the consequence lands with the buyer, when a segment becomes a premium, a
 rejection, or a message that knows more than it was told. Not every buyer is an institution:
 the customer for a [people-search report](../poweron/index.rst) is sometimes an ex-partner
-looking for an address. And one buyer is not a business at all.
+looking for an address. The counter is open to corporate buyers as well: in August 2026 a
+location-tracking tool whose publicly known customers are governments
+[was offered to a luxury goods group](https://netzpolitik.org/2026/angebot-an-lvmh-gefaehrliches-ueberwachungs-werkzeug-breitet-sich-aus/)
+through a private security firm, to investigate thefts, and declined. And one buyer is not a
+business at all.
 
 ## The state as customer
 
@@ -70,7 +74,10 @@ buy at the going rate, alongside any advertiser, and the same feeds that price a
 advert can place an official at a building. Here the state is a customer rather than a
 watcher, and the purchase answers to procurement rules rather than to the
 [law that governs collection](../surveillance/index.rst). That difference is the whole
-attraction.
+attraction. It stopped being hypothetical in June 2026, when two German state criminal
+police offices confirmed buying commercial location data and no supervisory authority could
+name a legal basis for it, which the
+[police in the market](../surveillance/cases/police-in-the-market.md) case sets out.
 
 ## No single hand
 
